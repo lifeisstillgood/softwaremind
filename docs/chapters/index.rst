@@ -2,8 +2,6 @@
 The Software Mind
 =================
 
-Software Literacy and building the society and economy of the 21st Century.
-
 Introduction
 ============
 
@@ -56,26 +54,27 @@ The Software Literate Society
 
    society/*
 
-Security
---------
+
+The Software Team
+=================
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   team/*
+   
+Software and Security
+=====================
 .. toctree::
    :maxdepth: 1
    :glob:
 
    security/*
 
-Skills
-------
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   skills/*
-
-
-Philosophy
-----------
+The Software Philosophy
+=======================
 
 .. toctree::
    :maxdepth: 1
@@ -85,7 +84,7 @@ Philosophy
 
 
 100 ideas
----------
+=========
 
 .. toctree::
    :maxdepth: 1
@@ -94,12 +93,3 @@ Philosophy
    100ideas/*
 
    
-Reflections on The Individual
------------------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   feynman.rst
-   alwaysgoodships.rst
-   ibmadverts.rst 

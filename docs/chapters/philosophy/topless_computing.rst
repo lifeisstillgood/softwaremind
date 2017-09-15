@@ -59,3 +59,14 @@ Making personal data geneuninely owned by the person and making the computing su
 
 
 .. [#] OK, yes this is a bit sexist.
+
+
+Software as capital 
+Capex
+Software as infrastructure 
+Now it is capital each should look to standards to enable not mere reuse but composability - look to stripe and Patrick m 
+
+A Useful theory of software engineering
+(Adolph / Kruchten) - a good over view - basically it's a social process over the whole of the developer community - making the community of developers an important thing to manage - an implication not merely for large open source projects but indeed internal engineering teams.
+
+

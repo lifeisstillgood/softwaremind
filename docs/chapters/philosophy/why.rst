@@ -4,6 +4,8 @@ Why Am I writing these articles?
 
 ================================
 
+Something about tech needing to be for the 100% not the majority only - http://www.cracked.com/article_24934_5-ways-technology-can-unintentionally-become-racist.html
+
 Whilst my daughter usually asks "Why are you singing like that?" (the answer to
 which is "I am tone deaf darling") there is a simpler reason for writing a site
 like this - I have reached the age where Homer Simpson is becoming a model of

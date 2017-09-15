@@ -1,5 +1,12 @@
 Trying to create a framework 
 
+
+https://news.ycombinator.com/reply?id=15071382&goto=item%3Fid%3D15071120%2315071382
+
+It seems like nobody actually owns anything any more - that we're all just digital serfs living on someone else's land. I really don't know why anyone would willingly make such a deal.
+
+
+
 Preamble
 People trying to apply 18th century law to modern tech
 I like 18th c law, it was a distillation of thousands years human experience in organising societies and avoiding or impeding abuse of power

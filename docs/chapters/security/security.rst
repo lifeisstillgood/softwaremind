@@ -44,3 +44,13 @@ https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2017/ucm552687.htm
 The FDA criticised a pacemaker manufacturer for amount other things, having a hard coded unlock code. In other words once you learnt the special code, all your pacemakers were mine.  Holy fuck.
 
 Zap scan - web pentesting open source 
+
+
+Russia fans its own chips
+https://en.m.wikipedia.org/wiki/MCST
+
+
+Thermal imaging allows view of mobile phone pin after 30 sec
+https://m.youtube.com/watch?v=4IvuxWaMcSY&feature=youtu.be
+
+Part of trade off view on biometrics

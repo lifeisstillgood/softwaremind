@@ -19,6 +19,44 @@ on the human race (assuming we all make it that far!).  And some people
 get it - and some people don't.  So this book is an attempt to try and
 persuade some of the don't side that really this is important. 
 
+Main Thenes
+-----------
+
+What can we learn from 20 years of web and internet to help frame the engineering problems of the next 20 - that is what can politics Keane?
+
+The issues seem to be standards and openness versus 
+
+Summary
+
+- good engineering makes us all better and safer
+- this stems from a desire to do it right 
+- and a conducive political environment  (or at least a clear and consistent one)
+- teams, companies will all chnage
+- democracy is still young - and we need to help it grow,
+- look in my works yes mighty and despair
+
+
+Also the software hierarchy
+
+External politics
+(Osmotic membrane)
+Internal organisation politics
+
+Team dynamics
+
+Architectural decisions
+
+Technical possibilities 
+
+Each layer imposes its costs - for new companies there have been no decisions yet so few costs (except as dimly felt through the policlal membrame)  but as they make decisions it forms up
+
+But always follow the money
+Explanation for trump
+See pikkety and bottom 50% of America have seen no real term growth in income since 1980
+
+That's all you need to know for why trump
+And a lot of other issues 
+
 Book Sections
 -------------
 

@@ -158,6 +158,12 @@ expected to be trustworthy, but are monitored by their peers.
 
 Professional Ethics still matters
 
+Sweden Mistry Transport
+-----------------------
+So just as we thought OPM was bad, the Swedish Government stood up, looked the US Feds in the eye and said, "Hold my beer"
+
+https://www.privateinternetaccess.com/blog/2017/07/swedish-transport-agency-worst-known-governmental-leak-ever-is-slowly-coming-to-light/
+
 
 Target and Yahoo
 ----------------
@@ -176,7 +182,15 @@ They only admitted it because they had to for SEC rulings. (check)
 Target is probably when software security failings first took a major scalp.
 Yahoo is probably the last.
 
- 
+Equifax
+--------
+Equifax is worse - waaaay worse because in this mucked up world of mothers maidennname 
+they alga every away all the answers. God knows what the effect will be but unless the swedes shoot the manager and Equifax goes out of business then we will never fix these security issues
+
+
+You want security in your company - fire the head of the CIA if he can't keep his affairs secret. Fire people who breach secrets. Otherwise stop worrying about it 
+
+
 Healthcare.gov
 --------------
 

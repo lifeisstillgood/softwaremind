@@ -6,6 +6,10 @@ A more nuanced view on Agile
 http://agilemanifesto.org/principles.html
 
 
+Software testing is broken and unit tests are broken - agile seems to rely on just unit tests
+https://www.hillelwayne.com/post/uncle-bob/
+
+
 The three steps of software enginerring maturity
 ------------------------------------------------
 

@@ -17,3 +17,18 @@ We need a way to say that personally derived data (behaviour data) is to be used
 
 This is like knowing which mortgages are wrapped up in a CDS - yes it's painful for the banks but fuck you
 
+
+Gig economy
+https://www.reddit.com/r/london/comments/71smpc/hello_londoners_i_am_a_black_cab_driver_green/
+The most interesting comment is "you are paying for the driver to be sitting around all day".  This is the efficiency argument for web services that can use the internet to reduce the friction  between suppliers and customers.
+
+This is great - but, it's like roads. This is an infrastructure argument not a capture-by-private-company play
+
+Uber : a far better app would be a completely open app, offering a customer any cab in a certain radius.  Perhaps you need a specific license but the point is the app is just a publisher - the contract is betwen the two ends.
+
+Now this is the "jobs.txt" approach - as long as the protocol is open then anyone can play.
+
+But it would be the end for Facebook, uber, airbnb and YouTube 
+
+
+

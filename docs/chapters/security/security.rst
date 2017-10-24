@@ -54,3 +54,8 @@ Thermal imaging allows view of mobile phone pin after 30 sec
 https://m.youtube.com/watch?v=4IvuxWaMcSY&feature=youtu.be
 
 Part of trade off view on biometrics
+
+Unpatchable car flaws
+------//////-----------
+
+https://www.bleepingcomputer.com/news/security/unpatchable-flaw-affects-most-of-todays-modern-cars/

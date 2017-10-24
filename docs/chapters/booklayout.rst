@@ -92,3 +92,23 @@ The process of delivering software needs to reflect the process of delivering la
 The themes and ideas fit in a framework of economic and philosophic analysis that I lay out and discus
 
 And the dev manual is how to implant that in your company 
+
+
+
+Pikkety and yes prime minister explain how nothing has improved in thirty years
+Plus my inflation anecdsta - explains Brexit
+
+Nordbat2 and Bosnia - mission command and the importance of mission and the dead hand of regulation
+
+
+The need for a software engineer profession
+Something akin to railway engineer - sign it off or no go.
+This person is - hard to explain, kind of like a RSM. In theory the Colonel can order RSM about, but in a genuine conflict between the two the outcome would be uncertain - no bad example
+
+Railway engineer 
+
+
+Companies - we don't live in a free market
+https://mobile.nytimes.com/2017/09/20/business/economy/startup-business.html?referer=https://news.ycombinator.com/
+
+I am for regulation because I love competition 

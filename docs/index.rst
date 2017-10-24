@@ -1,10 +1,9 @@
-=============
-Book
-=============
+=================
+The Software Mind
+=================
 
-Software Mind
 
 .. toctree::
    :maxdepth: 1
 
-   /chapters/mind/index.rst
+   /chapters/index.rst

@@ -16,9 +16,9 @@ the UK government's annual conference on tech and software and government.
 And the Minister for the Cabinet Office stood up and gave a keynote that
 was basically the speech I gave so many years prior in a London pub basement.
 
-Nothing stops you feeling smug like politicians having ideas as good as yours.
+Nothing stops you feeling smug like national politicians spouting the same ideas as you.
 
-But the thing is, we are both right.  His suit was better. 
+But the thing is, we are both right.  Althought his suit was better quality. 
 
 The first mass-literacy revolution ran roughly in parallel with the
 commercial and industrial revolutions in Europe.  But apart from the
@@ -35,8 +35,7 @@ forgiving human mind in the way of your writing to work out what you
 really meant. Software is unforgiving. And this means we shall have to
 write down what we really mean.
 
-
-Some computer vision AI software failed to see balck women as human
+Some computer vision AI software failed to see black women as human
 faces - accurately reflecting the cultural make up of the AI
 laboratory it sprang from.  And we shall have to solve the multiutude
 of robotic actions in the real world that were previosuly left to

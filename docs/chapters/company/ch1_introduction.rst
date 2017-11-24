@@ -109,25 +109,44 @@ SRE book (link) author (link) the "founder" of SRE in Google, defines
 SRE as "SRE is what happens when you ask a software engineer to design
 an operations team".  As we go forward we shall find the software
 literate companies are what happens when software engineers design
-(found, run, populate and evolve) companies.  The flush of unicorns today in Silicon Valley are nearly software literate - the effort of founding a company is so huge that it's hard to believe that what results is what a software engineer would design. Things get missed.  But each generation of companies will steal from previous until the majority of a company is what would be designed.
+(found, run, populate and evolve) companies.  The flush of unicorns
+today in Silicon Valley are nearly software literate - the effort of
+founding a company is so huge that it's hard to believe that what
+results is what a software engineer would design. Things get missed.
+But each generation of companies will steal from previous until the
+majority of a company is what would be designed.
 
-Does it make a difference - well let's compare the old "knowledge company" and the new. In 2012 Google had a revenue of $50bn and a workforce of 40,000 - whereas the Barclays International also had a revenue of $50bn, but a workforce of 120,000.   Fast-forward to 2016 and google has grown to $89bn and 70,000 people.  Bank Of America in 2016 posted revenues of $89bn as well, and a workforce of over 200,000.  There are many caveats comparing these numbers, but all the firms involved are resolutely "knowledge-based" - the core processes of the firms do not involve smelting iron ore or manufacturing cars.  And yet one carries 2/3 less humans for same revenue.  One has used software in a markedly different manner.
+Does it make a difference - well let's compare the old "knowledge
+company" and the new. In 2012 `Google` had a revenue of $50bn and a
+workforce of 40,000 - whereas the finance house `Barclays
+International` also had a revenue of $50bn, but a far larger workforce
+of 120,000.  Fast-forward to 2016 and `Google` has grown to $89bn and
+70,000 people.  In the same year of 2016, `Bank Of America` posted
+revenues of $89bn, and a workforce of over 200,000 people.  There are
+many caveats comparing these numbers, but all the firms involved are
+resolutely "knowledge-based" - the core processes of the firms do not
+involve smelting iron ore or manufacturing cars.  And yet `Google`
+carries 2/3 less humans for same revenue at each stage.  One of them
+has used software in a markedly different manner.
 
-My conjecture is that we are hitting a limit on what tracking company processes through accounting can do to limit wasteful (coase) growth. That by forcing more reproducible processes into 
 
-And this is my definition of a programmable company - where all processes are visible in the virtual world 
+Just what is a programmable company?
+------------------------------------
 
-Since 
+(image of dutch 16th century trader pointing at his accounts books)
 
-Just as hundreds of years ago, it was what happens when you ask people
-who can read and write to design companies.  It was not till
-"everyone" could read and write in the 19th C that we saw the modern
-company evolve. This is probably not a coincidence.
+My conjecture is that we are hitting a limit on what tracking company
+processes through accounting can do to limit wasteful (coase)
+growth. That by forcing more reproducible processes into
 
-Whatever form a software literate company takes, there will be similar
-foundational skills the company will need - the basics of journalism
-if you wish, and the fundamentals of journalistic ethics did not come about by accident
-- they evolved in lockstep with newspapers growing reach and impact.
+And this is my definition of a programmable company - where all
+processes are visible in the virtual world
+
+The brilliant mid-twentieth century Economist `Roald Coase` gave us a fascinating
+way to model why companies and organisations are the size they are - a Theory of the Firm.
+We shall dive deeper into this later on but as more and more processes become visible in
+the virtual, as we practise 'topless computing', then we shall see dramatic shifts in
+the size and shape of our organisations.
 
 We are already seeing calls for the software industry to regulate
 itself, on privacy, on deals with repressive regiemes.  The answer is
@@ -135,7 +154,7 @@ not as simple as coders all being nice people.  But society needs to
 regulate and also accept change.  We shall see that in section 2.
 
 But companies, governments and organisations of every stripe, will need to adapt
-to a new set of technologies that have a grain, a direction of travel, a tidal force.
+to a new set of technologies that have a grain, a direction of travel, ... a tidal force.
 Those techologies are here now, and our old organisational structures are no longer
 sufficent.  
 
@@ -145,11 +164,24 @@ country. Ever.
 
 And it would be the least democratic. Ever. A one man dictatorship. No
 law courts, no police, no constitution.  Nada.  And yet every Facebook
-app using citizen would have more daily contact (what 3 hours a day?)
+app-using citizen would have more daily contact (what 3 hours a day?)
 with its "government" than they ever had with their proper governments.
 
-So companies, governments, organisations, the structures we all spend so much of our lives wirking within, need to change to get the best out of the new technologial opportunity we face.
+Each day we see some new controversy, YouTube failing to police its
+comments section against paedophiles, (find more examples).  This is not because
+Facebook is inherently evil, but because we are moving our lives online - and
+some people moving online are inherently evil. [#]_
 
-Because it could be a golden future for humanity.
+So companies, governments, organisations, the structures we all spend
+so much of our lives wirking within, need to change to get the best
+out of the new technologial opportunity we face.
+
+Because it could be a golden future for humanity.  Honest.
 
 
+
+
+.. [#]:: OK, you might need to know a tiny bit about my political
+      stance, which can be described as nice fluffy Euro-liberal until
+      we look at Child Protection and I take a stance that makes
+      Gengis Khan look forgiving.  Anyway.

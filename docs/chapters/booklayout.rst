@@ -112,3 +112,6 @@ Companies - we don't live in a free market
 https://mobile.nytimes.com/2017/09/20/business/economy/startup-business.html?referer=https://news.ycombinator.com/
 
 I am for regulation because I love competition 
+
+https://developers.soundcloud.com/blog/roshi-a-crdt-system-for-timestamped-events
+CRDT and databases 

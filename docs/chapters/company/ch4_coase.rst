@@ -2,6 +2,12 @@
 4. Coase
 ========
 
+:focus: how size and structure of companies is determined and it ain't management cleverness. 
+
+Why are companies the size and structure they are. why are some companies more successful than others, seemingly able to take on more challenges at faster speed? 
+
+these questions are the reason bookshops groan under the weight of hardback business books trying to sell the answers, but they also are deeply important questions for humans globally - the organisation, be it commercial company, government department or city hall is the umbrella of protection for almost all humans alive today - for legal protection, income and environment
+
 Solow and productivity.
 Productivty praradox, iphone and electrification of factories
 
@@ -14,6 +20,11 @@ Programmable company:
 
 * the entirity of business is in code. Not in the middle management,
   not in "how we do things"
+  
+  the approval workflow system is an example of how good but unavailable idea holds things back dramatically. scalability is not just size but speed as well
+  
+  designing your processes for scale matters too
+  
 
 We can see Apple Run book / operations managemet as the earlu step in this world
 But a completely what-if, flexible company will be anle to turn on a dime.

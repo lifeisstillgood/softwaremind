@@ -8,8 +8,8 @@ Introduction
 .. toctree::
    :maxdepth: 1
 
-   ../introduction.rst
-   ../booklayout.rst
+   introduction.rst
+   booklayout.rst
 
 
 The Software Literate Company

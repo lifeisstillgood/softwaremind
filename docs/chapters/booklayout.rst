@@ -7,11 +7,11 @@ Structure of the Book
     "Software is eating the world".
     Marc Andreessen
     
-You see, Software is a new form of *literacy*.  Just imagine
+Software is a new form of *literacy*.  Just imagine
 what literacy did to every walk of human life as it spread. The world
 of Medieval Monks in Scriptoreums had embedded in it newspapers, bus
 timetables, ballot papers and user manuals, but you try predicting
-that from a bunch of bald-headed guys holding feathers.  
+that from a bunch of itchy, bald-headed guys holding feathers.  
 
 It is this books assertion that *Software Literacy* is as deep and as
 profound as reading and writing, and will have impacts as long-lasting
@@ -22,12 +22,31 @@ persuade some of the don't side that really this is important.
 Main Thenes
 -----------
 
-What can we learn from 20 years of web and internet to help frame the engineering problems of the next 20 - that is what can politics Keane?
+Engineering problems
+
+Governance Problems
+  Chief Engineer / RSM / Profession
+  See VW
+  Where are the lines drawn? Uber has not been prosecuted for regulaory floating
+  But VW has. So there is always a boundary set - look at Elser / Groening.
+  
+
+Security Problems
+  Snowden
+  Intel ME
+  
+Privacy Problems
+
+
+
+What can we learn from 20 years of web and internet to help frame the
+engineering problems of the next 20 - that is what can politics Keane?
 
 The issues seem to be standards and openness versus 
 
 Summary
 
+- we shall live online, at least partially. So we shall need to take governments with us.
 - good engineering makes us all better and safer
 - this stems from a desire to do it right 
 - and a conducive political environment  (or at least a clear and consistent one)

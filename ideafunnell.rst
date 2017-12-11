@@ -1,3 +1,14 @@
+themes
+- how does software fit into society
+what are the changes coming? micro and macro - nuclear war with korea or opioid crisis, prison crises
+
+maybe software can help us identify and follow up on the small the micro, the forgotten
+
+the promise of moop 
+
+
+
+
 Norvig on lips python and sdlc 
 https://news.ycombinator.com/item?id=1803815
 
@@ -37,3 +48,10 @@ given a fair coin we can know the probability of heads to .5, but we cannot know
 focus on the process, so the outcomes eventually fall our way - it's a process of building a house advantage 
 
 software enables us to more consistently run the process (think software in finance) and increase our throughout this increasing chances of total number of heads 
+
+
+brexit and regulatory alignment 
+there is a presumption that regulatory distinctiveness is beneficial - that we would offer something special
+
+it's hard to imagine what - we all want iphones and advanced composite materials or biotech medicine - and the benefits of common open protocols in those areas are manifest, and the obvious adavantages of being a new different  one are minimal
+

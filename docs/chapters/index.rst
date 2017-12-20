@@ -9,6 +9,7 @@ Introduction
    :maxdepth: 1
 
    introduction.rst
+   disclaimer.rst
    booklayout.rst
 
 

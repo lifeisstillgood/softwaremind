@@ -1,39 +1,44 @@
-==============================
-The Good, the Bad and the Ugly
-==============================
+================================
+From literacy to programmability
+================================
 
-::
+.. pull-quote::
 
-  Writing is nature’s way of showing us how sloppy our thinking is.
-
-Leslie Lamport
+  "Writing is nature’s way of showing us how sloppy our thinking is."
+  Leslie Lamport
 
 
 I very happily recounted my "Literacy started with the printing press,
 software literacy starts with the Internet" meme in the last chapter.
 I was rather proud of my little self, right up until I attended `Sprint 16`
-the UK government's annual conference on tech and software and government.
+the UK Government's annual conference on tech and software and government.
 And the Minister for the Cabinet Office stood up and gave a keynote that
 was basically the speech I gave so many years prior in a London pub basement.
 
 Nothing stops you feeling smug like national politicians spouting the same ideas as you.
 
-But the thing is, we are both right.  Althought his suit was better quality. 
+But the thing is, we are both right.  Although his suit was better. 
 
 The first mass-literacy revolution ran roughly in parallel with the
-commercial and industrial revolutions in Europe.  But apart from the
+Commercial and Industrial Revolutions in Europe.  But apart from the
 usual things we associate with literacy, things like sharing ideas
 widely, democratic access to knowledge and so on, the one that is
 often *missed* is that ideas have to be much more precisely expressed
 when you write them down.  If you go around making speeches, each
-person can walk off with different ideas as to what you said (cf the
-law chapter) but writing it down and they have to disagree with what
-you meant.
+person can walk off with different ideas as to what you said but
+writing it down means it is waaay harder to mistake what you meant.
 
 WIth software this applies to the n'th degree. There is no longer any
 forgiving human mind in the way of your writing to work out what you
-really meant. Software is unforgiving. And this means we shall have to
-write down what we really mean.
+really meant. Software is unforgiving. The compiler will do what you
+tell it.  And this means we shall have to write down what we really
+mean.
+
+This is going to be a problem.
+
+- self driving car issue
+- access to agorithms
+- gorillas AI
 
 Some computer vision AI software failed to see black women as human
 faces - accurately reflecting the cultural make up of the AI
@@ -56,7 +61,12 @@ because it is commercailly beneficial, but the vast majority of the
 time it is just the processes have not been made into software, and so
 are not accessible.
 
-Let's walk through a few examples.
+
+
+
+When it goes wrong
+==================
+
 
 Knight Capital
 --------------

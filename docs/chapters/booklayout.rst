@@ -6,6 +6,8 @@ Structure of the Book
    
     "Software is eating the world".
     Marc Andreessen
+
+
     
 Software is a new form of *literacy*.  Just imagine
 what literacy did to every walk of human life as it spread. The world

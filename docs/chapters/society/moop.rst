@@ -45,3 +45,17 @@ The most likely beneficiaries here will be corporate meeting recording and autom
 
 
 Also we can start to migrate to therapy / intervention 
+
+
+Roadmap for the future
+
+OK so mobile
+phones giving us real time relationship advice is ... phase 2 stuff, but getting there - there are some clear stepping stones.  i would start with enterprise improvement. one of the biggest paradoxes in modern economies is the product tivty fall
+off - that as we move from factory lines to creative work product it gives dips - for many reasons but one factor that W Demming would argue is management effectiveness - so i see moops becoming embryonic in enterprise training - recodin g the daily interactions at work of the leadership
+cadre, and identifying positive and negative traits.  those companies that focus on their management training as a holistic approach - that is at all
+levels, will
+find that thhe spell
+is broken, that crap politics can be overcome - and done once it's hard to resist, othe rcompanies will overcome the crpapines of bad too management
+
+many will resist - but that's ok. competioo will
+force them out and so forth

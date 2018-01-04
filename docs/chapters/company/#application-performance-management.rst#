@@ -3,6 +3,12 @@ Test principles
 ===============
 
 * You *cannot* ever be exhaustive in hand crafting tests.
+
+https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16
+
+Shows 15% of recorded defects were uncovered in pre production testing.  This is because unit tests are never inventive enough and it's hard.
+
+
 Tests must be auto generated and hammer the code with things you cannot imagine.
 YOur unit tests should cover the golden path - why I like doctests
 Your smoke tests ensure things fit toether
@@ -29,3 +35,9 @@ Source code analytics and testing
 
   - how to generate test data
 - python quickcheck for strong types
+
+
+- unit / doc tests
+- front door testing as integration tests
+- exploratory testing
+- 

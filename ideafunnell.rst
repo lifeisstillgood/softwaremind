@@ -6,6 +6,11 @@ maybe software can help us identify and follow up on the small the micro, the fo
 
 the promise of moop 
 
+software must be part of democratic institutions and support the effectiveness of those institutions
+- new forms of journalism after disruption the old
+
+
+
 
 
 
@@ -55,3 +60,17 @@ there is a presumption that regulatory distinctiveness is beneficial - that we w
 
 it's hard to imagine what - we all want iphones and advanced composite materials or biotech medicine - and the benefits of common open protocols in those areas are manifest, and the obvious adavantages of being a new different  one are minimal
 
+using Amazon queu services
+Not the GP author, but he's talking about using 4 different AWS services in a particular architectural pattern. SNS topics give you a triggering mechanism to start the long running task. Step Functions give you light-weight flow control and state management, but don't directly perform any interesting work. Instead, the step function steps can invoke Lambda functions or jobs in Elastic Container Service to do the actual work. When they finish, the step function can move on to the next step or retry things as needed
+
+https://news.ycombinator.com/item?id=15895863#15897502
+
+integrity is hard
+
+don't aim for perfect - aim for above average and lots of opportunity to improve
+
+
+Standardised Programmability of the world
+- educationnprotocols
+- parental controls onnnintendo switch and TVs
+etc

@@ -5,6 +5,8 @@ The Software Mind
 Introduction
 ============
 
+Ultimately we need our software to help us, not serve us up to corporations for their benefit. 
+
 .. toctree::
    :maxdepth: 1
 

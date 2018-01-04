@@ -1,3 +1,43 @@
+society and politics 
+---------------------
+
+Biggest surprises and biggest challenges to society have been wrought by tech
+
+facebook is clearest example
+
+it is a walled garden but it's direction to f travel is right
+
+- we see universes of news, and failure to understand the other side (that dismotivator poster)
+and fake news and threat of flash mob manipulation 
+
+we can see attribution and issue ranking as solution
+
+so first reportage will be to tank and verify all known issues - real voting ???
+
+
+It's not the russians
+people are choosing thier topics, and their biases, and as such choose through cognitive bias, choose the stories that promote their bias on their topics - see labour supporters most liked stories - a universe of news separate from others
+
+how can we find these universes? software - see graph theory? find largest separate populations 
+(examples?)
+https://overcast.fm/+ES62uCW3Q
+
+Discovering tribes 
+
+the essence of this new politics is then to find our tribes (see the diamond age) 
+threatened tribes react more than bribes tribes
+
+but seeing those tribes, and measuring the new column inches, is vital to democratic process
+
+
+Abundance and scarcity as the primary  tribes
+- the main dividing line for brexit was university education.
+but there is not something at uni that happens not some brainwashing.  it is the other way round - for michnof the past generation university was free and open to all. it was just a optional choice. and not going was not really a function of poverty but it was a function of the opportunity cost.  now lots of hand waving but being on the wavering to go to university line, shows issues of abundance and scarcity - thinking there is an abundance of wealth, and either university will unlock that or just does not matter, is different mindset to scarcity
+
+and if you think there is a scarcity of resources, then immigration matters a lot - a lot more than if you think there is an abundance of doctors and cachools 
+
+
+
 Listen to Pax Technica from TALKING POLITICS in Podcasts. https://itunes.apple.com/gb/podcast/talking-politics/id974670140?mt=2&i=1000392226424
 
 
@@ -31,4 +71,10 @@ Now this is the "jobs.txt" approach - as long as the protocol is open then anyon
 But it would be the end for Facebook, uber, airbnb and YouTube 
 
 
+Algorithmic accountability bill 
+signs things are improving (green shoots)
+pro publica/ new york city
+http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=3137815&GUID=437A6A6D-62E1-47E2-9C42-461253F9C6D0
+
+https://www.propublica.org/article/new-york-city-moves-to-create-accountability-for-algorithms
 

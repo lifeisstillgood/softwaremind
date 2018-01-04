@@ -62,3 +62,30 @@ cIa analyst comment - we have to find other ways in, and CIA has been suborning 
 
 Medical privacy is not absolute - communicable diseases is an example. But at what point should we be opt out not opt in? 
 Google deepmind shared 1.6bn medical records - this was deemed illegal by the British privacy regulators. The regulator wanted more controls and transparency - the direction of travel was right but the means wrong.  This is a fixable problem - basically an equivalent of building a car without catalytic concerto 
+
+
+
+from schneier gram
+The case centers on cell phone location data and whether the police need a warrant to get it, or if they can use a simple subpoena, which is easier to obtain. Current Fourth Amendment doctrine holds that you lose all privacy protections over any data you willingly share with a third party. Your cellular provider, under this interpretation, is a third party with whom you've willingly shared your movements, 24 hours a day, going back months -- even though you don't really have any choice about whether to share with them. So police can request records of where you've been from cell carriers without any judicial oversight. The case before the court, Carpenter v. United States, could change that.
+
+Traditionally, information that was most precious to us was physically close to us. It was on our bodies, in our homes and offices, in our cars. Because of that, the courts gave that information extra protections. Information that we stored far away from us, or gave to other people, afforded fewer protections. Police searches have been governed by the "third-party doctrine," which explicitly says that information we share with others is not considered private
+
+EU law such as GDPR is trying to redefine the meaning of private data even if it is stored on third party systems
+
+
+how to break up google
+simplest idea is traffic data - none is really google - it's user data. pii 
+so why does google pen it??? 
+
+
+- facebook and universes of news
+Buzzfeed article on most shared stories by labour supporters in 2017 were ivory trade and fox hunting. hit buttons yes but totally off the radar for mainstream news - but not fake news.
+yes it's important to prevent fake news items about pope statements etc, (but god only knows how without a world of real attribution - maybe?)
+(press conferences of one as an idea?)
+so two things - there are universes of news and our best bet of understanding the crowd is to know how to see those universes (and that's really hard if you aren't open/root)
+
+and how will fixing fake news, and issues of AI video faking, help with attribution- or rather we have to get our facts right.
+
+then agree what is important
+
+this is pretty simple stuff - and current media landscape fails it - so only bet on those that will fix it.  wiki news is not that .. 

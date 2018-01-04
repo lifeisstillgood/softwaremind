@@ -239,3 +239,41 @@ So next development for deep learning is a consistency and coherence layer.
 
 Make a human kit
 
+* software means thinking of everything how the world works - http://www.lizengland.com/blog/2014/04/the-door-problem/  - the less like reality the more onward decisions you need l
+
+- programmable company 
+if you are going to benefit from AI, you need a programmable company -> see benefit of simple AB testing on website
+
+- charles stross
+https://media.ccc.de/v/34c3-9270-dude_you_broke_the_future#t=3478
+
+Charles stross talk "dude you broke the future"
+implications are that companies today already AI in their immunity and goal seeking.  we need to find ways to design less harmful corporations - such as forcing three laws of robotics into corporations
+
+also this is seen in say police departments where armed response is first response.
+
+- fake video and audio feeds
+wavenet capable of faking audio
+so we now have to store the original feed as a form of reportage - that is origjnalmfeed cryptography linked to the camera taking the feed - a journalism advantage - each edited video has to be unretouched and a series of hashes linking to original footage.
+
+build that standard now
+
+same for educational protocol
+
+Regulation / break up of New Standard Oil
+we need to discuss how to break up facebook and google
+
+Facebook - separate the social graph from the news feed.  the news feed is the addictive familiar.  but the reason tonuse it is the socualmgrpah - keeping in touch.
+
+by making social graph public one can build separate new apps on top of the graph
+
+google - similar for facebook but perhaps the pagerank and eqchnindividuals online behaviour is available to that individual or their third party appointees 
+
+apple and amazon exist in retail, hardware and delivery worlds, they have potency but the regulation there is less important  perhaps the biggest issue is then ownership and control of the smartphone - as an example, the iphone X has continuous monitoring of users face - so if i give it to my kid, what's does that mean?? 
+
+i think there is a "go dark when used by kid" need
+
+youtube - it's unconsciousable that comments sections are taken over by paedophiles and not monitored, but it's just part of the business model that peppa pig videos are on 500 channels but have only one production house - get the copyrighted crap off the 499 duff ones - broken windows theory of why the internet is shit,  youtube it's your fault.
+
+fix it. today. 
+

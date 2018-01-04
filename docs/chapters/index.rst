@@ -10,8 +10,9 @@ Ultimately we need our software to help us, not serve us up to corporations for 
 .. toctree::
    :maxdepth: 1
 
-   ../introduction.rst
-   ../booklayout.rst
+   introduction.rst
+   disclaimer.rst
+   booklayout.rst
 
 
 The Software Literate Company

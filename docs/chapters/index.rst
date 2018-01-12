@@ -5,6 +5,10 @@ The Software Mind
 Introduction
 ============
 
+We see new IT as being co-ordination not communication. emails were communicating. we have that. productivity will come from mass co-ordination, what that will look like may be saas apps on phones helping workflow but also sourcing cheapest products or ?? 
+
+why secure enclave workflow apps somimportant 
+
 Ultimately we need our software to help us, not serve us up to corporations for their benefit. 
 
 .. toctree::
@@ -17,6 +21,15 @@ Ultimately we need our software to help us, not serve us up to corporations for 
 
 The Software Literate Company
 =============================
+
+Governance problems in blockchain and oss projects
+- a review - The debian init, blockchain size, other voting systems. the benevolent dictator model has been most successful, along with voting for representatives (debian)
+direct democracy has not succeeded it seems based on gamification 
+
+blockchain is a capital allocation and organisation approach
+
+it is reductionad absurdem but it is the ultimate programmable company - a company ledger can co ordinate and incentivelse people 
+
 
 .. toctree::
    :maxdepth: 1
@@ -50,6 +63,16 @@ The Software Literate Company
    
 The Software Literate Society
 =============================
+
+
+the death of rent seeking
+why is facebook messages sent from uk village to SF and back next door
+rent seeking - the idea is twitter the protocol not twitter the company
+
+we are already in the future - we just are looking in the rear view mirror 
+
+http://www.bbc.co.uk/bbcthree/item/5c0ce0ab-c88f-45be-b44d-59841e5f9e64 Charlie Beooker seems to be very good at spotting the future that is already here.
+
 
 .. toctree::
    :maxdepth: 1

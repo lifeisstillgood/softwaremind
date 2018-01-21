@@ -10,6 +10,10 @@ We see new IT as being co-ordination not communication. emails were communicatin
 why secure enclave workflow apps somimportant 
 
 Ultimately we need our software to help us, not serve us up to corporations for their benefit. 
+Software needs to be written altruistically - to be not just the best code, but tonaim for the best outcomes - to help us
+
+The 1815 wave to now - reasons for optimism
+and reasons for assuming what we foresee will be - everywhere- and so why the programmable company and moops are likely destiny. 
 
 .. toctree::
    :maxdepth: 1
@@ -24,22 +28,15 @@ Ultimately we need our software to help us, not serve us up to corporations for 
 The Software Literate Company
 =============================
 
-Governance problems in blockchain and oss projects
-- a review - The debian init, blockchain size, other voting systems. the benevolent dictator model has been most successful, along with voting for representatives (debian)
-direct democracy has not succeeded it seems based on gamification 
 
-blockchain is a capital allocation and organisation approach
-
-it is reductionad absurdem but it is the ultimate programmable company - a company ledger can co ordinate and incentivelse people 
-
-<Guidance notes to vanish from index as fleshed out>
+<Guidance notes to vanish from index as fleshed out>o
 * Software literacy, the challenges faced
 * programmable company
 * coase based sizes, remote workers, productivity, regulatory
   alignment and remote workers
 * impact of open ness and democracy on decision making and trust of
   products ->
-* test cases like Knight Capital
+* test cases like Knight Capital and even microsoft (vista). single correct codebase
 
 I have worked, and still do work in some of the world's leading
 corporations, or most vibrant startups. And they have almost unifromly
@@ -57,6 +54,11 @@ The opportunity and the problem are the same thing - a programmable
 company will do what it is told, not have internal debates.  And that
 is going to lead to amazing productivity benefits. and terrifying
 consequences.
+
+https://news.ycombinator.com/item?id=15197767
+Factories are to Industrial Engineers what Server farms are to Software engineers - they have uptime requirements and monitoring needs and so on.  And we shall see more of the company being treated as a factory floor and less and less as "the office above the factory"
+
+
 
 (start with productivity debate, move to assumption about
 electrification and software. We are expecting to replace the 23M USA
@@ -81,6 +83,23 @@ Also communication to co-ordination to collaboration.  Software and internet
 have easily enabled the first.  And the productivity benefits surely must exist.
 But co-ordination - thats going to be huge. and seen in strange new areas.
 Think of fish with clear head
+
+
+how windows did development and what was wrong 
+https://blog.usejournal.com/what-really-happened-with-vista-an-insiders-retrospective-f713ee77c239
+
+only 6mths dev and rest integration
+CI is solution? agile not
+
+Governance problems in blockchain and oss projects
+- a review - The debian init, blockchain size, other voting systems. the benevolent dictator model has been most successful, along with voting for representatives (debian)
+direct democracy has not succeeded it seems based on gamification 
+
+blockchain is a capital allocation and organisation approach
+
+it is reductionad absurdem but it is the ultimate programmable company - a company ledger can co ordinate and incentivelse people 
+
+
 
 .. toctree::
    :maxdepth: 1
@@ -152,6 +171,43 @@ but the openness of the blockchain ledger has many exciting possibilities.
 
 Also taking back control - Moops and Fathers
 
+IoT and open protocols- we are losing this already - and we need it back.  it's not clear how to get ahead of this without regulation or front running RFCs
+Pax Technica - Paxromana/britannia's was the local maxima - one culture won sooo decisively everyone just went with it.  the next pax will be one of technically influenced pax. the more openness the better. but will we get theee, or is technology just going to lead to its own level ?
+
+How we behave is as important as how we vote - how we vote is just a proxy for what we want - as is our daily, monitored, behaviour. 
+
+as such we at least need our behaviours data to be available back to us. perhaps to help us improve, at least to help us verify our reputation and maybe as a means to control what is seen ornknown by others.  but doing so will involve great changes to current security and commercial and political models - and it is the last of these that is least solidified 
+
+there are two aspects, 
+
+real / virtual nodes
+  where and when 
+  
+data cole ted and inferred
+  what data
+  
+algorithms and processes
+  Can i know if you used my data and how was it used how and who
+  
+  
+these are all old and simple ideas - expressed in earliest data protection legislation.  but we still have not solved it (brexit and yes minister)
+
+we need to look to support openness in all areas - ownership (and control) of infrastructure, content and policies - net neutrality is not something to be taken lightly - it has already been lost in the home of the free.
+
+Democracy in the small
+- it's collective action but how to aggregate it so nothing is missed?
+- modelling so we can see what is priority, what is wrong, what is hidden.
+- childline as a feed into research
+- one working model of the world? 
+
+
+Good things
+ service design manual - it's really simple but very powerful
+ Normalisation against extremist views (good and bad). Downvoting.
+ collective action can work but it's more like winning the online lottery than a fix for consistent government action
+ Iot and internet has been weaponised - but as long as everyone has the weapons it neutrally? unless is manipulation as a weapon when we need to know if been fired
+ 
+ which internet we choose is which chimpanzee we want to be - abundance or starvation 
 
 
 .. toctree::

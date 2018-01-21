@@ -59,3 +59,24 @@ is broken, that crap politics can be overcome - and done once it's hard to resis
 
 many will resist - but that's ok. competioo will
 force them out and so forth
+
+
+
+Examples
+
+https://news.ycombinator.com/edit?id=16190971
+A linter for code review comments
+
+I think this may be the start - we can easily imagine something reviewing our email we are about to send 
+
+I think the long term consumer moop will come after specialised areas like code linter, and enterprise managerial
+improvement programs
+
+I think it's so likely that 
+
+a) i regularly get downvotes on HN - for the same idea.  this is either a terrible idea or just ahead of its time
+
+b) I set up a oss text linter - be good
+
+c) i am trying to set up a company to do enterprise on the job, in the moment training on inter personal communications 
+

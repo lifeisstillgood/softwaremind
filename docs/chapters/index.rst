@@ -5,12 +5,39 @@ The Software Mind
 Introduction
 ============
 
-We see new IT as being co-ordination not communication. emails were communicating. we have that. productivity will come from mass co-ordination, what that will look like may be saas apps on phones helping workflow but also sourcing cheapest products or ?? 
+* Software literacy
+- ability to write 
+- ability to use (centaur)
 
-why secure enclave workflow apps somimportant 
+* The chnage so far is awe inspiring, with enough phones for almost every adult on the planet, able to reach any other in milliseconds
+
+* the chnage to come can be staggering 
+
+* no apologies for optimism 
+
+* the future is here, just not evenly spread. what are the implications we can already see, both for wider society and more actionable for the companies and organisations we spend our working lives in?
+
+* The implications are for opennness and transparency, for more democracy - in our companies as much as in our societies.
+
+* but society and companies still have to deal with the same problems - opaque algorithms, right size 
+
+
+* new forms of fiscal union - kyretsu of companies. brexit and scotland
+
+King John, regulations and democracy. Financial firms are to all intents and purposes telling the regulators their every move. (TR)
+
+Ability to write
+to organise world to be iterated over - factory approach to information / data
+
+Ability to use 
+MOOPs and "centaurs" - ability to use and embrace will add to wealth and happiness.
+also
+Programmable company AB testing speed
+
+Privacy, transparency democracy opennness - we need to trust the software for the outcomes at this speed - and that mean s trust
 
 Ultimately we need our software to help us, not serve us up to corporations for their benefit. 
-Software needs to be written altruistically - to be not just the best code, but tonaim for the best outcomes - to help us
+Software needs to be written altruistically - to be not just the best code, but best outcomes
 
 The 1815 wave to now - reasons for optimism
 and reasons for assuming what we foresee will be - everywhere- and so why the programmable company and moops are likely destiny. 
@@ -210,6 +237,26 @@ Good things
  which internet we choose is which chimpanzee we want to be - abundance or starvation 
 
 
+AI and centaurs - we won't see general AI in our lifetime, and if we magically do, this book is out the window.  but what we will increasingly see is what Gary Kasparov describes as centaurs - human intelligence augmented with AI/ML
+
+We shall see this in 
+
+software literate will be best placed to utilise this.  we cannot see success in writing when you have to wait for central typing pool to send you down someone who knows how to use pen and ink.  
+
+Privacy debate is not about privacy - it's about trust.
+
+We need to see "technology" as a personal adjunct- if the centaur theory is correct then each person has a singular piece of technology that is personal to them (very phone like). 
+
+If we look at something like google searches for "An I Gay" by teenagers in USA, then there is a clear indication of someone's inner most thoughts, desires and worries.  And that this is made available to a corporate entity, and it is used to inform their personal profile (more likely to be shown an advert of a given type)
+
+But this is more worrying- that the teenager is *trusting* his / her phone - trusting it not to betray them, not to reveal their thoughts to parents, pastors, peers.  Bit this trustis misplaced
+
+we shall struggle to ever remove the storage of such searches from states and corporate bodies.
+
+but privacy legislation is trying to codify that when the real issue is can we trust the phone?
+
+Se Applevs google strategy debate / 
+
 .. toctree::
    :maxdepth: 1
    :glob:
@@ -239,6 +286,19 @@ This is meaningful because the imapct is so vast
 
 100 ideas
 =========
+
+None of this is specifically Indian. Climate change, wasteful use of water, stagnant growth etc are being seen globally, although every country has its own particular mix of poisons.
+
+What we do know is how to tackle each of the problems individually, and they do have generally tractable solutions, once we get past the politics of implementation (#)
+
+Worries about water usage? Somis California and South Africa. Can you switch all agriculture to drip irrigation? How about not using mass anti biotics for farm animals? How about not having farm animals at all and save on methane, water and anti biotics.
+
+India has a terrible literacy record - UP is barely above 50% literacy for women.  The education of women has a massive and positive benefit for socieities.
+
+I think the 21 C is going to have to be about the whole human race getting up into a really sustainable future - 
+
+(#) yeah, that's a big hurdle the world over
+
 
 
 .. toctree::

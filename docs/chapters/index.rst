@@ -239,6 +239,9 @@ Good things
 
 AI and centaurs - we won't see general AI in our lifetime, and if we magically do, this book is out the window.  but what we will increasingly see is what Gary Kasparov describes as centaurs - human intelligence augmented with AI/ML
 
+We can see this in theories of truck drivers not being out of work but doing the awkward last miles https://www.theatlantic.com/technology/archive/2018/02/uber-says-its-self-driving-trucks-will-be-good-for-truckers/551879/?utm_source=Benedict%27s+newsletter&utm_campaign=9a569c3a8b-Benedict%27s+Newsletter&utm_medium=email&utm_term=0_4999ca107f-9a569c3a8b-70375349
+
+
 We shall see this in 
 
 software literate will be best placed to utilise this.  we cannot see success in writing when you have to wait for central typing pool to send you down someone who knows how to use pen and ink.  

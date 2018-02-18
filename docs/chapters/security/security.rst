@@ -59,3 +59,11 @@ Unpatchable car flaws
 ------//////-----------
 
 https://www.bleepingcomputer.com/news/security/unpatchable-flaw-affects-most-of-todays-modern-cars/
+
+
+Cyber resiliency - see resiliency of wikipedia change sets
+
+
+digital identity
+
+https://blogs.microsoft.com/blog/2018/01/22/partnering-for-a-path-to-digital-identity/

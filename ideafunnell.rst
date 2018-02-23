@@ -74,3 +74,10 @@ Standardised Programmability of the world
 - educationnprotocols
 - parental controls onnnintendo switch and TVs
 etc
+
+
+Agile
+https://youtu.be/a-BOSpxYJ9M
+Pragmatic Dave on creation agile manifesto
+
+Do our gov do open catastrophic planning stress testing - or if food supplies fail ... 

@@ -67,3 +67,9 @@ Cyber resiliency - see resiliency of wikipedia change sets
 digital identity
 
 https://blogs.microsoft.com/blog/2018/01/22/partnering-for-a-path-to-digital-identity/
+
+
+important part is cashing out to real bank account
+see microsoft study 
+also amazon as money launderer
+https://krebsonsecurity.com/2018/02/money-laundering-via-author-impersonation-on-amazon/

@@ -73,3 +73,7 @@ important part is cashing out to real bank account
 see microsoft study 
 also amazon as money launderer
 https://krebsonsecurity.com/2018/02/money-laundering-via-author-impersonation-on-amazon/
+
+
+OSInt
+http://www.automatingosint.com/blog/

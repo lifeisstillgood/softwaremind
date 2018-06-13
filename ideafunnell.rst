@@ -80,4 +80,14 @@ Agile
 https://youtu.be/a-BOSpxYJ9M
 Pragmatic Dave on creation agile manifesto
 
-Do our gov do open catastrophic planning stress testing - or if food supplies fail ... 
+Do our gov do open catastrophic planning stress testing - or if food supplies fail ...
+
+
+http://www.collaborativefund.com/blog/the-psychology-of-money/investing basics
+
+
+Everything as a service
+https://stratechery.com/2016/everything-as-a-service/
+
+
+ 

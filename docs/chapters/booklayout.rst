@@ -10,16 +10,12 @@ Structure of the Book
 .. pull-quote::
    
     "And it's starting to get indigestion."
-    Author. 
+
+    Me, the Author. 
 
 
 The central tenet of the Software Mind is that Software is a new form
 of *literacy*.
-
-Just imagine what literacy did to every walk of human life as it spread. The world
-of Medieval Monks in Scriptoreums had embedded in it newspapers, bus
-timetables, ballot papers and user manuals, but you try predicting
-that from a bunch of itchy, bald-headed guys holding feathers.
 
 It is this books' assertion that *Software Literacy* in the 21st
 Century is as deep and as profound as reading and writing was in the
@@ -28,15 +24,20 @@ Century is as deep and as profound as reading and writing was in the
 some people don't.  So this book is an attempt to try and persuade
 some of the don't side that this really is important.
 
+The world of Medieval Monks in Scriptoreums had embedded in it
+newspapers, bus timetables, ballot papers and user manuals, but you
+try predicting that from a bunch of itchy, bald-headed guys holding
+feathers.
+
 Main Themes of the Book
-------------------------
+-----------------------
 
 We are going to cover a lot of ground - after all if Software really
 is eating the world, we need to cover the whole dinner plate.
 
 But luckily there are Themes that are emerging across the Globe that
-not only highlught the shape of the problems, but show the shape of
-the solutions being attempted as well.
+not only highlight the shape of the *problems*, but show the *shape of
+the solutions* being attempted as well.
 
 Ultimately this is a optimistic book, Software and Software literacy
 can, or even will, deliver enormous benefits to humankind.  Its just that

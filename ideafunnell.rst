@@ -90,4 +90,10 @@ Everything as a service
 https://stratechery.com/2016/everything-as-a-service/
 
 
+AI cannot see black peoples 
+http://newsblogs.chicagotribune.com/race/2009/12/hp-webcam-colorblindbut-not-in-a-good-way.html
+
+
+Major fault lines no longer left vs right (social vs ?) but open v closed and default the same rules / regs and default different rules regs (see brexit / federalism) 
+
  

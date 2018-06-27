@@ -161,6 +161,11 @@ it is reductionad absurdem but it is the ultimate programmable company - a compa
 The Software Literate Society
 =============================
 
+The new globalisation 
+- brexit wrong direction
+- look at iphone
+- not just there - netflix vs disney - they are a global tv channel - the limitations of radio transmission distances has been broken 
+this is why stupid valuations are possible - and until we see the borders on the internet is why we will keep seeing globalisation  (maybe regionalisation  - the west, arabia and china?)
 
 the death of rent seeking
 why is facebook messages sent from uk village to SF and back next door

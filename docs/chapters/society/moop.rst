@@ -2,7 +2,7 @@
 Massive Online Open Psychology
 ==============================
 
-==============================
+
 
 This is linked heavily to the attention economy and nine dots prize winner
 

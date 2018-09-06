@@ -167,6 +167,10 @@ The new globalisation
 - not just there - netflix vs disney - they are a global tv channel - the limitations of radio transmission distances has been broken 
 this is why stupid valuations are possible - and until we see the borders on the internet is why we will keep seeing globalisation  (maybe regionalisation  - the west, arabia and china?)
 
+Designnof coties (live work remote)
+also
+Youtube kids videos - the problem of one url for any one - youtube seems to have no reputational loss.  how to build reputational loss ? 
+
 the death of rent seeking
 why is facebook messages sent from uk village to SF and back next door
 rent seeking - the idea is twitter the protocol not twitter the company
@@ -307,6 +311,16 @@ I think the 21 C is going to have to be about the whole human race getting up in
 
 (#) yeah, that's a big hurdle the world over
 
+AI and Arthur C clarke
+http://www.mayofamily.com/RLM/txt_Clarke_Superiority.html
+
+There was a time when a computer was seen as a machine designed to do one specific task - the Battle Analyzer, analogous to computers designed for artillery calculations etc
+
+It was not until after Fortran that software that could do anything became the paradigm
+
+but AI? it is still a per use case thing
+
+
 
 
 .. toctree::
@@ -316,3 +330,13 @@ I think the 21 C is going to have to be about the whole human race getting up in
    100ideas/*
 
    
+
+Free Trade and digital
+
+http://www.michaelgeist.ca/2018/08/crunch-time-in-the-nafta-negotiations/
+
+the bad : 
+
+Limit governments’ ability to require disclosure of proprietary computer source code and algorithms, to better protect the competitiveness of digital suppliers.
+
+this is wrong attitude - code as law vs code as productive method - it's why copyright law exists. 

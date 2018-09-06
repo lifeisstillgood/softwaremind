@@ -27,3 +27,10 @@ So I would have preferred to just go with a life force sucking alien, some divin
 
 Now that's my taste, and luckily I do not show run doctor who, but Stephen Moffat who does show run it, probably thinks the episode is weaker than a good rewrite could have been. And he had to balance getting any episode with getting the better - not yet written - episode. It's not an easy job. But sometimes you have to say no.
 
+
+notes
+
+https://www.cio.com/article/2434502/open-source-tools/five-things-linus-torvalds-has-learned-about-managing-software-projects.amp.html
+
+
+

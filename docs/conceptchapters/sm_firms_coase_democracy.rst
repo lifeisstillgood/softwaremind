@@ -5,6 +5,21 @@
 :focus: how size and structure of companies is determined and it ain't management cleverness. 
 
 
+* organisation deterministic factors
+- cognitive load of reasoning about the function of the organisation
+This is huge - Boeing, Banks, government
+It will imprave as programmable company
+But it is the main cost
+
+See coase - this is cost of external contracting vs internal contracting
+That cost will change as employment rights change, as intrnet allwos simpler intergration (saas) and monitoring of SLOs 
+
+See Developer hegemony -
+The cost of employeing "contractors" changes as it becomes more sensble to simply leave.
+
+
+
+
 Also: We must include political biases when "asking a software engineer to designing a company" - look at openness and transparency in project reporting or in open source code reviews etc
 
 it is more efficient yes, but openness and transparency are a threat to established orders - only meritocracy survives (look at linux and even thorvaldsen being less of a git)

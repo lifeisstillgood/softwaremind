@@ -17,9 +17,11 @@ def main():
                      shell=True)
 
     #move pdf ver to maretingsite
-    subprocess.call("cp -r docs/_build/latex/*.pdf /tmp/marketingsite/",
+    try:
+        subprocess.check_call("cp -r docs/_build/latex/*.pdf /tmp/marketingsite/",
                      shell=True)
-
+    except:
+        print("why is cp failing?")
     
     #We have index.pre which is preprocesses into .rst
     #cann0t remeber why but kill it off after all generation

@@ -71,16 +71,19 @@ predictions about what they will and won't be.
 And so, as the Meetup wanders back to the bar slightly shocked, we
 wander back to our theme.
 
-.. sidebar:: 
+.. sidebar:: The First Tech Revolution
 
-It is worth noting that about 50,000 years before Gutenberg, humans
-invented another world changing technology - a spoken language.  It
-became possible to communicate abstract ideas. Beyond "danger" we could achieve "danger from tiger tomorrow" - and our brains evolved in step with our language to cope.  
+   It is worth noting that about 50,000 years before Gutenberg, humans
+   invented another world changing technology - a spoken language.  It
+   became possible to communicate abstract ideas. Beyond "danger" we
+   could achieve "danger from tiger tomorrow" - and our brains evolved in
+   step with our language to cope.
 
-To look at it another way - for 50,000 years we coded up one single
-release of a single parser / interpreter - the human brain.  The written word became a hard drive to store code on, and Gutenberg invented distributed networking.
+   To look at it another way - for 50,000 years we coded up one single
+   release of a single parser / interpreter - the human brain.  The
+   written word became a hard drive to store code on, and Gutenberg
+   invented distributed networking.
 
-It's 
 
 
 The software literate company, and the programmable company
@@ -206,6 +209,7 @@ trend looks to be *smaller*.  But to really take advantage of Coase's
 theory, a firm needs to be more than automated, it needs to be
 *programmable*.
 
+:expand: Other ideas of firm - THe Office / Developer Hegemony and 
 
 
 .. ::
@@ -1680,7 +1684,7 @@ I sat in a car for between 2 and 4 hours a day (and I never knew how long the
 trip would be).  And I was not curing cancer so I could hardly claim my work was
 worth the sacrifice.
 
-.. figure:: /assets/images/m25.jpg
+.. figure:: /_static/m25.jpg
 
 I saw my children only when they were asleep, or at weekends, when I was
 exhausted. My wife saw me for about ten minutes before we climbed into bed and

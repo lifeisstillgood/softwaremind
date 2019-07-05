@@ -72,8 +72,18 @@ Security
 --------
 
 
+
 Mission statements 
 https://www.amazon.jobs/principles
+
+Designnof coties (live work remote)
+also
+Youtube kids videos - the problem of one url for any one - youtube seems to have no reputational loss.  how to build reputational loss ? 
+
+the death of rent seeking
+why is facebook messages sent from uk village to SF and back next door
+rent seeking - the idea is twitter the protocol not twitter the company
+
 
 * GPG and keypairs
 
@@ -236,12 +246,35 @@ http://www.nsaplayset.org
 * some kind of model / mapp for the whole world. where is the money flowing / going?
 
 
+
 - Hardende images / servers
 https://www.cisecurity.org/services/hardened-virtual-images/
+
+AI and Arthur C clarke
+http://www.mayofamily.com/RLM/txt_Clarke_Superiority.html
+
+There was a time when a computer was seen as a machine designed to do one specific task - the Battle Analyzer, analogous to computers designed for artillery calculations etc
+
+It was not until after Fortran that software that could do anything became the paradigm
+
+but AI? it is still a per use case thing
+
+
 
 how compare to serverless? 
 
 chaos engineering 
 http://principlesofchaos.org
 
+
+
+Free Trade and digital
+
+http://www.michaelgeist.ca/2018/08/crunch-time-in-the-nafta-negotiations/
+
+the bad : 
+
+Limit governments’ ability to require disclosure of proprietary computer source code and algorithms, to better protect the competitiveness of digital suppliers.
+
+this is wrong attitude - code as law vs code as productive method - it's why copyright law exists. 
 

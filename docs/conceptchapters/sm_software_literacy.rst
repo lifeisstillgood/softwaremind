@@ -1461,7 +1461,9 @@ What I cannot create I do not understand
 
 
 
-.. figure:: http://static.duartes.org/img/blogPosts/feynmanLastBoard.gif
+
+.. figure:: /_static/feynman_chalkboard.png
+   :width: 75%
 
 When Richard Feynman died in 1988, his chalkboard at CalTech contained
 several notes, including the one that has struck such a cord with me
@@ -1471,12 +1473,11 @@ several notes, including the one that has struck such a cord with me
   What I cannot create I do not understand
 
 This says *everything* I want to say about why Open Source Software is
-important, why re-creating the existing work is important, why open
-and transparent - ness works, why things need to be evovled not designed
+important, why re-creating the existing work is important, why open-
+and transparent-ness works, why things need to be evolved not designed
 and why, we cannot understand everything.
 
 It takes a genius to put all that in 8 words.
-
 
 So, what can be extracted from eight words.
 
@@ -1489,9 +1490,11 @@ Build from scratch
 ------------------
 
 One of my software development tenets is you should be able to *build
-your whole systems from scratch*.  That is given bare metal hardware,
-get up and running, not from a few lucky backups and _dd_ but from
-controlled scripted installs.
+your whole systems from scratch*.  We start, of course, at the
+bare-metal hardware level.  I truly do not understand manufacturing
+billions of switches at 10 nm. But still, given metal hardware, get up
+and running, not from a few lucky backups and _dd_ but from controlled
+scripted installs.
 
 I have always thought this vital - without being able to (re)create
 your systems, how do you know if you can in a disaster, or more

@@ -4,6 +4,8 @@
 ## 
 ## ref: https://digitalsuperpowers.com/blog/2019-02-16-publishing-ebook.html
 
+BOOKNAME=TheSoftwareMind
+
 # Get back out of bin
 cd ..
 REPODIR=`pwd`
@@ -17,10 +19,13 @@ make clean
 make html
 make latex
 cd $REPODIR/docs/_build/latex
-pdflatex --interaction=nonstopmode TheDevManual.tex
+pdflatex --interaction=nonstopmode $BOOKNAME.tex
 
 #I expect to run this in a docker instacne on my laptop
 #so i need to run it on here like a server
+
+cd $REPODIR/docs
+wordcount=`cat index.rst | wc -w`
 
 echo "Run post Process (build marketing site)"
 #build it as a book marketring site
@@ -28,3 +33,4 @@ cd $REPODIR/
 python $REPODIR/bin/postprocess.py
 
 
+echo "Wordcount: $wordcount"

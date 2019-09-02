@@ -96,4 +96,30 @@ http://newsblogs.chicagotribune.com/race/2009/12/hp-webcam-colorblindbut-not-in-
 
 Major fault lines no longer left vs right (social vs ?) but open v closed and default the same rules / regs and default different rules regs (see brexit / federalism) 
 
+
+The new organisational form
+
+
+
+Digital Advertising and the NSA 
+
+this is "getting carried away with data"
+
+It stopped being advertising some time ago (ad vert - latin /old drench make aware of)
+
+This is an best and informative role -  rand awareness etc. yes it was inefficient but the ability to serve a different t advert to every person aka cambridge analytics is  it advertising - it's something else - behaviour driven point of sale prompting 
+
+So i hate those supermarkets that put little sweets in front of the checkout  - you, CEO of asda, have just decided to make me disappoint my child and guard tee i say no five times - for and extra few pence if prom then if i cave - and oh yes dental cares and liver dies
+
+But not this fucking rack of sweets can follow me around my whole digitisl life, shuffling sweets with lawnmower parts, new shirts and so on.  nothing I want nothing laid out for me in an informative or curated way  - just random shit
+
+And this is Poor Tech. it is possible to curate the products of the world - to add age then in their use to me, to analyse my digital behaviour and drop a twenty second video explaining why the Park would be a great day out, suggest a list of sandwich fillings available on offer at tesco and remind my facebook group that the weather is not taking and i will be there about 13:00
+
+That's the sort of useful stuff we want
+
+the rest of the crap you can keep 
+
+
+- advertising is just slow subscriptions sent to someone else 
+
  

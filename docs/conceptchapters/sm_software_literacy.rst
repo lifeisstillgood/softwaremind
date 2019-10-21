@@ -68,8 +68,38 @@ illiterate editors will look and work nothing like the Washington
 Post. But we can be sure they are coming. And we can make sensible
 predictions about what they will and won't be.
 
+Now I used to feel smug about my nice little Printing Press literacy
+theory (it was a while ago).  But I remember attending `Sprint 16` the
+UK's Government's tech fest, and the Cabinet Office Minister standing
+up and spouting pretty much the same concept.  Nothing stops smugness
+like a national politician using your lines.
+
+But the thing is, we are both right.  Although his suit was
+better. (another shocker, they just keep coming).
+
+
 And so, as the Meetup wanders back to the bar slightly shocked, we
 wander back to our theme.
+
+Computers have been turning up everywhere, except in the productivity
+statistics And I think I know why.  We are living in an age of
+computing enabled *communication* but not in a *software literate* age
+- and the benefits we expect only come from literacy, not
+communication.
+
+To stretch my analogy too far, *having* books at all enables communication,
+but *having* a literate populace enables companies to redesign themselves
+internally, to alter without everyone already understanding. To *optimise*
+
+The internet already enables mass communication, but between software illiterate people, so any benefits of software just drain away -
+
+Only when a critical mass of people in a company are software literate
+can that company hope to become *programmable*.
+
+THe software mind is our programmers minds, But it is also the controlling mind of a company - an organisation and eventually a civlisaation
+
+NB: civilisation is a socialist endeavour.
+
 
 .. sidebar:: The First Tech Revolution
 
@@ -85,7 +115,6 @@ wander back to our theme.
    invented distributed networking.
 
 
-
 The software literate company, and the programmable company
 -----------------------------------------------------------
 
@@ -93,13 +122,16 @@ Software literacy for a company does not mean that it just hires a lot
 of programmers, and calls the job done.  That's been happening for a
 long time and yet few companies manage to evolve.  I am hoping to
 describe in this book a vision of a company *that does not exist yet*.
-A truly literate company, in a world of other software literate
-companies.  We cannot know for sure the shape such companies will
-take - they will jostle and change in a complex dance of evolution,
-but we can look at both positive and negative data we have today - how
-companies have failed to act in a sane / literate manner, and how some
-fundamentals of software literacy are shining thru and will be
-unavoidable in the future.
+
+A truly literate company, in a world of other truly software literate
+companies.
+
+We cannot know for sure the shape such companies will take - they will
+jostle and change in a complex dance of evolution, but we can look at
+both positive and negative data we have today - how companies have
+failed to act in a sane / literate manner, and how some fundamentals
+of software literacy are shining thru and will be unavoidable in the
+future.
 
 
 

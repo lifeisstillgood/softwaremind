@@ -1,3 +1,22 @@
+==================
+The Software Mind
+==================
+
+
+Why
+===
+
+There is a lot written about *how* to create software and
+software teams.
+
+This book is about *why* the how is how it is.  The *why* needs
+both the *right point of view*, and the history of how we got here.
+
+So this book is at best, an opinion piece - informed by over twenty years "in the trenches" of software development.  
+
+I call this *why*, The Software Mind.  The *how* is The Dev Manual.
+
+
 =================
 Software Literacy
 =================
@@ -240,7 +259,7 @@ And they did so listening to MP3s played out of the PCs speakers.
 Which in 1995 was *prescient*.
 
 But it turned out that was not what young people were doing.  It was
-what software literate young people with access to fixed line internet
+what softeare literate young people with access to fixed line internet
 were doing.
 
 The rule should have been, and still is, if you want to understand how
@@ -485,59 +504,7 @@ Banking. New banks, the Monzo Beta issue.)
 So even if we have data under control, the messy evolved system
 internally to a company
 
-A personal observation
-----------------------
 
-As I have bounced around companies large and small I have noticed
-people similar to myself, trying to do similar things - that is trying to
-create a *suite* of software around them that enables them to ... do stuff.
-
-I have noted elsewhere that there is an interesting ratio of employees
-to revenue for "tech companies" and "legacy companies" (I probably
-should grep the Fortune 500 to actually have real data).
-
-But the *reason* for this ratio I have claimed is *software literacy*.
-
-These literate people (my tribe as it were) try To do obvious, really
-simple stuff like automate their timesheets, or fill in some damn
-report or other.  this is the sort of thing a software literate person
-whould want to do - to avoid manually transfering data from A 2 B when
-a compuyter can do it for them.  And the level of obstacles a company
-puts in their way is a fairly good ,easure of the *literacy* of the
-company.
-
-They try to build a software suite of *capabilities*.
-
-The ease with which one can take a few lines of code on one's desktop
-and pull down internal company data and manipulate it for adhoc
-analysis determines how many people and how often will try to do this.
-
-
-Compare Amazon's SOA (as in SteveY's blog post) to your favourite
-Fortune 500 company.  Is it possible to run a `curl` request properly
-autehnticated to retireve the same excel file you can get on that
-portal thingy?  If you can get 10 points, if not, well I bet there are
-hundreds of people globally who tried and for whom it would have save
-hours, days, or created the POC for a whole new valuable application
-for customers.  But they gave up because mucking about with 403 errors
-is just off putting.
-
-There is a trend in trying to sell this to Enterprises (c.f. Tableau)
-- which is doing two big things - providing simple, easy access to
-internal data (good) and trying to create some sort of hybrid
-reporting / charting / no-code-required look-how-easy-it-is layer on
-top (bad, or at best, kind of pointless as anyone who can code already
-has those tools in their language toolbox).
-
-
-Here is an exercise - find the playgrounds, the hidden personal repo's
-of your companies developers - and grep for common libraries and URLs,
-*jira*, win32.com and so on.  Produce a word cloud and wonder - if so
-many developers took their own valuable time at work and tried to
-build a thingy that did something with expenses, perhaps its worth
-giving them access, and seeing what they come up with.
-
-Call it a word cloud hackthon and serve pizzas
 
 
 Director Hazing
@@ -2044,4 +2011,1286 @@ other examples ?
 .. rubric:: Footnotes
 
 .. [#stross1] Charlie Stross is well known for popularising, if not inventing, the idea of `corporations as slow AIs <http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html>`_ 
+
+
+
+
+
+========
+4. Coase
+========
+
+:focus: how size and structure of companies is determined and it ain't management cleverness. 
+
+
+* organisation deterministic factors
+- cognitive load of reasoning about the function of the organisation
+This is huge - Boeing, Banks, government
+It will imprave as programmable company
+But it is the main cost
+
+See coase - this is cost of external contracting vs internal contracting
+That cost will change as employment rights change, as intrnet allwos simpler intergration (saas) and monitoring of SLOs 
+
+See Developer hegemony -
+The cost of employeing "contractors" changes as it becomes more sensble to simply leave.
+
+
+
+
+Also: We must include political biases when "asking a software engineer to designing a company" - look at openness and transparency in project reporting or in open source code reviews etc
+
+it is more efficient yes, but openness and transparency are a threat to established orders - only meritocracy survives (look at linux and even thorvaldsen being less of a git)
+
+dictators know this - and what is a CEO but a dictoator in a top down ecology
+
+So democracy in companies might not be a requirement for literacy, but like literacy in europe, it has one end point.
+
+as such gov tech software is a genuine need for focus.
+
+THere must be acoase minimum - how is that changing.
+	
+Why are companies the size and structure they are. why are some
+companies more successful than others, seemingly able to take on more
+challenges at faster speed?
+
+these questions are the reason bookshops groan under the weight of hardback business books trying to sell the answers, but they also are deeply important questions for humans globally - the organisation, be it commercial company, government department or city hall is the umbrella of protection for almost all humans alive today - for legal protection, income and environment
+
+Solow and productivity.
+Productivty praradox, iphone and electrification of factories
+
+COase and theory of firm
+size of firms -> BAML vs google.
+
+New firm
+
+Programmable company:
+
+* the entirity of business is in code. Not in the middle management,
+  not in "how we do things"
+  
+  the approval workflow system is an example of how good but unavailable idea holds things back dramatically. scalability is not just size but speed as well
+  
+  designing your processes for scale matters too
+  
+
+We can see Apple Run book / operations managemet as the earlu step in this world
+But a completely what-if, flexible company will be anle to turn on a dime.
+
+But this will come at costs - humans dont do well and need ther sort of explanation and mission and feed into decision making
+
+Imagine everyone having their own engaged model of the company (ciuntry) and arging which is best format.  May never decide? or may just go with flow?
+
+
+http://www.fooledbyrandomness.com/employee.pdf
+Excellent take on coase minimum 
+
+So in modern world the process is thenthings - a single slip up causes horro - something a s project mange I know too well.  Approvals ...
+
+And so what is needed is solutions to this - continuous integration is tried - but this is fixing things after they gone wrong - just really quickly after they go wrong
+
+Apples vaunted process is to model the process correctly first
+
+And this is my argument for the new company - the programmable company is one where all the interactions are programmed and viable in pre-production allowing choice, optimisationand modelling
+
+
+The changes we are seeing about programmable company 
+----------------------
+
+https://podcasts.apple.com/gb/podcast/a16z/id842818711
+
+- Everyone becomes an analyst
+- everyone becomes a real time analyst
+- we are seeing rise of software mediated marketing (growth hacker) and product management (where the product is reporting on metrics (ie funnel) and so guides next feature development
+
+and 
+
+- modelling of organisation will be means to management of org 
+
+ 
+- you need software skills not easier tools
+- you need application performance monitoring for business processes - internal and external (internal friction or monitoring our marketing response)
+
+why software - because it is infinitely easier to get a programmer to analyse data from five areas and knock up a report than it is to wor it's a tool flexible enough for a non programmer
+
+it's like can you write a tool to let annilliterate write a book? 
+
+and so it becomes easier to hire coders and teach them to make good business decisions than hire business deciders and teach them to code
+
+the last generation is at the top now
+
+### xxx potential blog post 
+Why companies are not really command and control
+------------------------------------------------
+
+Politics gets in the way.  At the point at which internal polirics (conpettion over resources)
+starts haveing serious consequesnces is my view ofr the coase minimum
+
+
+An interesting blog by google about manifesto
+
+Idea was as got further on in career stopped doing the coding and
+started doing the "what needs to be done and how" stuff
+
+But this is precisely what a market is good at. 
+
+Looking at my experience of large companies an awful lot of management
+(risk and project) is just competing with other people to be first to
+look viable and have a following - thisnis ridiculous Ina centrally
+planned economy of a company - you may as well do it properly and have
+a market place (tournament style promotions etc) especially as there
+is less likelihood of Values conflicts
+
+Of course not everyone Is an entrepreneur- everyone more likely to be
+of their basic income is protected.
+
+
+Also why airbucks.io is an example of project that works in
+marketplace but notninside company
+
+A point about Company Size
+--------------------------
+
+OK, this is meandering a bit but, company size matters. A mid-20C
+econmist named Roald Coase had a great theory of the firm - basically
+wondering why a firm would have say, an internal depratmetn for, I
+dunno, say, market research, when it could go to the outside markte
+and buy it in.  Why hire employees basically.  And the answer is its
+easier to tell an employee what to do, and then change your mind as
+circumstances change, than it is to find, source, and contract for
+similar in open market.
+
+A lot is changing about this.  From Virtual assisitants to others.
+
+But downward sizer pressure exists.  (see note on Google / Barlcays)
+
+
+Democracies as information systems 
+
+- and how to use information systems to transform companies to democracies
+
+Democracy is an information system.
+
+That's the starting place of our new paper: "Common-Knowledge Attacks on Democracy." In it, we look at democracy through the lens of information security, trying to understand the current waves of Internet disinformation attacks. Specifically, we wanted to explain why the same disinformation campaigns that act as a stabilizing influence in Russia are destabilizing in the United States.
+
+The answer revolves around the different ways autocracies and democracies work as information systems. We start by differentiating between two types of knowledge that societies use in their political systems. The first is common political knowledge, which is the body of information that people in a society broadly agree on. People agree on who the rulers are and what their claim to legitimacy is. People agree broadly on how their government works, even if they don't like it. In a democracy, people agree about how elections work: how districts are created and defined, how candidates are chosen, and that their votes count -- even if only roughly and imperfectly.
+
+We contrast this with a very different form of knowledge that we call contested political knowledge, which is, broadly, things that people in society disagree about. Examples are easy to bring to mind: how much of a role the government should play in the economy, what the tax rules should be, what sorts of regulations are beneficial and what sorts are harmful, and so on.
+
+This seems basic, but it gets interesting when we contrast both of these forms of knowledge across autocracies and democracies. These two forms of government have incompatible needs for common and contested political knowledge.
+
+For example, democracies draw upon the disagreements within their population to solve problems. Different political groups have different ideas of how to govern, and those groups vie for political influence by persuading voters. There is also long-term uncertainty about who will be in charge and able to set policy goals. Ideally, this is the mechanism through which a polity can harness the diversity of perspectives of its members to better solve complex policy problems. When no-one knows who is going to be in charge after the next election, different parties and candidates will vie to persuade voters of the benefits of different policy proposals.
+
+But in order for this to work, there needs to be common knowledge both of how government functions and how political leaders are chosen. There also needs to be common knowledge of who the political actors are, what they and their parties stand for, and how they clash with each other. Furthermore, this knowledge is decentralized across a wide variety of actors -- an essential element, since ordinary citizens play a significant role in political decision making.
+
+Contrast this with an autocracy. There, common political knowledge about who is in charge over the long term and what their policy goals are is a basic condition of stability. Autocracies do not require common political knowledge about the efficacy and fairness of elections, and strive to maintain a monopoly on other forms of common political knowledge. They actively suppress common political knowledge about potential groupings within their society, their levels of popular support, and how they might form coalitions with each other. On the other hand, they benefit from contested political knowledge about nongovernmental groups and actors in society. If no one really knows which other political parties might form, what they might stand for, and what support they might get, that itself is a significant barrier to those parties ever forming.
+
+This difference has important consequences for security. Authoritarian regimes are vulnerable to information attacks that challenge their monopoly on common political knowledge. They are vulnerable to outside information that demonstrates that the government is manipulating common political knowledge to their own benefit. And they are vulnerable to attacks that turn contested political knowledge -- uncertainty about potential adversaries of the ruling regime, their popular levels of support and their ability to form coalitions -- into common political knowledge. As such, they are vulnerable to tools that allow people to communicate and organize more easily, as well as tools that provide citizens with outside information and perspectives.
+
+For example, before the first stirrings of the Arab Spring, the Tunisian government had extensive control over common knowledge. It required everyone to publicly support the regime, making it hard for citizens to know how many other people hated it, and it prevented potential anti-regime coalitions from organizing. However, it didn't pay attention in time to Facebook, which allowed citizens to talk more easily about how much they detested their rulers, and, when an initial incident sparked a protest, to rapidly organize mass demonstrations against the regime. The Arab Spring faltered in many countries, but it is no surprise that countries like Russia see the Internet openness agenda as a knife at their throats.
+
+Democracies, in contrast, are vulnerable to information attacks that turn common political knowledge into contested political knowledge. If people disagree on the results of an election, or whether a census process is accurate, then democracy suffers. Similarly, if people lose any sense of what the other perspectives in society are, who is real and who is not real, then the debate and argument that democracy thrives on will be degraded. This is what seems to be Russia's aims in their information campaigns against the US: to weaken our collective trust in the institutions and systems that hold our country together. This is also the situation that writers like Adrien Chen and Peter Pomerantsev describe in today's Russia, where no one knows which parties or voices are genuine, and which are puppets of the regime, creating general paranoia and despair.
+
+This difference explains how the same policy measure can increase the stability of one form of regime and decrease the stability of the other. We have already seen that open information flows have benefited democracies while at the same time threatening autocracies. In our language, they transform regime-supporting contested political knowledge into regime-undermining common political knowledge. And much more recently, we have seen other uses of the same information flows undermining democracies by turning regime-supported common political knowledge into regime-undermining contested political knowledge.
+
+In other words, the same fake news techniques that benefit autocracies by making everyone unsure about political alternatives undermine democracies by making people question the common political systems that bind their society.
+
+
+Fake news: being able to "win the narrative" in face of evidence - at scale, tailored to individual people at scale - usually as in Russia a negative de-engagement but if voting opportunity exists as in brexit it's a positive act (cf dominic cummings )
+
+
+This framework not only helps us understand how different political systems are vulnerable and how they can be attacked, but also how to bolster security in democracies. First, we need to better defend the common political knowledge that democracies need to function. That is, we need to bolster public confidence in the institutions and systems that maintain a democracy. Second, we need to make it harder for outside political groups to cooperate with inside political groups and organize disinformation attacks, through measures like transparency in political funding and spending. And finally, we need to treat attacks on common political knowledge by insiders as being just as threatening as the same attacks by foreigners.
+
+There's a lot more in the paper.
+
+This essay was co-authored by Henry Farrell, and previously appeared on Lawfare.com.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273111
+
+
+Good Citation practise
+
+The panic began in April when a video that appears to show a child being scooped off the street by two men on a motorcycle went viral. The video was originally created in Pakistan as a public service announcement to teach parents to watch their children more closely. The end of the clip showed the child returned by the "kidnappers" who held up a sign: "It takes but a moment to snatch a child off the streets of Karachi."
+But that wasn’t what millions of Indians saw on WhatsApp. In the doctored Indian version, that ending was cut off, so the child never reappears. (nytimes - https://www.nytimes.com/2018/08/23/opinion/stranger-fear-children-kidnapping-india.html)
+
+But if the video was embedded with hashed frames and linked back securely then it frankly is almost impossible to mistake that - it screams fake
+
+The Data Commons
+----------------
+
+Eu is funding bug bounties for some oss projects
+https://www.zdnet.com/article/eu-to-fund-bug-bounty-programs-for-14-open-source-projects-starting-january-2019/
+
+example - https://evolveum.com/midpoint/
+
+and keepass
+
+needs a validated build !?
+
+
+AI / ML
+https://www.ben-evans.com/benedictevans/2018/12/19/does-ai-make-strong-tech-companies-stronger
+
+it's like SQL
+
+
+
+Todoinator and democracy
+- writing code that does blogs, release notes, etc from code. because at a certain point it is too big to keep up.  at some scale we want press and media to publish what is happening - so things like tools to show what is happening to codebase will be useful 
+
+it is also part of project reporting - but we all know project reporting upwards is flagrrring lies, so we would like to see a free press as a counter weight to that innthe organisational eco system
+
+if as a manager your job is basically just to tell people where we are going (co ordination or leadership) then as code tools help people conordinate more then what is managements job? it seems more and more like a free press - idenofoting crucial salient pints and raising the alarm
+but in a more consistent manner
+
+management 
+project risk 
+leadership (bs)
+
+
+Tactics strategy
+https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/
+
+battles are changing the programming of the programmable company - small intense battles.  Strategic implementation is then the day yo day 
+
+
+from schneier newsletter
+Fraudulent Tactics on Amazon Marketplace
+
+[2018.12.20] Fascinating article about the many ways Amazon Marketplace sellers sabotage each other and defraud customers. The opening example: framing a seller for false advertising by buying fake five-star reviews for their products.
+
+Defacement: Sellers armed with the accounts of Amazon distributors (sometimes legitimately, sometimes through the black market) can make all manner of changes to a rival's listings, from changing images to altering text to reclassifying a product into an irrelevant category, like "sex toys."
+
+Phony fires: Sellers will buy their rival's product, light it on fire, and post a picture to the reviews, claiming it exploded. Amazon is quick to suspend sellers for safety claims.
+
+[...]
+
+Over the following days, Harris came to realize that someone had been targeting him for almost a year, preparing an intricate trap. While he had trademarked his watch and registered his brand, Dead End Survival, with Amazon, Harris hadn't trademarked the name of his Amazon seller account, SharpSurvival. So the interloper did just that, submitting to the patent office as evidence that he owned the goods a photo taken from Harris' Amazon listings, including one of Harris' own hands lighting a fire using the clasp of his survival watch. The hijacker then took that trademark to Amazon and registered it, giving him the power to kick Harris off his own listings and commandeer his name.
+
+[...]
+
+There are more subtle methods of sabotage as well. Sellers will sometimes buy Google ads for their competitors for unrelated products -- say, a dog food ad linking to a shampoo listing -- so that Amazon's algorithm sees the rate of clicks converting to sales drop and automatically demotes their product.
+
+What's also interesting is how Amazon is basically its own government -- with its own rules that its suppliers have no choice but to follow. And, of course, increasingly there is no option but to sell your stuff on Amazon.
+
+
+The long grass of mediocrity theory of companies
+----------------------------
+A programmable company needs to exist because what you do not automate is going to revert to the mean - what you automate is a upwards ratchet
+
+
+Roman Legonary theory of organisational management
+-------------------------
+
+Walk, don't run, but walk with big stick
+
+legions walked in threes not very far but always defensible. 
+
+The charge in movies and the slow profession in real life of attacking a castle
+
+Capability theory - don't run, certainly don't sprint, but deliver and grow capability of team
+https://www.systemdynamics.org/assets/conferences/2017/proceed/papers/P1325.pdf
+
+software governance and social governance 
+-----------------------
+As facebook et al build tools for "governance" (combat bullying, view who views me we see those gov forms adapt to society 
+
+Programmable company and bus factor
+-----------------------------------
+
+Bus factor is how many employees can get hit by a bus before company loses the institutional knowledge to continue
+
+this has links to the director hazing - you have to be able to operate the levers even if the levers are dumbawful systems
+
+but programmable company surfaces the institutional knowledge and encodes it - it may be more effort like an architect programming robot but once done it is explicit modellabke and open for A/B testing 
+
+And so we see reduction in bus factor - in fact perhaps a bus factor of zero is needed
+
+And this means most human creative work will be in finding and building companies that have product market fit - a coase dilemma perhaps - we can reduce the company size to zero ? 
+
+Only antagonist parts are brand, changing market place, reliability of suppliers ? 
+
+Let's look at the advantages of AWS over doing it ourselves. The guardian found that openstack was too much to do it alone. Mostly because the advantages of specialisation have accrued to Aws - they can afford to have someone whose a Kubernetes developer focusing on that solely ehwrreas guardian and even major banks can only have someone who knows how to use it
+
+the size of core teams in even major banks is surprisingly small - and that means the firehouse hits you all - whereas even a little bit bigger means the firehoase can be avoided
+
+which acrues a lot
+
+Firehose metric for support growth
+----------------------------------
+
+you need at least one person removed from the fray to observe and OODA - lieutenants and above
+
+Sergeants focus on the team lieutenants on the battle, generals on the war
+
+but it only needs three levels max. and you can probably do without the generals 
+
+
+
+Why is AirBnB like the EU
+
+Proposals - make social balance sheets - force companies to report balance sheets as standard categories in electronic form for processing as a whole - see what is runndown or not  across society 
+see talkingnpolitics episode 
+
+
+Growing Mary Poppins
+====================
+
+We are all familiar with the MOOC - massive open online courses - but, and this is it seems more part of *my* software mind than an obvious trend, I see a huge new space in the MOOP - massive open online psychology
+
+We have phones alamo's glued to our selves, and many homes have one or more permanently listening microphones, such as Alexa or Siri, and with body-cams on the rise, permanent video surveillance in the home is not far off.
+
+
+And I do not see this as a problem - in fact I see it as *potentially* ushering in a golden age.
+
+So, a slight divergence over the the Khardasians.  This is a reality TV shows following the day to day lives of a family of (increasingly mega rich) California sisters.  I bring it up because when I watch it I am surprised by one thing - the degree of self reflection that is going on - in fact forced on the family.  For something like ten years, the members of the family have been asked by a director to sit down and talk to camera and answer questions like "three hours agonyour sister said she did not like the way you talked to her on Tuesday"
+
+And when the family argues, they can discuss it whilst watching footage of the original argument. (expand?)
+
+This degree of self reflection reminds me of Aristotle - the unexamined life is not worth living.
+
+And soon we shall all be living lives like the Khardasians - no not californian luxury and private airplanes - but guided personal relationships.
+
+It's perfectly within technology reach to monitor each and every conversation in my house - how many times a day I talk to my children, how my wife and I communicate.
+
+Now monitor that, looking for common metrics, maybe AI patterns looking for high performing families, and enable me to review my day with the personal psychologist that siri becomes - 94% of happy people have conversations more "you" in it than you did just now
+
+"is now a good time to pick that fight with your wife"
+
+just look at use of text signals in depression (use of I)
+
+
+Other reasons why MOOP
+- Twitter and Facebook self monitoring (mword at bullion scale - see facebook CISO guy) is really hard and likely to be counter productive - we have taken every pub conversation, every snarled word, and made them searchable.
+
+It is not pretty.  The world that used to be published is only "the best choicest curated" version of the world out there.
+
+Yes by allowing global distribution it has given such ugly words more power 
+
+But we cannot deny they exist - and if we want to fix them we need to deal with the words not suppress them (well there is a degree is suppression - you cannot walk up to someone and say "go home" because that's crap.)
+
+
+
+Whatsapp / E2E privacy is good.  Just as video camera not cause vile people to film child abuse, they just filmed what evil crimes they were committing anyway
+
+It's up to our society to find ways to discover such abuse (hands in photos etc)
+
+
+
+
+
+Great Hollowing Out
+-------------------
+
+https://itnext.io/the-cloud-skills-shortage-and-the-unemployed-army-of-the-certified-bd405784cef1
+
+Sign of maturity in IT space
+Massive job loss and relocation 
+- devops / CI / serverless
+
+serverless - where scalability design meets the developer 
+
+
+Blockchain is not a magic sprinkle dust
+--------------------------------
+https://news.ycombinator.com/item?id=19739574
+
+https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf
+
+solving gang problems 
+----------------------
+https://news.ycombinator.com/item?id=19742603
+
+
+The autonomous vehicle bizplan fallacy
+------------------------------
+There is a lot of interesting issues being thrown up around automous vehicles and it's worth diving into some of them because they throw the issues around software eating the world (the architects dilemma) into sharp relief
+
+- The ethics "upfront" issue (cf governance) - hit the little girl or kill the driver?? impacts on global regulation. are you going to be able to drive a foreign car on this countries roads if the software is not patched?? 
+
+- The "it's going to be cheaper"
+Not until the death rate is close to railways at minimum.  Tesla is getting sued (https://news.ycombinator.com/item?id=19802284) and claim that their safety is 3.7 times better than humans.  That's good and all.  but that's not the right comparison 
+
+Roads kill an average of 43,000 people pa in USA. Rail has 7 passenger deaths (or a bit over 100 if you count workers and pedestrians at crossings)
+
+So railways are the right comparison with self driving cars.  and railways are between 6,000 and 300 times safer.
+
+If I get in a self driving car Inwant to be confident of not dying on a scale similar to trains or planes. 
+
+We are a loong way from that 
+
+
+https://journalistsresource.org/studies/environment/transportation/comparing-fatality-risks-united-states-transportation-across-modes-time/
+
+seven passengers traveling on mainline trains die.
+
+Software demands global regulation
+----------------------------------
+
+We unlikely to see balkanisation of internet - we might see DVD regionalist.  but software will define our geopolitics as much as anything.  software configuration as a tariff !! Look at is your car going to kill the girl or the driver? 
+
+
+================================
+How is the future going to look?
+================================
+
+A point about the Google Peace Dividend
+---------------------------------------
+
+* The Google Peace Dividend - three / four major areas of computing
+  beig transformed by OSS - ML/AI, data processing pipelines, virtual machine management,
+
+What has the long sweep been
+----------------------------
+BAck when I was young I worked at Demon Internet and we would have *meaningful* discussions about how the Internet was going to change the world (in your twenties it is important to have strong opinions about how something you don't understand properly is going to change something else you don't understand properly.)
+
+But one thing was clear - we were connecting the Virtual to the Real. And that made opportunities
+
+But now that is *done* what next?
+
+Well, firstly, of course it is not done.
+
+The things still not online are ... our real day to day lives and our training ecesaary to be modern humans (see MOOPs)
+
+
+
+
+What is about to make my life harder?
+=====================================
+
+Part of the challenge for a simple IT manager is to keep abreast of an ever changing landscape without falling into the twin tarpits of hype and cool.
+
+No-one can be in this business for long without seeing the next big thing whizz past us like a dead bunny with a jetpack.  But inured as we maybe to the sort of hype that got me buying textbooks on marimba and push technology in '98, it takes many years to notice the plausibly disguised tarpits and not spotting them can waste time money and effort vanishing down dead ends.
+
+Oh, by the way, as I am talking about future trends, I am officially sanctioned not to use the phrase 'paradigm shift', a crime for which the gulags beckon.
+
+For IT managers there are four major changes coming
+
+- Disks are becoming tapes
+- Parallel programming
+- Information security is as busted as DRM
+- Everything else, probably involving privacy.
+
+Disks are becoming tapes
+------------------------
+
+How big can a hard disk get?  I have got several 500GB disks, and can now buy 1TB disks, which considering I remember saving up for a 16*Kilobyte* expansion pack for my ZX80 [#]_ is quite terrifying.  However, the bods from Seagate believe that, just like light waves put a limit on how small a transistor can be photo-etched onto silicon, similar electro-magnetic theories limit the size of a 5 1/4" hard disk - but we shall reach 20TB before that becomes a manufacturing restraint.
+
+Now for a randomly fragmented hard disk of 20TB the access time for any piece of data is quite slow compared to the total size of the disk.  This ratio has been increasing for a while, and it has some serious implications.
+
+The amount of data a disk can output depends on 2 things, the *transfer rate* or how quickly it can pull data from under the head and out to the rest of the PC, and how quickly it can find the data on the disk. This last one is important.
+Disks can now hold 1TB and will grow to 20TB. They can sustain transfer rates of about 50MegaBytes/s, but even high end disks take 5 milliseconds to find a particular location on the disk [#]_
+
+Lets say we want to pull off mp3 files, snippets of conversation from my life. At a seek time of 5ms, I can get to 200 *locations* a second.  This is not the same as 200 files a second - it will be snippets of files, chunks that have to be pulled off and reassembled.  Today this does not matter much, but with a 20TB disk, and we choose a file fragment size of say 5KB that is retrieved each access, I have a throughput not of 50MB/s but 1MB/s.  That is 20TB / 1MB or 20 million seconds to retrieve the whole disk. That's 231 days by the way.
+
+This is obviously a worst case style example, but if we continue to use hard disks as we have been in my career, then it will take that long to read a disk.  Obviously madness, so when we write to the disk we will have to think about the use of the the data later on.  Thats unheard of today.  Its back to magnetic tapes.
+
+We will fill these disks. Not just with cute otters on youtube, but with our lives; emails, phone conversations, videos from our camera equiped eyeglasses (and if you think that is unlikely look at urban cyclists, there is a growth in cameras recording the daily commute ready to send in for that all important insurance claim against the driver who just hit you).  We shall go back to a time when the application developer had to think where on a tape the data was stored.
+
+So disks will stop becoming random access and more than likely be time sequential storage.  Which is fine when I am looking for my phone conversation from the 22nd of August.  But it has a problem when I want all the phone calls I made to my wife, in which I mentioned taking the cats to the vets.  The implications for this are quite huge, programmers today live in a world of random access (this is one half of the reason for dominance of the relational database model).  To end that will require massive mindset changes, and we programmers are by and large a conservative lot.
+
+Parallel programming
+--------------------
+With one massive change to the way programmers think already coming down the line, the next one is a doozie.
+
+Moore's law is, for its kind, a famous dictum.  It basically states that the processing power of a chip doubles every 18mths.  Understanding this law is widely held to be one reason Microsoft defeated Lotus in the speadsheet market [#]_ - Bill Gates decided to go for the best new features even if it ran slowly, gambling that in time the chips would be twice as fast.  Lotus meantime tried to speed up their spreadsheet in the code, and the market chose the new features of Excel now running at acceptable speeds.
+
+Moore's law has traditionally been implemented by chip manufacturers like Intel making transistors on silicon smaller each generation so squeezing more into a chip.
+
+As mentioned earlier, the wavelength of light is making it difficult to do this any more, so chip manufacturers are basically cheating, keeping the size of the transistors the same but putting twice as many on there.  To get twice as many transistors to work really means two CPUs.  The problem with this is that a single CPU is in essence linear, one instruction at a time.  Programs were written with this in mind, and now,  what worked for Microsoft in the late eighties stops.  If I write my clever new, slow program, in 18 months it will still be just as slow  - it works in a linear fashion, is designed in a linear fashion and so will only run on one CPU.  That power doubling stops.
+
+Intel have already announced a 32 core chip.  Now if I take the Lotus approach and optimise my slow code for multile CPUs, I will run my applications upto 32 times faster than the guy down the road.  I do not know what competitive advantage I can get from that, but it must exist.  In short, what worked for Bill Gates 20 years ago, seems to be stopping now.  There will be no free speed up in 18 mths.
+
+There are new languages designed to handle these parallel programming worlds, they are a odd and hither too little trodden world of *functional programming*, with Lisp as the poster child.  However two new languages best represent the choices ahead - Erlang, which passes messages between nodes and essentially shares nothing between these cores, and Haskell which does something clever with shared memory which frankly I do not understand. And there in lies the rub, as these are new languages, new *paradigms* (there I said it), and they need massive shifts in how people think and work - and again programmers are slow to pick up new things.  Really new things that is.
+
+Either way, to tackle the parallel programming world, programmers will need to learn a completely new class of languages. And look how long it took to go from C to C++ to Java, which basically was objects, then garbage collection. (about 30 years. Can we wait another 30?  Or perhaps there is competitive advantage in Erlang?)
+
+Tarpits
+-------
+Here we can see tarpits forming, and it is worth commenting on their likely shape too.
+
+There are already rumblings about Intel and others developing compilers that will parallelise your program for you, meaning the programmer does not have to think about the problems of running his app on 300 CPUs in different time zones, it just happenns. Yeah, and the crack Royal Air Force Porcine Display team is putting on a show at an airfield near you.  So much effort is being expended to stop us from having to learn a new thing.  That's not in line with the idea that computers are tools, not gadgets and we need to learn to use them.
+
+Both the above lead to the much heralded Grid computing - we will treat computing like we treat electricity - ubiquitous and commoditised.
+
+I just do not beleive it.
+
+I can see how already commoditised services will be gridified - but lets face it the reason organisations use IT is two-fold: to not lose cost advantages from not doing what everyone else does (the move from letters and memos to email) and to gain competitive advantage by doing something better than others.
+
+The first one will be gridified - if your email system works like everyone else's, you do not lose out.  But most of the driving force for new IT is to gain a competitive advantage - to be able to do what others cannot.  And that can, by definition, not be commodity.
+
+
+Information security is as busted as DRM
+----------------------------------------
+I have an important database in the office, with lots of important data. If the competition finds this data we could lose sales, if the tax authorities find it we could lose the CFO, and if the press find it we could lose the CEO.  So it is important not to let anyone copy it, or take it out of the building.
+
+That is suddenly not so easy anymore.  Mobile phones, PDAs, remote working, on the road, laptops and home offices all mean that the data needs to go to where the people are.  I can encrypt the data as it travels over the network, but the only way someone can work on it is if it is decrypted at their end.  This is the same as a DRM protected song can be as encrypted as you or EMI like, but at some point it needs to be played through my earphones.  At that point someone can copy it, both the songs and the tax data.  And lets face it if it can be copied and has a value, it *will* be copied. [#]_
+
+There is an attempt to control this - Microsoft is trying the '''Trusted Computing''' approach - where the hardware is locked and prevented from running anything Microsoft (and by extension the IP owner) does not want run. However it has been a damp squid so far, and even Apple the most successful hardware-controlled-by-someone-not-the-owner approach is trying to persuade the music business to stop mucking around.
+And what is failing in the consumer market will fail harder in the business market - the question to be framed is '''You want me to buy a laptop that can stop the MD from viewing his own sales data if Microsoft decides he is breaching copyright ? This being a man who cannot print from Word every other week?  Yeah, let me get my cheque-book.'''
+
+My data is not secure when it leaves my little data-castle.  And yet everyone wants to work away from the office, on their iphone, in the park.
+
+Privacy
+-------
+It is vanishing, or rather, the assumptions we used to have about privacy no longer match reality.  Most of my conversations were assumed to be private and *ephemeral* [#]_, and because they were between two or three people they were.  But when the conversations are on email, or recorded by someone's iphone or life-corder in their glasses, that stops.  Am I to be held to my every whittered word (even the ones on this site I would be happy to stay a bit more ephemeral.)
+
+
+Online tracking is ridiculous
+GDPR
+Online dating sites - tracking users
+https://datadating.tacticaltech.org/viz
+
+
+Some security checklists
+https://securitycheckli.st
+
+Conclusion
+----------
+Hype and the Next Big Thing are always around us, and spotting the difference between real faultlines and over-hyped faultlines is a difficulty, but one we must all learn.  The business world (and real world too) do not change that fast, the signs are all around if we care to look.  Like someone said, 'the future is already here, just not evenly distributed yet.'
+
+
+2019 wish lists
+---------------
+
+https://alexgaynor.net/2019/jan/06/security-wish-list-2019/
+
+https://noncombatant.org/2019/01/06/state-of-security-2019/
+
+
+
+
+.. [#] if you are a british geek and of a certain age the ZX80 will hold a special place in your heart, alongside 'manic miner' and sherbert dipping lollies
+
+.. [#] http://en.wikipedia.org/wiki/Hard_disk#Capacity_and_access_speed
+
+.. [#] http://www.joelonsoftware.com/items/2007/09/18.html. The eagle-eyed amoung you may note that while Joel supports my argument on moores law helping microsoft, this article flat out contradicts my idea that this time round betting on Moores law is going to lose.
+
+.. [#] (The head of Deutsche Post was forced to resign as details of tax avoiders / evaders where handed over to European authorities (and he was on the list).  Basically Germany offered a reward for any (Lichenstein) banker able to prove that Germans were dodging taxes.  An electronic file was duly copied and sent in)
+
+.. [#] Bruce Schneier is good on this subject.
+
+bibliography
+------------
+http://www.acmqueue.org/modules.php?name=Content&pa=showpage&pid=43
+http://archive.is/XwCtU
+https://news.ycombinator.com/item?id=16020808#16021181
+
+that's not the argument the article was making - they note that tech and media (the fastest growing sectors, which not coincidentally employ most intensively IT workers) are just 5% of economy.
+
+the argument is that when the rest of the economy employs IT at the same level of intensity, the remaining 95% will have similar productivity growth and hence see gains of wealth creation.
+
+we then have to work out how to distribute those gains (hopefully fairly and equitably)
+
+There is a oft quoted parallel with electricity replacing steam in factories- it took a generation or more for factories to stop being clustered around one large steam engine, running each corner of the factory to the speed of one central spindle.  the idea is that eventually companies will adapt to use "Digital" rather than adapting digital to fit them.=======================================
+Serverless - not another paradigm shift
+=======================================
+
+According to Bill Bryson in his remarkable "A Short History of nearly
+Everything", renowned Paleontologist Simon Conway-Morris was
+cataloging the incredible diversity of body-types that had appeared in
+an evolutionary instant during the Pre-Cambrian Explosion 500 million
+years ago. Dozens of bizzare new body types (lets put claws on the end
+of a nose, that might work!). Morris reportedly opened a drawer of
+previously un-categorized fossils and remarked "Not another fucking
+phylum".
+
+This is a little how I feel with computing platforms and approaches in
+our new century. A phylum you may have heard of is `serverless
+computing`.
+
+Its worth taking a moment on this one - it is going to be a tough
+sell, but, like `AR`, I think its where the smart money will play.
+And unlike AR, its not a new green field. This one requires us to
+re-write a lot of enterprise code.  So it needs to offer some
+advantages.
+
+My evolution ...
+
+Serverless computing is ... hard to explain. Let's imagine you write a
+function that takes an HTTP request with a key "name" and your
+function returns "hello <name>".  In the normal server-based world I
+would know which server that would run on - I would have to worry if
+it should run there or elsewhere.
+
+Serverless simply has a scheduler that pushes the request and my
+function to *any* server in a vast array
+
+
+Issues
+* security. You thought it was bad sharing a
+* the solution here is run your own farm of machines. But that is expensive.
+  
+
+
+Serverless and functional. THis seems to be the winning combination.
+
+
+Simon Wardley (we have already met him on business strategy) was
+involved in an early serverless
+
+
+
+https://www.linkedin.com/pulse/why-fuss-serverless-simon-wardley
+
+It's another shift - findev 
+
+It's basically event driven functions, or batch run functions.
+But the concept is w don't want to worry about a server before we want to run the function.
+
+The biggest concern is security 
+The second biggest is where do I put my data
+
+
+https://github.com/awslabs/aws-serverless-auth-reference-app/issues/5
+
+
+Hardware and software
+----------------------
+
+Trust is biggest issue
+
+then using hardware and software - there is more value in both and much rarer
+
+see Software defines radio - https://adamgannon.com/2014/11/21/decoding-your-keyless-entry-remote-with-software-defined-radio/
+
+https://www.rtl-sdr.com/tag/car-key/
+
+http://spench.net
+
+
+The second wave 
+We are now seeing less of the "applied to everyone" startups looking for recruits and many more of the "specific niche that is ripe for software to eat it" start ups.
+
+insurance for gig econmony (insurance by the minute)  legal NLP
+
+
+Add in "the rental economy" (or the subscription economy) where the whole idea is to gain market domaince and then exploit prices sounds bad for us all - and we don't think regulation  is going to keep up (Europe) or be allowed to think about keeping up (rest of world) - see schneier on lawyers like us - https://venturebeat.com/2019/03/06/bruce-schneier-its-time-for-technologists-to-become-lawmakers/
+
+Add on to this the ways we are trying to regulate the new tech landscape - GDPR, elizabeth warrens proposal to split up companies into platforms and exploiters, these are all generally good (software socialist remember) where good means having a floor but no ceiling to society.
+
+https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c?stream=business
+
+The silver lining
+https://news.ycombinator.com/item?id=19364883
+
+Animation and AR VR
+
+https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/
+
+There is a trend. look I worry that my kids aren't playing with each other but are stuck on ipads.  but minecraft (trust) - what about AR/CR. What about "let's play sea captains" bbc in real life?? 
+
+
+Software as a machine 
+---------------------
+
+It is just a machine (transistors)
+software as a machine - Paul Mason book - transforms energy into other form energy - so is it organisation as energy ?? better forms of working together - where is the utility? it's in the organisation !!!  
+
+We need ethics in our society - we can see the market as a slow form of AI using price as the optimising metric
+
+As such we can easily see from experience that market does not drive the higher ethical issues - they must be the externally regulated systems
+- and for most people and indeed maoist capuchin monkeys ethics are the same (fairness and grapes)
+
+see Paul Mason book 
+
+As such I posit that we cannot make AInlook human till we have strong ethical constraints on it, which require ethical judgements 
+(ie General AI is a long way off)
+
+but we can see AI as helping optimise organisations (ie MOOP becomes a training device for the cog wheels) and organisational design and information flow becomes viable - i mean if brexit or trump can send different tailored messages why cannot the good guys (see I robot last book) 
+
+Ethics are boundary conditions for optimising algorithm - same as regulation for markets - which is why regulations are so hard to agree on 
+
+Robo automation and AI 
+-----------------------
+will be resurgence of email vs apps - simply because it's so much easier to email X in order to book my squash court or something 
+
+Web of Trust and crypto currency
+---------------------------------
+JPMorgan thing s(where they assert that I have x million in account)
+is fascinating - but what If I asserted that with my web of trust FIDO key? 
+Who would trust me? What could Indo about it? 
+Or 
+
+
+======================
+Landscape and strategy
+======================
+
+
+https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec#.9hem3u240
+
+The landscape, climate and doctrine from sun-tau determine strategy and the ins and out Avery well
+
+Doctrine - like a style guide or dev manual for developers
+
+But the landscape of software is often seen as magic by the ore-literate
+And it's why algorithms matter
+
+
+
+So it's the two kinds of why - why this move instead of all the other moves possible. That means you need an understanding of all the possible moves and their future implications - why means a map.
+
+Swardley evolution as a Wodehouse approach to building viable software - it cannot be perfect out the gate and this gives is a value based evolution for the service (soa microservice api approach)
+
+
+https://news.ycombinator.com/item?id=9145197
+
+Simple to complex roadmaps
+==========================
+
+
+Swardley??
+
+One of the important things in software, perhaps the most important, is to keep things simple.
+As the needs of an organisation grow, the complexity of the systems it uses increases.
+I show here, in each section, a roadmap of complexity.  The base simplicity levels are
+expected to give the fundamental understanding of the problems, but give way fgracefully to
+new, (ope source) solutions that do the same thing as the simple system, but have extra more useful features.
+
+FOr example, in configuration and co-ordination, we start with just a init file style API that reads from a text file
+telling us what config data exists for our systems.  This is *fine* but it really quickly hits limits.
+SOmething like APache Zookeeper is the next logical step, but that is waay more complicated to set up.
+So we start witht he simplest possible, and point to where to take the next steps.
+m
+
+
+Also for sales marketing 
+
+ICE Cube
+Impact
+Confidence
+Ease
+
+Gives us priorities for sales and marketing efforts 
+
+
+This gives us some ideas of hot tomimplement to strategic landscape we see
+
+
+
+The economist Robert Solow once quipped that we see the benefits of
+computers everywhere, at home, at work, except in the productivity
+statistics.  It has been argued
+(https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf) that this
+is because we are missing the essential rearrangement
+
+Two productivity arguments - we aren't inventing stuff or we don't
+have demand side drivers in western world - that is we can outsource
+to cheap labour (Foxconn and Apple make iPhones) If we see 70s then
+people invested massively as labour price was skyrocketing - similar
+to post world war 1 (immigration, death etc)
+
+Only when we absorb all human capacity to modern levels or social
+changes
+
+I think this is right - but it needs a little deeper
+explanation. Let's look at architects, project managers and
+bricklayers
+
+Also internet not changed as much as washing machine - we see the big
+communications changes in telegraph. Internet is changing the consumer
+(the out of work ways we spend our time)
+
+But it is still hard to see it transforming the in work hours.  Web
+technologies do appear everywhere - but this is a function of more
+robots ready to build houses - if only the instruction were there.
+
+
+
+We only need project managers because the architects were not precise
+enough. So the replacement of the bricklayer will soon become the
+replacemt of project manager - the great hollowing out.
+
+But this cannot happen if a business is still the equivalent of a
+blueprint - needing builders and somon to actually make it work.
+
+Only a programmable company, can be designed like an architect designs
+a building - and only at that point can we look at theory of firm. At
+things trading on our behalf, at companies that can be formed - is
+this insane? Maybe but that's never meant wrong.
+
+
+I did have the whole internet printing press thing going.  But we need
+to look deeper
+
+Software is not seeing the productivity gains it should.  But why?
+
+Firstly we are not software literate as companies Not seeing right
+size nor right interfaces
+
+Second we are of seeing marketplace of companies to enable right
+sizing But we can define what it is - code as the definition of all
+
+
+Productivity gains held back by company structure, lack of code at all
+levels
+
+Architecture paradox - what we see as companies are not all the
+decisions and functions needed - we are not seeing
+everything. Software literate company will raise to level of explicit
+code eachnof those activities - it will be real architecture to build.
+
+A programmable company is one where all its activities and decisions
+are encoded. See Apple and its runbook.  When asking for a quote ""
+
+
+What is a programmable company - where it's decision processes are
+both encoded, and adjustable by internal (direct coding) and external
+(customers choosing or not choosing to buy, take action)
+
+As much of facebooks actions, it's resource allocation, are steered by
+the mass actions of its user base. It is a vast AB test. Now inntheory
+this is true of any company - if we stop buying diesel cars GM will
+stop making them. But the feedback is so crude and so long term that
+it has little effect.  But the programmable company has much finer
+grained touch points and is more attuned to them. More ML means even
+more attundedness
+
+
+So programmable company has all of its activities and its decision
+points in code (migration to infrastructure as code) and these nodes
+are programmable by internal and external actions.  This assumes more
+democracy in the internal decisions (explicitly excluding people is
+harder. See the linux hierarchy ? Open discussion, Chinese parliament)
+
+With more activity automated we will see both more effi envy and more
+problems - serverless world is where companies have to rebuild their
+factories to accommodate software, the grain of the internet
+
+Amazon had to solve these internally and basically released it.
+
+Putting everything into code is the only way forward - from routing to
+deliveries to accounts the whole skeleton of companies will need to be
+as defined by code as an AWS web server.
+
+We are going to redesign that much
+
+
+Architecture paradox But this leads to the architecture paradox - by
+having a robot do the building there is a lot more upfront work
+fromthe architect (coding)
+
+Productivity conjecture
+- we are missing the re-arrangement of work - that software literacy may be 
+
+I reject utterly that now that every freaking adult on the planet can
+communicate with every other that we are not seeing productivity gains
+(mobile phone choosing best market for produce)
+
+- biggest idea is the iPhone. We just are not seeing the productivity
+  gains we expect forom the Internet. It is hard to credit that it is
+  a bubble the whole world has bought. We are nearly at a stage where
+  every adult human has online access of some form.  That matters
+  deeply
+
+What we are missing is the re-organisation of the factory similar to that of electrification
+
+We are missing the dynamo. 
+
+
+Kaizen vs Kaikaku
+-----------------
+
+Run the company vs change the company
+
+Incremental change (AB testing) vs Radical change
+
+WHy not SaaS
+------------
+
+BEcause I *should* be able to do:
+
+::
+
+   authenticate('mycompany')
+   for employee in get_all_my_employees():
+       if employee.isTimesheetComplete:
+           approve_payroll(employee)
+	   send_payment_to_bank(employee)
+	   send_email_to_employee(employee, template="youarepaid")
+
+Now, there is a lot of noise about IFTT and all the SaaS providers and
+so on but - they are wrong.
+
+The above is the *right* way.
+
+It just is.  You know it is.
+
+
+Operations
+----------
+Severity Levels
+usually maps to customer impact
+
+(Apologies to Abraham Lincoln)
+
+* All of the people cannot use all of it, all of the time
+* All of the people cannot use some of it, all of the time
+* Some of the people cannot use all of it
+* Some of the people cannot use some of it
+* Some of our capacity or redundnacy is lost, but no people are affected
+* Everything Else
+
+Is like a DefCon - actual *action* is required and defined and taken
+(ie customer support portal is updated, these people are notified.)
+
+This is *still* a programmable company - only we did not programm it
+to deal with this situation and so it needs to be worked *on* not *in*
+
+
+Politics and software
+----------------------
+
+- new economics becoming clearer - the neo-liberal consensus seems agonisingly wrong in Africa and just misguided post 2008
+Open source - oss4gov manifesto
+
+
+
+I argue that we are seeing three trends coming together
+
+- coaseian ideal firm size is shrinking. Look at Bank of America/google.  Challenger banks etc. Yes vast scale matters - but at a certain point all business transactions are entries in a shared ledger. Remind you of something.
+
+
+I don't think we are there yet. Ledger technologies don't scale to the level we care about punlically. But internally we are there.  But so was email before internet - the big win for electrification was the dynamo. 
+
+- faster feedback on customer likes - wants in tech firms. Killing lions, cutting through beiraicy (end of project managers) 
+- most projects are co-ordination - but code is self co-ordinating - programmable company is a non-project company
+
+A programmable company is one where the current decisions are encoded in software
+
+So let's imagine we take a decision on a project - this must mean a chnage to something (else it's a rubbish decision) so we record 
+
+- what was decided
+- why it was decided
+- how to judge its success
+
+This is a series of commits / changes across the base - from change to monitoring system to commits on the codebase 
+
+
+Summary
+
+If you are not coding, start
+If you are not replacing whole projects with code that checks if other code is doing what it's supposed to, do that
+If you are not migrating to a serverless, run anywhere model (with server-led for some highly optimised areas) do that
+If you are not using crypto-signed ledgers everywheee internally do that
+If your companies actions, reactions and decisions are not in code, do that
+If you cannot do what if analysis on your company's defining code, do that
+
+
+
+
+Steam factories and the rise of electricity
+Steam factories ran to a central Rythmn, a single shaft ran from the vast engine across the factory floor and cranks attached to it. Everyone worked to the engines ryhtmn, physically located along the shaft
+
+Toyota quality cicrcle simply could not be invented.
+
+
+
+Culture 
+Ok it's not the dog whistle version here - genuinely
+
+Discuss economic changes (ha join Chang) - the reworking of world economic theory from neon liberalism after 2008. It is highly likely to undergo changes in western world
+
+Now the software that is written is ireducably connected to culture it came from- the liberal hippy anti government culture of Berkeley has had enourmous impact (beards and gpls)
+What is impact of Indian and Chinese culture - hard to say from outside. Some ideas are possible - less regexs, 
+
+But open gov is almost a democractod imperative
+I push Oss4gov but I need it funded by right wing maniacs
+
+
+Steven Soderburgh shots his films on iphones - he does camera and editing "two more conversations Indont need to have"
+
+It's this speed of decision making and reduction in friction that programmable company aims to produce - but it runs up against bad decision making of start ups in ethics feee regulation free environment 
+
+OSS funded by EU
+https://www.zdnet.com/article/eu-to-fund-bug-bounty-programs-for-14-open-source-projects-starting-january-2019/
+
+Facebook and radio lab podcast
+expand a lot
+Centralising has lead to trying to moderate at billion people scale - this leads to facebook moderation currently at 16,000 people looking at a million flagged items a day
+
+the trade off between better (western cultural) norms (!) and raising the floor and being able to deal with granularity 
+
+It most reminds me of the rowntrees model village - where they tried to make perfect community
+Which is nice but it did not work for everyone and it chafed a lot and eventually people moved out because they wanted different freedoms - 
+
+walled garden is nice but if you cannot build on the garden and create your own house and community then ... you will eventually outgrow it
+
+Problems with PageRank
+----------------------
+
+Facebook and youtube etc are aggregators - and a problem with Pagerank leads to a global feedback loop - that google (the essential search engine) assumes that a *domain* that has high quality in one location has high quality across the board.
+
+So facebook.com/newyorktimes is seen as good content by google.  And then facebook.com/grotmoron gets that same level of google juice.
+
+This means that if you want your web page to be found by google it is waaaay better to put it on facebook than on your own domain
+
+this leads to positive feedback loop for aggregators and a negative one for the domain based internet (which is how it is designed)
+
+but this is a flawed google (search engine) view - in other words facebook is assumed to be guaranteeing quality of all its content - which effectively makes it a publisher (the big radiolab discussion on moderation at scale)
+
+so some form of regulation for search engine seems sensible - ie something in robots.txt that tells you the site structure and site governance (ie this bit we publish, this bit is platform
+
+
+Software Socialist
+------------------
+
+We live in utopian socialist society
+VC funding is just ensuring nice middle class life not threatens when trying to build company
+
+But point of (most) companies is not wealth creation (!) - Facebook just took ad revenue from Fifth Avenue
+Amazon just moves sales from Walmart to amazon
+
+But the organisational changes needed to achieve this are profound and deep - building amazon was an amazing acheieneltnt - and it is in the organisational format that government follows - government invests stem for long term wealth creation (new forms tech) and business takes that invention and innovates new product forms and new organisational forms to distribute the created wealth (or rather wealth only creates when it is distributed)
+
+As such my predilection got expenreinifn with governance forms in organisations - why Debian is a bigger idea than its distbuttion
+
+
+social media - it turns out that social media was actually public publishing - (Zuckerbetgs pivot to person to person messaging) - and that newspapers were curators of publishing - journalism was about deciding what gets putinot oublic sphere.  
+
+democratic journalism is important - social media was a way of allowing people to publish something important  (mexico drug wars) or crap (influencers) - somehow we need good ways to find facts and raise them to consciousness - a backlog of issues and a store of facts
+
+
+The new socialism - of the character
+---------------------
+https://news.ycombinator.com/item?id=19661601
+
+Companies will chnage to be more open because the benefits of the MOOP
+
+Look at graduates of today - well adjusted renaissance people with little desire / experience to kill maim.
+
+Was this how we imagined the future in 1800? No - yet we are what changed more than the world - we could not take the 1750 mindset into a car / modern world - it's not a question  of technical skills - it's about character and attitude 
+
+it's basically why putin cannot take his country further - it's the reason the drunk cannot crawl out of the bottle.
+
+It's about choice. 
+
+Keanau would know 
+
+
+
+Science funding and support
+----------------------------
+
+Are we seeing drop off in support for science and technology? Well, poets don't tend to compose eulogies for scientists buried in st. paul's very much like Newton? (maybe hawking?)
+
+We are seeing explanation exponent change
+
+what makes rocket ships go up - funding makes rockets go up - no bucks no buck rogers.
+
+Funding comes from support - which comes from understanding why the next step counts - this is education
+
+I am doing important experiments for kids and Inam 500 years behind !!
+
+education funding comes first 
+
+Statistical socialist
+---------------------
+I am a statistical socialist - i believe that every human being born in the planet is born within a narrow normal distribution for all of their attributes - intelligence, height, weight, good looks and sexual size (!) - and where their life outcomes are greater than the range of their distribution i believe those outcomes are influenced more by structural and systemic factors, and then by their character 
+
+
+Rise (return) of curation
+--------------------------
+Death of the newsfeed 
+https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed
+Newsfeed is going as facebook signals peer to peer focus (snapshot stories taking their toll)
+But this implies rise again of journalism - who do i follow which leads to newspapers with opinions - but at least they are open accountable opinions (cf murdoch scandals) 
+
+Position on platform vs search vs responsibility 
+-------------------------
+https://news.ycombinator.com/item?id=19446511
+https://news.ycombinator.com/item?id=19406733
+
+AI Auditing
+------------
+
+https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias?utm_source=Benedict%27s+newsletter&utm_campaign=80ec9639df-Benedict%27s+Newsletter_COPY_01&utm_medium=email&utm_term=0_4999ca107f-80ec9639df-70375349
+
+It's going to be around picking out sample bias really really well
+
+Seems to me to create multiple models using random selections of same training sets and then see if models come up with similar answers - can build statistical models around that.
+
+find a statistician??? 
+
+Predistribution
+---------------
+
+Roberto Unger - changing the market structure of it is unfair so that redistribution is not always swimming up stream
+
+"A billionaire is an example of market failure" (me)
+
+Progressive politics seems to be engaged in harm reduction for their opponents 
+
+Brexit
+------
+The big takeaway here is the constraining of executive powers on international scene - Uvettee cooper oliver lwtwin bill - seen in congress refusing to ratify treaties with dubbya - this is greater recognition of gloablisation - not just trade between boundaries but with services and regulation a merging and porous nature of boundaries  - and a search for legislative approval - a search for democratic approval against executive power - truly reflecting the new power balance infra companies 
+
+SICP for orgs
+-------------
+Structure and Interpretation of Programmabke Companies 
+
+The Big Ideas
+-------------
+We have well tested ways of using science to discover facts
+
+we have ways of using engineering science to discover facts about machines
+
+we are starting to use those lessons to run software system
+then we shall use same engineering and statistical principles to find facts on the rest of the pyroamid - how to better run organisations 
+and then societies
+
+and we shall do so if we choose the right metrics to be guided by
+
+and see david kings handling of foot and mouth - two days and it turned around by using what epidemiologist saw as simple 
+
+
+
+
+
+
+
+
+
+A point about Pikety
+--------------------
+
+* Pikety redux
+
+  - Labour lost, capital won (the reaosn wages not  subject to suply demand)
+  - the great hollowing out
+  - literacy and automation
+  - Snowden was also right - data and pollution 
+  - snowden
+https://en.m.wikipedia.org/wiki/NSA_ANT_catalog
+http://www.nsaplayset.org
+- Whats happening in the world - a sense of perspective
+* http://www.digitalattackmap.com/faq/
+* also want, wars, trade, shipping, energy, employment, poverty, investment etc.* 
+some kind of model / mapp for the whole world. where is the money flowing / going?
+
+
+  That the record of software coming in to disrupt industry is good -
+  it's hard to learn software.  As a company this book is about having
+  software in your company DNA
+
+A point about project management and democratic companies
+---------------------------------------------------------
+
+I am going to stick my neck out and go for it - companies will become
+more democratic - we shall see more voting and consensus in the
+workplace.  We will also see the end of deadlines as companies become
+*event driven* - that is, instead of shouting "get to this point"
+there will be more "we need to get here" and monitoring and
+encouragement.
+
+
+The problem is *always* at the top
+----------------------------------
+
+Most technical problems can be solved by changing the business environment.
+If the security of a company is challenged because a top level executive refuses to follow
+the security restrictions, then there is a clear choice betwene firing the Sales Director
+or having security.  Only the Board can decide that, and once they do it must be clear.
+
+Google is currently experiencing a similar issue over sexual harrassment.
+
+Data publication
+
+
+
+
+Fractal Management
+------------------
+
+How individuals and teams need to model, monitor, mentor.
+
+
+- CI and repeatability
+- reporting on functionality of running processes
+- analysis of inputs, running, outputs
+- reporting upwards and outwards
+- marketing your code
+
+
+
+
+
+security (secrets management & auth)
+------------------------------------
+-- user management / aithentication authorisation
+-- FIDO
+
+
+security (deployment / repeatability)
+-------------------------------------
+
+
+prod parallel
+-------------
+Modelling
+
+
+
+-- plumbing
+
+
+
+
+
+
+
+   
+
+
+A point about Simplicity
+========================
+
+
+Our golden goal is to keep things simple.
+
+Simple breaks in simple ways, simple is simple to extend and improve.
+
+Its not that simple is *easy* - often it is the opposite of easy, or quick.
+
+But simple wins out over time. Simple gives great ROI.
+
+I throughly recommend listening to Rich Hickey on this subject (Link)
+
+So please keep in mind - we aim for simple.  Even if our day to day
+work pushes us to quick and easy and complicated.  We need to push
+back.
+
+
+Data Mangement  Philosophy
+==========================
+
+Data Publishing needs to be a business level function, providing
+consistent accurate and timely data to the rest of the organisation is
+a vital task.
+
+Like Bezos, can only consume data that is published - and people only
+publishbsokething they willing to support
+
+"but i cannot get my job done if "... that's not the problem ... the
+problem is clean data
+
+it's like security - it's a priority or it is not.
+
+
+
+
+
+
+
+
+.. rubric:: Footnotes
+
+.. [#f1] The linked essay is by Eric S Raymond and is almost two
+   decades old, and lays out an important philosophical difference
+   between how open source software gets developed (in a mad press of new
+   things being tried out) and how cathedrals are built.  The cathedral
+   builders have tried to learn from the bazaar, and concepts like Agile
+   are helping (a bit) but building software in our modern day
+   institutions is still frustrating.  As software eats the world, it
+   will find politics and push back.
 

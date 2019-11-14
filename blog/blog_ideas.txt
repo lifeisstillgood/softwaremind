@@ -1,0 +1,50 @@
+This is to be a brain dump of ideas for blog posts / newletter call outs.
+
+* lexorank
+Why it is useful how it works, limitations etc
+
+* CRDT - 
+
+* Fred brooks - data structures matters
+
+* urandom and random, speed differences etc
+
+* data pipelines for enterprise
+Managing sources, keeping complete run meta data
+
+* project management, roadmaps, three level approach,
+  enterprise feedback, enterprise deadlines and keeping a
+  clear statement on cost, time and resources.
+
+* release management
+
+* config management (and other core stuff)
+
+* logging, event logging, event messaging, and graphene
+
+* gmail api
+
+* gmail contacts, and simplest possible CRM and funnell
+
+* PKIs
+
+* flaskfido
+
+* PEPs, asynchronous communication, email is the serial killer app
+
+* reportlib
+
+* time, ntp, time in docker,
+
+* burpsuite
+
+* stats for prgrammers
+
+* charting for coders
+
+* no mocking testing
+
+* spacy and ML and text
+
+* web design and UI and bootstrap and design cheat sheet
+

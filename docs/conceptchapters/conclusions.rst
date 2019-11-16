@@ -373,3 +373,7 @@ and then societies
 and we shall do so if we choose the right metrics to be guided by
 
 and see david kings handling of foot and mouth - two days and it turned around by using what epidemiologist saw as simple 
+
+
+Tech and economics drive certain things
+- shakespeare was not a tech change but an economic change - the cities were now big enough to support a permanent home (cf spanish similar person and wembley arena, and the first writer of all those ideas ) 

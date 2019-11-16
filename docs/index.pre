@@ -3,33 +3,18 @@ The Software Mind
 ==================
 
 
-Introduction
-============
+Why
+===
 
-I have twenty years experience "in the trenches" of software
-development - writing commercial and open source software for cutting
-edge ISPs, major financial houses and not-for-profit organisations, in
-big offices, tiny offices or on globally distributed teams.
+There is a lot written about *how* to create software and
+software teams.
 
-And I have learnt a lot about what works, and what does not, when it
-comes to getting software out of the door.  
+This book is about *why* the how is how it is.  The *why* needs
+both the *right point of view*, and the history of how we got here.
 
-Mostly this is not *how* to create software and
-software teams, a lot of this book is about ... why.  Why is software
-eating the world, why do certain practises work well and why do
-certain pathologies still run in our organisations.
+So this book is at best, an opinion piece - informed by over twenty years "in the trenches" of software development.  
 
 I call this *why*, The Software Mind.  The *how* is The Dev Manual.
-
-There are only two rules here 
-
-1. The world changes - and our minds must chnage too.  What
-is in the software mind is the best I know of today
-
-2. the dev manual must be working code - explanations are fine but
-working code examples is the only useful devmanual - esp if I will be
-getting pull requests
-
 
 
 {{ conceptchapters/sm_software_literacy.rst }}

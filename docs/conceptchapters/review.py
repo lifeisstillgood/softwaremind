@@ -17,15 +17,17 @@ import docutils
 import sphinx.util.nodes
 
 def main():
-    f = '/var/projects/softwaremind/docs/_build/json/conceptchapters/sm_software_literacy.fjson'
-    with open(f, mode='rb') as fo:
-        d = json.load(fo)
-    print(d.keys())
-    m = sphinx.util.nodes.NodeMatcher(sphinx.util.nodes.reference,
-                                      refdomain='std',
-                                      reftype='citation')
-    x = d.traverse(m)
-    print(x)
+    pass
+
+def doctree_resolved(app, doctree, docname):
+    for section in doctree.traverse(docutils.nodes.section):
+        title = section.next_node(docutils.nodes.Titular)
+        if title:
+            print(title.asText())
+
+def setup(app):
+    app.connect('doctree-resolved', doctree_resolved)
+
     
 if __name__ == '__main__':
     main()

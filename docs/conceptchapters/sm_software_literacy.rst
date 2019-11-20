@@ -128,34 +128,45 @@ that returns money to the owner, directly or enabling other assets to
 do so.
 
 Roads, railways, air pollution regulation, scientific publishing and
-more are all *shared*. Paid for by taxaation, laid down as forms of capital
-like Ancient aqueducts and used.
+more are all *shared*. Paid for by taxaation, laid down as forms of
+capital like Ancient aqueducts and used.
 
 Yes rentiers do take unfair shares.
 
 
 The leads us to Data.
 
-Data is a new form of value - before computers, data had great value - but it was limited. Like gold the cost of surveillance made prohibitive the mass collection - look at Stasi.
-But now we have found a way to turn lead into gold.  THe new tech firms have taken this data.
+Data is a new form of value - before computers, data had great value -
+but it was limited. Like gold the cost of surveillance made
+prohibitive the mass collection - look at Stasi.  But now we have
+found a way to turn lead into gold.  THe new tech firms have taken
+this data.
 
 Now we shall start to see it laid down as capital. As public goods.
 
-But rather than regulation *solely* perhaps the best approach will be to
-use IP law.
+But rather than regulation *solely* perhaps the best approach will be
+to use IP law.
 
-If I write a book, for example, or even a web post, a tweet or even an email, that collection of words is (UK / US / Most western law) assumed to have *automatically* my ownership over it (I do not have to assert copyright seperately to the act of creation / publication.
+If I write a book, for example, or even a web post, a tweet or even an
+email, that collection of words is (UK / US / Most western law)
+assumed to have *automatically* my ownership over it (I do not have to
+assert copyright seperately to the act of creation / publication.
 
-THe words in my email are *created* by myself. But the metadata around it, the time of the email, whom it was sent to, even perhaps other derivable data such as my tonality, my location at time of sending, and then where I could not have been as well. All this is not presumabled to be mine automatically. 
+THe words in my email are *created* by myself. But the metadata around
+it, the time of the email, whom it was sent to, even perhaps other
+derivable data such as my tonality, my location at time of sending,
+and then where I could not have been as well. All this is not
+presumabled to be mine automatically.
 
-It is not going to be a huge stretch to assign ownership to that meta data - to the data footprint.  And if I own that data that others are hoovering up,
-what right do they get to use it and what cost to me.
+It is not going to be a huge stretch to assign ownership to that meta
+data - to the data footprint.  And if I own that data that others are
+hoovering up, what right do they get to use it and what cost to me.
 
-Now this is not a perfect framework - but it does have some advantages.
-Public commons.
+Now this is not a perfect framework - but it does have some
+advantages.  Public commons.
 
-Locking data up in private silos is not the solution.
-GIve it a price and it will find a way to become capital again.????
+Locking data up in private silos is not the solution.  GIve it a price
+and it will find a way to become capital again.????
 
    
 
@@ -252,13 +263,21 @@ look different to anything else before.
 Be opinionated
 --------------
 
-In my opinion, Software is best when it is *opinionated*
-That is that the software has a world view built into it - not merely in the
-apis or the configuration, but the choices of architecture, in its bones.
+In my opinion, Software is best when it is *opinionated* That is that
+the software has a world view built into it - not merely in the apis
+or the configuration, but the choices of architecture, in its bones.
 
-This opinion is like the "voice" that novels and writers aim to develop - and in my utterly unsubstantiated view, will be a good portion of brand of a programmable company - an universally configurable company that could be anything will simpley end up being nothing to anyone.
+This opinion is like the "voice" that novels and writers aim to
+develop - and in my utterly unsubstantiated view, will be a good
+portion of brand of a programmable company - an universally
+configurable company that could be anything will simpley end up being
+nothing to anyone.
 
-In short a programmable company is going to have a limited phase space - a set of directions it could take, but also options it cnanot take without breaking its own voice.  In short if you want to turn Virgin Records into Coutts Bank, its not going to be a simple config file upload.
+In short a programmable company is going to have a limited phase space
+- a set of directions it could take, but also options it cnanot take
+without breaking its own voice.  In short if you want to turn Virgin
+Records into Coutts Bank, its not going to be a simple config file
+upload.
 
 
 
@@ -336,7 +355,10 @@ because it was a way to control companies in a *very nearly*
 programmatic way.  By setting limits to how subordinates could behave
 by setting budgets, and by being able to monitor how successful they
 were through budgets, a company could be controlled, or perhaps I
-should say *programmed* to behave in certain ways. Companies could be controlled by telling people what to do, but by setting and altering budgets, they could be (in a limited sense) programmed. They were and are a slow form of AI [#stross1]_ 
+should say *programmed* to behave in certain ways. Companies could be
+controlled by telling people what to do, but by setting and altering
+budgets, they could be (in a limited sense) programmed. They were and
+are a slow form of AI [#stross1]_
 
 
 
@@ -388,9 +410,9 @@ size if it is automated.  The amount that companies are / will spend
 on "Robot Process Automation" (ie screen scraping and replacing back
 office staff) is a major growth area today.
 
-But automating processes is not the whole story for a programmable company.
-There seem to be four components - trust-able data, models / what if planning,
-automation of processes, good governance.
+But automating processes is not the whole story for a programmable
+company.  There seem to be four components - trust-able data, models /
+what if planning, automation of processes, good governance.
 
 What aspects of Coasian Transaction Costs are being changed by software?
 ------------------------------------------------------------------------
@@ -415,7 +437,7 @@ Data that is generated from inside the company is implicitly trusted
 fake project management), but data from outside the company needs
 filtering, transforming etc.  However the impact of external *ledgers*
 (with the Blockchain as the poster boy ledger) will change what can be
-trusted.
+trusted, and how simply it can be ingested. 
 
 Walmart and Tesco are sometimes described as companies only possible
 after the creation of the Relational Database - they built internally
@@ -437,8 +459,8 @@ on rented machines and re-encrypting it when finished is likely to be
 a growth model.
 
 Additionally the willingness to outsource wholesale services to SaaS
-companies shows that data management is loosely held. (I mean the
-timesheets and payrolls of employees is not only sensitive but
+companies shows that data management is often loosely held. (I mean
+the timesheets and payrolls of employees is not only sensitive but
 competitively useful, but hardly any company does this in-house
 anymore.)
 
@@ -665,6 +687,7 @@ Fake News and Fake Project Management
 The whole programmable company thing has two needs - it needs a body
 (a corps or corporation) that does as it is told, and there has to be
 a controlling mind. That controlling mind is the company governance.
+
 At the moment it is a dictatorship of epic proportions. The CEO says
 jump, 20,00 people say how high. But as more and more of us shift into
 being programmed (like warehouse pickers or Marketing Directors) there
@@ -675,22 +698,17 @@ affect was measured in time it took a ship to sail, company employees
 had much autonomy.  This autonomy has been shrinking and shrinking,
 till many employees are merely robots, ripping off perforated paper.
 As this hits the middle class, middle management, then history tells
-us middle classes demand representation at the top.  Demand democracy
-in corporations.
-
-I conjecture that we shall see more and more skilled people, the ones
-who are usually "changing the company" will jump ship and run their
-own smaller service providers.  But this kind of is happening as many
-contractors will say.  But it is still a command and control
-relationship. Smaller companies, with smaller transaction costs.
-
+us middle classes demand representation at the top.  Demand that they
+are consulted in the changes being programmed. (WHich curiously will drive
+software literacy - if you want to have some influence on the laws being written
+you need to be able to read the laws).
 
 
 The programmable company
 ------------------------
 
-For almost everything a company or organisation does a second time,
-that can be automated or co-ordinated via software.  A company will
+For almost everything a company or organisation does (a second time),
+can be automated or co-ordinated via software.  A company will
 become a programmable entity.  Most if not all effort that goes into
 today's software projects, goes not into creating new business logic,
 but into finding the data, massaging it, guaranteeing it, handling
@@ -715,15 +733,13 @@ There is a lot of work on getting processes 'into the cloud' Putting
 data up there securely, Future issues will include not leaking
 competitive information Lots of work on Robot process automation.
 
-
-
 Trusting data and firm size
 ---------------------------
 
 I think there is another interesting way to look at Coase firm size -
 its to do with the cost of *trusting data*.  If data is published
 internally, or from a *trusted third party* (lets say Reuters) there
-is a limited amount of double checking needed.  Rumour is aproblem in
+is a limited amount of double checking needed.  Rumour is a problem in
 all companies, but Fake News is not. But with smaller and smaller
 companies, the cost of finding and *trusting* data increases.
 
@@ -747,107 +763,23 @@ As such the current privacy, GDPR world is not merely a lefty liberal
 problem. It is a major factor in form size, market efficency and the
 underlying fundamentals of
 
-How do I know - well, as a software literate person, its just obvious.
 
-
-
-New Project Management
-----------------------
-
-Is fake news really a problem inside companies. Let me tell you a
-story. Names have been changed to protect the guilty
-
-Project - codebase begins, insufficiency for purpose, no one admitting
-to it because if so then get fired.  The project management process
-allowed for ... lies. Yes it passes, kind of.  any outside scrutiny-
-day by a news reporter - would trivially see a problem. But no the
-fake news carries on up
-
-size makes this harder simply because at each step the ability to take
-time and challenge fake news is harder - and made worse by the culture
-of productivity/ hazing of directors
-
-so we need automated helpnto dosciver fake news in our own project reporting
-
-and that means trusting / managing the code 
-
-this inefficient is argued it is what brought down soviet - what all
-doctoaros suffer from (see saudi air force) - and we love it in our
-own companies??
-
-
-We are already seeing calls for the software industry to regulate
-itself, on privacy, on deals with repressive regiemes.  The answer is
-not as simple as coders all being nice people.  But society needs to
-regulate and also accept change.  We shall see that in section 2.
-
-But companies, governments and organisations of every stripe, will
-need to adapt to a new set of technologies that have a grain, a
-direction of travel, ... a tidal force.  Those techologies are here
-now, and our old organisational structures are no longer sufficent.
-
-Lets look at it this way - Facebook, if it took all 1.5 BILLION users
-and moved to a new land mass would be the worlds largest
-country. Ever.
-
-And it would be the least democratic. Ever. A one man dictatorship. No
-law courts, no police, no constitution.  Nada.  And yet every Facebook
-app-using citizen would have more daily contact (what 3 hours a day?)
-with its "government" than they ever had with their proper
-governments.
-
-Each day we see some new controversy, YouTube failing to police its
-comments section against paedophiles, (find more examples).  This is
-not because Facebook is inherently evil, but because we are moving our
-lives online - and *some* people moving online *are* inherently
-evil. [#]_
-
-So companies, governments, organisations, the structures we all spend
-so much of our lives working within, need to change to get the best
-out of the new technologial opportunity we face.
-
-Because it could be a golden future for humanity.  Honest.
-
-
-.. [#]:: OK, you might need to know a tiny bit about my political
-      stance, which can be described as nice fluffy Euro-liberal until
-      we look at Child Protection and I take a stance that makes
-      Gengis Khan look like a big softie.  Anyway the important
-      takeaway for this book is individual equality and market-led
-      price discovery.
-
-(more governace)
 
 Trolley problem
 ===============
 
-?
 More and more software, more and more trolley problems
 Britain got its knickers in a twist over one referendum - imagine how we would
 deal with "kill kid or driver?"
 
 
-Socrates and Economics
-======================
+Recap
+=====
 
-THis is a divergance from the main discussion, so blip over if you like.
-However i think this lays down a good argument
+My theses is ... Software literacy -> A new kind of organisation,
+- Programmable company - leads to focus on Governance (as the running is automated) and less focus on Director Hazing -> leads to new forms of givernance and
+democracy in companies -> leads to new forms of democracy (presumably modelling)
 
-Economics is improved energy use for human utility
-Socialsim / capitalsim
-Shared capital - Romand aqueducts still csarrying water 2000 years later
-All capitalism is is a foam on top of the capital helping us allocate scare resources in the quest to build new *shared* capital in our socialist utopia.
-
-Socrates said so so it must be right.
-
-
-We can see this in PG&E and Salt Lake Tribune
-Salt lake tribune is now first local newspaper (pulitzer prize winnng)
-to become a non-profit with IRS approval.  This is the start I feel of the migration of journalism from the "foam" of capitalism to the ocean of socialism -
-
-compare this to the PG&E actions where they are turning off electircity to millions of users in case the electircity pylons fall over and start fires.
-
-THe failure to put capital into burying the cables shows the failure of the foam to transition downwards.  
 
 
 Governance and Software
@@ -858,7 +790,8 @@ Governance and Software
   "Writing is nature’s way of showing us how sloppy our thinking is."
   Leslie Lamport
 
-Writing down software shows you how sloppy your thinking was about the job in hand.
+Writing down software shows you how sloppy your thinking was about the
+job in hand.
 
 I very happily recounted my "Literacy started with the printing press,
 software literacy starts with the Internet" meme in the last chapter.
@@ -889,6 +822,44 @@ tell it.  And this means we shall have to write down what we really
 mean.
 
 This is going to be a problem.
+
+
+The Trolley Problem in Software Governance
+------------------------------------------
+
+The trolley problem is a well-known [EXPAND]
+
+The big issue here is *not* which answer should cars be programmed
+with but how do we (human societies) arrive at an answer ... I almost
+wrote "an asnwer acceptable to most people" but even that assumes too
+much.
+
+This is definitely not an area where "expertise" should confer any
+superior position - designers of car software will certainly be able to
+inform a public debate,
+
+When we add into the mix that cars will be (designed, programmed,
+built) in opaque dicatorships like China, we can easily see a new for
+of tarriff barrier springing up that Maynard Keynes would not have
+predicted.
+
+And just having straight forward referenda might not be a good idea -
+One can very very easily see how these answers can be weaponised
+("European law will order German cars to kill your child!" is an easy
+Brexit-y headline).
+
+And I suspect having too much choice, too much configurability will be
+a bad idea ("You have entered Buckinghamshire, your car will now kill
+you in an unavoidable collision, favouring any pedestrians, will limit your
+speed to 30 MPH and may not turn right on red.  You have now entered
+the town of Bath where your car is programmed to kill pedestrians who
+are not wearing reflective clothing in an unavoidable collision, but
+only on Weekends ...")
+
+To be quite honest I think that the business model of Automated Vehicles is fundamentally flawed.  It is likely that the technology to make cars perfect drivers
+in all road conditions, is out of reach for many decades.  Cars will not be good enough to avoid us answering these questions - and these questions are impossible to answer.  And as such the busines model predicated on sharing the *existing* road infrastructre is flawed - automated vehicles will need segreagated lanes to drive on to keep the death count down - highways will be fairly easy, but at some point it will look like railway lines.
+
+And the econmis will be similar.  That or it is milk flats all the way
 
 - self driving car issue
 - access to agorithms
@@ -1057,7 +1028,7 @@ Sweden Ministry of Transport
 ----------------------------
 
 So just as we thought OPM was bad, the Swedish Government stood up,
-looked the US Feds in the eye and said, "Hold my beer"
+looked the US Feds in the eye and said, "Hold my beer."
 
 https://www.privateinternetaccess.com/blog/2017/07/swedish-transport-agency-worst-known-governmental-leak-ever-is-slowly-coming-to-light/
 
@@ -1170,6 +1141,73 @@ http://time.com/collection/davos-2019/5502591/tim-cook-data-privacy/
 It's not the right manifesto - but it at least has a heavy hitter and is an indication of direction
 
 
+New Project Management
+----------------------
+
+Is fake news really a problem inside companies. Let me tell you a
+story. Names have been changed to protect the guilty
+
+Project - codebase begins, insufficiency for purpose, no one admitting
+to it because if so then get fired.  The project management process
+allowed for ... lies. Yes it passes, kind of.  any outside scrutiny-
+day by a news reporter - would trivially see a problem. But no the
+fake news carries on up
+
+size makes this harder simply because at each step the ability to take
+time and challenge fake news is harder - and made worse by the culture
+of productivity/ hazing of directors
+
+so we need automated helpnto dosciver fake news in our own project reporting
+
+and that means trusting / managing the code 
+
+this inefficient is argued it is what brought down soviet - what all
+doctoaros suffer from (see saudi air force) - and we love it in our
+own companies??
+
+
+We are already seeing calls for the software industry to regulate
+itself, on privacy, on deals with repressive regiemes.  The answer is
+not as simple as coders all being nice people.  But society needs to
+regulate and also accept change.  We shall see that in section 2.
+
+But companies, governments and organisations of every stripe, will
+need to adapt to a new set of technologies that have a grain, a
+direction of travel, ... a tidal force.  Those techologies are here
+now, and our old organisational structures are no longer sufficent.
+
+Lets look at it this way - Facebook, if it took all 1.5 BILLION users
+and moved to a new land mass would be the worlds largest
+country. Ever.
+
+And it would be the least democratic. Ever. A one man dictatorship. No
+law courts, no police, no constitution.  Nada.  And yet every Facebook
+app-using citizen would have more daily contact (what 3 hours a day?)
+with its "government" than they ever had with their proper
+governments.
+
+Each day we see some new controversy, YouTube failing to police its
+comments section against paedophiles, (find more examples).  This is
+not because Facebook is inherently evil, but because we are moving our
+lives online - and *some* people moving online *are* inherently
+evil. [#]_
+
+So companies, governments, organisations, the structures we all spend
+so much of our lives working within, need to change to get the best
+out of the new technologial opportunity we face.
+
+Because it could be a golden future for humanity.  Honest.
+
+
+.. [#]:: OK, you might need to know a tiny bit about my political
+      stance, which can be described as nice fluffy Euro-liberal until
+      we look at Child Protection and I take a stance that makes
+      Gengis Khan look like a big softie.  Anyway the important
+      takeaway for this book is individual equality and market-led
+      price discovery.
+
+(more governace)
+
 A New Hope
 ==========
 
@@ -1212,8 +1250,6 @@ literate editor and that setup and run by an illiterate - charlelemn
   I cannot imagine working on a code base I cannot roam around in
   Add in pixar and candour, and its a new culture.
   
-
-
 
 Software is politics now
 ========================

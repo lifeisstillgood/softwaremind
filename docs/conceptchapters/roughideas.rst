@@ -446,3 +446,24 @@ In the end it matters little. We have been very good at killing our own kind for
 
 
 
+Socrates and Economics
+======================
+
+THis is a divergance from the main discussion, so blip over if you like.
+However i think this lays down a good argument
+
+Economics is improved energy use for human utility
+Socialsim / capitalsim
+Shared capital - Romand aqueducts still csarrying water 2000 years later
+All capitalism is is a foam on top of the capital helping us allocate scare resources in the quest to build new *shared* capital in our socialist utopia.
+
+Socrates said so so it must be right.
+
+
+We can see this in PG&E and Salt Lake Tribune
+Salt lake tribune is now first local newspaper (pulitzer prize winnng)
+to become a non-profit with IRS approval.  This is the start I feel of the migration of journalism from the "foam" of capitalism to the ocean of socialism -
+
+compare this to the PG&E actions where they are turning off electircity to millions of users in case the electircity pylons fall over and start fires.
+
+THe failure to put capital into burying the cables shows the failure of the foam to transition downwards.  

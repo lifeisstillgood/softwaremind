@@ -1,81 +1,693 @@
-A point about software literacy
-A point about Company Size
-A point about Software Literacy
-A point about the Google Peace Dividend
-A point about Pikety
-A point about project management and democratic companies
-Fractal Management
-Plumbing
-security (secrets management & auth)
-security (deployment / repeatability)
-prod parallel
-Technical Architecture
-Code base governance
-A point about Systems governance
-Managing the lifecycle
-Profesional Stuff you should know 
-Project Management
-Event driven Project Management
-AWS and old school
-Docker AWS
-One New Skill Evening Club
-Functional Reactive programming and DAGs
-SoftwareMind
---
-Introduction
---
-How this book is organised
---
-The Software Mind
---
-The Metaphor of Building Software
---
-A point about Software Governance
---
-A point about Simplicity
---
-Workstation
---
-Plumbing
---
-Continuous Integration (CI)
---
-Security
---
-Configuration management and secrets
---
-Testing - a heresy
---
-DevOps
---
-Basic Management Reporting
---
-The scope
---
-Soft Skills
---
-Skills for individual developer
---
-Esprit d'corp and Team honesty
---
-Project and Programme management
---
-The Chairman's tricky Question
---
-CTO dashboards and Business Process Dashboards
---
-UI for idiots
---
-The dev manual - a proof of concept
---
-Putting it all together
---
-Micro-HowTos
---
-Google Peace dividend and Distributed computing
---
-Future
---
-Articles
---
-Out of date already
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+
+index
+    The Software Mind
+    Why
+    Software Literacy
+    Socrates Socialism and capitalism
+    The software literate company, and the programmable company
+    Follow the Literate
+    Be opinionated
+    Why are companies big or small?
+    Just what is a programmable company?
+    What aspects of Coasian Transaction Costs are being changed by software?
+    What is the political environment around data
+    Software applied to Data
+    A personal observation
+    Director Hazing
+    What about landscape - what are other companies doing.
+    Fake News and Fake Project Management
+    The programmable company
+    Trustable processes
+    Trusting data and firm size
+    Trolley problem
+    Recap
+    Governance and Software
+    The Trolley Problem in Software Governance
+    Knight Capital
+    Office Of Personnel Management
+    Sweden Ministry of Transport
+    Target and Yahoo
+    Equifax
+    Healthcare.gov
+    What have we learnt
+    There is hope
+    New Project Management
+    A New Hope
+    The rare, right way
+    Software is politics now
+    The revolution has not happened yet
+    Why write a book?
+    The shape of companies and countries to come
+    Politics and software
+    CIA and job protection
+    Redefining privacy
+    The emerging politics
+    The emerging secure computing platform
+    Company
+    What I cannot create I do not understand
+    Tendency to guess
+    Topless computing
+    Not nearly as much fun as it sounds
+    Why Am I writing these articles?
+    4. Coase
+    Growing Mary Poppins
+    Great Hollowing Out
+    Blockchain is not a magic sprinkle dust
+    solving gang problems
+    The autonomous vehicle bizplan fallacy
+    Software demands global regulation
+    How is the future going to look?
+    What is about to make my life harder?
+    Disks are becoming tapes
+    Parallel programming
+    Tarpits
+    Information security is as busted as DRM
+    Privacy
+    Conclusion
+    2019 wish lists
+    bibliography
+    Hardware and software
+    Software as a machine
+    Robo automation and AI
+    Web of Trust and crypto currency
+    Landscape and strategy
+    Simple to complex roadmaps
+    Kaizen vs Kaikaku
+    WHy not SaaS
+    Operations
+    Politics and software
+    Problems with PageRank
+    Software Socialist
+    The new socialism - of the character
+    Science funding and support
+    Statistical socialist
+    Rise (return) of curation
+    Position on platform vs search vs responsibility
+    AI Auditing
+    Predistribution
+    Brexit
+    SICP for orgs
+    The Big Ideas
+    A point about Pikety
+    A point about project management and democratic companies
+    The problem is always at the top
+    Fractal Management
+    security (secrets management & auth)
+    security (deployment / repeatability)
+    prod parallel
+    A point about Simplicity
+    Data Mangement  Philosophy
+

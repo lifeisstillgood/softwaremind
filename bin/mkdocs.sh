@@ -17,7 +17,6 @@ echo "Make Sphinx Docs"
 cd $REPODIR/docs/
 make clean
 make html
-make json
 make latex
 cd $REPODIR/docs/_build/latex
 pdflatex --interaction=nonstopmode $BOOKNAME.tex

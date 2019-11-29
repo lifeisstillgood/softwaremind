@@ -1760,52 +1760,75 @@ You find out where all the gaps are when you try and automate a system.
 
 Re-inventing the wheel
 ----------------------
-I am (re)writing a ER diagramming tool, for about the third time. This time no
-funny copyright issues with my employers, I swear.
 
-But there are many ER tools out there. And there are many languages, databases,
-games and more.  This does not stop us from writing another, just as
-the existence of a Haynes car manual does not stop people from taking their
-car engine apart.  We do it because we do not understand, and we want to learn.
+I am (re)writing a ER diagramming tool, for about the third time. This
+time no funny copyright issues with my employers, I swear.
 
-Sometimes, there is an itch to scratch.  But often the itch is for knowledge,
-and the desire to know if we *can*.  Benefiting the rest of the world is what we
-do to share our knowledge.
+But there are many ER tools out there. And there are many languages,
+databases, games and more.  This does not stop us from writing
+another, just as the existence of a Haynes car manual does not stop
+people from taking their car engine apart.  We do it because we do not
+understand, and we want to learn.
+
+Sometimes, there is an itch to scratch.  But often the itch is for
+knowledge, and the desire to know if we *can*.  Benefiting the rest of
+the world is what we do to share our knowledge.
 
 
 Evolution
 ---------
 
 Because we have to re-invent the wheel to teach the next generation,
-we tend to incrementally improve.  And that is a slow evolutionary process.
+we tend to incrementally improve.  And that is a slow evolutionary
+process.
 
 Software *evolves* to fit its niche.
 
 Relax
 -----
 
-I am sometimes troubled by comparing myself to some of life's winners.  But
-looking at Feynman makes those comparisons silly.  A genius that other genius'
-thought a genius, he still tried to understand this strange world we live in,
-and had no more a grasp on *why* than the rest of us poor schmucks.
+I am sometimes troubled by comparing myself to some of life's winners.
+But looking at Feynman makes those comparisons silly.  A genius that
+other genius' thought a genius, he still tried to understand this
+strange world we live in, and had no more a grasp on *why* than the
+rest of us poor schmucks.
 
-So, we do what we can.  And move the world on a little bit.  Some more than
-others, I must admit, but I am happy to be pushing it in the right direction.
-==============================
+So, we do what we can.  And move the world on a little bit.  Some more
+than others, I must admit, but I am happy to be pushing it in the
+right direction.
+
+Thoughts on Bitcoin
+===================
+
+1. Ledgers are fantastic to increase trust and reusability of data (data reuse)
+2. Industries will standardise around ledgers - but will not need complete
+   global zero trust - just enough from major industry players plus mayeb sprinkling of regulation
+3. Gold vs bitcoin - gold does not cost you to keep it. Bitcoin has a continual mining cost. as such ... there is a NPV problem here - on the long term scale the cost of mining bitcoing will erode the value of the coin - see the gold over 2000 years.  So bitcoin will have a cost - the question is is that cost greater than the increase in value / wealth of the world (ie bitcoin replaces gold).
+So bitcoin seems a poor *store* of wealth
+4. Digital native currency - we really do need one.  But its a really hard problem. issue 1: correcting mistakes / bad actors.  2. security as a human constant 3. trust : where is the solution? It is hard to imagine that Visa network will be allowed to rentier off the whole worlds transactions - but ... it might.
+compete agsint visa with a regulatied (government owned) free third party ... boy that will upset libertarians
+
 Price of gold is fairly stable
 ==============================
 
-------------------------------
+I do love me a bit of Ancient Rome.  And I love the term Solid - it
+came from the solidus, a gold coin minted by Constantine 315AD
 
-I do love me a bit of Ancient Rome.  And I love the term Solid - it came from the solidus, a gold coin minted by Constantine 315AD
+Domain have done some amateur digging and will try the following: in
+Neros day 2 denarii would buy a Modius, which was sufficent grain for
+ten days for one average male (two one pound loaves a day, there is a
+diet to make wheat intolerant weep)
 
-Domain have done some amateur digging and will try the following: in Neros day 2 denarii would buy a Modius, which was sufficent grain for ten days for one average male (two one pound loaves a day, there is a diet to make wheat intolerant weep)
+Now the aureus was replaced by the solidus, but it was about 25
+denarii.  So we can say that one gold coin bought you about 100 -120
+days worth of basic food.
 
-Now the aureus was replaced by the solidus, but it was about 25 denarii.  So we can say that one gold coin bought you about 100 -120 days worth of basic food.
+A kuggerand is about four times the weight of gold as a aureus, and
+it's about £1,000 to buy today. And at £3 per day I could carefully
+feed myself.  Certainly in bread alone.
 
-A kuggerand is about four times the weight of gold as a aureus, and it's about £1,000 to buy today. And at £3 per day I could carefully feed myself.  Certainly in bread alone.
-
-So over nearly 2000 years, a gold coin is roughly enough to feed one man for three months.
+So over nearly 2000 years, a gold coin is roughly enough to feed one
+man for three months.
 
 Fascinating
 

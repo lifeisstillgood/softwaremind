@@ -285,6 +285,20 @@ this has links to the director hazing - you have to be able to operate the lever
 
 but programmable company surfaces the institutional knowledge and encodes it - it may be more effort like an architect programming robot but once done it is explicit modellabke and open for A/B testing 
 
+Yes - this and the new project management:
+project management today focuses heavily on just getting the golden path to work
+its often so complex. It is nalagous to hiring abuilder to come and change your house - most of the effort is in the physical build not the design.
+But if you had a robot house builder it would be dfifferent
+
+SO it is same for programmable commpany - if what you are changing is the code,
+what you need is not project management but ... coder management.
+
+THe issues of open source, open discussions and sensible planning and Agile
+are all valuable here.
+
+And lead into this utopia like ideal of a company of developers, having democratic control ofver allocation of resources and discussiion of the changes / needs 
+
+
 And so we see reduction in bus factor - in fact perhaps a bus factor of zero is needed
 
 And this means most human creative work will be in finding and building companies that have product market fit - a coase dilemma perhaps - we can reduce the company size to zero ? 

@@ -99,3 +99,9 @@ Software demands global regulation
 ----------------------------------
 
 We unlikely to see balkanisation of internet - we might see DVD regionalist.  but software will define our geopolitics as much as anything.  software configuration as a tariff !! Look at is your car going to kill the girl or the driver? 
+
+
+Laws and Software
+-----------------
+
+Our laws are written in a restricted form of human language - but still not *really* compiled - but the new laws, the rules on who sees what adverts, who gets what job, these are written in software - and we must bridge the divide. laws need to incorporate code / algorithms and it is genuinely not useful to write vague words and hope that is the right meaning - sometime laws will need to be software - or at least not open to interpret up  

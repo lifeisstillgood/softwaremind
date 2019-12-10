@@ -62,7 +62,7 @@ def main():
     pass
 
 def write_out(msg):
-    with open('foo.txt', 'a') as fo:
+    with open('/tmp/foo.txt', 'a') as fo:
         fo.write(msg)
         fo.write("\n")
     

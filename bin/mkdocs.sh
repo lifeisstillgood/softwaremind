@@ -32,5 +32,9 @@ echo "Run post Process (build marketing site)"
 cd $REPODIR/
 python $REPODIR/bin/postprocess.py
 
+# prep as a zip file to mail to work for printing
+zip /var/data/book.zip docs/_build/latex/TheSoftwareMind.pdf
 
+echo "############################################"
 echo "Wordcount: $wordcount"
+echo "Book zipped onto data dir"

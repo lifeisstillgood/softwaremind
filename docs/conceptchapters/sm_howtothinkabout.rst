@@ -4,7 +4,98 @@ How to think about software issues
 
 These are shorter discussions - but valuable, in trying to frame what
 is and is not important in a new software literate, programmable
-company.
+company and society.
+
+Project Management - death of 
+=============================
+
+There are about three kinds of activity that are routinely labelled as
+"project management" in todays large enterprises.  They are
+surprisingly not what the Institute of Project Management think is
+project management, so I am going with my anec-data approach (as
+usual).
+
+FIrstly we have the "fuuuuuuck sort that out" project management.
+This is the sort of thing young thrusting corporate ladder climbers
+tend to get involved with - a situation has arisen in the enterprise,
+and finally been noticed by the powers that be.  And its not good.
+Usually some planned project is failing (see next type as well) or a
+new opportunity arises that needs something doing *now*.
+
+So people pile in, lots of shouting and planning and meetings and
+slowly some consensus emrges on what needs to happen, the right data
+is found, then discarded and replaced and metrics are measured and
+suddenly a plan emerges.  Its funded, its going to work, all is well.
+
+Now you can hand off the boring execution to the second type of PM,
+while you move on to the next hair on fire problem.
+
+
+The second type is follow the golden path (yellow bricks).  This consists
+mostly of asking people is it done yet?  This is sort of helpful because the people doing the
+work are usually so overworked and under-tooled that tracking their own effort / progress and
+reporting on it is a significant extra effort - 105 is usually quoted and who can lose a day each fortnight to admin? So bring in someone else to do that admin - and the reporting.
+
+It should be seen as a typing pool - and likely to vanish just as quickly in the mid 60s
+
+But as common as these two seem they are kissing cousins.  FInding a plan (usuallyh by talking to the people doing the work) and following a plan are very replaceable.  The admin side of project management should be entirely replaceable by following the *digital footprint* of the coal face workers.
+
+And creating a golden path plan, hardly counts as rockert science.
+
+No project management is similar to architecture 0 it is often a sales job at higher management
+
+Third type - Risk management.
+Engineering. Seeing what is coming next. Avoiding the storm by arriving a day late.
+Its unglamourous and hard to appreciate or sell.
+
+Upper Management and effective resource allocation
+==================================================
+
+1. interest swaps.  Not good resource allocation but good at the level
+of a billionaire needing for find some juice.
+
+2. This is bad resource allocation - because they cannot find projects worth the return internally?
+
+3. I call BS.
+
+4. So this is to do with decision making at scale.  I dont think it is possible.
+
+5. So democracy and voting.
+
+
+MOOP, Agents and Happiness
+===========================
+
+* economic benefit is measured either pure energy efficnency (fire / chimney) or
+  as percevied benefit (the high speed train). But it is always *human* benefit.
+
+* but oerceived benefit is going to be a big winner - happiness
+
+* middle aged now so a lot of the basic wins I am regretting are easy budge stuff.
+
+* We are massivvely monitored. THis is the proivacy debate.  but I give up my privacy to lawyers, accountants and definitely doctors.  But I can imaginge handing over my car footage to lawyers and my spending patterns to accountants and every movement tracker to doctors.  I can *trust* them.
+
+I cannot trust google.
+
+How can we fix that
+
+Personal control of personal data.
+Better regulation of personal data (actually better punishment. GDPR is good)
+But ultimately I want the benefits of being moniotred
+
+So we need to build data ethics - the simple answer is the best interests of the user
+
+THis starts to translate to other areas as well
+EU Payments directive -> but that leads to why the fuck are financial services actually explouting me soooo much.  WHy is there not a default bank account that just saves 10% in index trackers from day one unless you sign out each day on a piece of paper in a basement.
+
+Why is the default not in my best interests?
+
+Leads to agents who can choose my best interest - it does not need massive socialist regulation - it can be done with paternalistic agents.  Which frankly is what a robo-advisor is anyway.
+
+SO likely to see regulation of and certification of robo-advisors and open source driven versions, or crowd-configured versions as the highest performing.
+
+So if your finances, shopping and groceries are selected for you as a default - what the hell are we worried about?
+
 
 Distributed computing and Big Data
 ==================================
@@ -80,4 +171,23 @@ Ping Pong Pair Programming
 Pair Programming is OK as a means of mentoring or teaching - but as a means of an existing competent programmer journeying it is ... awkward.   I have found ping pong to be far more useful - a short time period of work in close proximity (even remote video) and a fixed goal with lots of integration- so I write the tests you write the code or I write the API you write the client and we swap / integrate into a CI every half hour or hour
 
 
+
+Agile
+=====
+
+Hugely popular, probably most misunderstood idea in current methodology.
+
+Issues
+
+* really good developers and teams are really good with *any* methodology
+* any half sane methodology consistently applied can raise the floor, and thus raise productivity dramtically (not causing drag)
+* Any methodology that can remove project managers (middle management) will
+  improve average productivity because the value provided is so small
+* MIS can be entirely extrcted from code / tickets.
+* It follows that a vital part of agile is thus change control
+* change control is 'what did we plan to do, what did we do and what is the difference', forward looking (what are we planning to do now) and risk based (what are the risks in what we are planning)
+
+Thus the most important part of agile is to replace middle management with tiny amounts of effort on the developer (coal face) part.  Think the disappearance of the typing pool - maangers expected to type for themselves because its just sooo much cheaper.
+
+(CF end of project managers)
 

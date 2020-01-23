@@ -2,14 +2,24 @@ Software Literacy
 
  -> Coasian transaction costs
  -> personal observation of software developers as capability
+ 
  -> Director Hazing and why computers beat traders in HFT
- -> 
+    Run the company vs change the company
+    Of course change the company sounds glamourous
+    But why have a commpany that is not programmable 0 why change the company thorugh anythign but code?
+    
  -> Programmable Company
     -> Automation
-    ->
+    -> self running - Marketing manager.
+    
  -> Governance
  -> democracy in companies
+    Piketty, socialism as ocean, and software as capital. Open source
+    and socialism - it is just faster than everything else.
+    So open will overcome.
+    
  -> new project management - or why changing compnay not working on the company
+
  -> changing the comany is "design is the build"
  -> So you need to specifiy the change exactly -
     project managers are like todays builder / architect.
@@ -22,7 +32,20 @@ Software Literacy
     Ledgers reduce costs and increase trust amoung industry players
   -> Fake news and project management
   
- 
+ideas
+-----
+project mgmt
+
+- effectiveness of troops in battle 60-90 days to peak, 200 to trough
+lindybeige
+- so why not use that for team formation? 
+
+Future
+
+- Climate change
+-- a war footing solution for the globe - like march of dimes
+
+team based performance reviews - more useful more team focused
 
 index
     The Software Mind
@@ -122,4 +145,19 @@ index
     prod parallel
     A point about Simplicity
     Data Mangement  Philosophy
+
+
+Using SteveY's rant
+we see
+1. API SOA is the right way
+
+2. lots to learn from amazon
+
+3. that testing is an interesting apprpach - QA and unit tests lie on a
+spectrum, and that have solid production monitoirng is effectively having solid testing.  I go for doctests and QA tests as the right balance - too much mocking is too much mucking about.  You seem to get concetpually the right level of breakdown. not the level for your testing tool.  Having more test code than actual code is *not* a positive.
+
+4. also interesting view on coase - not merely size of pizza team, but
+reuse of code as a metric of organisational cohesion - start up to spreadeagled.
+Lots of companies have many ways to do same thing.  But there should be one right way to do it. Look at xkcd cartoon - 14 different standards.  A cohesive org has one common standard - by fiat or by discussion.  If an org is happy to allow many flowers to bloom to find the right way then frankly its a community not an atomic unit.
+
 

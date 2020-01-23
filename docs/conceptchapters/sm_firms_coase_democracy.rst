@@ -2,7 +2,14 @@
 4. Coase
 ========
 
-:focus: how size and structure of companies is determined and it ain't management cleverness. 
+:focus: Dmeocracy in companies,
+:focus: changing democracy - Western world is seeing a reaction - it is Pikkety
+and changine in capital / labour.  But Capital is according to Smith Labour frozen in time.
+
+:focus: Software is capital.  Start building capital that you own - any start up will see outsized returns - slowing S curve yes but do it.
+
+:focus: how size and structure of companies is determined and it ain't
+management cleverness.
 
 
 * organisation deterministic factors
@@ -20,13 +27,19 @@ The cost of employeing "contractors" changes as it becomes more sensble to simpl
 
 
 
-Also: We must include political biases when "asking a software engineer to designing a company" - look at openness and transparency in project reporting or in open source code reviews etc
+Also: We must include political biases when "asking a software
+engineer to designing a company" - look at openness and transparency
+in project reporting or in open source code reviews etc
 
-it is more efficient yes, but openness and transparency are a threat to established orders - only meritocracy survives (look at linux and even thorvaldsen being less of a git)
+it is more efficient yes, but openness and transparency are a threat
+to established orders - only meritocracy survives (look at linux and
+even thorvaldsen being less of a git)
 
-dictators know this - and what is a CEO but a dictoator in a top down ecology
+dictators know this - and what is a CEO but a dictoator in a top down
+ecology
 
-So democracy in companies might not be a requirement for literacy, but like literacy in europe, it has one end point.
+So democracy in companies might not be a requirement for literacy, but
+like literacy in europe, it has one end point.
 
 as such gov tech software is a genuine need for focus.
 

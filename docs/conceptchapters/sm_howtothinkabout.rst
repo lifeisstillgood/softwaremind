@@ -74,4 +74,10 @@ leaves negotiating for the actual action
 
 
 
+Ping Pong Pair Programming
+==========================
+
+Pair Programming is OK as a means of mentoring or teaching - but as a means of an existing competent programmer journeying it is ... awkward.   I have found ping pong to be far more useful - a short time period of work in close proximity (even remote video) and a fixed goal with lots of integration- so I write the tests you write the code or I write the API you write the client and we swap / integrate into a CI every half hour or hour
+
+
 

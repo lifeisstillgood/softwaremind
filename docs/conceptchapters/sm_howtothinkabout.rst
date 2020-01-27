@@ -191,3 +191,9 @@ Thus the most important part of agile is to replace middle management with tiny 
 
 (CF end of project managers)
 
+lang translation 
+-----------------
+
+der soiegel is best journal world today 
+in any language 
+

@@ -467,3 +467,38 @@ to become a non-profit with IRS approval.  This is the start I feel of the migra
 compare this to the PG&E actions where they are turning off electircity to millions of users in case the electircity pylons fall over and start fires.
 
 THe failure to put capital into burying the cables shows the failure of the foam to transition downwards.  
+
+
+
+Induatrialisation of film
+--------------------------
+
+Hand crafted movies - 1.5 hrs of nice movie, then House -> 177 hours or 100 movies over 8 years.  artisanal ?
+And youtubeoutput - fidget spinner factory levels of output
+
+What parallels can we see? insurance companies? hourly 
+
+It's not what is but what can be - just stretch the time codes, reduce the smallest fraction 
+
+- uber smallest time you can hire a car for
+
+- hiring garden equipment or hotels or theatre seats ? office buildings and so forth
+
+- cities and strong towns - more use of same infrastructure 
+
+
+Trended 
+- greater time sliced use of same infrastructure 
+- more use of financial options and approaches to monetise same infrastructure (apportion usage well)
+- some will be free some charged - but the discovery of who gets access 
+will be auctioned? 
+
+
+Most Small Saas are programmable companies
+---------------------------------
+
+Use patio11 as a example but many HN era - wrote the code, it just runs until they change it
+
+It's a running business - taking money etc but it never changes just does its thing
+
+the constantly changed business e are larger and often less optimised for autonomous running 

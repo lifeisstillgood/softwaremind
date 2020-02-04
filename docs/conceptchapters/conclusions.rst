@@ -43,6 +43,12 @@ Transparency, democracy (have another go in 4 years),
 (prblems with pagerank, renting out your domain juice)
 software socualism 
 
+
+utlinayel - where have we moved the complexity - it is rare that we remove complexity - we have it in people process or technology - and where we choose to put it and manage it matters 
+
+
+
+
 This is a conclusion of Quotes
 
 ::

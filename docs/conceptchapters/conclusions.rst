@@ -524,4 +524,24 @@ the rest of the crap you can keep
 
 - advertising is just slow subscriptions sent to someone else 
 
+
+The new coasian equilibrium 
+----------------------------
+
+My conjecture is that firm size will now be determined by the ability to let the firm run without change - steady state. the software itself can reprogram itself (only to its own regulatory and business limits) 
+
+human change determines the 
+
+human managers ustifiy their jobs on changing the company - but profits come form
+steady state operation a
+
+
+Antitrust As Allocator of Coordination Rights
+UCLA Law Review, Vol. 67, No. 2, 2020
+
+
+
+as firms get smaller we need to adjust the meaning of anti trust (and the issue of "everything is insider trading" or SEC as regulator of last resort) 
+
+
  

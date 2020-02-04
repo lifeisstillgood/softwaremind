@@ -98,11 +98,10 @@ illiterate people, so any benefits of software just drain away -
 Only when a critical mass of people in a company are software literate
 can that company hope to become *programmable*.
 
-THe software mind is our programmers minds, But it is also the
-controlling mind of a company - an organisation and eventually a
-civlisaation
+The software mind can be seen as the mind of a literate software developer.
+Or it can be seen as the controlling mind of an organisation, of a society.
 
-NB: civilisation is a socialist endeavour.
+
 
 
 .. sidebar:: The First Tech Revolution
@@ -118,57 +117,75 @@ NB: civilisation is a socialist endeavour.
    written word became a hard drive to store code on, and Gutenberg
    invented distributed networking.
 
-Socrates Socialism and capitalism
-=================================
 
-I am trying to make a point - its not terribly clear what the point is
-but its worth remebering that is is really quite useful to view
-software as *capital*.  Capital is best defined as an asset we own
-that returns money to the owner, directly or enabling other assets to
-do so.
-
-Roads, railways, air pollution regulation, scientific publishing and
-more are all *shared*. Paid for by taxaation, laid down as forms of
-capital like Ancient aqueducts and used.
-
-Yes rentiers do take unfair shares.
+The conclusion first
+--------------------
 
 
-The leads us to Data.
+This is a conclusion of Quotes
 
-Data is a new form of value - before computers, data had great value -
-but it was limited. Like gold the cost of surveillance made
-prohibitive the mass collection - look at Stasi.  But now we have
-found a way to turn lead into gold.  THe new tech firms have taken
-this data.
+::
 
-Now we shall start to see it laid down as capital. As public goods.
+	Software Reliability Engineering (SRE) is what happens when
+	you ask a developer to design an operations team.
 
-But rather than regulation *solely* perhaps the best approach will be
-to use IP law.
+Google is justifiably proud of its' SRE teams - developing their own
+software to run the computers, data centres, networks and release
+processes that their success stood on was the only way to work at
+web-scale.  The concept of "DevOps" and "SRE" are now embedded in
+the minds of modern managers, few will admit they fall short.
 
-If I write a book, for example, or even a web post, a tweet or even an
-email, that collection of words is (UK / US / Most western law)
-assumed to have *automatically* my ownership over it (I do not have to
-assert copyright seperately to the act of creation / publication.
+But another quote might help::
 
-THe words in my email are *created* by myself. But the metadata around
-it, the time of the email, whom it was sent to, even perhaps other
-derivable data such as my tonality, my location at time of sending,
-and then where I could not have been as well. All this is not
-presumabled to be mine automatically.
+    We see the benefits of computers everywhere, at home, at work,
+    except in the productivity statistics.
+    -- Robert Solow
+    (https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf)    
 
-It is not going to be a huge stretch to assign ownership to that meta
-data - to the data footprint.  And if I own that data that others are
-hoovering up, what right do they get to use it and what cost to me.
 
-Now this is not a perfect framework - but it does have some
-advantages.  Public commons.
+I have a simple argument - he is correct, not because software and
+computers cannot help but because they are not well used.  It would be
+like complaining that we see notepads and pencils everywhere, except
+in the productivity statistics, but only to discover that most people
+cannot read and write and are just carrying the notepads around
+because they dont want to be left out.
 
-Locking data up in private silos is not the solution.  GIve it a price
-and it will find a way to become capital again.????
+So, if SRE is what we get when developers design an operations team::
 
-   
+   A Programmable Company is what you get when you ask a developer to
+   design a company.
+
+   But what do we get when we ask developers to design a whole society?
+
+
+If you understand grammar, sentence structure, paragraphs, chapters,
+character development and three-act story structure, you can write
+a OK-ish novel about pretty much anything.
+
+If you cannot read or write, have never heard of a character arc, and
+your bonus depends on it, then the novel you write is likely to make
+as much sense as the Kafka-esque companies most of us work in.
+
+Its simple.  But very hard to change.
+
+Double down on what works
+--------------------------
+
+Western liberal 
+
+* Productivity Gains unrealised
+* Benefits not embraced
+* SME is what you get when you ask a develooer to design a Operations department
+
+* Programmable company is what you get when you ask a developer to design
+an entire company
+
+* What do we get when we ask developers to design a whole society
+
+- transparency, democracy, openness, empiricism, competition these are the things to double down on - they have worked in fits and starts for 150 years, and past 75. 
+
+
+
 
 The software literate company, and the programmable company
 -----------------------------------------------------------
@@ -187,8 +204,6 @@ both positive and negative data we have today - how companies have
 failed to act in a sane / literate manner, and how some fundamentals
 of software literacy are shining thru and will be unavoidable in the
 future.
-
-
 
 .. figure:: /_static/all-the-presidents-men.png
    :width: 75%
@@ -1539,6 +1554,25 @@ It's not going to be pretty
 
 Redefining privacy
 ------------------
+
+If I write a book, for example, or even a web post, a tweet or even an
+email, that collection of words is (UK / US / Most western law)
+assumed to have *automatically* my ownership over it (I do not have to
+assert copyright seperately to the act of creation / publication.
+
+THe words in my email are *created* by myself. But the metadata around
+it, the time of the email, whom it was sent to, even perhaps other
+derivable data such as my tonality, my location at time of sending,
+and then where I could not have been as well. All this is not
+presumabled to be mine automatically.
+
+It is not going to be a huge stretch to assign ownership to that meta
+data - to the data footprint.  And if I own that data that others are
+hoovering up, what right do they get to use it and what cost to me.
+
+Now this is not a perfect framework - but it does have some
+advantages.  Public commons.
+
 
 There is a new round of crypto-wars going on (see Obama speech "absolutist")
 But this is part of wider discussion around meaning of privacy

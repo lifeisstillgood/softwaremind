@@ -1,31 +1,71 @@
 
-
-Leassons from Amazon
---------------------
-
-Using SteveY's rant
-
-we see
-1. API SOA is the right way
-
-2. lots to learn from amazon
-
-3. that testing is an interesting apprpach - QA and unit tests lie on a
-spectrum, and that have solid production monitoirng is effectively having solid testing.  I go for doctests and QA tests as the right balance - too much mocking is too much mucking about.  You seem to get concetpually the right level of breakdown. not the level for your testing tool.  Having more test code than actual code is *not* a positive.
-
-4. also interesting view on coase - not merely size of pizza team, but
-reuse of code as a metric of organisational cohesion - start up to spreadeagled.
-Lots of companies have many ways to do same thing.  But there should be one right way to do it. Look at xkcd cartoon - 14 different standards.  A cohesive org has one common standard - by fiat or by discussion.  If an org is happy to allow many flowers to bloom to find the right way then frankly its a community not an atomic unit.
-
-
-
 Conclusions
 ===========
 
-The economist Robert Solow once quipped that we see the benefits of
-computers everywhere, at home, at work, except in the productivity
-statistics.  It has been argued
-(https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf) that this
+This is a conclusion of Quotes
+
+::
+
+	Software Reliability Engineering (SRE) is what happens when
+	you ask a developer to design an operations team.
+
+Google is justifiably proud of its' SRE teams - developing their own
+software to run the computers, data centres, networks and release
+processes that their success stood on was the only way to work at
+web-scale.  The concept of "DevOps" and "SRE" are now embedded in
+the minds of modern managers, few will admit they fall short.
+
+But another quote might help::
+
+    We see the benefits of computers everywhere, at home, at work,
+    except in the productivity statistics.
+    -- Robert Solow
+    (https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf)    
+
+
+I have a simple argument - he is correct, not because software and
+computers cannot help but because they are not well used.  It would be
+like complaining that we see notepads and pencils everywhere, except
+in the productivity statistics, but only to discover that most people
+cannot read and write and are just carrying the notepads around
+because they dont want to be left out.
+
+So, if SRE is what we get when developers design an operations team::
+
+   A Programmable Company is what you get when you ask a developer to
+   design a company.
+
+   But what do we get when we ask developers to design a whole society?
+
+
+If you understand grammar, sentence structure, paragraphs, chapters,
+character development and three-act story structure, you can write
+a OK-ish novel about pretty much anything.
+
+If you cannot read or write, have never heard of a character arc, and
+your bonus depends on it, then the novel you write is likely to make
+as much sense as the Kafka-esque companies most of us work in.
+
+Its simple.  But very hard to change.
+
+Double down on what works
+--------------------------
+
+Western liberal 
+
+* Productivity Gains unrealised
+* Benefits not embraced
+* SME is what you get when you ask a develooer to design a Operations department
+
+* Programmable company is what you get when you ask a developer to design
+an entire company
+
+* What do we get when we ask developers to design a whole society
+
+- transparency, democracy, openness, empiricism, competition these are the things to double down on - they have worked in fits and starts for 150 years, and past 75. 
+
+The economist Robert Solow once quipped that   It has been argued
+ that this
 is because we are missing the essential rearrangement
 
 Two productivity arguments - we aren't inventing stuff or we don't
@@ -140,6 +180,172 @@ communicate with every other that we are not seeing productivity gains
 What we are missing is the re-organisation of the factory similar to that of electrification
 
 We are missing the dynamo. 
+
+
+
+
+
+A point about Pikety
+--------------------
+
+* Pikety redux
+
+  - Labour lost, capital won (the reaosn wages not  subject to suply demand)
+  - the great hollowing out
+  - literacy and automation
+  - Snowden was also right - data and pollution 
+  - snowden
+https://en.m.wikipedia.org/wiki/NSA_ANT_catalog
+http://www.nsaplayset.org
+- Whats happening in the world - a sense of perspective
+* http://www.digitalattackmap.com/faq/
+* also want, wars, trade, shipping, energy, employment, poverty, investment etc.* 
+some kind of model / mapp for the whole world. where is the money flowing / going?
+
+
+  That the record of software coming in to disrupt industry is good -
+  it's hard to learn software.  As a company this book is about having
+  software in your company DNA
+
+A point about project management and democratic companies
+---------------------------------------------------------
+
+I am going to stick my neck out and go for it - companies will become
+more democratic - we shall see more voting and consensus in the
+workplace.  We will also see the end of deadlines as companies become
+*event driven* - that is, instead of shouting "get to this point"
+there will be more "we need to get here" and monitoring and
+encouragement.
+
+
+The problem is *always* at the top
+----------------------------------
+
+Most technical problems can be solved by changing the business environment.
+If the security of a company is challenged because a top level executive refuses to follow
+the security restrictions, then there is a clear choice betwene firing the Sales Director
+or having security.  Only the Board can decide that, and once they do it must be clear.
+
+Google is currently experiencing a similar issue over sexual harrassment.
+
+Data publication
+
+
+
+
+Fractal Management
+------------------
+
+How individuals and teams need to model, monitor, mentor.
+
+
+- CI and repeatability
+- reporting on functionality of running processes
+- analysis of inputs, running, outputs
+- reporting upwards and outwards
+- marketing your code
+
+
+
+
+
+security (secrets management & auth)
+------------------------------------
+-- user management / aithentication authorisation
+-- FIDO
+
+
+security (deployment / repeatability)
+-------------------------------------
+
+
+prod parallel
+-------------
+Modelling
+
+
+
+-- plumbing
+
+
+
+
+
+
+
+   
+
+
+A point about Simplicity
+========================
+
+
+Our golden goal is to keep things simple.
+
+Simple breaks in simple ways, simple is simple to extend and improve.
+
+Its not that simple is *easy* - often it is the opposite of easy, or quick.
+
+But simple wins out over time. Simple gives great ROI.
+
+I throughly recommend listening to Rich Hickey on this subject (Link)
+
+So please keep in mind - we aim for simple.  Even if our day to day
+work pushes us to quick and easy and complicated.  We need to push
+back.
+
+
+Data Mangement  Philosophy
+==========================
+
+Data Publishing needs to be a business level function, providing
+consistent accurate and timely data to the rest of the organisation is
+a vital task.
+
+Like Bezos, can only consume data that is published - and people only
+publishbsokething they willing to support
+
+"but i cannot get my job done if "... that's not the problem ... the
+problem is clean data
+
+it's like security - it's a priority or it is not.
+
+
+
+
+
+
+
+
+.. rubric:: Footnotes
+
+.. [#f1] The linked essay is by Eric S Raymond and is almost two
+   decades old, and lays out an important philosophical difference
+   between how open source software gets developed (in a mad press of new
+   things being tried out) and how cathedrals are built.  The cathedral
+   builders have tried to learn from the bazaar, and concepts like Agile
+   are helping (a bit) but building software in our modern day
+   institutions is still frustrating.  As software eats the world, it
+   will find politics and push back.
+
+
+Leassons from Amazon
+--------------------
+
+Using SteveY's rant
+
+we see
+1. API SOA is the right way
+
+2. lots to learn from amazon
+
+3. that testing is an interesting apprpach - QA and unit tests lie on a
+spectrum, and that have solid production monitoirng is effectively having solid testing.  I go for doctests and QA tests as the right balance - too much mocking is too much mucking about.  You seem to get concetpually the right level of breakdown. not the level for your testing tool.  Having more test code than actual code is *not* a positive.
+
+4. also interesting view on coase - not merely size of pizza team, but
+reuse of code as a metric of organisational cohesion - start up to spreadeagled.
+Lots of companies have many ways to do same thing.  But there should be one right way to do it. Look at xkcd cartoon - 14 different standards.  A cohesive org has one common standard - by fiat or by discussion.  If an org is happy to allow many flowers to bloom to find the right way then frankly its a community not an atomic unit.
+
 
 
 Kaizen vs Kaikaku

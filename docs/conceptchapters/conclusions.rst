@@ -1,6 +1,47 @@
-
+===========
 Conclusions
 ===========
+
+Even shorter conclusion
+-----------------------
+
+COmputers are missing from the productivity statistics - because missing proper usage.
+(electrification of factories)
+
+A progrmmale company is what you get when you ask a developer to design a company
+And what do you get when you design a society like that?
+Dystopia and Utopia visions - police state and free state.
+Software is eating the world - its not done yet.
+But it is now "systemically important" and so will be regulated.
+Software governance will play a part as the 13th Factor
+From a western perspective, double down on what works - what has driven the past two hundred years.
+Transparency, democracy (have another go in 4 years), 
+- more democractic companies
+- less exploitation (ie credit card rates as exloitation)
+- trust built in - the greatest trust is in Science, and medicine.
+  how to replicate medicoen trust is to replicate "first do no harm" - the wwelfare of individual patient is paramount at all times.  This is freaking hard.  Discuss smelleiss and the scottish surgeon.
+
+- project management is dead. Programmable companies are programmable. They dont need project management they need software developemnet life cycles. THis is the real success of Agile.
+
+- fractal management - reporting on your own perfoemance - digital foot print analysis
+- this will lead to early MOOPS - how to improve maangerial ineter personal comms
+- FInally the capabiliteis good enough to lead to consumer use and psychologucal agents
+
+- governance and simple and transaprent
+  laws and code
+  
+- how we run companies will start to leak into how we run socieity
+  - Wardley maps
+  - models of economy and "our own facts"
+  - fake news is just the shake out of "own facts"
+  - 
+
+- software and politics again is governace and shared osmosis
+- coaseian dieal firm size - and regulations needed to change it (ie anti-trust laws allowing co-ordination)
+
+
+(prblems with pagerank, renting out your domain juice)
+software socualism 
 
 This is a conclusion of Quotes
 
@@ -47,6 +88,24 @@ your bonus depends on it, then the novel you write is likely to make
 as much sense as the Kafka-esque companies most of us work in.
 
 Its simple.  But very hard to change.
+
+Isn't everthing "done" now?
+===========================
+
+No. Not at all.::
+
+    Most people are online
+    Most of the Money is not
+    (Ben Evans)
+
+Most if commerce, most of government, in Western world, let alone
+globally, are not "digital".  They are not "programmable", or even
+visible on the virtual world.  Vast amounts of activity is invisible
+online, let alone enabling meaningful interaction with that activity.
+
+THat is the challenge of programmable companies - making the virtual
+still reach the world.
+
 
 Double down on what works
 --------------------------
@@ -510,6 +569,50 @@ social media - it turns out that social media was actually public publishing - (
 
 democratic journalism is important - social media was a way of allowing people to publish something important  (mexico drug wars) or crap (influencers) - somehow we need good ways to find facts and raise them to consciousness - a backlog of issues and a store of facts
 
+GOvernance
+----------
+
+As software eats the world it becomes part of the world - and so becomes *regulated*.
+Software regulation is now just *politics* - its hard, complicated and needs
+compromise and being infomred and active.
+
+
+We start with a utopia - the CLuetrain manifesto.
+And we start looking at privacy (ie secure / closed)
+Governance of software starts to become part of the process of SDLC
+Risks and controls is an essential part of any applications services - 13th factor in 12 fctor apps
+
+Governance and territotries and culture and events
+--------------------------------------------------
+
+If we can build products tailered to exact personal preferences, we
+can also tailor products to countries laws and regulations.
+
+The question is how much should we? How much is use of Whatsapp or
+twitter a driver of social change (just as bicycles, trains, love
+letters in postal service and Sears selling to american blacks).  It
+becomes a question of choosing your balknisations?
+
+Facebook newsfeed - just another media channel?  Filter bubble - not
+as bubble as it used to be? (research) Behviour targetted ads vs
+context targetted ads - howo well is duck duck go doing?  Fake News -
+there has *always* been fake news. its just we were not listening to
+every stupid pub conversation.
+
+Opportunities - MOOP, agent moderated life, what about an app that
+says "hey, you know that comment your friend just made about Flat
+Earth. Majority of scientific opinion accepts earth is a sphere
+floating in space - here is a photo".  Or "You know your father just
+said Gays and Faggots will burn in Hell, here is ... well you get the
+point"
+
+Imagine not merely access to all the world's knowledge, but access
+mediated by a Medical-level ethically driven moderation.
+
+But what if it is not ethically driven? How do we know what is being told to us?
+This should itself be extractable.
+
+
 
 The new socialism - of the character
 ---------------------
@@ -746,8 +849,11 @@ Antitrust As Allocator of Coordination Rights
 UCLA Law Review, Vol. 67, No. 2, 2020
 
 
+as firms get smaller we need to adjust the meaning of anti trust (and
+the issue of "everything is insider trading" or SEC as regulator of
+last resort)
 
-as firms get smaller we need to adjust the meaning of anti trust (and the issue of "everything is insider trading" or SEC as regulator of last resort) 
+
 
 
  

@@ -47,7 +47,9 @@ software socualism
 utlinayel - where have we moved the complexity - it is rare that we remove complexity - we have it in people process or technology - and where we choose to put it and manage it matters 
 
 
+Brexit: trade agreements ante becoming more aligning regulations, aligning culture.  Iphone is basically starting it from the other side.
 
+so the more our lives are represented in virtual the more we can measure it and so harmonise it - so it's about being aware of the importance and details of these dates - this is thus a good thing of brexit
 
 This is a conclusion of Quotes
 

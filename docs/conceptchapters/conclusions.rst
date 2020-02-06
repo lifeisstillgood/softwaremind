@@ -2,56 +2,20 @@
 Conclusions
 ===========
 
-Even shorter conclusion
------------------------
+::
 
-COmputers are missing from the productivity statistics - because missing proper usage.
-(electrification of factories)
+    We see the benefits of computers everywhere, at home, at work,
+    except in the productivity statistics.
+    -- Robert Solow
+    (https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf)    
 
-A progrmmale company is what you get when you ask a developer to design a company
-And what do you get when you design a society like that?
-Dystopia and Utopia visions - police state and free state.
-Software is eating the world - its not done yet.
-But it is now "systemically important" and so will be regulated.
-Software governance will play a part as the 13th Factor
-From a western perspective, double down on what works - what has driven the past two hundred years.
-Transparency, democracy (have another go in 4 years), 
-- more democractic companies
-- less exploitation (ie credit card rates as exloitation)
-- trust built in - the greatest trust is in Science, and medicine.
-  how to replicate medicoen trust is to replicate "first do no harm" - the wwelfare of individual patient is paramount at all times.  This is freaking hard.  Discuss smelleiss and the scottish surgeon.
-
-- project management is dead. Programmable companies are programmable. They dont need project management they need software developemnet life cycles. THis is the real success of Agile.
-
-- fractal management - reporting on your own perfoemance - digital foot print analysis
-- this will lead to early MOOPS - how to improve maangerial ineter personal comms
-- FInally the capabiliteis good enough to lead to consumer use and psychologucal agents
-
-- governance and simple and transaprent
-  laws and code
-  
-- how we run companies will start to leak into how we run socieity
-  - Wardley maps
-  - models of economy and "our own facts"
-  - fake news is just the shake out of "own facts"
-  - 
-
-- software and politics again is governace and shared osmosis
-- coaseian dieal firm size - and regulations needed to change it (ie anti-trust laws allowing co-ordination)
-
-
-(prblems with pagerank, renting out your domain juice)
-software socualism 
-
-
-utlinayel - where have we moved the complexity - it is rare that we remove complexity - we have it in people process or technology - and where we choose to put it and manage it matters 
-
-
-Brexit: trade agreements ante becoming more aligning regulations, aligning culture.  Iphone is basically starting it from the other side.
-
-so the more our lives are represented in virtual the more we can measure it and so harmonise it - so it's about being aware of the importance and details of these dates - this is thus a good thing of brexit
-
-This is a conclusion of Quotes
+I have a simple argument - he is correct, not because software and
+computers cannot improve business and public productivity, but because
+computers are not being used *effectively*.  It would be like
+complaining that we see notepads and pencils everywhere, except in the
+productivity statistics, but only to discover that most people cannot
+read and write and are just carrying the notepads around because they
+dont want to be left out.
 
 ::
 
@@ -61,23 +25,26 @@ This is a conclusion of Quotes
 Google is justifiably proud of its' SRE teams - developing their own
 software to run the computers, data centres, networks and release
 processes that their success stood on was the only way to work at
-web-scale.  The concept of "DevOps" and "SRE" are now embedded in
+"web-scale".  Companies like Google and Amazon run more and more of
+their business purely thorugh software - data centres, networks and
+prices are determined by software.  Having humans in the way would
+have seriously slowed them down.  ANd in doing more and more of their
+business purely through sdoftware they had to organise their business
+differently.
+
+::
+
+	but at Amazon's vast scale ["best practises" of the time] was
+	about as useful as telling Indiana Jones to look both ways
+	before crossing the street.
+	- Steve Yegge
+	https://gist.github.com/chitchcock/1281611
+
+
+Now, the concept of "DevOps" and "SRE" are now embedded in
 the minds of modern managers, few will admit they fall short.
+SOmetimes they fall very short indeed - the UK's Post Office Horizon scandal
 
-But another quote might help::
-
-    We see the benefits of computers everywhere, at home, at work,
-    except in the productivity statistics.
-    -- Robert Solow
-    (https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf)    
-
-
-I have a simple argument - he is correct, not because software and
-computers cannot help but because they are not well used.  It would be
-like complaining that we see notepads and pencils everywhere, except
-in the productivity statistics, but only to discover that most people
-cannot read and write and are just carrying the notepads around
-because they dont want to be left out.
 
 So, if SRE is what we get when developers design an operations team::
 

@@ -607,6 +607,21 @@ context targetted ads - howo well is duck duck go doing?  Fake News -
 there has *always* been fake news. its just we were not listening to
 every stupid pub conversation.
 
+NYTimes::
+
+Two months before the 1990 P.G.A. Championship at Shoal Creek and six years after the club hosted the 1984 P.G.A., Mr. Thompson responded to a question from a reporter for The Birmingham Post-Herald about Shoal Creek’s membership, which included Jews and women, by saying, "We don’t discriminate in every other area except blacks."
+
+https://www.nytimes.com/2010/10/29/sports/golf/29thompson.html
+
+Yeah. We used to only see this shot if it made it into the NYTimes - now it's everywhere.  This is good because the amazing stuff is everywhere, it's just that the diamonds in river of shit metaphor still
+leaves a river of shot. one day they will learn - this is cultural colonisation that white men complain about.  
+
+
+
+
+
+
+
 Opportunities - MOOP, agent moderated life, what about an app that
 says "hey, you know that comment your friend just made about Flat
 Earth. Majority of scientific opinion accepts earth is a sphere

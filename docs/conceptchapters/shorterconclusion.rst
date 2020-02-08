@@ -81,3 +81,6 @@ measure it and so harmonise it - so it's about being aware of the
 importance and details of these dates - this is thus a good thing of
 brexit
 
+advantages of rogrammaboe company 
+ability to swing from trust to metrics
+https://news.ycombinator.com/item?id=22269024

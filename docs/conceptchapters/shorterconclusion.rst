@@ -84,3 +84,30 @@ brexit
 advantages of rogrammaboe company 
 ability to swing from trust to metrics
 https://news.ycombinator.com/item?id=22269024
+
+
+Debt and Snaller VC investments 
+
+send someone to coventry 
+iphone says is t talk to them / be - 
+
+
+
+moop, life coach and life agency 
+if beat intersts of patient is used as the goal then if we stop selling you to advertisers we then start selecting products based on best interests of the patient - in other words legal requirements to agent says only do what's in best interests of patient - so it becomes really hard to offer products that are exploitative - we build a "name of that podcast paternalistic something"
+
+
+One culture to rule the world
+credit suisse issue - yes racism but more importantly it's aristocracy not wanting to have problems on their doorstep - and that's about differences in culture being impossible to resolve without dealing with 
+
+for example today's multi national companies have to internally deal with the problems - american bribery foreign act is impossible to use in UsA
+we do business with saudi arabia in saudi normal practise -  but that's not acceptable in USA 
+
+so they deal with it by .... and then the differences come up in a garden fight 
+
+but we cannot keep hiding it in large internal
+company culture - it becomes coasian - smaller companies more explicit- 
+
+it's like cities - eventually they find a way to set what is normal - it tends to be unfriendly and formalised - but also accessible??? 
+ 
+software enables  hoice of cultural differences - like regulation you need to have software compatible- like you have an option for "bribery"

@@ -1,22 +1,43 @@
 Shorter conclusion
 ==================
 
-Even shorter conclusion
------------------------
-
-COmputers are missing from the productivity statistics - because
-missing proper usage.  (electrification of factories)
+.. Say what you are going to say, say it, then say you said it.
 
 
+I was always taught in English class to put my argument first. And it
+seemed, well a little childish to put my actual conlcusions at the
+*front* of the book.  However many years of waiting for Netflix TV
+series to just get to the damn point has made me rethink this stance.
+So, there is a philosophy, or even perhaps jyst an attitude, that is
+The Software Mind.  It is an attitude formed from using, writing and
+reading code day in and day out.  It is as ingrained in developers as
+literacy is ingrained in "normal" people.
+
+It is Software Literacy.  And it changes you. Cahnges how you think
+about the world, and what the world can be.
+
+There is a famous quote, or snark more accurately.
+
+.. :: You see computers everywhere ... but in the priductivty statistics.
+
+Its a fair comment.  Vast Multinational conglomerates spend vast sums
+on technology - and yet barely improve their bottom lines.
+
+Its not because software is not useful - its just not used well.
+
+(electrification of factories)
 
 A progrmmale company is what you get when you ask a developer to
 design a company
 
+And what do you get when you design a society with (software) literacy
+at its core?
 
-And what do you get when you design a society with (software) literacy at its core? 
+Two visions: Dystopia and Utopia visions - police state and free
+state.  Alwatys a good idea to choose utopia.  I am going to assume
+humans will choose the utopia option.  At least in one part of the
+world.  And it is likely to spread.
 
-Two visions: Dystopia and Utopia visions - police state and free state.
-Alwatys a good idea to choose utopia.
 
 Software is eating the world - its not done yet.
 But it is now "systemically important" and so will be regulated.

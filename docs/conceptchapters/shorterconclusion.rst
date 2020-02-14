@@ -1,31 +1,72 @@
-Shorter conclusion
-==================
+Putting the conclusion before the horse.
+========================================
 
-.. Say what you are going to say, say it, then say you said it.
+As a child, my History teacher, Mr Crowse, taught me "Say what you are
+going to say, say it, and then say you said it.". Then over the years
+essays gave way to trying to persuade through emails, or comment
+threads.  My arguments got shorter, with people who knew most of the shorthand.
+I had found getting to the point was getting in the way of
+actually saying something.
 
+Now my History teacher might not appreciate how much of mid-19th
+Century politics I can still remember, but at least he will be happy
+he had some impact all those years later.  Now, here is my conclusion,
+in the wrong place, up the front of the book.
 
-I was always taught in English class to put my argument first. And it
-seemed, well a little childish to put my actual conlcusions at the
-*front* of the book.  However many years of waiting for Netflix TV
-series to just get to the damn point has made me rethink this stance.
-So, there is a philosophy, or even perhaps jyst an attitude, that is
-The Software Mind.  It is an attitude formed from using, writing and
-reading code day in and day out.  It is as ingrained in developers as
-literacy is ingrained in "normal" people.
+It's not a *philosophy*.  *Attitude* is too... well actually attitude is
+pretty good. Yes, Attitude. The Software Mind is an *attitude*.  It is
+an attitude formed from using, writing and reading code day in and day
+out.  It is as ingrained in developers as literacy is ingrained in
+"normal" people.
 
-It is Software Literacy.  And it changes you. Cahnges how you think
-about the world, and what the world can be.
+Imagine you woke up this morning and 98% of the world was illiterate -
+literally had never picked up a book.  Oh they had *heard* of books
+and thought people who could read were very, impressive, and got good
+jobs, but no. Most people could not read a whole newspaper.
+
+Imagine your own *attitude*.  It would be world changing. It is an
+attitude about how a book should be arranged, with chapters and
+character arcs and indexes.  And then an attitude about how
+*libraries* should be arranged.  And an attitude then about, now we
+have these books, and this body of knowledge that can help with
+medicine and geography and such, about how companies should be
+arranged, and then how society itself should be arranged. Written political manifestos ! Who'da thunk it?
+
+You see the problem with this *attitude* is that it looks, from a
+non-literate person's point of view, it looks very *uppity*. Having to
+turn everything on its head just because its better from the point of
+view of a *book*?  Sounds crazy.
+
+Software Literacy is a real thing.  It is something we *all*, all
+eight billion of us, should learn.  It is a thing that *demands* we
+turn the world upside down just to realise the benefits of a software
+literate world.  Becasue the last time we turned world upside down to
+meet the needs of books, it turned out pretty well.
+
+If I sound uppity throughout the book, there is a reason. 
 
 There is a famous quote, or snark more accurately.
 
 .. :: You see computers everywhere ... but in the priductivty statistics.
 
 Its a fair comment.  Vast Multinational conglomerates spend vast sums
-on technology - and yet barely improve their bottom lines.
+on technology - and yet barely improve their bottom lines.  I mean
+most of the Fortune 500 spend *billions* each per year on
+"technology", and benefits accrue, yes, but half those benefits come
+from being able to say no to expense account padding.
 
 Its not because software is not useful - its just not used well.
 
-(electrification of factories)
+Here is a little story.  Around the turn of the 20th Century mass
+elecgtrification was taking place across the modern world.  Houses
+were being lit, searchlights sent out Bat signals, and factories were
+buying in to the new hotness. Factories had been arranged around a central power source - the steam engine. Boilers and gears and belts ran from one efficient engine, and turned, rolled and lifted equipment in various dark corners.
+
+The first wavve of electrification removed the big noisy engine, and replaced it with a big, quiet electric engine. But left the belts and power transmissions in place.  And no matter how hard they tried, companies saw electricity everywhere, except in the productivity statistics.
+
+Eventually the promise of the electric motor, many, smaller distributed around as wanted to benefit the factory process, became the norm - Car companies like Ford lead the way to use electricity in new decentralised ways, and popularised the Assembly Line.  Heavy tools could now be placed next to banks of workers.
+
+
 
 A progrmmale company is what you get when you ask a developer to
 design a company

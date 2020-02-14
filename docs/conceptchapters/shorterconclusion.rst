@@ -132,3 +132,10 @@ company culture - it becomes coasian - smaller companies more explicit-
 it's like cities - eventually they find a way to set what is normal - it tends to be unfriendly and formalised - but also accessible??? 
  
 software enables  hoice of cultural differences - like regulation you need to have software compatible- like you have an option for "bribery"
+
+
+Company size - do one thing well
+see Boeing - https://mattstoller.substack.com/p/the-coming-boeing-bailout
+
+
+

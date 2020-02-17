@@ -39,6 +39,13 @@ humans will choose the utopia option.  At least in one part of the
 world.  And it is likely to spread.
 
 
+Agile, feature factories and measurable company products - https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory
+
+The main thing is if we are measuring developer productivity- expected vs actual, then every other decision maker should have the same analysis 
+
+For example AB testing - example of graphite chart showing did my change to funnel improve sales process.  but we could show similar things for did the new marketing leaflet / branding change make an impact? what about the offering two for one to under 30s or some other demographic? constant experimentation means a constant willingness to change - and having it in software makes it possible 
+
+
 Software is eating the world - its not done yet.
 But it is now "systemically important" and so will be regulated.
 Software governance will play a part as the 13th Factor
@@ -56,6 +63,10 @@ Discuss smelleiss and the scottish surgeon.
 - project management is dead. Programmable companies are
   programmable. They dont need project management they need software
   developemnet life cycles. THis is the real success of Agile.
+
+
+- clarity of incentives and neto work organisation - we can see the politics of an org and the incentives https://news.ycombinator.com/item?id=22346013
+laying this bear let's org aisationalmdesign work better ?
 
 - fractal management - reporting on your own perfoemance - digital
   foot print analysis
@@ -136,6 +147,8 @@ software enables  hoice of cultural differences - like regulation you need to ha
 
 Company size - do one thing well
 see Boeing - https://mattstoller.substack.com/p/the-coming-boeing-bailout
+
+
 
 
 

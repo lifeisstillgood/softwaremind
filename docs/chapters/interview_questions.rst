@@ -2,6 +2,16 @@
 Interview Questions
 =====================
 
+
+Why are software interview questions just - wrong
+
+
+https://news.ycombinator.com/item?id=22332201
+also 
+https://twitter.com/mxcl/status/608682016205344768
+
+just ... argh
+
 These are called interview questions but really they are ... fundamentals
 you have to know but wont use daily. They are things that if you know about you wont go down horribly wrong roads
 

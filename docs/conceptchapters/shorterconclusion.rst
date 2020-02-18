@@ -1,23 +1,21 @@
 Putting the conclusion before the horse.
 ========================================
 
-As a child, my History teacher, Mr Crowse, taught me "Say what you are
-going to say, say it, and then say you said it.". Then over the years
-essays gave way to trying to persuade through emails, or comment
-threads.  My arguments got shorter, with people who knew most of the shorthand.
-I had found getting to the point was getting in the way of
-actually saying something.
+As a child, my History teacher, Mr Crow, taught me "Say what you are
+going to say, say it, and then say you said it.". In an age of 160
+character tweets and online comment threads, we often lose this art of
+guiding readers through our thoughts.
 
-Now my History teacher might not appreciate how much of mid-19th
+Now my old History teacher might not appreciate how much of mid-19th
 Century politics I can still remember, but at least he will be happy
 he had some impact all those years later.  Now, here is my conclusion,
 in the wrong place, up the front of the book.
 
-It's not a *philosophy*.  *Attitude* is too... well actually attitude is
-pretty good. Yes, Attitude. The Software Mind is an *attitude*.  It is
-an attitude formed from using, writing and reading code day in and day
-out.  It is as ingrained in developers as literacy is ingrained in
-"normal" people.
+The Software Mind - It's not a *philosophy*.  *Attitude* is
+too... well actually attitude is pretty good. Yes, Attitude. The
+Software Mind is an *attitude*.  It is an attitude formed from using,
+writing and reading code day in and day out.  It is as ingrained in
+developers as literacy is ingrained in "normal" people.
 
 Imagine you woke up this morning and 98% of the world was illiterate -
 literally had never picked up a book.  Oh they had *heard* of books
@@ -30,7 +28,8 @@ character arcs and indexes.  And then an attitude about how
 *libraries* should be arranged.  And an attitude then about, now we
 have these books, and this body of knowledge that can help with
 medicine and geography and such, about how companies should be
-arranged, and then how society itself should be arranged. Written political manifestos ! Who'da thunk it?
+arranged, and then how society itself should be arranged. Written
+political manifestos ! Who'da thunk it?
 
 You see the problem with this *attitude* is that it looks, from a
 non-literate person's point of view, it looks very *uppity*. Having to
@@ -40,7 +39,7 @@ view of a *book*?  Sounds crazy.
 Software Literacy is a real thing.  It is something we *all*, all
 eight billion of us, should learn.  It is a thing that *demands* we
 turn the world upside down just to realise the benefits of a software
-literate world.  Becasue the last time we turned world upside down to
+literate world.  Because the last time we turned world upside down to
 meet the needs of books, it turned out pretty well.
 
 If I sound uppity throughout the book, there is a reason. 
@@ -60,36 +59,71 @@ Its not because software is not useful - its just not used well.
 Here is a little story.  Around the turn of the 20th Century mass
 elecgtrification was taking place across the modern world.  Houses
 were being lit, searchlights sent out Bat signals, and factories were
-buying in to the new hotness. Factories had been arranged around a central power source - the steam engine. Boilers and gears and belts ran from one efficient engine, and turned, rolled and lifted equipment in various dark corners.
+buying in to the new hotness. Factories had been arranged around a
+central power source - the steam engine. Boilers and gears and belts
+ran from one efficient engine, and turned, rolled and lifted equipment
+in various dark corners.
 
-The first wavve of electrification removed the big noisy engine, and replaced it with a big, quiet electric engine. But left the belts and power transmissions in place.  And no matter how hard they tried, companies saw electricity everywhere, except in the productivity statistics.
+The first wavve of electrification removed the big noisy engine, and
+replaced it with a big, quiet electric engine. But left the belts and
+power transmissions in place.  And no matter how hard they tried,
+companies saw electricity everywhere, except in the productivity
+statistics.
 
-Eventually the promise of the electric motor, many, smaller distributed around as wanted to benefit the factory process, became the norm - Car companies like Ford lead the way to use electricity in new decentralised ways, and popularised the Assembly Line.  Heavy tools could now be placed next to banks of workers.
+Eventually the promise of the electric motor, many, smaller
+distributed around as wanted to benefit the factory process, became
+the norm - Car companies like Ford lead the way to use electricity in
+new decentralised ways, and popularised the Assembly Line.  Heavy
+tools could now be placed next to banks of workers.
 
+The factory had been desinged *in sympathy* with electricity.
 
+SRE - designing a ops team *in sympathy* with software.
 
 A progrmmale company is what you get when you ask a developer to
-design a company
+design a company - what are the likely stand out features - best guess
+is AB testing - (Agile, feature factories and measurable company products -
+https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory
+
+The main thing is if we are measuring developer productivity- expected
+vs actual, then every other decision maker should have the same
+analysis
+
+For example AB testing - example of graphite chart showing did my
+change to funnel improve sales process.  but we could show similar
+things for did the new marketing leaflet / branding change make an
+impact? what about the offering two for one to under 30s or some other
+demographic? constant experimentation means a constant willingness to
+change - and having it in software makes it possible
+
+)
 
 And what do you get when you design a society with (software) literacy
-at its core?
+at its core?  Perhaps evidence based politics? Double down on the winning
+choices of past two hundred years - democracy, transaprency, rule of rules,
 
 Two visions: Dystopia and Utopia visions - police state and free
 state.  Alwatys a good idea to choose utopia.  I am going to assume
 humans will choose the utopia option.  At least in one part of the
 world.  And it is likely to spread.
 
+DOubleDOwn - From Governance of COmpanies to Governance of countries
+--------------------------------------------------------------------
 
-Agile, feature factories and measurable company products - https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory
-
-The main thing is if we are measuring developer productivity- expected vs actual, then every other decision maker should have the same analysis 
-
-For example AB testing - example of graphite chart showing did my change to funnel improve sales process.  but we could show similar things for did the new marketing leaflet / branding change make an impact? what about the offering two for one to under 30s or some other demographic? constant experimentation means a constant willingness to change - and having it in software makes it possible 
+Software is eating the world - its not done yet.  But it is now
+"systemically important" and so will be regulated.  Software
+governance will play a part as the 13th Factor
 
 
-Software is eating the world - its not done yet.
-But it is now "systemically important" and so will be regulated.
-Software governance will play a part as the 13th Factor
+Transparency (trust vs measurement):
+advantages of rogrammaboe company 
+ability to swing from trust to metrics
+https://news.ycombinator.com/item?id=22269024
+
+Problems
+Need to be specific in your political promises !
+This means smaller sizes are easier to trust.
+The giant companies, and the giant countries, might just look a little less enticing. If the EU and achieve its goals - of building a giatn signle market that is as easy to spread across as say the Federal United states, then perhaps other giant political aggregations may not be needed. 
 
 From a western perspective, double down on what works - what has
 driven the past two hundred years.  Transparency, democracy (have
@@ -104,13 +138,22 @@ Discuss smelleiss and the scottish surgeon.
 - project management is dead. Programmable companies are
   programmable. They dont need project management they need software
   developemnet life cycles. THis is the real success of Agile.
+Project mgmt - status tracking (free with digital footprints)
+Project mgmt - deployment and rollouts and scaling (see SRE)
+Project mgmt - defintion??
 
 
-- clarity of incentives and neto work organisation - we can see the politics of an org and the incentives https://news.ycombinator.com/item?id=22346013
-laying this bear let's org aisationalmdesign work better ?
+- clarity of incentives and neto work organisation - we can see the
+politics of an org and the incentives
+https://news.ycombinator.com/item?id=22346013 laying this bear let's
+org aisationalmdesign work better ?
 
 - fractal management - reporting on your own perfoemance - digital
   foot print analysis
+
+
+Transparency and metrics leads to MOOPS
+----------------------------------------
 
 - this will lead to early MOOPS - how to improve maangerial ineter
 - personal comms FInally the capabiliteis good enough to lead to
@@ -138,9 +181,9 @@ laying this bear let's org aisationalmdesign work better ?
   Open source scandal like UK post office
 
 
-- where have we moved the complexity - it is rare that we
-remove complexity - we have it in people process or technology - and
-where we choose to put it and manage it matters
+- where have we moved the complexity - it is rare that we remove
+complexity - we have it in people process or technology - and where we
+choose to put it and manage it matters
 
 
 - culture wars and Ok Boomer.
@@ -154,10 +197,6 @@ measure it and so harmonise it - so it's about being aware of the
 importance and details of these dates - this is thus a good thing of
 brexit
 
-advantages of rogrammaboe company 
-ability to swing from trust to metrics
-https://news.ycombinator.com/item?id=22269024
-
 
 Debt and Snaller VC investments 
 
@@ -166,29 +205,41 @@ iphone says is t talk to them / be -
 
 
 
-moop, life coach and life agency 
-if beat intersts of patient is used as the goal then if we stop selling you to advertisers we then start selecting products based on best interests of the patient - in other words legal requirements to agent says only do what's in best interests of patient - so it becomes really hard to offer products that are exploitative - we build a "name of that podcast paternalistic something"
+moop, life coach and life agency if beat intersts of patient is used
+as the goal then if we stop selling you to advertisers we then start
+selecting products based on best interests of the patient - in other
+words legal requirements to agent says only do what's in best
+interests of patient - so it becomes really hard to offer products
+that are exploitative - we build a "name of that podcast paternalistic
+something"
 
+No where to hide differences
+----------------------------
+One culture to rule the world credit suisse issue - yes racism but
+more importantly it's aristocracy not wanting to have problems on
+their doorstep - and that's about differences in culture being
+impossible to resolve without dealing with
 
-One culture to rule the world
-credit suisse issue - yes racism but more importantly it's aristocracy not wanting to have problems on their doorstep - and that's about differences in culture being impossible to resolve without dealing with 
-
-for example today's multi national companies have to internally deal with the problems - american bribery foreign act is impossible to use in UsA
-we do business with saudi arabia in saudi normal practise -  but that's not acceptable in USA 
+for example today's multi national companies have to internally deal
+with the problems - american bribery foreign act is impossible to use
+in UsA we do business with saudi arabia in saudi normal practise - but
+that's not acceptable in USA
 
 so they deal with it by .... and then the differences come up in a garden fight 
 
 but we cannot keep hiding it in large internal
 company culture - it becomes coasian - smaller companies more explicit- 
 
-it's like cities - eventually they find a way to set what is normal - it tends to be unfriendly and formalised - but also accessible??? 
+it's like cities - eventually they find a way to set what is normal -
+it tends to be unfriendly and formalised - but also accessible???
  
-software enables  hoice of cultural differences - like regulation you need to have software compatible- like you have an option for "bribery"
+software enables hoice of cultural differences - like regulation you
+need to have software compatible- like you have an option for
+"bribery"
 
 
 Company size - do one thing well
 see Boeing - https://mattstoller.substack.com/p/the-coming-boeing-bailout
-
 
 Coase - big enough to do one thing and do it well 
 

@@ -190,6 +190,7 @@ Company size - do one thing well
 see Boeing - https://mattstoller.substack.com/p/the-coming-boeing-bailout
 
 
+Coase - big enough to do one thing and do it well 
 
 
 

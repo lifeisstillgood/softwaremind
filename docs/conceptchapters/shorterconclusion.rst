@@ -78,6 +78,12 @@ tools could now be placed next to banks of workers.
 
 The factory had been desinged *in sympathy* with electricity.
 
+I get why this is hard - look at universal education. Basically a post grad in a hard science is a factory produced renaissance woman - and the UK produces about 50% graduates each year - we have built a society trying to turn half its children into leonarso (and not the cool one with a half shell and swords)
+
+There is a corollary- caring professions are often labelled as such as low salary - this is often blamed on misogyny or some other form of prejudice but a simpler economic explanation is scarcity - and as we improve software literacy we shall see a similar salary dip.
+
+
+
 SRE - designing a ops team *in sympathy* with software.
 
 A progrmmale company is what you get when you ask a developer to
@@ -242,6 +248,14 @@ Company size - do one thing well
 see Boeing - https://mattstoller.substack.com/p/the-coming-boeing-bailout
 
 Coase - big enough to do one thing and do it well 
+the
+Data Socialism (yearning to be free, more accurately yearns to *flow*)
+Pools of spreadsheets like sticks and rocks in a river, holding up the flow.
+
+Data is communal and collective (google should be releasing it all for my access) - medical uses etc are best achieved communally
+
+see also google traffic information 
+(not same standards as enforcement - but that is not needed) 
 
 
-
+There is really only one answer to this: you need to find a way to match the requirements-development-delivery cycle to the rate at which the requirements change. In the case of my government project, we did so artificially: there were no changes of any substance, so it was simple to build to the specification and acceptance test.https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/

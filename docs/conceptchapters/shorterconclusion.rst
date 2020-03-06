@@ -2,36 +2,71 @@ Putting the conclusion before the horse.
 ========================================
 
 .. ::
+
    Litracy
    Attitude
-   Companies will look like
+
+   Companies will need to change - society needs to have more software
+   loterate people, and need to change to make those people productive
+   (infrastructure as code, *business* as code)
+   
+   Companies will look like?
    Companies need to change
-   cost is too great private training - see public
+   cost is too great private training - see public / social democracy
+   
    New renaissance people (trained to level necessary - like European Middle ages)
+   
    Programmable company, theory of the firm
+
+   Theory of the firm
+   - Not only new skills, and new arrnagement
+   - but new social contract - will we all "be like lawyers"?
+
+
    Managing change is *most* of what we do
    Managing risk, and that becomes careful governance
+   
    Utipia please
    DoubleDown
    Techniques to improve corporate governance will be transferrable to society - wardley maps, corporate democracy
+
    Reporting will become a zero marginal cost - but it is litmus test of programmable company
    Transparency and Moops (back to training of graduates - its expensive and
    what really is the next step - we all learn calculus?)
+   
    Making something vs taking a slice (Grenfell tower, Renting out facebook domain juice, google rentier)
+   
    Just not getting it - Post office, and the knight trading people
    Where have we moved the complexity and the cost - every shady company is just a complexity / risk hiding. From crash to elsewhere managing risk and managing complexity are huge endemic - and we are doing it badly.
 
    Need software to manage it - to report on it, to pull it from virtual
+   
    But also need transparency in business models, to manage risk in the benefit of user adn benefit of society.  Strainger regulation makes difference. More direct responsibility for a problem. Less wriggle room
    Alignment globally of regulatins
+   
    Quatified lives
    (Moop - social punishment of sending someone to electronic coventry - iphone says not to talk to that person)
+   Moop and privcy
    solution to provacy sort of regulation, possibly market based
    but my preference is Best Interests Of the User. Medical.
+   
    Forcing us to be clear about decisions - no hiding the risk, no hiding the impedance mismatch. Cultural colonialism is *simplifiying* !!!
    How do we have an option for "illelgal"? - See VW they did it. But the code base is there !!!
+
    Company size - do one thing well? Is the value of giant company that it can find an expert? Isnt that the point of market? Is the value of giant compnay that it can absorb and mitigate? Isnt that insurance? See flood plains in UK
    Match speed of requirements change to speed of development/
+
+
+   "The great Rewrite"
+   literacy forces organisation level change - "the great rewrite".
+   organisations will force social level change -
+   and systemically vital organisations will need to be regulated
+   globalisation will force regulation to be transparent and common.
+   (WTO Darfour round)
+
+   At the personal level MOOP is an exciting concept.  But so is having
+   ability to code my bank statements.
+
 
 
 The Software Mind - It's not a *philosophy*.  *Attitude* is

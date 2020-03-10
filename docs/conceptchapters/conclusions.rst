@@ -845,6 +845,11 @@ last resort)
 
 
 
+Measuring Outcomes
+see accelerate but basic thing we want to do is have a commit of code, linked to a ticket, and that links to *expected* changes to known business kpis - for example sales funnel or speed of production of the accountancy report or ... so to prove it value in business need to measure business outcomes like we measure graphemes 
+
+this is my next book - measuring impact on business outcomes 
+
 
  
  

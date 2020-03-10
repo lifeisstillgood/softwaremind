@@ -4,33 +4,59 @@ Putting the conclusion before the horse.
 .. ::
 
    Litracy
+   
    Attitude
 
    Companies will need to change - society needs to have more software
    loterate people, and need to change to make those people productive
    (infrastructure as code, *business* as code)
-   
-   Companies will look like?
-   Companies need to change
-   cost is too great private training - see public / social democracy
-   
-   New renaissance people (trained to level necessary - like European Middle ages)
-   
-   Programmable company, theory of the firm
 
-   Theory of the firm
-   - Not only new skills, and new arrnagement
-   - but new social contract - will we all "be like lawyers"?
+   The Great Rewrite (just like factories). Its not really there
+   because code is still ... typing pool.  Saas is basically
+   outsourcing your typing pool and Zapier / IFTT is drag and drop
+   programming (we dont do drag and drop novel writing why the hell do
+   you think it will work for code).
 
-
-   Managing change is *most* of what we do
-   Managing risk, and that becomes careful governance
+   Programmable companies
    
-   Utipia please
-   DoubleDown
-   Techniques to improve corporate governance will be transferrable to society - wardley maps, corporate democracy
+   My conjectures:
 
-   Reporting will become a zero marginal cost - but it is litmus test of programmable company
+      programmable company
+      
+      measuring more - that is software commits will link to expected
+      changes in measurements inside the company
+      So you can see if your code change has an effect.
+      this will be so powerful that smaller companies, or other firebreaks
+      will exist just to avoid confounding issues
+      The simplest idea is jira, but this is basically a recipie for AI enabled
+      companies
+
+      democracy
+      Managing change and managing risk
+      leads to governance - leads to democracy
+      Literacte people demand control - see lawyers.
+      Piketty / coase and thoery of the firm
+      
+
+      Regtulation in age of transparency - the transaprent business
+      model leads to *fairer* outcomes.  Its waay harder to hide your
+      biases if you have to encode them and waay waay harder when you
+      have to publish the code.
+
+      cf - education in grammar schools and in Kathy book.
+      Sears catalog and African Americans
+      
+      This leads to the democracy double down: we lean into what works
+      Techniques to improve corporate governance will be transferrable to society - wardley maps, corporate democracy
+
+      Reporting will become a zero marginal cost - but it is litmus
+      test of programmable company.  How will reporting work as
+      journalism when its a zero marginal cost? Where will commerical
+      confidentiality be when we try to build a model of the economy -
+      the Treasury wants this tries this but imagine there are better
+      models out there - goolge earth zoom in.
+      
+   
    Transparency and Moops (back to training of graduates - its expensive and
    what really is the next step - we all learn calculus?)
    
@@ -41,21 +67,31 @@ Putting the conclusion before the horse.
 
    Need software to manage it - to report on it, to pull it from virtual
    
-   But also need transparency in business models, to manage risk in the benefit of user adn benefit of society.  Strainger regulation makes difference. More direct responsibility for a problem. Less wriggle room
-   Alignment globally of regulatins
+   But also need transparency in business models, to manage risk in
+   the benefit of user adn benefit of society.  Strainger regulation
+   makes difference. More direct responsibility for a problem. Less
+   wriggle room Alignment globally of regulatins
    
-   Quatified lives
+   Quatified lives (BIOTU)
+
    (Moop - social punishment of sending someone to electronic coventry - iphone says not to talk to that person)
    Moop and privcy
    solution to provacy sort of regulation, possibly market based
    but my preference is Best Interests Of the User. Medical.
    
-   Forcing us to be clear about decisions - no hiding the risk, no hiding the impedance mismatch. Cultural colonialism is *simplifiying* !!!
-   How do we have an option for "illelgal"? - See VW they did it. But the code base is there !!!
+   Forcing us to be clear about decisions - no hiding the risk, no
+   hiding the impedance mismatch. Cultural colonialism is
+   *simplifiying* !!!  How do we have an option for "illelgal"? - See
+   VW they did it. But the code base is there !!!
 
-   Company size - do one thing well? Is the value of giant company that it can find an expert? Isnt that the point of market? Is the value of giant compnay that it can absorb and mitigate? Isnt that insurance? See flood plains in UK
-   Match speed of requirements change to speed of development/
-
+   Company size - do one thing well? Is the value of giant company
+   that it can find an expert? Isnt that the point of market? Is the
+   value of giant compnay that it can absorb and mitigate? Isnt that
+   insurance? See flood plains in UK Match speed of requirements
+   change to speed of development/
+   Multinationals should not be the means to mitigate and enforce standards
+    - tht is supposed to be market?
+    
 
    "The great Rewrite"
    literacy forces organisation level change - "the great rewrite".

@@ -18,3 +18,8 @@ Marx defines production as important part of industrial society
 what is software society going to be defined through - being on time as a worker is unlikely to remain as a necessary behaviour
 
 what else is going to change? (delver into marx suoerstructure)
+
+
+Political economy:
+https://en.m.wikipedia.org/wiki/Distributism
+Closely tied to distributors is software idea of many smaller items - flocks - idealism i'd open source co operative businesses 

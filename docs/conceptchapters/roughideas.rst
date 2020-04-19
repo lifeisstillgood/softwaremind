@@ -502,3 +502,70 @@ Use patio11 as a example but many HN era - wrote the code, it just runs until th
 It's a running business - taking money etc but it never changes just does its thing
 
 the constantly changed business e are larger and often less optimised for autonomous running 
+
+Social media - 
+--------------
+
+
+it's just measuring the world - not changing it - people have always talked shit 
+
+
+coronavirus issues below
+-------------------------
+Industries should have some form of obligatory insurance.  You see travel insurance - you could not claim back your trip due to corona because ReInsurance companies knew all about this and refused to insure (ok some people somewhere could buy a policy but that would be more than the cost of flights)
+
+So this is risk hiding.  what was 2008 crisis - risk hiding - most problems are forms of risk hiding - actuaries are fairly good at it but things like actuaries for finance products (ratings agencies) were under regulatory capture
+
+so ... look clear eyed at our problem
+
+Physical v virtual
+------------------
+Build the new future
+https://a16z.com/2020/04/18/its-time-to-build/
+
+post globalisation
+------------------
+https://news.ycombinator.com/item?id=22913809
+new manufacturing can frantically shorten global supply chains - gigs factories / alien dreadnaughts
+
+as that happens the european four pillars model becomes more useful as globalisation - equal rights and regulations not just trade
+
+that makes us all more local but also more equal
+
+china on wrong side of every argument there - USA weirdly on right side if it's democracy can survive 
+
+Euro-style federalism is minimum regulatory set to ensure human individual freedom
+and rights within state co operation / organisation that is needed for security and growth
+
+(we only build more than subsistence w through a meta human framework like government and capitalism.  we want to keep those but avoid the bad bits.)  this is *hard*.  as in 10,000 years of farming surplus and maybe we got something right in past two hundred years.
+
+Software offers a new platform - and that we must fight off tyrants and libertarians alike to ensure it delivers for us all.
+
+fight the libertarians - it's about the driving license - because we need to exist in a world of cooperation - and not having driving licenses destroys that (choose which side of road)
+
+same for tyrants - can argue there is a straw man tyrant - some tyrants do good things.  that's not the point 
+
+global conundrums 
+------------------
+
+productivity  and gdp 
+
+these are changing based on corona and software
+software productivity is discussed elsewhere but hidden from productivity statistics - we need more super productive people (see whatsapp run by 30 engineers) but then more things for them to produce
+
+and what is  wealth -> gdp : it misses a lot of stuff - we won't go back out to cinemas but might take more walks - in public parks, but walks in public parks hidden like child rearing housewives- 
+
+Additive country
+-----------------
+
+Ricardos law (each country focuses on what it does best) has an interesting problem when the additive country is considered - that country is always second best at something - human dedicated factories almost always going to do cheaper at margins
+
+but 
+
+do we compare two coats as they leave factory (country) or at the point of consumption- when we add in costs of "superstructure" (that french matrix philosopher baudelaire) is the superstructure of factory and cost of training workers higher or lower
+
+Add in that workers can be trained in one country and then work remotely for another - do we see countries wanting to tax their brain export? or revert to american style taxation?
+
+tax
+----
+finally the costs of corona - counties across globe have taken on cost of shutdown - and will defeat that cost via inflation or via taxation.  the second is most likely - and this is the end of software titans tax free status - and beginning of another idea of countries working with each other to catch tax avoiders - reglobalisation 

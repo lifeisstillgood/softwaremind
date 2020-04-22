@@ -283,3 +283,17 @@ JPMorgan thing s(where they assert that I have x million in account)
 is fascinating - but what If I asserted that with my web of trust FIDO key? 
 Who would trust me? What could Indo about it? 
 Or 
+
+Solving the meta verse technical problems 
+-----------------------------------------
+
+https://www.matthewball.vc/all/themetaverse
+
+three issues : concurrency infrastructure (how to have 100,000 people on same server (ie fortnite). Likely to be smart clients and small standards for updates and what is updated. 
+
+standards and protocols: 
+
+Meta verse - my kids version of virtual/physicl
+clueteain manifesto
+
+it is most likely breeding ground for the Cambrian explosion of democratic experiments - millions of attempts to build a verse for your avatar to live in - the ones that work best will be the most attractive (the idea of democracy being something that is imported not exported) 

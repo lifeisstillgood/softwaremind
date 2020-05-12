@@ -297,3 +297,15 @@ Meta verse - my kids version of virtual/physicl
 clueteain manifesto
 
 it is most likely breeding ground for the Cambrian explosion of democratic experiments - millions of attempts to build a verse for your avatar to live in - the ones that work best will be the most attractive (the idea of democracy being something that is imported not exported) 
+
+You can't avoid harmonisation 
+-----------------------------
+ISO 20022 - global payments protocols and standards - it's not EU it's everyone 
+
+We shall need to have harmonisation globally to enjoy (full) global benefits of software -
+and that will mean not just technical specs like wifi, but agreed protocols like iso 20022 (final class protocol) but also regulations - here are a few
+
+copyright (!)
+- shorter copyright length
+- cleaner definition of what and how much can be fair use 
+- faster small claims court 

@@ -332,3 +332,13 @@ you need at least one person removed from the fray to observe and OODA - lieuten
 Sergeants focus on the team lieutenants on the battle, generals on the war
 
 but it only needs three levels max. and you can probably do without the generals 
+
+
+Another reason for democracy in companies
+------------------------------------------
+
+We see people expected to put loyalty in a company - but really hat means loyalty in the decision makers and controllers of said company - that can change quickly and is capricious
+
+what democracy and importantly *institutions* do is make that loyalty to the constitution - the principles not the people
+
+imagine company is going bad - it's turned from great to barely functional. and your friend turns up for an interview.  warn her away? stay shut and let her join the madhouse? 

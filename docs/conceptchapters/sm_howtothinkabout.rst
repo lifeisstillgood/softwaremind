@@ -6,6 +6,29 @@ These are shorter discussions - but valuable, in trying to frame what
 is and is not important in a new software literate, programmable
 company and society.
 
+
+The programmable company
+------------------------
+
+HR issue and wiring around it
+
+I see busines management as a feedback loop of monitor, model, mentor.  And so given that we are trying to build a company that has software at its core operations (devmanual) we are sure we are not going to leave the management of the company to humans - no siree, what would our robot overlords have to say
+
+
+Seeing monitoring being a real growing area - getting data from and about company actions. Google SRE etc
+
+But modelling is rarer - and especially at strategic level, where whole company is modelled as a system.
+
+Mentoring - using levers in the company to complete the feedback loop 
+
+So the areas which our programmable company needs to have is 
+
+This is where MOOP comes in for mentoring and behavioural change.
+
+And yes god this could be some dystopian nightmare. Or it could be for our own good.
+
+
+
 Project Management - death of 
 =============================
 

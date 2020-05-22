@@ -309,3 +309,8 @@ copyright (!)
 - shorter copyright length
 - cleaner definition of what and how much can be fair use 
 - faster small claims court 
+
+You can't avoid interconnected needs
+
+https://news.ycombinator.com/item?id=23187170
+(Bidding for cheap solar power means having appliances that can shut on and off at certain times - huge implications for replacing whole fleet) 

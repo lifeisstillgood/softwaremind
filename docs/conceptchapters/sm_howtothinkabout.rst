@@ -27,6 +27,9 @@ This is where MOOP comes in for mentoring and behavioural change.
 
 And yes god this could be some dystopian nightmare. Or it could be for our own good.
 
+This is where it's about values and principles.  The difference between the chinese social credit system and this is really how much do you trust the beijing administration? And the answer is on the same order as trusting Washington, Downing st or elysee palace.  We have to have new institutions to help this - but mostly we need openness and transparency - double down on democracy 
+
+
 
 
 Project Management - death of 

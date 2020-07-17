@@ -851,5 +851,77 @@ see accelerate but basic thing we want to do is have a commit of code, linked to
 this is my next book - measuring impact on business outcomes 
 
 
+
+Heyak and Moops 
+---------------
+Hayek has technologist driven societies - but not technology determined - we will have surveillance technology but how we use and live in it matters
+
+MOOP is medicine - putting rights and indeed the best interests of the patient first - it is for us to choose how to - be more open more transparent more 
+
+We have a poor record of fighting wars of freedom as a species - but being a shining beacon seems to work better 
+
+Shelter under our guns but build your own society
  
+
+Dissonance and Programmabke company
+----------------------------
+
+Programmable company offers the idea of a fast reacting company able to put manoeuvre completions
+
+But 
+
+Most organisations contain within them enormous dissonance e or hypocracy - and manage that through not explicitly stating or deciding one side vs other
+
+Software won't let you do that
+
+you will have to decide
+
+The old "kill driver or little girl" is first part. What bout bribery. What about use of lithium cobalt from congolese mines.  What about ??? 
  
+
+
+Imprimatur 
+----------
+The problem with youtube is the name youtube.com
+
+it lends credibility to a video hosted 
+
+it pretends to give video hosting but then hosts the surround on youtube .commso you cannot tell crap from not
+
+if everyone had to run their own domain and youtube literally hosted in an ifeame then much of the problems would be solved - who would go to "backwoodsnazi.com" for videos on donald trump
+
+the problem is we no longer have address - it's like everyone is available to talk to. whereas it was just a big town square now it's a big town square and everyone wears a youtube mask so you cannot see who they are
+
+we used to have a mainstream based on the weighted distance of travel from "normal" thought - a sort of gravity of ideas and world view
+
+but we have flattened the gravity
+this is bad - society used to work on we all agreed where gracvoty was - we all knew the most mass coase we were there.  Sometimes we needed mass movements to help fix things like civil rights.  but at least it was obvious it was going on
+
+now ... we cannot tell where gravity is because any idea carries same weight - because it is equally easy to get to.
+
+free speech needs to be weighted - and skeptics needs to be taught.
+
+so we need to make ideas harder to reach? seems dubious.
+
+
+Far Far Beyond Facebook
+-----------------------
+
+Facebook and Google are, with some wriggle room, advertising billboard companies - like wikipedia they won't run out of pages 
+
+But this is just the beginning
+
+Software and the platform of the internet is beginning to change everything - we think for the ... fairer 
+
+https://news.ycombinator.com/item?id=23783871
+
+Just look - as incidences of abuse occur they are recorded and cataloged and noticed
+
+And where reality is at odds with perceived reality things start to change - even something as deeply ingrained as segregation in USA
+
+Curate or extreme
+-----------------
+facebook - top ten articles each week kevin ruse nyt- right wing articles popular 
+if fb does not curate it will get dragged by users - in USA that's to the right - it may be diff on spanish speaking site but the algorithm will learn what used want and drive more people off
+
+or just become what should be - postings by your friend - xmas cars list 

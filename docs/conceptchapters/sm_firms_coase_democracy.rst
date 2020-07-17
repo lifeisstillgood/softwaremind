@@ -342,3 +342,44 @@ We see people expected to put loyalty in a company - but really hat means loyalt
 what democracy and importantly *institutions* do is make that loyalty to the constitution - the principles not the people
 
 imagine company is going bad - it's turned from great to barely functional. and your friend turns up for an interview.  warn her away? stay shut and let her join the madhouse? 
+
+Democracy and the programmable company
+---------------------------
+
+Look at Cummings and decision making in executive stress. Very difficult very hard.  But could have been pre-programmed.  What if all our crisis responses were openly discussed and reviewed and votes on. i mean this has been WHOmpolicy for a very long time.
+
+So stressful wanted to drop his wife kids off at his parents and go back to number 10. 
+
+
+
+Land, capital and platforms
+----------------------------
+
+House price rises in western world map to land price changes
+
+Land price neoclassical (john bates clark) was considered similar to factory - marginal cost theory (land is not capital)
+
+What is the meaning of location location location in online platforms? It's similar but not exact but close enough to...
+
+- algorithmic choice to display on feeds
+- cost of maintenance
+- 
+
+Recent twitter hacking - theoretically could have had Joe Biden announce he was stepping down - or even potentially Trump
+announce war.
+
+Should we accept these things
+
+- a better way is self publishing via signed encryption - this is use of credentials and so on as means 
+
+it also means end of pure silos - facebook et al become promotors but not publishers - 
+this is not a regulatory change but behaviour change - the ownership of a secure enclave becomes a digital right !!!! 
+
+And question is is a online platform capital? how should we treat it - as land !!!
+
+but the original distribution of the land was not
+
+Tie into the meta verse- platforms have "land". certain properties become more favoured (by algorithm?) and so more valuable. Dns? 
+
+We want to see a long term land tax (100-250 years).  similarly a platform tax 
+

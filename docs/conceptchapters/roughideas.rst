@@ -555,6 +555,18 @@ software productivity is discussed elsewhere but hidden from productivity statis
 
 and what is  wealth -> gdp : it misses a lot of stuff - we won't go back out to cinemas but might take more walks - in public parks, but walks in public parks hidden like child rearing housewives- 
 
+Future of identity and security
+-------------------------------
+
+https://news.ycombinator.com/item?id=23811568
+
+Sock puppets are hard in real
+life - should be at least somewhat as hard in online 
+
+https://www.w3.org/TR/vc-data-model/
+
+
+
 Additive country
 -----------------
 
@@ -569,3 +581,18 @@ Add in that workers can be trained in one country and then work remotely for ano
 tax
 ----
 finally the costs of corona - counties across globe have taken on cost of shutdown - and will defeat that cost via inflation or via taxation.  the second is most likely - and this is the end of software titans tax free status - and beginning of another idea of countries working with each other to catch tax avoiders - reglobalisation 
+
+
+China politics etc
+------------------
+Not much to say except that the one big winking issue for "West"
+will be supply chain verification - the volume of IP violations as standard is huge in china and so verification will have economic security and political benefits 
+
+AI and dude you broke the future
+--------------------------------
+antipope -> Corporations are slow AIs
+
+4chan is a faster AI as is HN 
+
+different ways to control them - different people attracted to them (see the idea of always moderate or always find yourself to the right)
+

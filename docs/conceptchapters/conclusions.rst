@@ -925,3 +925,106 @@ facebook - top ten articles each week kevin ruse nyt- right wing articles popula
 if fb does not curate it will get dragged by users - in USA that's to the right - it may be diff on spanish speaking site but the algorithm will learn what used want and drive more people off
 
 or just become what should be - postings by your friend - xmas cars list 
+
+In Ghosting the News by () she showed that local US governments that have strong local newspapers have lower borrowing costs - because they can get away with less corruption and so are more trustworthy - we need the watchdog role.
+
+Other issues around curation
+-----------------------------
+https://news.ycombinator.com/item?id=23881315
+
+Also  on same podcast, people were not aware that their congressman had been indicted for insider trading. They did not get local news on tv or newspaper but via facebook etc.  So there is a need for facebook citation algorithm to be better serving democracy
+
+this can be fairly easily achieved with regulation similar to UK public food licenses
+
+but also a algorithm  that allows following curated editors (ie bbc news feed) and allowing meta citation - popping up more highly meta news feeds 
+
+Meta-curation
+--------------
+
+We want more competition in the field (for example we want more completion on twitter so that one hack does not threaten national security - see schneier on july 20 jack)
+
+The feed algorithm will become regulated and politically hijacked - it will need to have an open solution so that while personalisabke it is also curated and regulated - hard to do but feasbikle - like choosing which newspaper to read you choose which set of lies to believe
+
+
+Scale scale scale
+-----------------
+What really makes difference in valuation is scale of the market today - 4/5bn people? facebook has 50% of market (really - has in what sense ?)
+
+The scale of dealing with certain things is enormous and we have few tools - double down on democracy 
+
+
+The death of Neo Lineralism 
+---------------------------
+rethinking capitalism - need a new vision
+
+Politics modern not have much of a vision - but slowly economics is recovering and finding new 
+
+- libertarian paternalism 
+
+We can see a new software enabled world guided by more accurate maps of our behavioural world
+
+It can be one of greater egalitarianism (70k each remember) but it is something we need to build the technology, ensure the regulation is in place and always guide the car 
+
+sadly there is not automatic driving for the politics journey 
+
+
+Big companies the world
+over
+--------------------
+https://www.tbray.org/ongoing/When/202x/2020/07/23/Not-an-Amazon-Problem
+
+Fixing a amazon is like fixing the East aindia company - it eventually took the government to take over its role with different incentives and vague idea of fairness and decency and slowly eroded - that and ghandi 
+
+The economy is not what you think it is
+---------------------------
+
+it's not GDP - measurement issues 
+productivity - you cannot measure online banking in GDP cos it has not a cost like a human teller 
+
+
+Against UBI
+-----------
+Neo liberal tosh
+you cannot use it to pay for collective public services - UBI won't pay for a bus service to your town or for better schools
+
+we need to choose the common decent floor - schools and transport and food and pay for it through decent wages and smart public works - avoid the car first
+
+what about the world where jeff bezos owns everything and the factories are robots.  Maybe ... we face that then 
+
+
+Also if MMT is right (seems like it) then government can simply use its printing power to purchase all unemployment in the economy - effectively UBi but done through employment and is a safety net plus allowing gov to build public goods - working in terrible job - hey go work for the gov on minimum wage building a road 
+
+
+
+The decreasing returns to scale of saas apps
+-----------------------
+This is why Devmanual is a good idea
+look at gitlab image 
+
+
+Regulatory minimums and devmanual
+-----------------------
+https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology?utm_source=Benedict%27s+Newsletter&utm_campaign=784a6d6e7b-Benedict%27s+newsletter+issue+346&utm_medium=email&utm_term=0_4999ca107f-784a6d6e7b-70375349
+
+How to regulate tech? 
+set up best practises like devmanual and move forward? 
+
+Also territories are going to have to find whose rules apply? is apple or amazon as big as they can get or do they have to break up to serve their different teritories? For apple making hardware that will be somewhat easier but privacy rules and data demands will likely have to split - just to be able to keep to certain demands for hosting of data 
+
+but amazon could see real splits - workers rights and so on will make consistency harder ?? 
+
+And we shall have to see how conflicts in regulations are played out - who decides ultimately - The eu court? Brexit showed that a lot of people in a nation don't like those ideas or don't trust the federalising ? 
+
+Regulation and security
+- the report on russian interference on british elections basically showed the security services dropping the ball/asleep at wheel
+
+this won't happen again - but let's look at known security incidents in big tech - twitter has saudi employees working for saudi agencies. twitter big hack is huge wake up call.
+
+At some point the security services will enforce minimum security standards on big tech - possibly full sdlc.  but the basics will be hugely crippling impact for example inability to change products to meet demand.
+
+but what rules get applied - can the CIA trust a chinese national on the Support team? 
+
+It is worth nothing that a smartphone is carried by every person is a spying device and a encryption and identity device.
+
+
+

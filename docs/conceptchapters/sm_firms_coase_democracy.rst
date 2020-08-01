@@ -383,3 +383,7 @@ Tie into the meta verse- platforms have "land". certain properties become more f
 
 We want to see a long term land tax (100-250 years).  similarly a platform tax 
 
+www.macrohistory.net
+
+so long as we have monarchy in the factory, we cannot have the republic in society' --Marc Sangnier
+

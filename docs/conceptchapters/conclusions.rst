@@ -1027,4 +1027,27 @@ but what rules get applied - can the CIA trust a chinese national on the Support
 It is worth nothing that a smartphone is carried by every person is a spying device and a encryption and identity device.
 
 
+IOT and open software - the hill to die on
+-----------------------------
+
+https://news.ycombinator.com/item?id=24023787
+
+
+
+Advertising is dead
+--------------------
+Both ends are losing money 
+Facebook trying to do attribution but that's not the same thing
+brand advertising 
+advertising is wrong model - it was a brand advert and signal (arbitrage shanks).  but online advertising is mixing up
+- discovery
+- search
+- advertising
+
+Review sites are most powerful thing - facebook should overwhelming win but some sort of near field smart app and and a rfid chip review site will be awesome socks
+
+MOOP - what happens when users of the "app" become better, more sex more money happier children? everyone will want it - this is not advertising - this should be a medical app - and regulated as such.  It should give advice under regulation.  And that advice will not be advertisabke - must be privacy law. but we have those. 
+
+
+
 

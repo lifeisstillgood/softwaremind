@@ -530,6 +530,29 @@ Software Socialist
 ------------------
 
 We live in utopian socialist society
+
+
+Some thoughts 
+https://youtu.be/52yu6hA_k2Y
+- gunpowder empires (russia, china, ottoman) - where just having gunpowder enables hierchy to dominate
+- this hierarchy failed in europe as we lived in state of total war
+- like japanese
+- but that meant our society has to be more equal - hierarchies were less steep
+- so when 
+
+comparing christianity to aztec - no cannibalism, able to survive plagues (ps aztecs had no cattle so basically cannibals)
+
+but cannibalism and sacrifice meant destruction of means of production 
+
+we only took off after stopped slaughtering cattle in winter else they would starve (turnips )
+
+But basically a socialist society where we share most is most stable in times of shock - as we approachbsungularity guess what we will have
+
+and how have we handled covid - sharing community sacrifice for common good.
+
+the direction is clear
+
+
 VC funding is just ensuring nice middle class life not threatens when trying to build company
 
 But point of (most) companies is not wealth creation (!) - Facebook just took ad revenue from Fifth Avenue
@@ -1048,6 +1071,15 @@ Review sites are most powerful thing - facebook should overwhelming win but some
 
 MOOP - what happens when users of the "app" become better, more sex more money happier children? everyone will want it - this is not advertising - this should be a medical app - and regulated as such.  It should give advice under regulation.  And that advice will not be advertisabke - must be privacy law. but we have those. 
 
+
+Shaping the community
+---------------------
+
+Open source code is created by one for the many - and paid for by whom? 
+
+Tithe? 
+
+What about foundations that pay for creation of code in their image - TOR and other sources 
 
 
 

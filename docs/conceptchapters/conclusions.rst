@@ -1083,3 +1083,45 @@ What about foundations that pay for creation of code in their image - TOR and ot
 
 
 
+When did software become obviously vulnerable 
+----------------------
+
+If any hack made it's way into the mainstream consciousness over the last decade, it was WannaCry. It introduced a mainstream audience to the concept of ransomware and, because of the impact it had on critical hospital equipment, showed just how far software has embedded itself into our society.
+
+timeline :
+
+
+
+the historic sweep view, and the possible solution
+
+https://youtu.be/iTWOXRCyOY4
+
+but - all wars and clashes can be solved by .. fairness or social justice - in european sense
+
+global wealth of evenly shared is about 70k each
+
+so how do we democratise ? 
+
+The unbundling of real life
+---------------------
+https://podcasts.apple.com/gb/podcast/econtalk/id135066958#episodeGuid=http%3A%2F%2Ffiles.libertyfund.org%2Fecontalk%2Fy2020%2FMungerhighereducation.mp3
+
+discusses unbundling of education but it will happen to rest of society as software eats world and online activity / virtual world 
+
+means virtual world will tie more expressly to real world - in a mmoprg the programmers own all the land and rent seeking - but if we agree a means to tie it to land we have degree of control - or rather the domain name is the land - and amazon is just seen as selfridges 
+
+err? 
+
+other issues
+
+farming??? 
+
+What about stock market - the solution to auditors and SEC and so on is to unbundle knowledge - a stock market where all sales and data is released daily is ... going to allow people to trust those they want to trust - cottage industry in spotting fakes (german wirecard) and make shorting an actual thing - money would flow as easily away from short targets as to them 
+
+(major struxturela issue)
+
+add this to bonds - publishing government data in the open 
+
+leads to new forms of journalism 
+
+- it will be rare but if i am right the jet fuel of growth will be irresistible 

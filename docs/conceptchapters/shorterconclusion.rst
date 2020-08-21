@@ -385,3 +385,31 @@ see also google traffic information
 
 
 There is really only one answer to this: you need to find a way to match the requirements-development-delivery cycle to the rate at which the requirements change. In the case of my government project, we did so artificially: there were no changes of any substance, so it was simple to build to the specification and acceptance test.https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/
+
+
+The Internet 2.0
+----------------
+
+Map of demographics and societal changes
+
+Assumptions are that underlying democratic institutions matter wildly - 
+
+but we are looking at changes outside of the land grabs virtual world - we are starting to see tectonic shifts in real world
+
+facebook was so huge cos it had no competition - but online real estate faces offline real estate agents and regulations and change
+
+- education will change - universities will change and have changed - in UK school
+leaving age is now 21 - quality of education changes but so does the point of education - being in class is to meet other classmates (and drink and sleep with them partly) - see the MBA choices
+
+There will be increase in such "opportunity makers" and again huge competition for the ones we're the other rich ones are going - leading to an obvious marketing option
+
+- but there will be unbundling - yes college as we know it will be place to go - but lectures and learning are the excuse for drinking and figuring out you.
+
+In my fathers era that was conscription - people from all walks of life were thrown together.
+
+this is probably a good socially beneficial algorithm - randomise school intakes - much simpler if the education delivered is mostly online ! 
+
+- Health
+- Education 
+- real estate (see the MMT etc lectures)
+- 

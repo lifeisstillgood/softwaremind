@@ -596,3 +596,25 @@ antipope -> Corporations are slow AIs
 
 different ways to control them - different people attracted to them (see the idea of always moderate or always find yourself to the right)
 
+
+Economics and value
+--------------------
+there is no final optimisation that is possible in economics- 
+
+Markets cannot have an optimal point because to trade two people need to disagree about value - that might be a failing market where there is at symmetry of data (lemons) which is exploitative but generally 
+
+it might be time based (HFT) 
+
+or it might be opportunity based - those with little cash need extortionate credit rates 
+
+regulationninnecomics is thus inevitable 
+
+but also - we can see where the exploitation is and where there is just gravitational pull 
+
+institutions and governance are there to ensure ... fairness ... and that is hard to defined even if we all know it when we see it (monkeys)
+
+The failure of project management is also failure of BlackScoles - if pricing options accurately was so useful at high precision - better than say human intuition / experience - then we would see amamzijglynbetter results - but the options markets aren't hundred times more profitable - and managing projects is not 100x easier with options - there are so many parameters that we cannot optimise (AI *might* be able to make better decisions but at this scale of project mmgmt what does it matter - human discussion helps achieve decent results whilst allowing for institutions and politics that come from deciding resource allocation
+
+and so we go back to - politics and the need for companies to become more democratic 
+
+We must double down on democracy 

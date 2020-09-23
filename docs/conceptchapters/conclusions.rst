@@ -2,6 +2,33 @@
 Conclusions
 ===========
 
+The human marriage with technology is only going to deepen - so as individuals we need to set the terms - FOSS is only part of the solution 
+
+
+First step back - time sellers like ruth bellevue's (public ally decried by sellers of stained time by telegraph) 
+
+but we live in a world joined up by peltiful time and light 
+
+Sweep of history 
+----------------
+https://youtu.be/iTWOXRCyOY4
+
+big issues are population growth (4 waves - might middle ages, cromwell, industrial revolution and 20th c borlaug revolution)
+
+each alcott had massive impacts and issues - inflation, 
+
+also cultural changes - mono culture not feasible with massive growth - so get acceptance of alternative lifestyles (bisexuality etc), racism and political polarisation as we hunt for security of our tribe in a changing world
+(inflation tends to help well calitalised who can invest against the destruction of value measure in their currency)
+
+NB this has good historical flow of political polarisation  - which implies the facebook is not a causal factor - this has all happened before 
+
+
+BUT
+
+literacy made a difference then and i am betting on two things - software literacy making  difference now and doubling down on democracy will help valve the pressure cooker 
+
+
+
 ::
 
     We see the benefits of computers everywhere, at home, at work,
@@ -503,12 +530,98 @@ Facebook and radio lab podcast
 expand a lot
 Centralising has lead to trying to moderate at billion people scale - this leads to facebook moderation currently at 16,000 people looking at a million flagged items a day
 
+Facebook is not the problem - just a symptom 
+-------------------------
+
+The issue here is fundamental to the Internet - it's not Facebooks "fault" - although they turned it up to 11.  The issue is that facebook in particular and the internet in general allows one person (or a small tribe ofnlike minded people) to publish and disseminate their point of view their philosophy their truth to millions or billions.  This in some cases is wonderful- arab spring perhaps
+
+but looking at democracy i elections the main rprblemnwith fake news is not Russian interfeeemce - but that american citizens can spread their own fake news - trying to end the world to their biases.  it sounds like democracy and freedom - but is the freedom to shit all o we everything really a benefit to society? 
+
+when do we shut down freedom? When someone yells fire in a crowded theatre? and if we can shutdown freedom for the good of society - just how different is that sentence from every dictator ?
+
+The answer is IMO the court system and the law.  
+
+I think we may need laws on debate - on facts and opinions in law? 
+
+Look at the actions of law firm in shutting down rumours of gay mcAlpine 
+
+The next issue is that facebook should not be making policy on what is or is not truth or acceptable in an election.  Fundamentally that's a lot of power for an
+unelected 36 year old to have - and facebook asks to be regulated so that it places the problem back where it belongs - with politics.
+
+this is feasible for one jurisdiction like the us - and more complex for jurisdictions like western democracies but it's being sorted - basically be omg a balkanised facebook ( which implies that local based social media like next door.con will be good trades).  does this mean we won't see d so tact spread through social media? no.  it will be a publicationnplatform - like that of mexican gang war photos. it will have the truth in it.  but it will be controlled by local jurisdictions and culture.
+
+it will be a lot easier to keep that local - even if we lose a lot.
+
+but can we see international jurisdictions changing? europe is the great hope here - 
+
 the trade off between better (western cultural) norms (!) and raising the floor and being able to deal with granularity 
 
 It most reminds me of the rowntrees model village - where they tried to make perfect community
 Which is nice but it did not work for everyone and it chafed a lot and eventually people moved out because they wanted different freedoms - 
 
 walled garden is nice but if you cannot build on the garden and create your own house and community then ... you will eventually outgrow it
+
+
+https://en.m.wikipedia.org/wiki/Jacques_Ellul
+ 
+Christian anarchist - eschew violence and eschew the state.
+
+But real world does not? 
+
+paradox? 
+
+
+Discovery, advertising, profits and agents
+-------------------
+
+So, we are seeing the unbundling of advertising and discovery (review sites perhaps are a form of discovery as is other people recommendations)  Advertising used to be both
+
+Pretty much all tech firms are advertising based - google and facebook obv but amazon has almost as much profit from ads on its own site as aws (https://www.ben-evans.com/benedictevans/2020/9/6/amazons-profits)
+
+But, libertarian pateism suggests we don't need that much stuff, and i suggest we will be guided by agents regulated to have our interests up front - so advertising to us won't be acceptable. 
+
+So agents will become a form of discovery - with some form of regulated product review process and standards orgs.
+
+Solving the review process??? 
+
+
+
+Stop blaming technology for decisions by corporations and governments
+-----------------------
+
+Guns do kill people. 
+But the person pulling the trigger can decide which person to kill for good or evil (usually it's bad whatever but you get the idea)
+
+cf Monsanto https://www.vice.com/en_ca/article/nnkqn7/mutant-food-and-the-march-against-monsanto
+
+democracy in companies
+----------------------
+https://news.ycombinator.com/item?id=24448003
+https://news.ycombinator.com/threads?id=lifeisstillgood#24462466
+
+Facebook strategic reasons for sharing data 
+
+https://www.theregister.com/2018/12/20/facebook_disaster/
+
+
+Facebook regulation
+-------------------
+
+Social media is just a way of surfacing and punting all the loud drunks in bars across the land - it's not causing boorish arseholes it's just counting then (and some degree of encouraging by helping them find each other)
+
+solutions: 
+regulation 
+
+but do we use social media as a forcing function to get international co operation ??? seems dubious at best - strategy is to beshinomgnbeacon of democracy freedom and wealth 
+
+algorithm changes - drop boron rods into the algorithm - 
+
+force citation 
+
+Wikipedia as a surprisingly good example 
+- how to regulate like wikipedia? 
+
+ultimately it has to have good faith intentions.  and cost to punish bad faith lower than not
 
 Problems with PageRank
 ----------------------
@@ -659,6 +772,19 @@ Funding comes from support - which comes from understanding why the next step co
 I am doing important experiments for kids and Inam 500 years behind !!
 
 education funding comes first 
+
+Everything is getting unbundled again
+---------/---------
+
+Education - michael munfer and university life and university education
+(buying access to city and to classmates and to the subsequent signalling) 
+
+Different ways of applying drive chain to different vehicles (car and motor home) 
+
+https://news.ycombinator.com/item?id=24336003
+
+
+
 
 Statistical socialist
 ---------------------

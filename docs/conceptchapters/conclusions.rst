@@ -27,7 +27,25 @@ BUT
 
 literacy made a difference then and i am betting on two things - software literacy making  difference now and doubling down on democracy will help valve the pressure cooker 
 
+BUT
 
+after each crisis there is a new paradigm for administering world - reneissance etc
+is software at the heart of the next one? can we get there without bloodshed? 
+
+Why WWI?
+https://youtu.be/iTWOXRCyOY4
+19:54 image 
+
+The west controlled pretty much all the world - colonial powers - so it looked like there was nothing left tonconquer so the fight was between the owners
+
+there was no realisation that the real growth was no longer over land - decoupling wealth from land decouples war ? 
+
+Finally where is the land 
+https://news.ycombinator.com/item?id=24607186
+
+it's just digital
+see fort nite and that essay
+it's none of it real and until law exists its value will be smaller 
 
 ::
 
@@ -90,6 +108,60 @@ your bonus depends on it, then the novel you write is likely to make
 as much sense as the Kafka-esque companies most of us work in.
 
 Its simple.  But very hard to change.
+
+
+privacy
+-------
+https://news.ycombinator.com/item?id=24627363&p=2
+social cooling 
+but no
+
+privacy is other people
+politely ignoring what they can observe about you - it's just now possible to observe from grater distance en mass - it's not secrecy
+
+the problem lies not in the collection but in the action on the collected data - it's not polite to gossip about the loud argument the neighbours had or the long visits the milkman takes, but it's not illegal either.  And it is not polite to serve me adverts about the TV i just looked up - but it's not illegal. But is it (should it) be illegal to serve ads for lower paid jobs to people likely to be women, or ads to gambling addicts or refuse a job based on a ten year old photo? 
+
+Privacy is not the problem - politeness and legality are. 
+
+
+We should be wary of peoples stated reasons - a group of young women saying they feel their photos could be used against then in a job search in ten years time might be true, but tends to fly in the face of human experience of youth and wild days.  However it is a very good excuse to give to the drunk asshat who is pressuring you to join a wet T-shirt competition.  cf trend for handing out red cards and yellow cards 
+
+
+Covid is speeding up remote working no!!
+no company saves money on offices to give it to employees as salary - well why not??? 
+surely rise in co operatives will show this 
+
+but also the change in society relationship to business - is business allowed to fail - if so it cannot become socially vital 
+
+Managing AI - public ai registers 
+-----------------------
+https://uploads-ssl.webflow.com/5c8abedb10ed656ecfb65fd9/5f6f334b49d5444079726a79_AI%20Registers%20-%20White%20paper%201.0.pdf
+
+see math destruction 
+
+
+Reputation and privacy
+----------------------
+
+Reputation is fine (can be games or fraudulent but generally works).  But it needs a reputation decay rate 
+
+Also reputation radius - and weighting - is not enjoying a uber ride relevant to one shonesty in diamond trading? 
+
+The rough and tumble real world
+-------------------------
+
+I think this encompasses rule of law, 
+
+In many geographical areas of the world there is not effective rule of law - so the rule of killing the worst people to hopefully bring back rule of law applies.  There are also areas of the non-geographical world - crime, and large parts of the internet.
+
+Additionally publish the plan vs discretion and boundaries
+
+oversight and illegality 
+
+
+How the secret service needs to make at least one person in the room lose bladder control 
+
+
 
 Isn't everthing "done" now?
 ===========================

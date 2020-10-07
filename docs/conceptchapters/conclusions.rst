@@ -161,7 +161,58 @@ oversight and illegality
 
 How the secret service needs to make at least one person in the room lose bladder control 
 
+Your own facts
+--------------
 
+At certain scale need to have continuing professional education - how everyone knows everyone else is up to date
+
+a political solution too - it was one of the biggest solutions mass centralised media played and is one of the major failings of mass decentralised media - no one agrees on the same set of (important) facts. (ignoring fake news - look at labour online and labour massmedia where 2016 it was fox hunts and whaling online)  
+
+So how do we agree on same set of facts - it's almost like manifestos - there should be continuous problem definitions - government saying this is the problem and we are solving it (it's like a campaign "build a wall") 
+
+how can this be responsibly managed?? 
+
+
+Social media and social change
+-----------------------
+https://www.cracked.com/article_19225_5-reasons-twitter-isnt-actually-overthrowing-governments.html
+
+Problem with social media
+-------------------------
+
+It's joy fake news or misinformation - it is expectation.
+
+We expected articles on facebook to have the same weight as Washington post.  But they cannot the economics just don't work
+
+so we should treat social media as it is - a recording of ebru conversation in every pub everywhere 
+
+Yes we might be able to eavesdrop on the bon mots at the Algonquin round table, or perhaps over hear Einstein chatting to Dorak, but we basically won't - and we should treat it the same.
+
+Our expectations of curation need to change - unless we have curation we won't get it. 
+
+pay for curation ... 
+
+That will also help to solve the "same set of facts"
+problem  - 
+
+
+Review sites and freedom
+------------------------
+
+Review site suffer a problem of astroturfing / trying to persuade people to buy something / anything.
+
+so people try to turn to sites like reddit - to get the pub conversation that would be the equivalent of "oh bobbbought one of those washing machines and it broke twice in the first year".  
+
+This is fine IRL because no one buys a house in your neighbourhood and heads to the pub in order to influence your choice of washing machine.  But they happily will create sock puppet account on reddit
+
+The solution is really only going to be client certificates signed by the government - a sort of online passport.
+
+This will be ok for most people in democracies - we already are 
+
+it will of course make freedom worse in oppressive dictatorships but things are pretty shit there anyhow and we were fools to dream that TCP/IP would replace the hard work of ensuring human freedom - we have to earn freedom the hard way, in real life. 
+
+
+Then the sensible technical solutions will be available
 
 Isn't everthing "done" now?
 ===========================

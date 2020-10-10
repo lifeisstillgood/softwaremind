@@ -104,6 +104,23 @@ Putting the conclusion before the horse.
    ability to code my bank statements.
 
 
+reading
+https://www.regulate.tech/data-your-place-or-mine-28th-sept-2020/?utm_source=Benedict%27s+Newsletter&utm_campaign=e7242fbd18-Benedict%27s+newsletter+free_COPY_01&utm_medium=email&utm_term=0_4999ca107f-e7242fbd18-70375349
+
+
+How to fund OSS
+---------------
+https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+
+
+The show runner paradox and end of management 
+------------------------
+
+I am a coder and enjoy it and move to do more of it (40 reports and left) - but definitely get paid more as get more reports - but this is not a function of administration but a function of making decisions that will have long span of time and need to hit right taste - 
+
+But increasingly this will come under fire - standardised software will make decisions on how to don non core work stashed and mean that only core work gets the long decisions and that means core expertise.
+
+something about dunbar number and working together - and something about software breaking markets - 
 
 The Software Mind - It's not a *philosophy*.  *Attitude* is
 too... well actually attitude is pretty good. Yes, Attitude. The

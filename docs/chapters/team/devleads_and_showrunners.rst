@@ -1,6 +1,9 @@
 The show runner
 ===============
 
+show runners get paid  ore but move away from writing and into editing / guiding work of others to fit together well - so the more that fits into one head the more important  role is and more singular it is - cf boeing airplane and ned for simplicity and composability 
+
+
 TV shows - you gotta love 'em, sometimes people (without young kids I assume) binge watch them on The NetFlix Channel.
 
 At the heart of each tv show is someone called a show runner. They are almost invariably writers themselves. They don't write (all) the shows. They have a different job. Partly it is to keep the story arcs between episodes straight, but really a good librarian can do that. The job they really do is to tell the other writers that what they have is not yet perfect. 

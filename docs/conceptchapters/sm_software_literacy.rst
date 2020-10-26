@@ -102,6 +102,16 @@ The software mind can be seen as the mind of a literate software developer.
 Or it can be seen as the controlling mind of an organisation, of a society.
 
 
+The skill set of the 21C
+------------------------
+
+Remote working is being massively accelerated folllowing COVId - and reflecting new skill sets - where the girl or boy who has learnt to spin up a online guild and keep them on quest has more valuable skills than a flesh pressing salesman in a corner office.
+
+The hours wasted online gaming might not be so wasted - well maybe a little.
+
+But perhaps it indicates how to choose the games we play - if a spreadsheet helps keep track on the side it's likely to be more useful than fast twitch muscles
+
+
 
 
 .. sidebar:: The First Tech Revolution

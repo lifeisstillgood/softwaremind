@@ -109,6 +109,30 @@ as much sense as the Kafka-esque companies most of us work in.
 
 Its simple.  But very hard to change.
 
+Corruption index and good corporate citizenship
+------------------
+
+Prof Yuen Yuen Ang suggests there are three (four) levels of corruption in developing / developed worlds
+
+- Shake down : give me protection money or Inhurt you 
+- Veto: pay me or i stop your project
+- Speed up: pay me and I approve the licenses that otherwise take 4 months
+- Access : pay me and you get to talk with the president and gain monopoly access 
+
+China in 98 took action to reduce the first two through focus on *administrative* reforms - how many civil servants are there how much are they paid, and by 2012 raised the pay of civil servants to decent enough level that corruption was not a survival choice
+
+But countries lik brazil india have not made those boring administrative reforms ans suffered for it
+
+so what are my corporate citizen levels 
+
+- ignoring / refusing new action
+- information hoarding 
+- helpfulness hoarding
+- 
+
+systems like common ticketing and time tracking help
+
+common published data 
 
 privacy
 -------

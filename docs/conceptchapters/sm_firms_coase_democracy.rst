@@ -387,3 +387,41 @@ www.macrohistory.net
 
 so long as we have monarchy in the factory, we cannot have the republic in society' --Marc Sangnier
 
+Red companies and blue companies 
+----------------
+https://twitter.com/paulg/status/1319677911209857030?s=21
+
+Yes but ... as we grow into democracy in all walks of life won't this naturally follow - some companies become puarlistic some awful dictatorships - and we will learn to deal with them 
+
+
+Digital Infrastructure and society
+-----------------------
+
+Google (FAANG) have become quickly digital infrastructure - in the same way nascent electrical providers were.  And we will be dependant on them and reliant on similar ways.  And their architecture and policies will serve or hinder our societies and political aims
+
+So we should treat them similarly 
+
+
+
+SolarPunk
+---------
+I came of age under cyberpunk
+
+https://thedorkweb.substack.com/p/towards-a-solarpunk-future
+
+But blame is pointless in an age of collective responsibility- and collective responsibility is what we will teach ourselves in our democratic companies.
+
+Society has to effectively price externalities - we do this through political process 
+
+ it solarpunk is ... being wholesome and empathic and concerened as a function of rebellion.  so our kids will revel by being better than us.
+ 
+ 
+ 
+The state of youtube and freedom
+------------------
+
+https://news.ycombinator.com/item?id=24890333
+
+Awesome 
+
+ 

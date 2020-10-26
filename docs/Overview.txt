@@ -68,6 +68,12 @@ index
     Trustable processes
     Trusting data and firm size
     Trolley problem
+    
+    trolley problem 
+    ---------------
+    swardley map and trolley 
+    https://swardley.medium.com/digital-sovereignty-17853157e40a
+    
     Recap
     Governance and Software
     The Trolley Problem in Software Governance

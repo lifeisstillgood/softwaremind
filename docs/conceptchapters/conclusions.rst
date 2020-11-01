@@ -134,6 +134,28 @@ systems like common ticketing and time tracking help
 
 common published data 
 
+Personal Software agents 
+-------------------------
+
+I fervently believe that having software "agents" that work to overcome the algorithmic feed and provide us with balanced / beneficial social media.  It's going to be a long slog to get there, kind of like our generations fight for safety at work legislation (or pollution legislation).
+
+This needs not only the software to exist (what plug-in do you use?) but the regulatory environment to allow / support / promote it and controversially the default settings - which I suspect will be the biggest political fight - I think we need to explore the concepts of Libertarian Paternalism exposed by Richard Thaler.
+
+
+Future of search
+----------------
+
+We went from lists (yahoo) to search (jeeves) to good search (google) 
+
+Amazon now has 15bn dollar search business - product search.  Becaus you cannot find anything you want on amazon with nljoowing what you already want - so the discovery portion is being done by people like four hour work week drop shippers 
+
+So where is value ? Where is appropriate to me?
+
+it comes in form of curation - which is basically looking for someone who has simla or or leading tastes to you
+
+cannot have a 1000 true fans but you could have a thousand 
+
+
 privacy
 -------
 https://news.ycombinator.com/item?id=24627363&p=2

@@ -392,6 +392,10 @@ http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 https://news.ycombinator.com/item?id=14907
 
 
+Teal companies 
+https://www.strategy-business.com/article/00344?gko=30876
+
+
 The BitTorrent CDN - everyone an advertiser
 Noticed iTunes seems to be gel locating adverts
 Now surely there is a very good possibility to stream works to me but insert ads - and as each torrent client is pushing the. There is possibility of just getting a penny for putting an ad in the stream I share 

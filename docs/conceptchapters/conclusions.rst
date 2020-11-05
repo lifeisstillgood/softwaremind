@@ -142,6 +142,11 @@ I fervently believe that having software "agents" that work to overcome the algo
 This needs not only the software to exist (what plug-in do you use?) but the regulatory environment to allow / support / promote it and controversially the default settings - which I suspect will be the biggest political fight - I think we need to explore the concepts of Libertarian Paternalism exposed by Richard Thaler.
 
 
+https://news.ycombinator.com/item?id=24964036
+
+
+
+
 Future of search
 ----------------
 

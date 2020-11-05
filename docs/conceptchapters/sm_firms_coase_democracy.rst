@@ -289,6 +289,43 @@ software governance and social governance
 -----------------------
 As facebook et al build tools for "governance" (combat bullying, view who views me we see those gov forms adapt to society 
 
+Facebook is not the problem - fake news kinda is
+--------------------
+Social media needs a new analogy - so here goes
+
+Imagine a video camera at every barstool across the country.  Every booth every table 
+
+Then each camera is a TV channel.  Now decide what to sit down and watch this evening.
+
+There is a channel with Enisten and Dirac discussing physics.  There is a channel with Dorthy parker sparkling wit around a round table.  There is definitely beautiful people snogging
+
+But mostly there is total crap talked by idiots 
+
+Search is the problem, followed by discovery 
+
+
+Curation is mostly what we want - and choosing our curator is a question like choosing diet advice - best done selecting for our future best self.
+
+Again we need agent based support and regulatory environment 
+
+Let's imagine I can have a world where the food choices I see - at home, on TV and at the store and restaurant - can be programmed - can be guided by an agent that I set the rules for.
+
+Well I am likely to set it (in a quiet moment when I have eaten well) to offer me only healthy choices. 
+
+Supermarket aisles will not be stocked with crisps and chocolates when Inwalk past but various melons and pears.  
+
+This is Libertarian paternalism - on an individual basis.
+
+And Incan cheat - It's my agent so it's possible - but it can remains me of my goals etc.
+
+
+Now expand this for financial budgets (lol at the structural difference between me posting a cheque to the utility company to pay my bills abs the company auto deducting from my credit card.  That's why credit cards could charge shops a far perecrntage - they were way better ways to manage payments owning)
+But from a personal point of view it's worse - how many of us have bills taken monthly we have basically forgotten about - I cannot figure out how to remove an alexa 7.99 a month payment - it will hit 70 quid soon and Inmust fix it but not it is user unfriendly.
+
+
+
+I used to be vegan - choosing between jacket potatoes and beans and hummus sandwich made for boring but simple menu choices. I preselected 
+
 Programmable company and bus factor
 -----------------------------------
 

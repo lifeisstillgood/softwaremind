@@ -100,6 +100,26 @@ Software demands global regulation
 
 We unlikely to see balkanisation of internet - we might see DVD regionalist.  but software will define our geopolitics as much as anything.  software configuration as a tariff !! Look at is your car going to kill the girl or the driver? 
 
+Global regulation
+-----------------
+https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773?i=1000496887800
+
+Global platforms but locally regulated ? car industry is locally regulated but most local regulations are harmonised because most local gov agree on the basic philosophy 
+
+but for free speech? German hate speech vs first amendment? China and russia? 
+
+Consider modern military and cost of mechanised mobile joint arms 
+
+- which problem are you trying to solve ?
+- which market is a monopoly
+- philosophy is important - uk regulator is not about consumer benefit but 
+- is it possible to have single global solution 
+
+
+theory of harm 
+ideal 
+we have utilities need - we are building the foundations of society and it is inverted pyramid - we depend on last generations innovations as today's utilities- so each regulated step needs to build society - underlying philosophy is is there a society - oddly eu is closer to china here than USA
+
 
 Laws and Software
 -----------------

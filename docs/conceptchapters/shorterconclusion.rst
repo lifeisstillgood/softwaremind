@@ -430,3 +430,27 @@ this is probably a good socially beneficial algorithm - randomise school intakes
 - Education 
 - real estate (see the MMT etc lectures)
 - 
+
+
+
+Housing, rentiers and HP Ink
+------------------------
+https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer
+
+Licensing and ownership
+
+Housing is about rent- land prices make up the problem
+
+and the likely solution for housing (government builds or removes the land improvement via tax)
+
+is same for companies
+
+Network effects are a natural monopoly - and as such should be seen as the undeserved equivalent of land prices going up as people move in.
+
+see the youtube videos of ??
+
+Licensing is just forcing rentier on people - with this legal fiction - but ownership is doffeeent - ownership of data about me, of hardware and of software - it is owned and title transferred 
+
+
+
+

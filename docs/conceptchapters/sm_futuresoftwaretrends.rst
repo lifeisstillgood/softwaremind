@@ -298,6 +298,12 @@ clueteain manifesto
 
 it is most likely breeding ground for the Cambrian explosion of democratic experiments - millions of attempts to build a verse for your avatar to live in - the ones that work best will be the most attractive (the idea of democracy being something that is imported not exported) 
 
+
+personal data warehouses
+-------------------------
+https://simonwillison.net/2020/Nov/14/personal-data-warehouses/
+
+
 You can't avoid harmonisation 
 -----------------------------
 ISO 20022 - global payments protocols and standards - it's not EU it's everyone 

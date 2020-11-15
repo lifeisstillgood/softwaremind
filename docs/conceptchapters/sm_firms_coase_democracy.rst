@@ -98,6 +98,13 @@ https://podcasts.apple.com/gb/podcast/a16z/id842818711
 - everyone becomes a real time analyst
 - we are seeing rise of software mediated marketing (growth hacker) and product management (where the product is reporting on metrics (ie funnel) and so guides next feature development
 
+But marketers are basing everything on basically bad data - it's like pollsters but worse way worse
+https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data
+
+
+
+
+
 and 
 
 - modelling of organisation will be means to management of org 

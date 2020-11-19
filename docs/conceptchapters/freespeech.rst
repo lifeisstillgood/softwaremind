@@ -82,3 +82,15 @@ So we need more tent pole events inline - more I Loce Lucy
 
 We have a scaling problem now - all scientists alive now more than have ever lived since 1980
 
+
+Complete HN rant from me on this
+----------------------
+This is about free speech which is about content moderation which is really about the dividing line between what tech can do and what society can do to shape its citizens and what should be left to individual (informed) choice
+
+https://news.ycombinator.com/item?id=25100415
+
+
+Twitter labelled Trump tweets as bullshit (misinformation).  They were still shared - but dropped by 20% - somlabelling does work 
+https://podcasts.apple.com/gb/podcast/slate-money/id876523888?i=1000498576172
+
+

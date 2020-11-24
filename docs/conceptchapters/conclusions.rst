@@ -134,6 +134,33 @@ systems like common ticketing and time tracking help
 
 common published data 
 
+
+The bugs in Social Media are bugs in human thinking
+---------------------------
+
+See wikipedia list cognitive biases
+
+You see social media (google facebook) are "just" aggregators of other peoples content - and the problem is that they present different content to each person - based on the behaviour online of that person (and others who saw that same content - ie page rank, time engaged etc)
+
+So social media do not create anything they just measure how humans actually respond to content (news headlines, youtube videos).  So bugs in how humans think and react are the essential bugs in what content will be served to us
+
+The solution is to define what we want before we go shopping - choose for our future selves out of the moment.
+
+Defaults mgmt or libertarian paternalism 
+
+
+
+National defence
+-----------------
+last ten mi s 
+https://podcasts.apple.com/gb/podcast/talking-politics/id974670140?i=1000499329270
+
+
+
+An aircraft carrier - pah! where is my Sciebtidic laboratory carrier - standing ready to produce vaccine research? 
+
+humanity did something amazing in covid - and shifted the overton window fit dealing with other problems - let's see a science budget the size of military budget 
+
 Personal Software agents 
 -------------------------
 

@@ -29,7 +29,11 @@ And yes god this could be some dystopian nightmare. Or it could be for our own g
 
 This is where it's about values and principles.  The difference between the chinese social credit system and this is really how much do you trust the beijing administration? And the answer is on the same order as trusting Washington, Downing st or elysee palace.  We have to have new institutions to help this - but mostly we need openness and transparency - double down on democracy 
 
+Future of retail
+----------------
+Instagram - you can find the pots you like by following people and youtube does same - see it in action
 
+So people putting them up can have affiliate links? is that the future? 
 
 
 Project Management - death of 

@@ -149,6 +149,21 @@ The solution is to define what we want before we go shopping - choose for our fu
 Defaults mgmt or libertarian paternalism 
 
 
+The man with two brains and organisational theory and the futur of democracy
+--------------------------
+
+- man with two brains shows there was a not one "us" in there - there are two us, competing and arguing and *coming to an agreement*.
+
+And in fact there are many us - emotional responses asking for attention - decisions are a cacophony of competing work trying to arrange them selves.
+
+This is similar to organisations - different factions trying to align and decide and reform
+
+And this is how democracy in one country works - and indeed how international co operation is going to have to work 
+
+the more we understand about the brain the more likely we are to find the new form of democracy that allows each human and tribe to be heard and represented whilst still choosing best for the species / organism as a whole.
+
+This is why democracy in companies is going to need to work - we need lots of experiments to get even close.
+
 
 National defence
 -----------------

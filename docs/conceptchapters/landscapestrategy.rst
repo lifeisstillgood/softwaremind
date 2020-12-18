@@ -88,3 +88,26 @@ Gives us priorities for sales and marketing efforts
 
 This gives us some ideas of hot tomimplement to strategic landscape we see
 
+
+RPA and salesforce 
+------------------
+Everyone is trying to codify business processes - that is express and the follow / monitor / model / modify the internal processes sof a business - initially to save money, actually to find out what the hell they are and eventually to simplify and improve.
+
+so salesforce is really a millionnintegrations - as is zapper or iftt - or every pythonnscript and APInhandler in any large corp 
+
+
+No more commodity hardware
+--------------------------
+https://mule.substack.com/p/the-tech-monopolies-go-vertical
+
+The big tech companies have no gotten so big they cannot wait for Intel to give them more - so are designing chips for their own use - but that means chips from each big five - the big cloud sellers and apple the big mobile "cloud"
+
+so if we want to buy compute time we end up compiling for specific software - this means a lot of bets on which cloud compute will or won't succeed
+
+but then there is a lot of "is the fastest ML chip actually a serious differentiator" - which becomes is ML the next SQL or is it just so hard ?
+
+Which becomes how do companies extract the value from computing? back to the electric vs steam
+
+(picture of everyone using belts from ceiling down to their workstation - this is not electrification - that is cloud - so what is true wave - i think some form of labelled data)
+
+

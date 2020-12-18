@@ -165,6 +165,50 @@ the more we understand about the brain the more likely we are to find the new fo
 This is why democracy in companies is going to need to work - we need lots of experiments to get even close.
 
 
+There is always hope
+--------------------
+
+https://youtu.be/zFbaesLEa4g
+
+food companies should not put sugar in our food - media companies should not put so much conflict and extremism in our food diet 
+
+
+We should do more to determine "acceptable overton window"
+
+We’re starting to address fact-checking, and will do more. Failing to curb antisocial behavior kills companies, as well as communities. (https://abe-winter.github.io/only/fans/2020/11/29/everything-in-moderation.html)
+
+
+
+Software engineering - defensive
+----------------------
+See Humble Pi book for errors but how defensive is your code? lives in very benign environments ... how to up that - use hypothesis etc testing 
+
+Metric Prediction based development 
+-----------------------
+We expect this feature to effect this metric - this demands good (business) metrics and feature rollout capabilities
+
+Regulations - examples 
+---------------------
+Build a long series of thought provoking examples
+
+When we regulate "cars" there are a dozen or more different area with cl dry different expertise and jurisdictions - emission control vs road safety barriers vs parking fines in london vs workers rights in factories and supply chain tariffs 
+
+
+Similarly for tech there is a world of different areas - 
+
+
+* what is privacy - and what is the valuable part of privacy?  (it's not secrecy and so *someone* knows.  Should privacy prevent my wife from knowing my phone and my secretaries phone were in the same hotel room all night ?
+
+* if i have a photo of you and me, who owns the right to those personally identifiable images? what if I share it on social media under restrictions more open than you want?
+
+* 
+
+
+
+
+
+yuy
+
 National defence
 -----------------
 last ten mi s 

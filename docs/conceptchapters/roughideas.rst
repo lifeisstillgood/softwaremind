@@ -622,3 +622,37 @@ The failure of project management is also failure of BlackScoles - if pricing op
 and so we go back to - politics and the need for companies to become more democratic 
 
 We must double down on democracy 
+
+The Permissions event horizon
+--------------------
+Using my own linux box or AWS cloud I can stand up a database and insert a line of data in a few seconds or minutes.
+
+This enables rapid development 
+
+In *every* large company I  have been in I have simply not known how, or it has taken weeks or months to find out how or even fractions of a year to get new hardware installed.
+
+yes there is an embrace of cloud but the huge lent up demand 
+
+this is part of director hazing - a sort of entrepreneur obstacle course - if you cannot find out how you don't have the gumption to continue 
+
+the problem is at some point it will be easy enough for internal developers to (securely) create apps and use APIs to create services - and at this point  some issue happen - there will be so many new ideas and apps all trying to solve the same problems internal to a comlnay that winners will get picked not through attrition of the entrepreneurs obstacle course but direct ok that one - this will cause discontent amount most non chosen dev teams, and occasionally result in stupid picks getting through - meaning the next time everyone will demand a vote on which app to use (marketing etc)
+
+it will also clearly point out that the number of developers and people actually needed is way way smaller (1/3) than currently.
+
+It will also eliminate a large number of mod manager positions as expected. 
+
+Cambrian internal explosions of applications and marketing options - which will look incredibly like democratic politics as opposed to the closed door politics of dictatorship 
+
+
+
+
+Data Colours
+------------
+
+https://youtu.be/z43bmaMwagI
+
+we need ways to colour data - store it always under data types and keep it coloured - ie this belongs to a person etc
+
+
+reading code not use same parts of brain as language 
+https://news.mit.edu/2020/brain-reading-computer-code-1215

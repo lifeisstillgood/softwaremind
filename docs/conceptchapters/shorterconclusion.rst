@@ -65,6 +65,19 @@ Putting the conclusion before the horse.
    Just not getting it - Post office, and the knight trading people
    Where have we moved the complexity and the cost - every shady company is just a complexity / risk hiding. From crash to elsewhere managing risk and managing complexity are huge endemic - and we are doing it badly.
 
+New issues on cyber security
+---------------
+Alex stamos 
+https://podcasts.apple.com/gb/podcast/political-gabfest/id158004641#episodeGuid=246a6b4a-c5b0-11e9-9b3a-0379f8af9fae
+
+- When i wrote about OPM years ago what i predicted came to pass chinese have been identifying us spies that way
+
+also - we need to build a global cyber defence standard - from open source hardware to architecture that allows and expects things like sandboxes and cattle not pets 
+
+
+
+
+
    Need software to manage it - to report on it, to pull it from virtual
    
    But also need transparency in business models, to manage risk in

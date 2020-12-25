@@ -644,7 +644,109 @@ It will also eliminate a large number of mod manager positions as expected.
 Cambrian internal explosions of applications and marketing options - which will look incredibly like democratic politics as opposed to the closed door politics of dictatorship 
 
 
+Cyber security and liability
+----------
 
+we want better cyber security (see open hardware etc)
+
+we shall see better results using a blame neutral system like NTSB (air crash investigation) - where breaches are reporters and the investigation continues and everything from the missing bolt to the organisational failures that lead to a missing bolt are highlighted and MRA raised.
+
+but this needs legal changes even in one jurisdicatiob - and no good just not being liable in say sweden if same breach affects people in USA and india and they can sue. 
+
+
+
+Will faang be regulated? 
+------------------------
+yes
+look all the money that all western (russian and chinese and western, he'll all businesses) spend on advertising and on marketing are getting funnelled through a vanishingly small number of companies.  no matter how rich they are do we really think that five or ten businesses can take on *all* the others!  
+
+a utility style solution seems most likely - but this will need international co ordination - or possibly yet another "ooops we did not understand the implications s change"
+such as releasing all data as APIs or creation of a regulated PII data industry with medico-legal protections 
+
+i like this - because i do not see privacy as a "human right".  privacy is not a single thing.
+
+what is socially negative is the unfettered exploitation of PII data - being able to target me for a commercial or political advert or other engagement based on my past stored behaviours - we could see the change between personalised and contextualised ads and we should see an industry of owners of data that have hugely powerful regulatory smack downs that keep a data industry in check (but also needs a moral and social disgust which feels like it is coming) 
+
+GDPR+ and ownership and fines and small industry of lawyers getting us payouts and NTSB style data protection rules and yet we get the benefits of data collection - look at the iwatch - the medical benefits of that in epidemiology will go for decades.
+
+privacy - adverts try to tell me what to think / think about.  I don't like that 
+
+What comes next
+---------------
+I have been in internet tiindustry since 1997 and constantly afraid i have missed the boat.  and missed a lot
+
+but the next things
+
+(ref ben evan)
+look first fifty years of car industry was how to make a car - did it have a roof and window wipers etc
+
+the next fifty were about the consequences of everyone having a car - highways and mcdonald's drove through a and walmart's and traffic jams and holidays at the beach and cliff richard roving a bus and ... 
+
+Have we invented the mcdonald's drive through of the smart phone? have we invented the interstate highway? 
+
+not yet - facebook is hopelessly trivial - a social graph.
+
+what is coming next is the total recording and *improvement* of our lives - moop is first part.  but what will it mean to have ability to recap everyone you met? and place them on social graph that is a public record?
+
+yes chinese administration controls a social credit score - what happens when social disapproval controls it ? 
+
+
+What kind of company are you ?
+---------------
+is facebook a software company? Is netflix?
+is bofa? 
+- who is the prime regulator? 
+netflix is regulated mostly as a TV company 
+Facebook should be regulated as a ... advertising company 
+
+it's more or less a new category but it's a advertising sale somcpnay 
+
+is it? 
+
+
+What is needed for AI to help us?
+----------------------
+https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7
+
+tie into Math destruction and lack of understanding of and controls over
+
+basically we want to automate science and have provenance - and then apply politics and policy 
+
+this is the software architect problem - we need to define and agree each step (ie the politics is over by the time the software is written - hence conways law) 
+
+this ties everything together - and shows how hard this is going to be 
+
+
+Weapons of math destruction
+- algorithms must be understandable and openly published and auditable
+
+Michael jordan 
+Provenance - how to show that the decision made is based on good data, and has that data changed? this is interlsnly hard - it is basically all of science
+
+Policy - this is which parts of science do you choose to ignore?
+
+this provides a fascinating problem for the nazi party / extremenits - we are going to embed science (we hope) in these decisions 
+
+there won't be a place to alter the provenance - it will be hard to choose your own facts.
+
+What will be needed will be a weighting of facts (there are some things more important than money)
+
+
+
+Oxford woman - privacy
+
+Is there such a thing as privacy? regulation and the best interests of the individual - 
+
+we will have hard dichotomies - basically for a medical
+doctor in european system the decision is what is medically correct irrespective of cost
+
+but what happens to society when all social decisions are "best for individual and irrespective of cost" - fairer distribution - mental health - early years and education - potential lending of abuse 
+
+there is a utopia ahead - but will it look at all like what we think utopia should be? (star trek is a bit crap) 
+
+Video game life for greater good
+-------------------
+29. You do not live in a video game. There are no pop-up warnings if you’re about to do something foolish, or if you’ve been going in the wrong direction for too long. You have to create your own warnings. 
 
 Data Colours
 ------------

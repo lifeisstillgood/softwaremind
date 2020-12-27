@@ -731,7 +731,9 @@ there won't be a place to alter the provenance - it will be hard to choose your 
 
 What will be needed will be a weighting of facts (there are some things more important than money)
 
+Additijally - we are rebuilding all global society - firstly away from hydro carbons and onto solar and secondly this new data infrastructure - that envelopes and guides us - with our best interests regulated and at heart
 
+middle class champage socialists - it's the way ahead.
 
 Oxford woman - privacy
 
@@ -748,6 +750,17 @@ Video game life for greater good
 -------------------
 29. You do not live in a video game. There are no pop-up warnings if you’re about to do something foolish, or if you’ve been going in the wrong direction for too long. You have to create your own warnings. 
 
+
+Swardley mapping 
+----------------
+https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
+
+
+
+Great talk - powerful
+even if not clear
+-----------------------
+https://www.slideshare.net/mobile/PatriciaAas/embedded-ethics-eurobsdcon-2019
 Data Colours
 ------------
 

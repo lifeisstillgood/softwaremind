@@ -755,7 +755,13 @@ Swardley mapping
 ----------------
 https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
 
+Record companies were modern day DeBeers
+----------------------
+University oF minnesota economist and author digital renaissance estimated in 2018 4 million new songs were added to Spotify and similar each year.
 
+This means the record companies of the world in my era were acting like a cartel chocking off supply to increase price.
+
+Simon whatdishface as DEBeers ? 
 
 Great talk - powerful
 even if not clear

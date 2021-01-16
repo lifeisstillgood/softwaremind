@@ -763,6 +763,51 @@ This means the record companies of the world in my era were acting like a cartel
 
 Simon whatdishface as DEBeers ? 
 
+
+Each Technology has its own agenda
+-------------
+https://lambdaland.org/posts/2020-08-16-book-review-technopoly-v2/
+
+No such thing as data 
+---------------------
+ben evans actually there is just that it depends on context of regulation - that oil is different in refinery in a parked car and in diesel powered ship
+
+
+AI and SQL
+----------
+ben evans take 
+Also history of tape drove was one dimensional view of data due to tape
+then hard drive lead to multi dimensions as random access cost lowered
+now ML is multi dimensional squares - but we don't decide the dimension to view - it's part of model
+so academic underpinnings of ML missing  - so far 
+"explicability" is likely not just good policy terms but for driving the field forward
+
+Future of social media regulation
+----------------------
+https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/
+
+So twitter banned Trump.
+This implies happily that twitter (faang) can ban any politician - so ... build your own twitter for china? ok - for Brazil? maybe, for lichenstein? yeah.  Perhaps open promtcol distributed systems - one that means no one can be banned - but then that loses the *discovery* portion (ie the algorithm)
+
+(we need to split social
+media platforms into multiple parts - protocol, discovery, advertising, etc)
+
+But the point is that without regulation and with central control you can do better - how about hell banning politicians? I suspect it is possible :-) 
+
+the problem here is also the differentiator of social media - that each person can get different personalised feeds. If i read one newspaper I have read them all - but what if each news paper carried different articles and front pages? how would you know what reach that PR piece got?
+
+Everyone gets hell banned. 
+
+
+
+
+metric driven development 
+-------------------------
+I have occsssionally espoused "metric-driven-development" where a metric is defined and measured and then a release is tagged with that metric - and over a period the release is seen as a success or fail if it moves the metric.
+
+This keeps everything focused on the important usually externally facing issues.
+
+
 Great talk - powerful
 even if not clear
 -----------------------

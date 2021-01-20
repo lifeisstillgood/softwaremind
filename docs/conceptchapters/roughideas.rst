@@ -799,6 +799,15 @@ the problem here is also the differentiator of social media - that each person c
 Everyone gets hell banned. 
 
 
+Software is learning 
+--------------------
+Literacy argument redux:
+
+Look if you write down your essential business processes you would find new learnings and efficiencies. (see that electrical guy). this is often writing down the policy manual
+
+Now if you outsource your writing down the policy manual to a third party offshore policy manual writer, effectively you just became a franchise owner.
+
+same with software - you might get a running system but the essential knowledge left your company.
 
 
 metric driven development 

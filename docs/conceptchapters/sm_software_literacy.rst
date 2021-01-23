@@ -685,6 +685,62 @@ Nothing stops someone putting their own videos on line - YouTube
 simply aggregates and collects rent
 
 
+
+Politics and Priject management 
+-------------------
+
+There is a new Agike concept out there - WSJF weighted shortest job first.  It has a formula - cost of delay / job effort.
+
+It's not *bad* but it has the same fundamental problem of any scaling approach - you need to have an agreed common "business cost / profit" - you need to predict how much money this thing is worth so you can compare it to another thing.
+
+This is fine if you have one person doing the "how much will it be worth". because you are basing your business on *their* taste (opinion etc) - so Amazon prototypes are based on jeff be is idea of what is going to be worth the lost
+
+but when you have two people - you get two doffrrrnt views on the value of an opportunity 
+
+now if you get similar people (same tribe, same outlook same background) you might get roughly similar answers.  But increase the numbers and the diversity and you get ... politics
+
+politics is where the difference between expected rewards from different projects because so great that neither side can find agreement in the same framework / prioritisation process
+
+so politics is mostly a search for a prioritisation  process that everyone can agree on.
+
+so project management is no substitute for politics - and politics needs to be surfaced.
+
+Honest explanation of wants to an agent (novel prize winner) 
+
+
+Senior Software engineer
+------------------------
+This is when you stop coding for computers using computer language and start coding for other people - usually using the English language 
+
+The problem is that people don't do exactly what you tell them - and the other problem is that computers do do exactly what you tell them 
+
+
+It's not just faang that rule the world - its index funds too
+------------------------
+Matt levine
+We talk occasionally about the theory that BlackRock Inc. rules the world. Not BlackRock per se, exactly,[1] but there is a small group of gigantic investment managers who are the biggest shareholders in most public companies, and who, at some level, get to tell those companies what to do. The people who run those investment managers—people like Larry Fink of BlackRock—have disproportionate power over the world. If they decide that corporations should not have staggered boards, corporations will not have staggered boards. If they decided that climate change is a pressing problem and companies need to address it, companies have to at least consider addressing it. 
+
+It is weird to have most of the companies in the world run by a small group of people. When you put it that way, it sounds like an obvious antitrust problem, and there is a popular argument that in fact antitrust law does or should restrict big index funds from owning all the stocks in an industry. But its weirdness goes beyond the antitrust issue, the issue of whether companies will raise prices because they all have the same owners. There are all sorts of reasons to be uncomfortable that a handful of people have somewhat accidentally accrued so much power. “I didn’t know that Larry Fink had been made God,” Sam Zell once said. At some level it seems like a political problem, and we have talked a few times about efforts by the actual political system (Congress, regulators) to rein in the power of the unelected heads of the giant asset managers, particularly when it comes to questions—about the environment, about guns—that are more traditionally handled by the political system.
+
+Back in 2018, John Coates of Harvard Law School wrote a paper about this stuff called “The Future of Corporate Governance Part I: The Problem of Twelve.” One thing I like about this paper is the name: The issue, to Coates, is not something narrow like “do industries with more common ownership raise prices,” but the much broader “what should we think about the fact that a dozen people will soon control all the companies?” 
+
+so - centralisation has been occurring on massive global scale - it's an effect of globalisation like china joining wto
+
+and .... it has to lead to decentralisation cos that's what cycles are but also ... ? 
+
+If an index provider decides to exclude companies with dual share classes from its indexes, or if an index fund decides to vote with management in a proxy fight, should it have some sort of public accountability process? Should it give notice and hold hearings and allow interested parties to comment? Should it create a record of its deliberations? Should courts be able to review its decisions for arbitrariness? I don’t know, it seems like a hassle. But it also seems wrong to think of these institutions as purely private actors with the same modest fiduciary responsibility to their investors that any small hedge fund would have. They’re a bit more than that; their size gives them power and public importance. Should it also give them more responsibilities?
+
+- this is the key - we want accountability and transparency on decisions - even if we don't have impact 
+
+but the minute we do then ... those people become legitimate targets for influencers like "politically exposed persons" - look at jack Ma (if we can find him)
+
+at that point i think most of them would like to sit under the traditional protection of legislative body ... a civil service to help shield them from the influencers ... lobbyists 
+
+facebook has been asking for this - we are starting to see nation hood falling apart.  this might mean horrible bloody wars - or it might mean transnational forms of governance
+
+
+
+
 What about landscape - what are other companies doing.
 ------------------------------------------------------
 

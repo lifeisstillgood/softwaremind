@@ -810,6 +810,13 @@ Now if you outsource your writing down the policy manual to a third party offsho
 same with software - you might get a running system but the essential knowledge left your company.
 
 
+solarigate
+----------
+https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/
+
+
+
+
 metric driven development 
 -------------------------
 I have occsssionally espoused "metric-driven-development" where a metric is defined and measured and then a release is tagged with that metric - and over a period the release is seen as a success or fail if it moves the metric.

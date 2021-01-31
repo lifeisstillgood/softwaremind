@@ -34,8 +34,14 @@ Agents acting in the best interests of user is the *advi e* based in the mass co
 
 The next Larry Hagman in Dallas won't be actor pretending to be happy  - but will be a digital champagne socialist - sharing wealth of a country and not exploited by corporations and others - but aware and trading i off - the end of caveat emptor 
 
+Other implications
+- mesh networking will become a NSA funded thing - like TOR designed to undermine dictatorships.  it's probably the one most effective thing - but it will also allow fake news to spread.
 
+so we need to find ways to inoculate society - and that's still a great great challenge - mostly relying on the common sense of most people. 
+it's not that bad an idea? children a/ education 
+Idea: alternative history gives interesting way to validate my mental models of democracy against yours - if we arrive at same society we have same operating models - and really that's what we care about in a democracy - shared oersting models
 
+and guess what software is good at? 
 What's next 
 https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773?i=1000503194270
 

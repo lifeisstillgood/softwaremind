@@ -467,3 +467,31 @@ Licensing is just forcing rentier on people - with this legal fiction - but owne
 
 
 
+moop
+----
+
+There seems to be a limit to how useful home automation  gets - in fact this is common across car and most other areas too.
+
+I have a hard time describing it but the write up above triggered something.
+
+I am interested in setting up wifi-valves on my home radiators - this would be really useful in a three storey house as getting balance right otherwise is impossible.  But turning on lights and closing curtains just seems to be a foolish trade if complexity for convenience (ie we bought a big second hand car that had electric doors - they were great - till they stop working and you realise there are electric motors, sensors, relays and god knows what else where there used to be a lever.)
+
+Anyway pretty much anyone can see that trade off (even if they do get excited by the electric doors and buy the darn thing anyway).
+
+No the issue is the motion sensor and the lights. I have found myself in offices with those devices - it's a good idea saves electricity- and I understand how it works without any difficulty - and the solution is easy too - a motion sensor has timed out, therefore wave my arms around.
+
+The interface is simple.
+
+But when we add "smart" to it - when we write some algorithm to work out if a person is still in the room - either by direct sensing or cunning working out if they were in room A and now are in  B, we end up in failure edge cases quite quickly.
+
+And the problem is it is  it simple or intuitive to work out how to "wave our arms" to fix it.  If the room assistant is counting people in and out, what happens if I carry my daughter in, but she walks out - how many people are left in the room?  How do I deregister ? 
+
+A similar thing happened with those electric doors - I let my kids jump out to go see Gran, parked too close to a tree. The electric door wanted to roll back to its full open position    before coming forward to shut.  But the tree won't let it go fully back. Ok the the engine back on and drive two feet - oh, I can't drive cos the door is open. Shut the door, but the door wants to go back first and hits the tree ... it took two grown men fifteen minutes to work that one out.
+
+The problem is that software engineers like us have tried to make sensible defaults and decision trees -  but we fail to cover everything.  
+
+Now FOSS is a *partial* solution to this - but for any appliance, for any IoT, for any *thing* that I am not paid professionally to understand, *if I have to read the code to workout how to get around it, something is seriously wrong*.
+
+I am not sure where this leads - it's just ... user friendly usually is not.  Simplicity is not just hard but sometimes orthogonal to sales and growth and, frankly I dont think most of our lives need more automation - i think we need help, actual assistance, advice and good curation.
+
+I think I just wrote the opening paragraph on my chapter in MOOP.

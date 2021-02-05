@@ -704,6 +704,8 @@ it's more or less a new category but it's a advertising sale somcpnay
 is it? 
 
 
+
+
 What is needed for AI to help us?
 ----------------------
 https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7
@@ -838,3 +840,8 @@ we need ways to colour data - store it always under data types and keep it colou
 
 reading code not use same parts of brain as language 
 https://news.mit.edu/2020/brain-reading-computer-code-1215
+
+Trivia
+------
+A baby born twice
+https://edition.cnn.com/2016/10/20/health/baby-born-twice-fetal-surgery/index.html

@@ -121,6 +121,37 @@ and so it becomes easier to hire coders and teach them to make good business dec
 
 the last generation is at the top now
 
+
+Using participatory budgeting for internal companies
+---------------------
+https://podcasts.apple.com/gb/podcast/reasons-to-be-cheerful-with-ed-miliband-and-geoff-lloyd/id1287081706?i=1000508118608
+
+Getting to democracy
+--------------------
+Likely baby steps
+
+1. Moop for internal improved behaviour
+
+2. transparency - everyone to see projects and follow on - common to have one project tracking system. few people trained
+
+3. internal journalism 
+
+4. data science and engineering (it's what system integration should be)
+
+5. participatory budgeting - tactical spend based on "senior NCO" level groups
+
+6. participatory budgeting with open elections
+
+7. unions on the board
+
+8. parallel to unions / union direct elections 
+
+9. unions approval of high level appointments (similar to Annual general meeting)
+
+10. manifestos and completion for being CEO - election at AGM
+
+
+
 ### xxx potential blog post 
 Why companies are not really command and control
 ------------------------------------------------

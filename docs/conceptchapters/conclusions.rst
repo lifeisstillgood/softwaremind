@@ -164,6 +164,19 @@ the more we understand about the brain the more likely we are to find the new fo
 
 This is why democracy in companies is going to need to work - we need lots of experiments to get even close.
 
+Regulation
+----------
+
+Software eats the world really means software demands explicit written answers to trade offs previously hidden or obscure
+
+- explicit to implicit 
+(self driving car trolley problem)
+- obscure to commonplace
+(international libel laws, publishers and common carriers)
+
+We will see regulatory harmonisation by outrage and stupidity (see trustpilot and summerfield browne) 
+
+
 
 There is always hope
 --------------------

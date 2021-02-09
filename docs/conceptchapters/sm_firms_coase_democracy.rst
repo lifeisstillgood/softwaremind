@@ -150,6 +150,20 @@ Likely baby steps
 
 10. manifestos and completion for being CEO - election at AGM
 
+Why Amazon breaks the coase and theory of the firm
+-----------------------
+Start with steve Yegge blog post - the API part.
+
+Then look at the point that there is no practical
+difference between where an API call to sell a pair of shoes is between an external third party website and an internal amazon sale except which account to invoice 
+
+So the cost of doing business - the choice cost of internal and external purchase at amazon is flat - theorecticllay
+
+And so this is the point of the future - when you have got past the startup/what am i doing / designing the job you are just an API call away - and soon everyone will be ong every API call.
+
+the marketplace problem of finding reliable providers is dramatically radically reduced - A/B testing if a provider works by just passing them some (fake) business.
+
+So only new innovators or people working at scales that API cannot handle are not going to be subsumed.
 
 
 ### xxx potential blog post 

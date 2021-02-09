@@ -83,6 +83,8 @@ So we need more tent pole events inline - more I Loce Lucy
 We have a scaling problem now - all scientists alive now more than have ever lived since 1980
 
 
+
+
 Complete HN rant from me on this
 ----------------------
 This is about free speech which is about content moderation which is really about the dividing line between what tech can do and what society can do to shape its citizens and what should be left to individual (informed) choice
@@ -92,5 +94,44 @@ https://news.ycombinator.com/item?id=25100415
 
 Twitter labelled Trump tweets as bullshit (misinformation).  They were still shared - but dropped by 20% - somlabelling does work 
 https://podcasts.apple.com/gb/podcast/slate-money/id876523888?i=1000498576172
+
+
+Unionise and democratise
+------------------------
+I love the Guardian - a beacon of journalistic integrity even if I don't agree with everything it says.
+
+I love Neal Stephenson - The Diamond Age is one of my youths defining books (as I suspect it is for the new owners of the ocean liner)
+
+But one is a fictional book twenty years old, and one is a newspaper at its best reporting on real problems right now, not imagined problems in the future
+
+Seasteading is a joke,  and despite all the cool cyberpunks, we are not going to become 'phyles and tribes.  Geography and demographics are still our destiny for the next few centuries.
+
+(Amazon passed some kind of event horizon - 1.3M employees makes it bigger than almost anything out there - armies etc.  The thought of being head of HR for amazon flat out terrifies me. And this means we can find any amount of abuse in Amazon if we look hard enough.)
+
+Are there better ways for Bezos to spend all the money he got - in my view yes.
+
+If enough people like me agree we can do this democracy thing and tax it away from him and into better places.
+
+But the problem  is  not billionaires or seasteading.
+
+The problem is sensible democratic action.  The problem is regulation (the 2020s call to arms)
+
+Write your congressman.
+
+Edit:
+
+Uncalled-for Advice to the Head of HR at Amazon:
+
+Unionise and Democratise
+
+Firstly 1.3 *million* - that's an insane number of employees - Walmart and Mcdonald's might just outstrip you, but I would  not look to them for guidance - look at Indian Railways or the US military.  At this sort of size Amazon will be a "safe place to work".  Mothers will start to advise their sons to take work there because it's too big to fail.  You know that's not true but you need to avoid large scale resentment - and that starts with employee welfare - and welfare starts with feeling they have support against the the man - unions.
+
+Yes they will make life harder - but you have fine from startup to being your own government - people will expect to spend their working lives in Amazon like they do in Walmart or the DoD or railways. As such they can either be part of the decision making process and protected from abuse - or they can be abused and powerless and work less effectively for you and eventually cause so much bad press that your name is mud.
+
+I guess you know all this - but democratising is not just unionising - I think it is coming - i think that companies are going to find it harder and harder to exist by fiat - that every decision will need to be published and publiscise 
+like regulators do now - and this will lead to people wanting a say or a vote on such decisions - internal company referendums as it were.
+
+Anyway ranting too much.
+
 
 

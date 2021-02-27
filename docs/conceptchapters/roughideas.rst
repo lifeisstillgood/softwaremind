@@ -841,6 +841,15 @@ we need ways to colour data - store it always under data types and keep it colou
 reading code not use same parts of brain as language 
 https://news.mit.edu/2020/brain-reading-computer-code-1215
 
+Software compensation is bimodal
+-------------------------
+
+https://danluu.com/bimodal-compensation/
+
+Generally talk about compensation, negotiation etc 
+
+
+
 Trivia
 ------
 A baby born twice

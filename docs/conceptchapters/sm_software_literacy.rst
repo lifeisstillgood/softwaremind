@@ -785,6 +785,10 @@ software literacy - if you want to have some influence on the laws being written
 you need to be able to read the laws).
 
 
+Security - water supply
+https://krebsonsecurity.com/2021/02/whats-most-interesting-about-the-florida-water-system-hack-that-we-heard-about-it-at-all/
+
+
 The programmable company
 ------------------------
 

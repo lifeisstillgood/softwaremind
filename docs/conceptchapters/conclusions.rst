@@ -109,6 +109,64 @@ as much sense as the Kafka-esque companies most of us work in.
 
 Its simple.  But very hard to change.
 
+
+Enterprise software is trying to catch up with Linus Torvalds
+------------------------
+
+Major corps in the 1980s and early 90s had a generational shift away from mainframes towards the PC - microsoft's mission of a PC on every desktop.
+
+This enabled enormous business transformations - JIT delivery became possible as supply chain endpoints moved closer to people in warehouse and shops.
+
+At that time we saw rise of internet (windows 95). 
+This was clearly a big deal and was baked in to the client / server ch age.  but since the 90s 
+Since the 90s more changes are underway 
+
+- Open Crypto ledgers
+- Cloud / virtualisation / always available low cost server / agents
+- ML
+- mobile / agents / moop
+
+Supply chains are going to be majorly affected by open crypto ledgers - whereas the first wave was giant corporations solidifying their supply chain (putting all their suppliers into one common protocol) open ledgers enable lower cost, and transition between supply chains.
+
+It will face enormous problems (grey markets where dodgy goods join the legitimate provide a large amount of downward cost proessure, also enable people on edges to join in)  But it will be possible 
+
+remind me of oss patching and distribution problems - sap cannot patch because their installs are all custom - so innovation cannot spread easily (not sap wrote bad stuff it's that hundreds of consultants wrote different stuff) 
+(this is why corporations need to understand and capture tech debt - first pass of this is can i patch from upstream within one release cycle and no custom code changes.)
+
+
+What is likely to happen is innovators dilemma / clay christensens - where companies with their old supply chain investments will not want to face costs of change.
+
+
+
+Also - we now in situation where (ignoring tech debt) big companies get the same tech as small start ups ... billionaires drink same coca cola as man in the street 
+
+
+Ledgers matter
+---------------
+Central bank digital currencies and supply chain - these will all be on crypto-ledgers - it's a big deal as important and engineer important as cloud
+
+
+Where is the new newspaper headline
+------------------------
+30 years ago newspaper headlines acted as a reasonable proxy for the feelings of the populace (cf Madness of King George and why have more archetypes than there are newspaper?) 
+A public ally a valuable easily viewable barometer of public feeling
+
+Most of us get our news now from social media sites - yet there is no public barometer 
+
+We need to replace that. Right? public likes? 
+
+The bad geopolitical view vs the good
+-----------
+
+https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/
+
+doom
+
+but i say software literacy and open ness and doubling down on democracy will make a clearer way forward.  Champagne socialist is a viable political idea
+
+
+
+
 Corruption index and good corporate citizenship
 ------------------
 
@@ -175,6 +233,52 @@ Software eats the world really means software demands explicit written answers t
 (international libel laws, publishers and common carriers)
 
 We will see regulatory harmonisation by outrage and stupidity (see trustpilot and summerfield browne) 
+
+
+Regulatory harmonisationnworks both ways
+----------------------
+https://youtu.be/L-x8DYTOv7w
+
+You tubers must report any product placement.  But hey - TV radio don't ... soooooo 
+
+
+The new remote education
+------------------------
+https://news.ycombinator.com/item?id=25761262
+
+
+politics as simulations
+-----------------------
+Texas big freeze - why did they not spend money to winterise - because who will pay for it? Why not have an agreed simulation that is broad politics - we basically do - this is education and opinion and "common sense"
+
+see the big water tube thing that was uk economy
+
+but software makes this viable.  What about an OSS government run simulation - that different people can argue about.  Max 10,000 lines of code plus data
+
+facts vs opinions vs model
+
+
+Opinionated corporations
+------------------------
+Software is a forcing function for many thing
+
+- There is a class of enterprise software that tries to do and be all things to all people - it becomes a factory of factory of interfaces - it is configured to nth degree and is frankly unusable mess - everyone has horror stories of never being able to understand this stuff - you cannot grasp it because it has no form - no affordance (good word)
+
+software needs an affordance
+
+software needs an opinion
+
+But this means the corporation needs to make a decision too - what kind of sdlc will it have - and what kinds will it require across the body 
+
+This will likely start to work with other areas - see trolley problem 
+
+also political opinions and "who we want to work here "
+
+
+Why webauthn is now default
+---------------------------
+
+https://news.ycombinator.com/item?id=26237404
 
 
 

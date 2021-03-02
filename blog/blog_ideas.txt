@@ -1,5 +1,8 @@
 This is to be a brain dump of ideas for blog posts / newletter call outs.
 
+Implement ten of the equations that rule the world (ie use it to do simple stock share purchases?) 
+
+
 * lexorank
 Why it is useful how it works, limitations etc
 

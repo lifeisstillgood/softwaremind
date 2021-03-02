@@ -207,6 +207,16 @@ The solution is to define what we want before we go shopping - choose for our fu
 Defaults mgmt or libertarian paternalism 
 
 
+Spam, blog spam, copyright violations and the poisoned well of knowledge
+--------------------------
+
+https://news.ycombinator.com/item?id=26285655
+
+We shall have to go back to publishing books? 
+vshred and some form of inoculation? 
+
+buying from amazon - where is the curation? 
+
 The man with two brains and organisational theory and the futur of democracy
 --------------------------
 

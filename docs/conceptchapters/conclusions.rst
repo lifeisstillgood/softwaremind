@@ -217,6 +217,18 @@ vshred and some form of inoculation?
 
 buying from amazon - where is the curation? 
 
+Federated lock-in and regulation
+-------------
+
+moxie on federation 
+You cannot build federated protocols anymore - we cannot move such a whole big ecosystem - and security demands we do move.
+
+cant you build in versioning protocols? 
+
+regulators will just start enforcing open protocols ... but that means design by committee and picking winners - the innovation is going 
+
+
+
 The man with two brains and organisational theory and the futur of democracy
 --------------------------
 

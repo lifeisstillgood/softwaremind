@@ -2,6 +2,26 @@
 How is the future going to look?
 ================================
 
+Software literacy 
+-----------------
+Think of this as a plateau point in a new industrial revolution.  Steam engines were great, and improved mines and factories - and then we had to redesign society around the effects (slums, poverty etc.  Oh no wait, new housing, new cities, ... it took a while)
+
+We are trying to build a new way of building value - this time using code as technology.  My usual comparator is this is *software literacy* - and we need to look at the effects of the European literacy explosion of 1450's as a guide (renaissance Italy still kept glassblowers as virtual prisoners)
+
+The things that are broken and I think in need of change
+
+\* Capital vs Management. Executives often capture too much value, and control too many of the allocation decisions.  Huge corporations are inefficient - in a similar scale to centrally planned economies.  (For example, I cannot imagine that Jeff Bezos spending billions on rockets is the most efficient means to produce value from those billions)
+
+\* command and control vs democracy. Again with the decisions best taken at small scale. How would your (big) company behave if instead of executives deciding which projects got what funding, it was voted upon by employees?  It would be radically different.  Would it be *better*? I imagine the discussion forums would look a lot like Linus' rants.
+How would we moderate that? Would hiring people be different? Would you hire someone politically different to you if they might vote against you? Would you even get a hiring decision?
+
+\* Project Management stops being about dates.  This bugs me a lot - at some point all the nice agile - we need certain level of quality, story points are a measure of complexity not time, we discover as we go, all that falls apart and becomes a date in a plan at the board level.  Mostly because the tools used at board level (and the mental models) cannot cope with ideas of alpha, beta, prod quality, or if this date slips all other dates slip too - cones of uncertainty are a good approach to this, as are other mapping functions about the relationships between features and capabiites.  I dont have a good answer here either.
+
+But there is a lot going on - its not a fad (ok Scrum might be, but this is not about scrum - or agile - its about how do we humans produce this new code thing at scale and change our society around it as we did in 1450 with words, or 1890 with cars.
+
+If you have the skill to write code, then dismissing this as "management crap" means giving up an informed voice on one of humanities most important inflexion points since ... the last one.
+
+
 A point about the Google Peace Dividend
 ---------------------------------------
 

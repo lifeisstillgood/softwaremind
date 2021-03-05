@@ -32,3 +32,14 @@ https://news.ycombinator.com/item?id=24756635#24761076
 land was taxed much would hit market at same time to pay for tax which would reduce the sell price and hence the tax level)
 
 - perhaps assessing the cost of local public works - people get taxed proportionately to the public spend - this means the rentier problem is mitigated but also reduces to minimum what public works are needed - why have that new road? 
+
+
+MOOPs and monitoring
+--------------------
+
+We obviously have sattellitte monitoring of the world
+But lookk at https://cotl.com.au/launch.html - range of weather stations monitoring for pestivcide runoff and spray.
+
+We can moniotr the world - and improve it.
+
+(cf democracy double down)

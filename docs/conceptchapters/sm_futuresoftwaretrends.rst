@@ -217,11 +217,15 @@ Wardley mapping
 ---------------
 https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb
 
+Sun Tzu five factors:
 Weather (climate)
 Area (landscape)
-R
+Raisin d'etre (Purpose / vision) 
 Doctrine (The dev manual)
-Leadership 
+Leadership (the least important but in a contingent world it matters) 
+
+ey
+
 
 Serverless and functional. THis seems to be the winning combination.
 

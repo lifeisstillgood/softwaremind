@@ -213,14 +213,21 @@ Issues
 * security. You thought it was bad sharing a
 * the solution here is run your own farm of machines. But that is expensive.
   
+Wardley mapping
+---------------
+https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb
 
+Weather (climate)
+Area (landscape)
+R
+Doctrine (The dev manual)
+Leadership 
 
 Serverless and functional. THis seems to be the winning combination.
 
 
 Simon Wardley (we have already met him on business strategy) was
 involved in an early serverless
-
 
 
 https://www.linkedin.com/pulse/why-fuss-serverless-simon-wardley

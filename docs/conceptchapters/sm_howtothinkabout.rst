@@ -31,6 +31,16 @@ Regulation and curation
 Food safety legislation
 is likely best competitor to phone app store issues ? 
 
+
+Appstore's - apple is more european regulation (cannot unless we say it's ok) vs google app store more uk/us - what is not banned is ok) 
+
+
+Chrome/ apple cookie decisions and idfa - is it ok for apple under heading of privacy to break link that powers much of worlds advertising ? 
+
+https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773#episodeGuid=94374043-217f-41a9-9e1d-6cdb9e98ffba
+22 minutes 
+
+
 The programmable company
 ------------------------
 

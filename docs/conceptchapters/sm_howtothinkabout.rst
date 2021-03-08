@@ -6,6 +6,26 @@ These are shorter discussions - but valuable, in trying to frame what
 is and is not important in a new software literate, programmable
 company and society.
 
+Agile and scrum
+---------------
+https://www.aaron-gray.com/a-criticism-of-scrum/#scrum-strains-the-relationship-between-management-and-developers
+
+Bob Martin comments: Scrum became project management led.
+Project mgmt must die
+
+
+Federation, OSS and the best regulated future
+=============================================
+
+https://signal.org/blog/the-ecosystem-is-moving/ I think having OSS
+software (so that following a company fail people can pick up the
+stick and run with it) allows speed of innovation and security fixes,
+but avoids having to enfirce some Open standard that cannot move.
+
+In short - everynes code should be OSS or stored in escrow if certain
+regualted issues fail.
+
+
 
 The programmable company
 ------------------------

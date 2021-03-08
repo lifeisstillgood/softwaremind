@@ -26,6 +26,10 @@ In short - everynes code should be OSS or stored in escrow if certain
 regualted issues fail.
 
 
+Regulation and curation
+-----------------------
+Food safety legislation
+is likely best competitor to phone app store issues ? 
 
 The programmable company
 ------------------------

@@ -849,6 +849,18 @@ https://danluu.com/bimodal-compensation/
 Generally talk about compensation, negotiation etc 
 
 
+Devops
+------
+To build a company you are both developing and operating at the same time - the devmanual gives us a skeleton start for the dec side.  
+
+
+Fight and flight 
+-----------------
+Emotional management of teams
+https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299
+
+It's why productive teams usually form around mother / father figures ??? 
+
 
 Trivia
 ------

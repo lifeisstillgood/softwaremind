@@ -83,6 +83,23 @@ So we need more tent pole events inline - more I Loce Lucy
 We have a scaling problem now - all scientists alive now more than have ever lived since 1980
 
 
+Social Media and unscripted interactions
+--------------------------
+
+https://news.ycombinator.com/item?id=26439952
+
+So much of social media is guided by / influenced by profit or proselytism 
+
+Some places remain possible to escape - peer to peer like whatsapp - but that has copy paste etc
+
+Essentially one should look for .. friends 
+
+
+The adtech and privacy issue
+---------------
+https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773?i=1000512968914
+
+idfa and floc 
 
 
 Complete HN rant from me on this

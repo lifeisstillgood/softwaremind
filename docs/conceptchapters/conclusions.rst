@@ -9,6 +9,33 @@ First step back - time sellers like ruth bellevue's (public ally decried by sell
 
 but we live in a world joined up by peltiful time and light 
 
+Big future thoughts
+--------------------
+
+techno-future
+
+https://moores.samaltman.com
+
+do we think that's a thing? 
+
+General AI very hard - water lilly etc
+
+not everything - but a great deal
+
+robotics and hotel living
+(ie cleaning and food prep will be easier in a designed home for this)
+
+humans still wanted for raising humans - moop will offer help advice at level of super nanny
+
+Life advice - and agents and focus on software that does best interests of user - will be fastest growth
+
+Taxing sources of capital and redistribution will benefit equal societies
+
+double down on democracy 
+
+
+
+
 Sweep of history 
 ----------------
 https://youtu.be/iTWOXRCyOY4

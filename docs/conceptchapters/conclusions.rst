@@ -35,6 +35,8 @@ double down on democracy
 
 
 
+Alan kay on software literacy http://www.vpri.org/pdf/tr1984001_comp_soft.pdf
+
 
 Sweep of history 
 ----------------

@@ -26,6 +26,13 @@ for that - so there can be a lot of experimentation
 One Inwoukd like to see is common now in project mgmt - rank ordering.  It is slowly entering program management - and it is hitting the ceiling of politics - if you rank order by the people, the resource allocation decisions are made by default and as such why have management / executives
 
 But we could see new companies springing up - smaller companies and as such anoento select on their values systems - 
+
+The flaw in the problem of ignorance. We don't need well informed electorates beyond a certain point - we can allow the market to find the efficient means to deliver a desired goal.  We just need to know enough to decide the stack ranking of each market - we need to understand the ramifications of prioritising climate co2 reduction against say the farming industry
+
+See each market as a cell in larger host - and the democracy decision is what (minimal) regulations to use to put the desired relative weights of one against the other 
+
+
+
 Shape of future society
 -----------------------
 

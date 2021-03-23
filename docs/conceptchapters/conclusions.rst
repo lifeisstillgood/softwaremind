@@ -38,6 +38,15 @@ double down on democracy
 Alan kay on software literacy http://www.vpri.org/pdf/tr1984001_comp_soft.pdf
 
 
+Politics changes
+- it's more about equitable sharing because that's more stable (speed and stability)
+https://moores.samaltman.com
+No - long term dictatorship is not stable abs it is not speedy. 
+Double down on democracy 
+
+
+
+
 Sweep of history 
 ----------------
 https://youtu.be/iTWOXRCyOY4

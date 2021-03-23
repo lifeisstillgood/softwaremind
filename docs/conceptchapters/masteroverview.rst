@@ -14,6 +14,18 @@ leadership
 Privacy
 software literacy
 
+
+
+Democracy 
+---------
+Double down on democracy
+- take detour to discuss Joseph schumpeter - he saw democracy not as a ideal in itself but as a method to discover what the people want - and the current democracy is not ideal
+for that - so there can be a lot of experimentation 
+
+
+One Inwoukd like to see is common now in project mgmt - rank ordering.  It is slowly entering program management - and it is hitting the ceiling of politics - if you rank order by the people, the resource allocation decisions are made by default and as such why have management / executives
+
+But we could see new companies springing up - smaller companies and as such anoento select on their values systems - 
 Shape of future society
 -----------------------
 
@@ -44,6 +56,31 @@ Idea: alternative history gives interesting way to validate my mental models of 
 and guess what software is good at? 
 What's next 
 https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773?i=1000503194270
+
+
+Search is crap now
+------------------
+https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/
+
+- It's so easy to spam with words now that it's more or less reached the point where google cannot tell difference between a valuable blog post by an expert and SEO manufactured rubbish
+
+
+- So they keep you on site (sort of like a vast encyclopaedia)
+
+- or you bounce to high trust curated sites (stack overflow) (NB - all props to Joel but once again labour is not rewarded equal to the value created - those are *unpaid* moderators making the site valuable.
+
+- So there needs to be a cost in production of the content - youtube for example - want to see how to lay laminate floor, well you need to have a camera and a person and he'll a room with laminate flooring needed - that's a big cost. Lowes has made a video, so have dozens of contractors.  It's amazing how tool rental firms have not advertised on there ... actually that is a bit weird
+
+Search quality is crap
+
+https://news.ycombinator.com/item?id=26537794
+
+
+Search is however the (only) way to reach people? Isn't it?
+
+relevant Content on high production cost platforms.
+
+
 
 - how will the changes in tech (smartphone device, 
 walk through all

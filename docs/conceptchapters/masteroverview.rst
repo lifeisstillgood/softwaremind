@@ -32,6 +32,49 @@ The flaw in the problem of ignorance. We don't need well informed electorates be
 See each market as a cell in larger host - and the democracy decision is what (minimal) regulations to use to put the desired relative weights of one against the other 
 
 
+Schumpeter sees democracy as a completion between different "manifestos" of the political class - the one with the best persuasion wins. He explicitly links it to advertising 
+
+But, looking at the cambridge analytics scandal and the problems - there is a correlation / causation problem.  Simply having slick advertising or 
+
+You can poison the well, ala negative campaigning - but then who drinks from a poisoned well. 
+
+You cannot tell who we are from our likes, and even if youndid get enough data to map us, i doubt you could craft a precise target ad more effective than "save the whales" or just "have some tax rebates".  Much like MKUltra the old standbys of bribery and threats will work just as well. (cf google va duck duck go)
+
+
+And you cannot be all things to all people as your opponent will delight in pointing out your inconsistencies - we are in a competence market after all 
+
+
+
+We are not so easily fooled.  Is the simple answer - human brains grew large it seems to deal with the problems of politics and game theory as tribal sizes grew.
+
+
+We are not so easily fooled
+---------------------------
+New forms of democracy
+Brexit and trump and five star - all voted for with eyes open by adults.
+Might not like it but it's real.
+
+
+Political entrepreneurship
+--------------------------
+
+Just as we think all the choices have gone, there is a political entrepreneur waiting to sell us more - beach left right ice cream and uk politics - new options, new sales
+
+Is waiting for a manifesto correct? What about voting out / in executives in corporations? 
+
+It's next obvious step.
+
+What about using rank ordered policies ? 
+
+Programmable company still needs men's rea or it will just be an AI seeking goals (paperclip goop)
+
+So we need an ideal, we need vision and political eneprshop - but we also need that to more quickly guide the faster moving programmable more agile company - companies are getting ahead of our morality - that is not a problem with morality - it is a problem of the speed of feedback
+
+Democracy is the right feedback mechanism - and we need to find better faster ways to guide the AI towards its goals - rank ordering, executive replacement etc
+
+Coase tells us we could get down to a one person mega firm, but schumpeter tells us we would just have that guided by nothing - so we need to insert democracy 
+
+(schumpeter democracy is genuine competition between polictakn entrepreneurs offering different packages and asking for power) 
 
 Shape of future society
 -----------------------

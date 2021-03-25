@@ -76,6 +76,36 @@ Coase tells us we could get down to a one person mega firm, but schumpeter tells
 
 (schumpeter democracy is genuine competition between polictakn entrepreneurs offering different packages and asking for power) 
 
+
+More democracy in companies has three implications
+
+- equitable share of profit 
+(vote for me for a pay rise)
+
+- coherent policy (smaller company, break ups etc)
+hard to sell a manifesto covering a giant conglomerate - tax issues etc will surface
+
+- political neutrality will divide - but they are not neutral. won't people vote to lobby on some subjects not others? 
+
+
+Possible future - 
+- active shareholders exist - they try to enact a policy 
+
+but what if they present an entirely new executive - CEO etc.
+
+Then that is schumpeter democracy.  and as such it's a competition between political elites
+
+And then what if the major blocks of votes, like black rock and pension funds, what if hey put web site up saying how do you want us to vote your 17 shares? 
+
+Shareholders democracy ... what about employee democracy? Every employee becomes a shareholder? 
+
+Do we do one share one vote or one person one vote? This is landowners vs commenters 
+200 years ago it was obvious that landowners should vote for parliament because they owned all the shares (ie land) - but today it's one person one vote 
+
+
+
+See the no 18 bus ride / recovery trial as "what you get when ask software mind to design a company"
+
 Shape of future society
 -----------------------
 

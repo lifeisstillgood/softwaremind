@@ -106,6 +106,29 @@ Do we do one share one vote or one person one vote? This is landowners vs commen
 
 See the no 18 bus ride / recovery trial as "what you get when ask software mind to design a company"
 
+
+The software mind is one where you have to hold all pieces in your head and design a way thorough - it is one of transparency and efficiency abs refactoring
+
+- it's basically software needs things to be explicit - the assumptions etc.  And if it's not the software is insanely hard to write
+
+and you cannot easily hide your biases ...
+
+It's transparent abs auditable ....
+
+Drivers co-operatives fighting back in the gig economy 
+---------------------
+
+see nyc drivers cooperative 
+- cuts lyft and uber out of loop.
+
+Bullshit ideas
+--------------
+
+Gig Economy : exploring the workers with software
+
+Rental economy : it's only more efficient until demand exceeds supply, then it's prices rocketing up - owning items like snow shovels is a form of price stability hedging
+
+
 Shape of future society
 -----------------------
 

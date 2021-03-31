@@ -5,6 +5,39 @@ Conclusions
 The human marriage with technology is only going to deepen - so as individuals we need to set the terms - FOSS is only part of the solution 
 
 
+
+Big Waves coming
+----------------
+
+Ledgers and supply chains
+
+Common behaviour standards and free speech (china has 2000 year head start on "maybe you should just not say it")
+
+MOOP - epidemiology rocket charged
+
+Students to be best taught ever 
+
+
+Ledgers providing deep supply chain analysis - will lead to higher profits for demonstrably "fair trade" companies.  Also likely to rocket charge on shoring  (see also security of chips)
+
+But this means that you can avoid buying goods and services from "authoritarian regiemes" - currently this needed deep action but when it is just a filter setting on your e-commerce website ... what impacts?
+
+But this then has clear effect on government policies.  How will turkey react to sales globally being threatened? This is major trade wars - but at the daily level of people's individual choices.  (who gets to rate the ledgers will be something as important as State Street today)
+
+But also impacts second wave : agreeing standards of common behaviour
+
+(free speech etc - what was bearable in the golf bar is now something with 1,000 angry tweets.  It might feel like cancel culture but it is just trying to find common minimum standards of behaviour
+
+it is always a ratchet up effect.
+
+it should not be who shouts loudest (review Stallman questions)
+
+
+
+
+
+
+
 First step back - time sellers like ruth bellevue's (public ally decried by sellers of stained time by telegraph) 
 
 but we live in a world joined up by peltiful time and light 

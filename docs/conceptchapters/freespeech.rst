@@ -102,6 +102,16 @@ https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773?i=10005129689
 idfa and floc 
 
 
+
+Richard stall man
+-----------------
+
+https://www.wetheweb.org/post/cancel-we-the-web
+
+more reasoned approach
+
+
+
 Complete HN rant from me on this
 ----------------------
 This is about free speech which is about content moderation which is really about the dividing line between what tech can do and what society can do to shape its citizens and what should be left to individual (informed) choice

@@ -17,6 +17,9 @@ MOOP - epidemiology rocket charged
 
 Students to be best taught ever 
 
+Naive ML models being defeated by people who understand statistics 
+(1. know the distribution (or assume it's normal and take risk, 2. usingn1. calculate how much data needed for confidence)
+
 
 Ledgers providing deep supply chain analysis - will lead to higher profits for demonstrably "fair trade" companies.  Also likely to rocket charge on shoring  (see also security of chips)
 
@@ -44,6 +47,18 @@ but we live in a world joined up by peltiful time and light
 
 Big future thoughts
 --------------------
+
+The tipping point - see chapter in ten equations. Dopamine is the score in the reward equation.
+
+Because so many potential sources there is so many sources to keep score on so constantly searching out for best reward.
+
+If we gamified savings and passive investment ! 
+
+It's kinda why i put effort into employment not freelancing (story)
+-------
+
+Move slow and Make things
+Foss is free as in Piano 
 
 techno-future
 

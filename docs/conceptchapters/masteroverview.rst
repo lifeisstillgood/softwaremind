@@ -16,6 +16,23 @@ software literacy
 
 
 
+Literacy
+--------
+
+It's all about developer productivity - note pad and pen.
+
+https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
+https://news.ycombinator.com/item?id=26869050
+
+
+Better Os 
+---------
+https://en.m.wikipedia.org/wiki/Capability-based_security
+The point here is lacking transferable capability security we ended up with virtualisation solving this problem (plus others like multi tenancy).
+
+plus others like run this exactly 
+
+
 Democracy 
 ---------
 Double down on democracy

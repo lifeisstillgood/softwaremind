@@ -278,6 +278,17 @@ systems like common ticketing and time tracking help
 
 common published data 
 
+Bias, middle age and AI
+-----------------------
+Bias is huge problem in AI training data sets (reject female CVs)
+
+https://news.ycombinator.com/item?id=26687894
+
+It's also a huge problem in adulting - middle age is about trying to spot your own blind spots
+
+
+Humility is first job in dev manual 
+
 
 The bugs in Social Media are bugs in human thinking
 ---------------------------

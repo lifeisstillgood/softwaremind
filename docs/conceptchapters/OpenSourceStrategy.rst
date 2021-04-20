@@ -18,6 +18,15 @@ Perfect incentive would be hard but would happiness via moop be an idea? What ab
 
 
 
+Drone warfare
+----------//-/
+
+thru 1860-2020 technology change drive warfare - not expert but seems cyber war and drone tech is doing it again.  See turkey in battle 
+
+So security very important - likely to see a standard hardware chip being approved as open source, performant *enough* at some 20nm level and able to be trusted abs hardened and decentralised and on shores at reasonable cost.  oth space and aerospace -  heap flying drones rather than expensive fighter "platforms" likely to be the solution - why have an F35 super platform that can do everything when you can just have a different drone for the different tasks? 
+
+(small drone vs air raft replacement) 
+
 
 
 

@@ -861,8 +861,17 @@ https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96
 
 It's why productive teams usually form around mother / father figures ??? 
 
+Network security and 5G
+------------------------
+https://news.ycombinator.com/item?id=26843068
+
+Note - onshoring capabilities means cost - harder for UK to afford than all Europe - esp in areas like telecoms, space, aeronautics, submarine, weapons etc 
+
+
 
 Trivia
 ------
 A baby born twice
 https://edition.cnn.com/2016/10/20/health/baby-born-twice-fetal-surgery/index.html
+
+https://www.quora.com/What-are-the-best-sites-to-buy-App-Store-reviews-Android-and-or-iOS

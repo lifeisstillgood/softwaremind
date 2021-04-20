@@ -103,6 +103,34 @@ idfa and floc
 
 
 
+
+
+Privacy: the long answer
+------------------------
+
+Much longer:
+https://news.ycombinator.com/item?id=26799327
+
+1. It is a privative - it is like a hole it does not exist. (see also identity)
+
+2. At some point we will
+lose anonymity online.  This is not terrible - we have very little anonymity IRL (basically we are anonymous to our fellow train passengers, and bad behaviour on street often reflects that).
+
+It's almost certain to become something like a social credit score.  We shall enforce social behaviours somehow - at the moment we do it with a small town mentality - you break some level of social rules, you get banned
+
+the downsides of this are huge - so we will need some serious regulations on this - as well as methods to escalate.  But we need to be able to deal with this really effectively and quickly - and this only works with "user moderation" - ie a jury.  And we can easily imagine online juries to decide some hellbanning.  And if that works well ... why can't it work well for real justice system? And what is wrong with the justice system (basically underfunded)
+
+Problems: Trolls have more free time than you do.  Wikis only work because the cost of a reversion is less than the cost of typing the crap.
+
+https://news.ycombinator.com/item?id=26796579
+
+Problems : any form of user moderation will be poisoned by trolls or by a special interest group organising.  This happens inIRL politics.  online it is worse.  Only by having the whole community engage can they be outvoted (assuming they don't actually have majority support) 
+
+So ... 
+
+Problem: Social media problems are human cognitive issues - fake news preys on inciting outrage and people in bubbles thinking their experience references whole world. 
+
+
 Richard stall man
 -----------------
 

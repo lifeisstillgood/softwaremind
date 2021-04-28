@@ -368,6 +368,23 @@ So is Europe project set up correctly? cannot adjust? federal model?
 
 is this like a brain - rational versus emotional decisions - emotional decision fast /slow fast is fine except if emotions are out of tune with the world - hence stories work as a persuasion model.  democracy is our story 
 
+
+community and onboarding
+--------------------------
+
+I think this is my aha moment - listening to Sudhir break the internet
+
+Hacker News / Stackoverflow - has strong community focus - a clear determination to have set of guidelines and enforce that - the people you meet on that platform inform how you will behave - abs look at how facebook introduced you - the people who will get most engagement - which means most reaction which is the worst way to build a respectful and useful
+community - we don't teach children how to behave offline like this (so why teach them online)
+
+But facebook does not - it is focused on engagement so getting strong reactions
+
+But t can tone it down but will it ever stop? Surely we want better guidelines - read that post and stop reacting that way ... more helpful emotional checks.  More "are you sure this is the truth".
+
+we are slowly seeing the way
+
+
+
 Facebook is not the problem - fake news kinda is
 --------------------
 Social media needs a new analogy - so here goes

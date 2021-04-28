@@ -341,6 +341,33 @@ software governance and social governance
 -----------------------
 As facebook et al build tools for "governance" (combat bullying, view who views me we see those gov forms adapt to society 
 
+
+Facebook has 3 teams on a product - engineering, operations ad policy - governance is being built in - would that exist in VW ? 
+But who is really in charge ? Who makes the final
+product decisions - in FB its engineering (and product team manager)
+everyone else are advisors
+
+
+https://podcasts.apple.com/gb/podcast/sudhir-breaks-the-internet/id1553942392?i=1000517777533
+
+
+Facebook and Governance
+-----------------------
+
+If you create a live stream 
+someone will homicide or suicide - and they did
+
+So - where is the governance model? Are there some things we should and should not do? wheee do we find people discussing suicide - we have basically put all the demand side of government online but none of the supply side - no police or mental health support - no discovery mechanisms 
+
+First thing is to take the growth / profit drivers away from governance decisions - this this is regulation of tech companies from outside - we cannot expect an addict to give up their behaviours by them selves 
+
+
+Governance then takes us to how do organisations make decisions - how do we get trapped into sub optimal cycles - how do we break out - this leads to democracy issues (England could not give parliament to America because it would mean internal reform too)
+
+So is Europe project set up correctly? cannot adjust? federal model? 
+
+is this like a brain - rational versus emotional decisions - emotional decision fast /slow fast is fine except if emotions are out of tune with the world - hence stories work as a persuasion model.  democracy is our story 
+
 Facebook is not the problem - fake news kinda is
 --------------------
 Social media needs a new analogy - so here goes

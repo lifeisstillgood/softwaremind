@@ -24,6 +24,56 @@ It's all about developer productivity - note pad and pen.
 https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
 https://news.ycombinator.com/item?id=26869050
 
+Software eats the world
+-----------------------
+https://erikbern.com/2020/12/16/giving-more-tools-to-software-engineers-the-reorganization-of-the-factory.html
+
+a good description of this issue
+
+Economic rent problem and housing
+-----//--
+https://youtu.be/niUsivEtAls
+
+not sure why it's software related other than picketty 
+
+Actually it's a history story:  Agricuktural rent - housing rent to robot rent? Where is the wealth stored and where is it generated? 
+rent is a problem with distribution of wealth - and UBI and other regulatory solutions do not use the power of decentralised markets and prices (which we like for efficiency)
+
+Housing
+
+Going up because we don't build enough houses - partlty - but mostly due to increase in credit supply chasing houses
+
+problem with modern monetary theory (money supply should equal production levels) is economic rent - extraction of money for no value- which makes hard to measure 
+
+
+Future of google 
+----------------
+https://news.ycombinator.com/item?id=26887451
+
+Basically will they reveal their algorithm - are they promoting sites that provide advertising feeds
+
+
+
+Why agile is appealing
+-----------------------
+
+I don't like management 
+it's about squidgy people
+
+but also it's about defining what those peoples roles are abs training them and setting levels and so on - but that's a lot easier with code - so why not replace people 
+
+
+Price mechanism
+and decentralised control 
+and maybe diner thing else?
+- is internet all humans to humans comma - is it possible that can replace price mechanism? 
+
+Also people I don't like and why their ideas piblically states seem good - farafe and cummings
+
+garage - just what was obvious 30 years ago - walk through UK issues
+
+cummings - what is coming - more concerned - different choices? 
+
 
 Better Os 
 ---------

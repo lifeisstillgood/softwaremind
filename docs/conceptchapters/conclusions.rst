@@ -290,6 +290,24 @@ It's also a huge problem in adulting - middle age is about trying to spot your o
 Humility is first job in dev manual 
 
 
+144 factor development
+----------------------
+
+Imagine you where going to build your web app system.  You have nothing - so you hire - someone who cannot code.  Will 12 factors help? no.  Hire an experienced coder - they are being ong with them some ideas (will need logging) but not the integrated setup
+
+what we want is a full set of tools that act as a platform for development and management - logging and metrics and reporting and time series and audience comma
+
+All the stuff that goes into a full professional .. enterprise .. application
+
+before the actual business rules
+
+
+law does not have 12 simple rules - that's kind of point of professional  so devmanual is that large body - imagine you have no develope and start from scratch 
+
+
+https://news.ycombinator.com/item?id=26975273
+
+
 The bugs in Social Media are bugs in human thinking
 ---------------------------
 

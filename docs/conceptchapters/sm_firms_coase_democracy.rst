@@ -383,7 +383,22 @@ But t can tone it down but will it ever stop? Surely we want better guidelines -
 
 we are slowly seeing the way
 
+what are the rules? it's a governance problem - governance is setting good rules to encourage desired behaviour, and finding abs enforcing those rules / breeches
 
+But it's also about who is responsible - and this is context.  Imo - the disjoint should be between active following and "suggestion" - if I am posting something it should be to people who have a relationship with me - if we have had a prior one to one conversation then our communications can be treated slightly differently - dads group and publishing - the distinction between common carrier and a publisher should be rethought - in my view it's about relationships and about publication.
+
+If I do not have a one to one relationship with a person then messages between us should be seen as public - and the medium carrying us should be seen as a publisher.
+
+So, let's say Stephen Fry - He has x million twitter followers. We could call that a "private group" on whatsapp 
+
+Only those people who have DM stephen and got a reply count as "relationship" and his posts to that group are different to others 
+
+Yes it's possible that some people can abuse it by bot to DM reply - how to handle that is awkward - but it stops the problem a lot. 
+
+solution:
+
+
+about deploying resources effectively - see tech companies as 911 despatch for mental health - loneliness depression etc - get their friends and family involved - or online helpers (again it's a process of identification and training people who will act for society - which becomes a profession and needs weeding out etc) 
 
 Facebook is not the problem - fake news kinda is
 --------------------

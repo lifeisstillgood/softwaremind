@@ -308,6 +308,42 @@ law does not have 12 simple rules - that's kind of point of professional  so dev
 https://news.ycombinator.com/item?id=26975273
 
 
+Social Media Problems
+---------------------
+
+This is same as Social Problems - 
+
+- we need to design discourse so it leads to good outcomes
+
+- market structure has failed us (angry passion drives engagement - engagement drives profot) 
+
+So we need to build social common areas effectively for outcomes we want 
+
+See also - design the oss software for government and design the society 
+
+Community, Open Source, Social Media and moderation 
+--------------------
+You cannot pay enough moderators - it needs to be a community system - but that will destroy profits - so the solution would be "ownership" - no one wants to work for free to make Zuckerberg richer.
+
+So it's why open source licenses work so well - no one feels ripped off
+
+Problem with social media is it's designed to raise emotions / profit 
+
+so it does not have rules of community behaviour and they are not encouraged - no onboarding / enforced (or rather the amount of moderation is waaay to little) 
+
+
+Need to build rules and enforce them - need police online.
+
+But most of this is not police - it's everyone behaving well.  And this means everyone ageeeing shared social rules and 
+enforcing them - group behaviour and group enforcement - community work
+
+Algorithms will help, but humans are corralled by other humans 
+
+
+Amazon, product liability, the platform lie
+----------------------
+https://news.ycombinator.com/item?id=27010976
+
 The bugs in Social Media are bugs in human thinking
 ---------------------------
 

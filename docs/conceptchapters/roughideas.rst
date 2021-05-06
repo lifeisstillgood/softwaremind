@@ -867,6 +867,29 @@ https://news.ycombinator.com/item?id=26843068
 
 Note - onshoring capabilities means cost - harder for UK to afford than all Europe - esp in areas like telecoms, space, aeronautics, submarine, weapons etc 
 
+Rand Fishkin on why facebook google are bad
+-----------------------
+https://twitter.com/randfish/status/1389279726305353730?s=21
+
+https://news.ycombinator.com/item?id=27045741
+
+
+governance
+----------
+Snapchat filter that is liable for speed deaths
+
+https://www.npr.org/2021/05/04/993579600/snapchat-can-be-sued-for-role-in-fatal-car-crash-court-rules
+
+Globalisation is not forced by regulations but by needing to have shit work
+-------------------------
+https://www.smithsonianmag.com/smithsonian-institution/how-standardization-time-changed-american-society-180961503/#:~:text=On%20November%2018%2C%201883%2C%20the,to%20monitor%20and%20schedule%20work.
+
+Time become coordinated to avoid train crashes and make timetables sane
+
+
+
+
+
 
 
 Trivia

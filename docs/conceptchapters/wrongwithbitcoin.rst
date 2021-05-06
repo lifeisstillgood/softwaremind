@@ -1,6 +1,19 @@
 What's wrong g with bitcoin
 ----------------------------
 
+Alos:
+
+Nakatomo consensus algorithm: it's not the same as *truth*... space work time - these just are truth of most people most work - truth is not a question
+
+Working out where all the gold is is a physics question - so is working out where productive capacity is.
+
+finance is just an information model around real world economy - don't forget that.
+
+
+
+
+
+
 First what's right :  crypto ledger
 second - open protocol
 

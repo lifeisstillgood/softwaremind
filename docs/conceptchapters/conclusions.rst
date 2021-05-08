@@ -358,6 +358,26 @@ The solution is to define what we want before we go shopping - choose for our fu
 Defaults mgmt or libertarian paternalism 
 
 
+
+On Social Media
+---------------
+Facebook has banned trump - and trying to justify why (no not justify, actually have a coherent policy)
+
+The problem is that social media is basically every conversation in every pub and every garden and kitchen.  It is what 2bn people say out loud.
+
+And most of it is rubbish - and a great deal is awful horrific terrible stuff
+
+And we have to have public standards - and private standards and unacceptable standards.  Even the US supreme court understands that shouting fire in a crowded theatre is not free speech
+
+So facebook has two problems - what is banned in public, building a clear delineation between public and private and how to automatically determine this
+
+Actually that's not facebooks problem - it's all societies.
+
+globalisation suggests there will be one or two actually workable solutions - and everyone globally will then gravitate to those.  And i guarantee that those solutions will not be profitable for an ad sales company in SV.
+
+
+
+
 Spam, blog spam, copyright violations and the poisoned well of knowledge
 --------------------------
 

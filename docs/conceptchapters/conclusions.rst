@@ -376,6 +376,15 @@ Actually that's not facebooks problem - it's all societies.
 globalisation suggests there will be one or two actually workable solutions - and everyone globally will then gravitate to those.  And i guarantee that those solutions will not be profitable for an ad sales company in SV.
 
 
+Possible future models of social media
+
+conjectures:
+Social media reflects a neuron based model of how a brain works - we are building a single human brain - not AI just something that links all our selves together each as a node in network 
+
+Trending : how externalmconcerns are raised to conscious level ? 
+
+politicians care about trending - how does brain balance all this? 
+
 
 
 Spam, blog spam, copyright violations and the poisoned well of knowledge

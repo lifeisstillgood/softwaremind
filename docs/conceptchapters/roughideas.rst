@@ -887,7 +887,11 @@ https://www.smithsonianmag.com/smithsonian-institution/how-standardization-time-
 Time become coordinated to avoid train crashes and make timetables sane
 
 
+also earliest calendar- aberdeenshire, 8000bc waaay before middle east
 
+https://phys.org/news/2013-07-world-oldest-calendar.html
+
+It links lunar months and seasonal arrival - frankly if you are in Egypt knowing when winter is coming is just a question of a extra robe  - in Aberdeenshire it really gets cold ! 
 
 
 

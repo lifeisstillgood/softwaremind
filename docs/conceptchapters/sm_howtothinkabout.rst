@@ -40,6 +40,18 @@ Chrome/ apple cookie decisions and idfa - is it ok for apple under heading of pr
 https://podcasts.apple.com/gb/podcast/another-podcast/id1535359773#episodeGuid=94374043-217f-41a9-9e1d-6cdb9e98ffba
 22 minutes 
 
+Social Media and Advertising - the problem 
+-------------------------
+https://news.ycombinator.com/item?id=27060898
+https://news.ycombinator.com/item?id=27063758
+https://news.ycombinator.com/item?id=27063282
+
+Advertising and tracking - why it's bad and why it's neutral abs why it's good 
+
+
+
+
+
 
 The programmable company
 ------------------------

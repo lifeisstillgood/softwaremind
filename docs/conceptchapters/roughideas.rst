@@ -880,6 +880,18 @@ Snapchat filter that is liable for speed deaths
 
 https://www.npr.org/2021/05/04/993579600/snapchat-can-be-sued-for-role-in-fatal-car-crash-court-rules
 
+
+Malware and security
+--------------------
+https://news.ycombinator.com/item?id=27096715
+
+story of the two wolves
+
+Ransomware - basically we need to improve our IT security or we shall always feed the wolves
+
+
+
+
 Globalisation is not forced by regulations but by needing to have shit work
 -------------------------
 https://www.smithsonianmag.com/smithsonian-institution/how-standardization-time-changed-american-society-180961503/#:~:text=On%20November%2018%2C%201883%2C%20the,to%20monitor%20and%20schedule%20work.

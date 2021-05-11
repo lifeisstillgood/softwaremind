@@ -11,7 +11,8 @@ finance is just an information model around real world economy - don't forget th
 
 
 
-
+https://news.ycombinator.com/item?id=27101038
+The anti gov part is not i  orignal paper and is tacked on by the jeremy  parison / fox news  wing - it's silly "don't trust go ernment - apart from water an roads and ...
 
 
 First what's right :  crypto ledger

@@ -873,6 +873,11 @@ https://stratechery.com/2021/market-making-on-the-internet/
 
 The idea is that linking subscribers to creators (market making as subscription is spend a few minutes listening to podcast and send x% of your monthly subs to hem) also applies to e-commerce - have a shop, facebook will connect facebook shop or instagram to a 3PL third party logistic supplier who will be like amazon FBA
 
+coders lament
+-------------
+- no pint explicating
+analyst programmer
+expert n reed to code
 
 
 

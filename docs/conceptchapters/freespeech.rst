@@ -190,3 +190,18 @@ Anyway ranting too much.
 
 
 
+GeoPolitics and film studies
+---------------------
+https://vimeo.com/238637906?ref=em-v-share
+
+This video essay suggests there are theee sets of "stakes" that need to be in place for a great movie (ending) - external stakes (like getting the cash, or surviving the war), internal stakes like romantic love or self respect and philosophical stakes - a set of values versus another set of values
+
+And this seems ... ok.  this seems natural abs human.
+
+So what are the stakes between say .. axis and allied of ww2? of the cold war ? American respect for individual? America  economic ideals vs kleptomaniac?
+
+What are the values at stake between west and china?
+
+Is it reallly they are both capitalist societies anyway - that this is about who will take good and silver -  it a fight to the death  ? so should we worry less? 
+
+

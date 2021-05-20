@@ -17,6 +17,15 @@ Putting the conclusion before the horse.
    programming (we dont do drag and drop novel writing why the hell do
    you think it will work for code).
 
+
+Security and literacy
+---------------------
+https://news.ycombinator.com/item?id=27144812
+
+probably impossible to someone without he other? 
+
+
+
    Programmable companies
    
    My conjectures:

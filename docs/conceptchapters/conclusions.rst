@@ -5,6 +5,13 @@ Conclusions
 The human marriage with technology is only going to deepen - so as individuals we need to set the terms - FOSS is only part of the solution 
 
 
+Free Speech
+-----------
+Fundamentally, if people "express themselves" frankly they are doing it public ally which makes it a publishing act.
+
+Unless it's a firehouse it's a choice of what to show to whom - publishing is a choice?
+
+stop mixing up discovery with publishing with commonncarrier - the mixtures are making the differences confused 
 
 Big Waves coming
 ----------------
@@ -431,6 +438,10 @@ Software eats the world really means software demands explicit written answers t
 
 - explicit to implicit 
 (self driving car trolley problem)
+
+https://youtu.be/ZULuedsaB9U
+cute trolley problem solved
+
 - obscure to commonplace
 (international libel laws, publishers and common carriers)
 

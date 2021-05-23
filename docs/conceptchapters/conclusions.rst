@@ -5,6 +5,22 @@ Conclusions
 The human marriage with technology is only going to deepen - so as individuals we need to set the terms - FOSS is only part of the solution 
 
 
+programmable company Thinking fast and slow 
+----------------/
+the exec board has to take decisions fast (no real data)
+but what court like system takes longer slower approach 
+
+how to redesign our organisations 
+
+see facebook oversight board
+
+programmable company - can monitor levels of error (bias - average error, noise - std dev of error)
+
+ie insurance underwriters
+
+(daniel kahhenman) 
+
+
 Free Speech
 -----------
 Fundamentally, if people "express themselves" frankly they are doing it public ally which makes it a publishing act.

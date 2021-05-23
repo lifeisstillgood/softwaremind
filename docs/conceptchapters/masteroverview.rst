@@ -135,6 +135,14 @@ What about using rank ordered policies ?
 
 Programmable company still needs men's rea or it will just be an AI seeking goals (paperclip goop)
 
+
+Programmable company : coherent organisational mind coded in software - can be read and reviewed 
+- cf Japanese armed forces in WWII - major reason they lost was massive rivalries in army and navy - only reason pulled together for midway was emprerors life was threatened by doolittle (cf twin towers) 
+
+
+
+
+
 So we need an ideal, we need vision and political eneprshop - but we also need that to more quickly guide the faster moving programmable more agile company - companies are getting ahead of our morality - that is not a problem with morality - it is a problem of the speed of feedback
 
 Democracy is the right feedback mechanism - and we need to find better faster ways to guide the AI towards its goals - rank ordering, executive replacement etc

@@ -2225,6 +2225,29 @@ Having something to say
 
 (critique of American ciewsnof socaulism)
 
+Why is it not really engineering / profession
+---------------------
+
+Research on software engineering
+
+http://www.knosof.co.uk/ESEUR/ESEUR-mobile.pdf
+
+https://www.oreilly.com/library/view/making-software/9780596808310/
+
+Look it's not that there is really some set of rules that if we follow the bridge does not fall down.  Because in software the bridge is not real - not bounded by gravity and nature.  There is no final test like in physics or chemistry - we just make a decision that this calculation runs as is. We are modelling
+
+yes we can test if the model fits the reality - that is completely defined and we know how to do that - everything from solar systems to fluid mechanics
+
+But otherwise there is no engineering there - engineering departments have two issues - what is reality (and does our design meet its requirements in reality)
+
+and can we could annotgansiation that allows that design to be created and used (profession and so forth)
+
+see the russian agricultural scientist for how it goes wrong 
+
+
+
+
+
 What does good software development feel like?
 ---------------------------------
 

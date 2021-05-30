@@ -20,6 +20,25 @@ ie insurance underwriters
 
 (daniel kahhenman) 
 
+Programmable company - evolution of organisation
+-------------------------
+
+One individual human is fairly weak
+a group of disorganised humans is also weak
+a group of organised humans - even badly organisaed - are stinger
+
+human society is about finding new forms of organisation - a strong leader / hierarchy of slaves - is a local maxima - it is a stable ish equilibrium 
+
+democracy / freedom shows it's possible to over come that maxima
+
+but we are seeing new forms of organisation possible - communications and evolution of 
+
+
+ultimately deployed capital has a huge advantage also it slows down the evolution 
+- ability to redeploy capital may be one of
+most effective choices - smaller capital at point of which each individual is independently wealthy will be ultimate goal -  this is most "flexible" and will have few limitations - 
+
+
 
 Free Speech
 -----------

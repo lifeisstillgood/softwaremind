@@ -26,6 +26,13 @@ In short - everynes code should be OSS or stored in escrow if certain
 regualted issues fail.
 
 
+Advertising 
+------------
+Cookies are dead
+and we still don't know 
+how effective online spend is (massively complex due to brokerage)  - so first party advertising (ie pay the ft to advertise to FR readers) will come back with ace fence
+
+
 Regulation and curation
 -----------------------
 Food safety legislation

@@ -115,11 +115,25 @@ And you cannot be all things to all people as your opponent will delight in poin
 We are not so easily fooled.  Is the simple answer - human brains grew large it seems to deal with the problems of politics and game theory as tribal sizes grew.
 
 
+Maps abs war gaming
+-------------------
+Use war gaming as a means to handle large scale organisational decisions and problems - agree a model (model mentor monitor) and see where we get to 
+
+- organisational planning - model monitor mentor and use swardley maps and war gaming and probabilities to decide best / most likely safe course ? 
+
+Organisational design as a future strength for humanity 
+
+
 We are not so easily fooled
 ---------------------------
 New forms of democracy
 Brexit and trump and five star - all voted for with eyes open by adults.
 Might not like it but it's real.
+
+universal morality 
+------------------
+It's not universal morality 
+it's more globalised regulation means we shall have to "align" our laws etc and a lot of that will be aligning our moral stories - this will almost always be a ratchet up effect - we shall choose the best globally 
 
 
 Political entrepreneurship

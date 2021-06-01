@@ -1,3 +1,24 @@
+
+Chapters
+
+- software literacy 
+- programmable company
+- maps and war games - org design and eco systems - coase
+- morality and software - everything requires upfront design including moral decisions - how does democracy handle the trolley problem
+
+- see the covid decision process in number 10 - clearly sub optimal - it's that each decision must be made in assumption  it's going to be shown how it was made - so make the org do it that way anyway - the org infrastructure (civil service - model monitor mentor) is there while the policy decisions are human
+
+- is it all in the model? No but we must talk models - software again - good software modelling languages 
+
+- alternate history and modelling - it's about how facts change but the system rolls on
+
+- transparency in decision making (it's really really hard !!!) - is going to be one of democracy finest solutions - but this is about
+
+- evolution of organisations (local maxima is one boss in charge - can see that failing at number 10)
+
+- 
+
+
 Alternate history
 - forcing a model that gets back tested a lot
 

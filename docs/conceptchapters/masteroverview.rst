@@ -1,12 +1,39 @@
 
 Chapters
 
-- software literacy 
-- programmable company
-- maps and war games - org design and eco systems - coase
-- morality and software - everything requires upfront design including moral decisions - how does democracy handle the trolley problem
 
-- see the covid decision process in number 10 - clearly sub optimal - it's that each decision must be made in assumption  it's going to be shown how it was made - so make the org do it that way anyway - the org infrastructure (civil service - model monitor mentor) is there while the policy decisions are human
+
+- software literacy 
+  What is the idea
+  it affects everything 
+  So let's look at everything - walk thru second third order effects all over
+
+- programmable company
+  If everyone is literate what can change about the company? why is it different
+  
+- swardley maps, coase and 
+  org design
+
+- model monitor mentor 
+
+
+- maps and war games - org design and eco systems - coase
+
+- social media - lots to discuss but it's not one thing - mixing publishing and printing and feed selection and discovery - also moderator problem is really not a problem for facebook - it's that we published every conversation in every pub in the world.  This really is an education issue
+
+
+- moop - how to be better ...
+
+- education - mastery learning as a basis - means learning via computers - but also
+implies moop and other areas (ie better financial sense) 
+
+
+
+
+
+
+- regulation morality and software - everything requires upfront design including moral decisions - how does democracy handle the trolley problem
+see the covid decision process in number 10 - clearly sub optimal - it's that each decision must be made in assumption  it's going to be shown how it was made - so make the org do it that way anyway - the org infrastructure (civil service - model monitor mentor) is there while the policy decisions are human
 
 - is it all in the model? No but we must talk models - software again - good software modelling languages 
 
@@ -16,10 +43,41 @@ Chapters
 
 - evolution of organisations (local maxima is one boss in charge - can see that failing at number 10)
 
-- 
+- hardware and software security
+https://mjg59.dreamwidth.org/57199.html
 
+- big changes
+start with Yes Prine minister and that nothing changes - see brexit trump wage stagnation
+These political big changes are around societal organisations  - and the big change recently has been software and hardware enabled - and all the coming changes will be in software - we all need a software mind 
+
+
+- different organisation types 
+
+Dr Ola Johannson, Professor of Geography at the University of Pittsburgh explains that Sweden has a culture of collaboration, which plays into its vibrant music scene. “Swedish organisations beyond the music industry are known to have what we call a ‘flat decision-making structure’ where everybody participates equally, whether you are the boss or not. I think for song-writing, that type of social model turned out to be very useful.” Ola suggests that this approach has its roots in the social democratic project of the 20th Century, which spans far wider than the music industry. “It has reshaped Swedish culture in many different ways. For example, it is customary in Sweden to talk to everybody using the first name, there’s no Mr or Sir – beyond maybe the King.”
+
+https://www.bbc.co.uk/programmes/articles/tj4SjRhLsLPD5vqpf06fpD/whats-the-secret-of-making-a-smash-hit-pop-song
+
+
+
+brands are only way to overcome market for lemons - so education as a marketing strategy is sensible - see patio11
+
+
+- constitutions as an org principle - they are contracts with the people entering age of total hybrid (army navy ie expensive) war - see Athens and salamis or napoleonic era
+
+we shall see constituents in companies - and so end of politically neutral companies ? 
+
+or end of immortal companies? faster turnaround ? faster return of capital to other uses? 
+
+- legal-economic singularity : Ataomenpoint there will exist a model of an economy that allows predictive action - that you can roughly predict effects of legal changes / policy.  At which point everyone will refer to it when passing laws - the ultimate techno-cracy 
+see also software written as laws, laws was software, business process, post office pretending software was correct and internal to business - managing the business processes - director hazing 
+
+
+End chapters
+------------
+end
 
 Alternate history
+-----------------
 - forcing a model that gets back tested a lot
 
 - incentives

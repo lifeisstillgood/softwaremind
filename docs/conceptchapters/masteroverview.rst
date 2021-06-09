@@ -72,6 +72,19 @@ or end of immortal companies? faster turnaround ? faster return of capital to ot
 see also software written as laws, laws was software, business process, post office pretending software was correct and internal to business - managing the business processes - director hazing 
 
 
+- Foss
+"FOSS developers are living in the future - and the friction comes from a world that works by different set of rules" - zx2391 on HN
+
+Follow the young - no follow the software literate.  This idea of giving away for free trillions of dollars of value is ... Star Trek. follow that future 
+
+- death of project management : 
+Think 1950s. you had one person gonna collect the state of many activities. they then became obvious point for authority about change from above / redirection of resources
+
+but now that's a automated status reporting - so any resource allocation decisions can be made but who do they affect?  1. you need a model (see apple and their todo list) but two it's a flatter structure
+
+
+
+
 End chapters
 ------------
 end

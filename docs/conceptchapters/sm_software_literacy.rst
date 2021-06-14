@@ -2245,7 +2245,12 @@ and can we could annotgansiation that allows that design to be created and used 
 see the russian agricultural scientist for how it goes wrong 
 
 
+Trust and literacy boundaries
+-------------------
+You cannot trust what you cannot read - see that guy in demon who did not want what we had written but wanted 150k on code less "my secrets art can do it)
 
+this has a huge implication - we need to have ways to read lots of code - learning lessons about encapsulation, functional
+languages (no more mutability) 
 
 
 What does good software development feel like?

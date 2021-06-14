@@ -82,7 +82,21 @@ Think 1950s. you had one person gonna collect the state of many activities. they
 
 but now that's a automated status reporting - so any resource allocation decisions can be made but who do they affect?  1. you need a model (see apple and their todo list) but two it's a flatter structure
 
+It's not about communication - it's about organising
 
+We see internet as communication medium - it is and we see ends of platforms in mobiles
+yes 
+
+but steam engines 
+
+but it's about how we organise work - that makes it more efficient t 
+- it's coase
+it's ledgers
+it's programmable companies 
+it's model mentor etc
+it's putting the computer back into productivity statistics 
+
+it's a big uphill road - but the point is it's uphill 
 
 
 End chapters

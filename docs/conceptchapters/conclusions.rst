@@ -182,6 +182,12 @@ it's none of it real and until law exists its value will be smaller
     -- Robert Solow
     (https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf)    
 
+
+Is the answer in parallel execution ?
+https://codahale.com/work-is-work/
+
+
+
 I have a simple argument - he is correct, not because software and
 computers cannot improve business and public productivity, but because
 computers are not being used *effectively*.  It would be like

@@ -880,6 +880,12 @@ Snapchat filter that is liable for speed deaths
 
 https://www.npr.org/2021/05/04/993579600/snapchat-can-be-sued-for-role-in-fatal-car-crash-court-rules
 
+self driving cars
+-----------------
+
+Another discussion 
+https://news.ycombinator.com/item?id=27499365
+
 
 Malware and security
 --------------------

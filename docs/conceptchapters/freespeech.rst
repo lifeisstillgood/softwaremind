@@ -130,6 +130,39 @@ So ...
 
 Problem: Social media problems are human cognitive issues - fake news preys on inciting outrage and people in bubbles thinking their experience references whole world. 
 
+Advertising for disintermediates in time
+----------------
+
+it used to be show a
+car advert to someone currently reading a car magazine
+
+now i can show a car advert to someone who read a car magazine last week - and on a different (cheaper) property
+
+we broke relationship between content providers and ad money 
+
+Privacy abs transparency 
+------------------------
+if your data is used to decide your job application or education or legal sentence then those decisions need to become transparent - which implies the total end of corporate commercial confiedentiality - perfect markets !  smaller companies ! 
+
+Let the police not the security services tackle digital realm.  Anyone with anything to hide will never make a digital move ever again - dead letters etc only 
+
+
+But people do tweet stupid things 
+--------------------------
+
+
+https://news.ycombinator.com/item?id=27582145
+
+We need more transparency - even in judging how others are reacting - 
+
+Someone says something racist online.  This happens in pubs too.  We judge that person, and we also judge by the reactions of those in earshot.  but on twitter we cannot see the reactions of all those in earshot - just those who (angrily) reply.
+
+So yes reads / downvotes vs actions will help. even amount of reaction (1-5 downvotes)
+
+this is the market structure of online discourse.
+
+
+
 
 Richard stall man
 -----------------

@@ -567,6 +567,19 @@ When we regulate "cars" there are a dozen or more different area with cl dry dif
 
 Similarly for tech there is a world of different areas - 
 
+what is tracking
+what is advertising 
+- privacy is expectations of no further reach
+
+speaking loudly in a pub is not that expectation 
+- twitter is just recording every pub conversation
+
+- we need to adjust our expectations 
+
+
+- global regulations - trains changed (aligned) the world - see european alignment issues 
+
+
 
 * what is privacy - and what is the valuable part of privacy?  (it's not secrecy and so *someone* knows.  Should privacy prevent my wife from knowing my phone and my secretaries phone were in the same hotel room all night ?
 

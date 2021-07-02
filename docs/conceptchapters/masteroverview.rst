@@ -11,6 +11,40 @@ Chapters
 - programmable company
   If everyone is literate what can change about the company? why is it different
   
+- Doubling down on democracy
+Hypocrisy and "doubling down on democracy"
+
+The pg idea that we should not stop entrepreneurs from building the new land - that this is what makes america vibrant misses a big part of the story
+
+Getting to the top, when using / exploring others is what we complain about in other less democratic societies
+
+It is not about winning at all costs, it is not about winning for my side.  The insidious part of pg argument is that it is not racist or sexist - it is power-ist- it is those who have power deserve to have power irrespective of how they got it.
+
+airbnb cheated. paypal cheated uber cheated.  And won.  they did nit murder or bomb or gas.  It was not that bad.  But it wouldn't it stand up in court
+
+it's hypocrisy 
+
+democracy sits in a spectrum - every dictator in their high castle still must pay attention to the mob
+
+and we are not on the far end of that spectrum 
+
+
+150 years ago america paid bounties on native american scalps, 75 years ago state sponsored terrorists in white hoods, often employed by police departments, used violence to prevent blacks from voting, today children are ripped from their mothers arms as they cross borders abs thrown into jail
+
+no. Doubling down on democracy is  not just carrying on as we are. it is living up to these ideals
+
+and building new companies is not just carrying on cheating as we are, leaning on the systemic injustices to allow some people achieve power more easily
+
+building new companies means changing more than the algorithms in the CRM.  New enterprises need to change at a software level - and at a deep organisational level 
+
+Yours
+---
+Paul Brian
+paul@mikadosoftware.com
+07540456115
+@lifeisstillgood
+  
+  
 - swardley maps, coase and 
   org design
 
@@ -72,6 +106,16 @@ or end of immortal companies? faster turnaround ? faster return of capital to ot
 see also software written as laws, laws was software, business process, post office pretending software was correct and internal to business - managing the business processes - director hazing 
 
 
+- privacy abs zero knowledge
+
+Privacy vs secrecy vs normal
+life (doctors records)
+zero knowledge proofs 
+hme encryption remote processing
+authentication and proofs
+
+- software literacy and developers
+with rayan was easier to explain which piece of code to change than use english ! 
 - Foss
 "FOSS developers are living in the future - and the friction comes from a world that works by different set of rules" - zx2391 on HN
 
@@ -98,6 +142,9 @@ it's putting the computer back into productivity statistics
 
 it's a big uphill road - but the point is it's uphill 
 
+
+This is a good overview as well
+- https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html#rule12
 
 End chapters
 ------------

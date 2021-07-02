@@ -886,6 +886,9 @@ self driving cars
 Another discussion 
 https://news.ycombinator.com/item?id=27499365
 
+Evidence based software engineering 
+-----------------------
+http://www.knosof.co.uk/ESEUR/
 
 Malware and security
 --------------------

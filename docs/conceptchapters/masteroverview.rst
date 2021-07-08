@@ -7,6 +7,35 @@ Chapters
   What is the idea
   it affects everything 
   So let's look at everything - walk thru second third order effects all over
+  
+* second order
+do we ask novelists to estimate their deadlines for delivering each chapter? and expect the chapters in order? And we discuss scope and cost and quality 
+
+Sometimes a business model demands it (charles dickens) - but 
+  
+- It's all about the data
+The old one about the factory that has steam engine spindle and then tries to make same electric engine. not till all distributed around did electrical revolution occur
+
+same for computers - why don't we have a 
+
+The revolution is when the data in a company is arranged in a way it can be iterated over - all of it.  A programmable company - a computable company 
+
+No spreadsheets passed around, just data lakes and rivers and streams and tributaries 
+
+But this means everyone is a coder - it means software literacy 
+  
+  
+- project management 
+* happy path, or measuring how many bricks on the happy oath we have walked along
+* risk management - identifying and budgeting for likely risks 
+Agile is well structure for risk management - continuous delivery of working software (with comprehensive automated testing suite)  all the rest is bullshit
+
+* steering - handling the daily unidentifiable risks and escalating the ones we don't know about 
+
+* heretical view : just don't outsource software development - it's like outsourcing your brain. 
+Either buy an existing product (there is almost always an app for that - preferably open source so you can use your brain again) or develop it in house - it's either vital to you, or just buy a new one.
+
+Otherwise you are an investor in a start up - treat accordingly.  don't worry about pldetailed planning - invest in many 
 
 - programmable company
   If everyone is literate what can change about the company? why is it different
@@ -31,18 +60,14 @@ and we are not on the far end of that spectrum
 
 150 years ago america paid bounties on native american scalps, 75 years ago state sponsored terrorists in white hoods, often employed by police departments, used violence to prevent blacks from voting, today children are ripped from their mothers arms as they cross borders abs thrown into jail
 
-no. Doubling down on democracy is  not just carrying on as we are. it is living up to these ideals
+no. Doubling down on democracy is  not just carrying on as we are. it is living up to these ideals.  what is needed is not "we stopped"
+but truth and reconciliation.  And yes compensation often says you are truthful in your statements.
 
-and building new companies is not just carrying on cheating as we are, leaning on the systemic injustices to allow some people achieve power more easily
+and building new companies is not just carrying on cheating as we are, leaning on the systemic injustices to allow some people achieve power more easily.  Sharing power at executive level with employees and stakeholders is costly - just as redistributive compensation is costly.
+
+It is easier for a camel to pass through the eye of a needle than it is for a rich man to break the system that made him rich.
 
 building new companies means changing more than the algorithms in the CRM.  New enterprises need to change at a software level - and at a deep organisational level 
-
-Yours
----
-Paul Brian
-paul@mikadosoftware.com
-07540456115
-@lifeisstillgood
   
   
 - swardley maps, coase and 
@@ -79,6 +104,11 @@ see the covid decision process in number 10 - clearly sub optimal - it's that ea
 
 - hardware and software security
 https://mjg59.dreamwidth.org/57199.html
+
+Impact of breaches 
+https://news.ycombinator.com/item?id=27718529
+
+
 
 - big changes
 start with Yes Prine minister and that nothing changes - see brexit trump wage stagnation
@@ -483,5 +513,11 @@ also internal politics of a company are almost entirely non-market (patronage so
 patronage bad way to run society - see "get colonised by the british"
 
 Most companies internally are still in 1980s digital - and looking to advance - imagine a world where we say "look at that market opportunity - i should take over the invoicing dept by being more efficient han them"
+
+
+Big Future changes
+------------------
+https://news.ycombinator.com/item?id=27738312
+
 
  

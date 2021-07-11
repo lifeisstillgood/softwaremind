@@ -66,3 +66,9 @@ price is too high - and electrical use per transaction per block is too high
 
 So it's a replacement for swift? Every disruptive use just hits a "why bother with prooof of work" question.
 
+Also debt needs to be registered at a social level - at a level of a trusted third party
+
+imagine I want to borrow a million dollars - you could trnafaer me those bitcoin. is that a debt? if so bitcoin is bot outside the law / third party trust issues.  And look at everyone from sulla to modern day - accusing someone of crimes against the state when you owe them moment is a good way of cleaning the slate.
+
+
+Bitcoin, any currency, cannot exist in a legal vacuum and the ideological no government attitude just strikes me as odd - money lending become impossible without government (which is why a mafia is usually a government for a people who have no government - either because they are an underclass (Catholic Italians in New York) or geographically separate 

@@ -1457,6 +1457,14 @@ Maintaining a distance, is anathema to Agile hugs.
 But look at IR35 SDC - Supervised, Directed and Controlled.
 (The theory of the firm, transaction costs, Fonald Coase and IR35. Why requirements management is and is not good for you)
 
+Second theory of firm - micro-government - not everything can be a profit centre - but some things can be cross subsidised 
+
+Why would private market choose to cross subsidise? is this a socially positive choice? 
+
+cross subsidy for marketing purpose (we have people in every city / country)
+
+
+
 Why is it a good idea
 Why is it a bad idea
 Is it in my ideal project?

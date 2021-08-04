@@ -2275,3 +2275,9 @@ other examples ?
 
 .. [#stross1] Charlie Stross is well known for popularising, if not inventing, the idea of `corporations as slow AIs <http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html>`_ 
 
+
+For and against literacy
+
+https://news.ycombinator.com/item?id=27791247
+
+Those analysts need to be software literate as well as domain experts 

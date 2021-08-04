@@ -999,6 +999,22 @@ So please keep in mind - we aim for simple.  Even if our day to day
 work pushes us to quick and easy and complicated.  We need to push
 back.
 
+Open software and the law
+-------------------------
+
+https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it
+
+if say breathalyser is using software to detect blood alcohol levels - what if it makes a mistake?? 
+
+The programmable company
+------------------------
+They are already programmable - vision, story, always been at heart if an enterprise.
+
+But the longevity of enterprise may be its undoing 
+
+but essentially a org is like a compiler - just with very bad error reports and no documentation.
+
+
 
 Data Mangement  Philosophy
 ==========================
@@ -1033,6 +1049,16 @@ it's like security - it's a priority or it is not.
    institutions is still frustrating.  As software eats the world, it
    will find politics and push back.
 
+
+Democracy and Social media
+--------------------
+
+I think we have always faced challenges of truth 
+
+we have lost curation, so some agreement on common facts - we need science? 
+
+
+But we have limited amount of outrage - it should be directed correctly at most important issues 
 
 Leassons from Amazon
 --------------------
@@ -1895,3 +1921,12 @@ add this to bonds - publishing government data in the open
 leads to new forms of journalism 
 
 - it will be rare but if i am right the jet fuel of growth will be irresistible 
+
+Overcoming fake news 
+---------------------
+Fake news in companies (usually too positive, without full data)
+so only way is to get clean - avoid the spiral of nudge wink abs the right data 
+
+
+
+

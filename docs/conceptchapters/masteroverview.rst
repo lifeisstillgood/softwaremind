@@ -520,4 +520,62 @@ Big Future changes
 https://news.ycombinator.com/item?id=27738312
 
 
+Warfare and software
+--------------------
+
+Technological changes have driven warfare throughout past 150 years and it is likely software will be no different 
+
+The most obvious area is drones or Unmanned Combat Aircraft Vehicles - The communication between operator and vehicle, or the autonomous operations software will be the largest attack surface - with every chip made there is a possibility of a back door.
+
+
+Should governments have a monopoly on information ?
+
+
+Programmable company
+---------------------
+
+> To understand a program you must become both the machine and the program.
+- Epigrams in Programming, Alan Perlis
+
+One of the major reasons why large companies become so hard to manage (imo) is they are hard / impossible to reason about.  Accountancy gave a way to reason about a company but money is just a proxy for real work
+
+Maybe Apple is a effective company because Apple is built around the operating rules - making it easier to reason - it is first of programmable companies
+
+Programmable company same as Robot Operating system - event driven architecture 
+
+Limits to future growth
+-----------------------
+https://www.cold-takes.com/this-cant-go-on/
+
+of course there are
+
+medicine, public health, mechanisation, electrification and digitisation all in same century !
+
+As we slow we want better ways to decide how to arrange the resources
+
+- my politics - monkeys and veil of ignorance
+
+- double down on democracy - use companies as breeding ground for new workable democracy 
+
+
+How is software relevant to this? Because software represents a low margin cost to change. It is lowest capital cost
+
+And if we want to have a growing economy with reduced externalities (ie climate change) we need to find a way to each year reduce our emissions by say 1% whilst maintaining production.  That's across the whole globe.
+
+It is unlikely we can do this by investing in new capital plant continuously - a coal fired power station is a big investment.  we cannot keep re-investing in capital
+
+so we need to improve organisationally - having less, doing with less. This will involve better supply chain insights, probably some form of advertising is bad because it works against the "best interests"
+of the citizen
+
+There is a lot to change - urbanisation leads to dramatically different behaviours in monkey brain (stressful) so we will see some pasturel breakouts - urban environments tuned to reflect pasturoal and positive effects (see barcelona / strong towns / etc)
+
+But most of all software allows people to monitor and nudge themselves along better routes.
+
+We need a public interest guidance software (MOOP) - we won't get outbid this unless we become better people.  Software might help us do that.  We might then trust the software - but it's recommendations need to come from double blind tests - unethical - or massive epidemiology (now feasible as we measure our lives in our software)
+
+We already live in a socialisat paradise - it's going to get full on Star Trek (without the space battles and sex with aliens) - the whole "communising in space thing"
+
+I don't see a way monkeys will manage to do it otherwise.  It might be why we have not been visited.  Getting past this state might be challenging.  
+
+
  

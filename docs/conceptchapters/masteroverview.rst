@@ -8,6 +8,13 @@ Chapters
   it affects everything 
   So let's look at everything - walk thru second third order effects all over
   
+  
+We see people today unable to code and so they have detailed subject matter expertise but cannot codify it for use in the programmable company 
+
+So we see companies that live and breathe as organisms but cannot adjust quickly and cannot pass on their knowledge.
+
+A company that can model itself and then plan the action based on inputs has an advantage - 
+  
 * second order
 do we ask novelists to estimate their deadlines for delivering each chapter? and expect the chapters in order? And we discuss scope and cost and quality 
 

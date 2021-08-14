@@ -347,6 +347,9 @@ Transparency and metrics leads to MOOPS
 - Trying to judge the essential and the incidental (prblems with
   pagerank, renting out your domain juice)
 
+https://news.ycombinator.com/item?id=28168978
+
+
 - software socualism and open source
   Open source seems most obvious
   Open hardware nash equlibrium

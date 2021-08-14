@@ -585,4 +585,37 @@ We already live in a socialisat paradise - it's going to get full on Star Trek (
 I don't see a way monkeys will manage to do it otherwise.  It might be why we have not been visited.  Getting past this state might be challenging.  
 
 
+Open and political companies
+------------------
+
+Science is going open source
+https://news.ycombinator.com/item?id=28105966
+
+But look at major political campaigns - constantly taking the temperature of electorate using polling data.  It is really the only way - but why aren't companies internally (look at how badly google handled many internal political issues)
+
+Polling employees will lead to more political work yes - but that happens anyway, just amount the "elite".  Just make it more democratic 
+
+Why most bug internet companies are just regulatory avoidance
+--------------------
+https://news.ycombinator.com/item?id=28131737
+
+Barter does not scale - and the "free market" thing only looks good at barter level.  Counchnsurfing - cool, free market interactions with individuals - airbnb - less cool 
+
+Crypto currency
+---------------
+https://news.ycombinator.com/item?id=28152456
+
+Digital Natives
+---------------
+Not so much
+
+https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html
+
+Market scale
+------------
+I used to do business analysis - see notes on columbus 
+But facebook abs amazon abs apple have broken into a new global market (well bipolar market).  This is a market of 8 billion people.  To have an addressable market of a million people now requires something of interest to 1 in 8000! The amount of fractal
+splitting to come isnimmemsnse 
+
+
  

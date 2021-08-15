@@ -617,5 +617,35 @@ I used to do business analysis - see notes on columbus
 But facebook abs amazon abs apple have broken into a new global market (well bipolar market).  This is a market of 8 billion people.  To have an addressable market of a million people now requires something of interest to 1 in 8000! The amount of fractal
 splitting to come isnimmemsnse 
 
+Who need a minimum scale of market (Adam smith) to build enough wealth - and so a global market with a globally addressable market is going to allow greater specialisation 
+
+markets: three dimensions wealth, standard of living, flourishing of potential (essentially how do we serve maslows triangle)
+
+
+
+
+
+Political ideology
+------------------
+
+Anti-fascism / extremism
+
+https://acoup.blog/2021/02/19/collections-the-universal-warrior-part-iii-the-cult-of-the-badass/
+
+left right is a circle not line
+
+Fascism essence: 
+If only some people are ‘warriors’ and developing that warrior capacity towards violence it the primary or principle virtue, it follows – and literally any Spartan could have and would have told Pressfield this – that everyone else is merely fit to be ruled.
+
+This is the true "elite" problem.
+
+
+fairness/ equality
+- monkey lab and veil of ignorance
+
+- free markets 
+https://podcasts.apple.com/gb/podcast/econtalk/id135066958?i=1000531460313
+
+
 
  

@@ -11,9 +11,59 @@ Chapters
   
 We see people today unable to code and so they have detailed subject matter expertise but cannot codify it for use in the programmable company 
 
+programmable company - we are moving through tactics to operations and into strategy as what gets automated and controlled centrally (with human oversight not gatekeeping)
+
+Additionally I want to have swardley maps and Communism / capitalism / producers versus owners - need and rise of unions vs gig economy 
+
+
+
+Management in a programmable company
+--------------------
+https://news.ycombinator.com/item?id=28206536
+
+some conjectures
+
+- it's all about the ApIs - see stevey drunken thing
+
+also it's about coding - if co-ordination between parts of company is an important part of the management role then that's a coding issue
+
+if co-ordination is reallymallocation of resources (hey we could do this, we should do this, we are allocating resources to do this) are all different "management" ideas  - so we differentiate between
+
+- model / monitor / mentor
+which is day to day stuff that can be automated apart from mentor
+
+we have administration 
+
+and we have actual resource allocation - real budget control
+
+if someone has budget control in excess of 50x their own salary then 
+
+Ultimately we need to automate the "staff work" - the operations part of tactics / operations / strategy
+
+A large company thinks it is like a flying wedge of calamari - really it is a mass of infantry and miles and wagons and siege trains trying to move over difficult terrain 
+
+(war is no longer profitable - https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/)
+
 So we see companies that live and breathe as organisms but cannot adjust quickly and cannot pass on their knowledge.
 
 A company that can model itself and then plan the action based on inputs has an advantage - 
+  
+The KPI guide to democracy
+--------------------------
+OK - flying wedges vs marching ranks - it's much easier to guide a flying wedge.
+
+Weak analogy but let's assume a nice big company.  They have a monthly board meeting and at the board meeting there are 20 KPIs - how are they produced - well the COO's deputy emails and gathers and spreadsheets are sent and ... 
+
+One day they decide to improve this - and slowly all the tickets in one place, all the work done recorded, all the databases etc etc. And this is hard honestly - most companies run on "my spreadsheet on my desktop is source of truth for my area and you can prose it from my cold dead hands"
+
+Now the COO presses a button abs great !  But why keep this to the board? What if they publish this button to all the business? What if everyone can read the code and see the databases - suddenly would it be move to make sure that tour area is no longer red? Well let's improve that thing - yes some gaming, some manipulating but then the COO can use a diff measure.  Oh this needs to be announced and beta tested and - it's beginning to sound like economics 
+
+A programmable company also can be a transparent company - which will lead to a democratic company if we trust it.
+
+We can have authoritarian companies if we just demand the reporting goes upwards - but if we accept that those KPIs can be challenged and improved - then we will be bettered off
+  
+  
+  
   
 * second order
 do we ask novelists to estimate their deadlines for delivering each chapter? and expect the chapters in order? And we discuss scope and cost and quality 
@@ -646,6 +696,12 @@ fairness/ equality
 - free markets 
 https://podcasts.apple.com/gb/podcast/econtalk/id135066958?i=1000531460313
 
+warning:
+Instead, it merely repackages that siren song that tells disaffected young people (mostly men) that they can be special and heroic through violence. No need to do the hard work of moral improvement, of difficult questioning, of – to quote Tolkien, “valour without renown.” Instead, it tells such men that they are already special, an elect within society, the ‘sheepdogs’ among sheep and encourages them to hold the sheep in contempt. It tells them that the things they already believe are not merely true, but the truest things.
+
+The calculus of fascism / slavery / military elites in pre-industrial society - it's possible for everyone to be nice and subsistence farmers in equal society (barring weather disease etc etc)
+
+but once one person takes control of a society and uses violence to make slaves of others, and then uses their surplus to create superior weapons (hang on how did get build the skills base? by having slaves anyway and using surplus to research).  Once one society does that all others need to similar else be defeated.  Wars are won with surpoerior weaponry and doctrine and training.  Things only surplus and then leadership can supply 
 
 
  

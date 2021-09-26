@@ -37,6 +37,40 @@ Literacy en mass changed the course of human history and gave a tiny
 corner Eurasia some huge advantages the effects of which are only just
 wearing off five centuries later.
 
+But is that true.
+
+I mean i got it from a cabinet officer?
+
+Ok Some deeper dive into history - this is Western Europe (which is where we got the industrial revolution starting somsometimg right happened there - list is long
+
+- protected from regular nomadic invasions
+- UK had geologic advantages - coal and farms and sea all in very close proximity
+
+But let's look roughly at the time after the 1066 invasion - we can mark it roughly in 100 year stints
+
+1100 - crusades and science
+1215 - barons war / magnancarta 
+1314 - bannockburn 
+1415 - agincourt
+1492 - gunpowder artillery dominates 
+1500 - 
+1600
+
+retinues of retinues and state standing army
+
+Ultimately - regularly raising taxes is not something easy to do under retinues - it is something that requires a low level independent bureaucracy- paid for by the state and "faceless" 
+
+This meant expanding the state and expanding the people involved in the state
+
+The cost of war drove this on  
+
+We can see something similar in the modern state - Lloyd George broke land owning aristocracy over cost of dreadnoughts - introduced  a modern state that demanded not merely peasant farmers and educated and *hwalthy* factory workers
+
+As state grows dependant on taxes from 
+
+
+
+
 Before people wandered off to the bar I decided to let them know why
 they were getting my best Simon Scharma impression.
 
@@ -91,6 +125,34 @@ communication.
 To stretch my analogy too far, *having* books at all enables communication,
 but *having* a literate populace enables companies to redesign themselves
 internally, to alter without everyone already understanding. To *optimise*
+
+Ok so  little history lesson or two
+
+- retinue of retinues
+- you cannot act like Cersei - you will lose your supporters
+
+1066 - 1215 1314 1415 and 1500s
+
+1500s - cruel despots all
+over - catholic church's property was confisacared (England, Russia) or re-enforced into State (spanish inquisition) 
+
+either way the church was absorbed into the newly centrally organised and centrally funded state - states became able to rule outside of the retineunofnrefinies
+
+and this lead to ... Ivan the terrible and similar 
+
+Everything is economics
+
+
+But in 1500s we had a transformation - what happened.  well a couple of things - and I am going to enter realms of historical conjecture here but the two big things were 1454 (books and literacy) and 1492 (new world gold)
+
+By 1500s we had a transformation in the ability of a central state with a central ruler to effectively rule - and the administrative portion is i conjecture down to increased literacy and so increases ability to get dara and send policy.
+
+Books written settingnoutnpolicy - the hammer of the witch - by King james himself ! 
+
+
+
+
+
 
 The internet already enables mass communication, but between software
 illiterate people, so any benefits of software just drain away -
@@ -361,6 +423,22 @@ theory, a firm needs to be more than automated, it needs to be
   deal with it (see slabscsoe drugs to stop worrying)
 
   (can expand but is seperate section)
+
+
+When data is free we won't need proprietary code 
+-----------------------
+
+
+
+Is facebook as effective as it seems?
+------------------------
+why is facebook saying it will patrol it's advertising to prevent misinformation etc.  partly existing in democracy and wanting to avoid lies  - but mostly because it's in their interests to say facebook is effective in promoting lies - to sell adverts
+
+But we have a universe if adverts - observable universe we are aware of - brand advertising has a mainstream effect - but how measure all the others - well we can 
+
+but is an ad on facebooknas effective as  a tv campaign ad? how much do they chnageV?
+
+all we are doing is moving undecided - not diehards - so the leverage is small and targeted at small portion 
 
 Just what is a programmable company?
 ------------------------------------

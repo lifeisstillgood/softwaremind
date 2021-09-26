@@ -914,6 +914,22 @@ https://phys.org/news/2013-07-world-oldest-calendar.html
 
 It links lunar months and seasonal arrival - frankly if you are in Egypt knowing when winter is coming is just a question of a extra robe  - in Aberdeenshire it really gets cold ! 
 
+Management as generalship
+-------------------------
+
+George Marshall and Eisenhower
+
+Hire team players (that commit to a team goal)
+be quick to relieve them if they lose the confidence of their constituent things
+
+This is democracy ! 
+
+
+Tribalism 
+---------
+We seek team players (seem george marshall ideas on general ship)
+but we want to trust the team - so will we see loyalty from companies to employees? it's easier if there are fewer ...
+
 
 
 

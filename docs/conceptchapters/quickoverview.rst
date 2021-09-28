@@ -170,6 +170,10 @@ So these ideas come into play:
 
 Yes data protection matters but imagine much less "commercial confidentiality" crap 
 
-- 
+- Implications 
+a growth of large conglomerates that have no business rationale but are there because the business is attractive and heavily software influenced and so the software friendly culture gives advantages 
+
+Over a generation this will slow down and find lower coasian equilibrium - but it's probably a good idea to invest in companies that are software friendly - and no agile does not count
+
 
 

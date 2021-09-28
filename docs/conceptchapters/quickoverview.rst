@@ -127,3 +127,49 @@ We must build our democracies with software not despite it, and build them as sh
 and we cannot avoid it.
 
 
+Politics *follows* the people
+----------------------
+it's a wellnknown trite cliche politicians watch to see where people are going and shout follow me!
+
+But this is and always been true - power flows from others *belief* that the powerful are powerful.  Violence xxx
+
+Doing as told - study of german and japanese atrocities (and elsehqeee ) 
+
+but we need better ways to extract people's actual desires and wants - twitter is *not* an effective polling on any constituency.
+
+I believe that one of the great levelling forces in UK politics is that a prospective or sitting MP is obliged to knock on doors and say vote for me.  It is a ritual and tradition that forces face to face awareness (if not understanding or sympathy)
+
+So besides MOOP something that forces us to a survey our population effectively - will be dangerous and valuable.
+
+Electronic voting is impossible - but electocnic surveys is quite viable.  Great security risk is that of matching surveys to voters.
+
+Open vs closed
+--------------
+Prior to wwBoth land was the determinant factor in productivity
+This is not longer the case (solar, food (multinrise farming) and so war is less about territory than about captured trade partners 
+
+- Britain forced trade 
+- USA supported free trad
+- so the future war will be less about land (although it always is) and more about supply chains 
+
+Openness is a lodestone - open source and open supply chains (or open protocols) means flexibility 
+
+As the belt and road tighten what can and cannot be sent on there will play an important part
+
+
+Coase
+-----
+Writing organisations are small - even huge newspapers, outputting volumes are small compared  to almost any other major, influential company (WaPO - 800 staff writers, NYT - 1300 
+
+So these ideas come into play:
+
+- writers are mostly autonomous - they are given missions (assignments) not factory roles, and are expected to be creative within confines.  In other words do not do pre-planned execution but solve problems - this is a by product of "the code is the design"
+
+
+- writers are expected to be heavily outward facing (customer contact) with heavy access to business data and metrics.
+
+Yes data protection matters but imagine much less "commercial confidentiality" crap 
+
+- 
+
+

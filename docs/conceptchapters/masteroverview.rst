@@ -1,15 +1,89 @@
 
-Chapters
+Start with software literacy and the printing press.
 
+But actually this is too childish - look at how states and armies evolved over that time - we have the march towards unconstrianed totalitarianism in WW2 - there were no checks on that power, beyond institutions - beyond "the rules" 
 
+So what we the new rules? the new institutions - what is power ?
 
-- software literacy 
-  What is the idea
-  it affects everything 
-  So let's look at everything - walk thru second third order effects all over
+Now we have idea of programmable company. But extend that to programmable society and programmable people
+
+Programmable Company
+--------------------
+
+The revolution is when the data in a company is arranged in a way it can be iterated over - all of it.  A programmable company - a computable company 
+
+No spreadsheets passed around, just data lakes and rivers and streams and tributaries 
+
+But this means everyone is a coder - it means software literacy
+  
+We see people today unable to code and so they have detailed subject matter expertise but cannot codify it for use in the programmable company.  It is sometimes easier to teach a coder to be an expert, than the expert to code, but it is better to pair them up (rather than design documents)
+
+How do we get to programmable company
+--------------------
+
+The KPI guide to democracy
+--------------------------
+OK - flying wedges vs marching ranks - it's much easier to guide a flying wedge.
+
+Weak analogy but let's assume a nice big company.  They have a monthly board meeting and at the board meeting there are 20 KPIs - how are they produced - well the COO's deputy emails and gathers and spreadsheets are sent and ... 
+
+One day they decide to improve this - and slowly all the tickets in one place, all the work done recorded, all the databases etc etc. And this is hard honestly - most companies run on "my spreadsheet on my desktop is source of truth for my area and you can prose it from my cold dead hands"
+
+Now the COO presses a button abs great !  But why keep this to the board? What if they publish this button to all the business? What if everyone can read the code and see the databases - suddenly would it be move to make sure that tour area is no longer red? Well let's improve that thing - yes some gaming, some manipulating but then the COO can use a diff measure.  Oh this needs to be announced and beta tested and - it's beginning to sound like economics 
+
+A programmable company also can be a transparent company - which will lead to a democratic company if we trust it.
+
+We can have authoritarian companies if we just demand the reporting goes upwards - but if we accept that those KPIs can be challenged and improved - then we will be bettered off
   
   
-We see people today unable to code and so they have detailed subject matter expertise but cannot codify it for use in the programmable company 
+Trust 
+voting
+
+The lessons and models that we will explore as companies try to handle programmability will be valuable for programmable society
+
+
+ 
+Getting to programmable society
+------------------------
+- Doubling down on democracy
+Hypocrisy and "doubling down on democracy"
+
+The pg idea that we should not stop entrepreneurs from building the new land - that this is what makes america vibrant misses a big part of the story
+
+Getting to the top, when using / exploring others is what we complain about in other less democratic societies
+
+It is not about winning at all costs, it is not about winning for my side.  The insidious part of pg argument is that it is not racist or sexist - it is power-ist- it is those who have power deserve to have power irrespective of how they got it.
+
+airbnb cheated. paypal cheated uber cheated.  And won.  they did nit murder or bomb or gas.  It was not that bad.  But it wouldn't it stand up in court
+
+it's hypocrisy 
+
+democracy sits in a spectrum - every dictator in their high castle still must pay attention to the mob
+
+and we are not on the far end of that spectrum 
+
+
+150 years ago america paid bounties on native american scalps, 75 years ago state sponsored terrorists in white hoods, often employed by police departments, used violence to prevent blacks from voting, today children are ripped from their mothers arms as they cross borders abs thrown into jail
+
+no. Doubling down on democracy is  not just carrying on as we are. it is living up to these ideals.  what is needed is not "we stopped"
+but truth and reconciliation.  And yes compensation often says you are truthful in your statements.
+
+and building new companies is not just carrying on cheating as we are, leaning on the systemic injustices to allow some people achieve power more easily.  Sharing power at executive level with employees and stakeholders is costly - just as redistributive compensation is costly.
+
+It is easier for a camel to pass through the eye of a needle than it is for a rich man to break the system that made him rich.
+
+building new companies means changing more than the algorithms in the CRM.  New enterprises need to change at a software level - and at a deep organisational level 
+  
+  
+  
+People who promote the idea of a sharing economy are not planning on sharing the wealth.  That is not the society that *can* be created nor is it the society that will act as the shining beacon.
+
+I believe in democracy and individual freedom.  I believe it is a gift all sentient beings on the planet should live under.  in order to get there we have found that it's very hard to impose democracy.  We may find using force to prevent great evil a choice but another parallel choice is to make our society a beacon.  double down on democracy- which will mean changing our society as much as our companies.
+
+
+
+
+
 
 programmable company - we are moving through tactics to operations and into strategy as what gets automated and controlled centrally (with human oversight not gatekeeping)
 
@@ -48,23 +122,7 @@ So we see companies that live and breathe as organisms but cannot adjust quickly
 
 A company that can model itself and then plan the action based on inputs has an advantage - 
   
-The KPI guide to democracy
---------------------------
-OK - flying wedges vs marching ranks - it's much easier to guide a flying wedge.
-
-Weak analogy but let's assume a nice big company.  They have a monthly board meeting and at the board meeting there are 20 KPIs - how are they produced - well the COO's deputy emails and gathers and spreadsheets are sent and ... 
-
-One day they decide to improve this - and slowly all the tickets in one place, all the work done recorded, all the databases etc etc. And this is hard honestly - most companies run on "my spreadsheet on my desktop is source of truth for my area and you can prose it from my cold dead hands"
-
-Now the COO presses a button abs great !  But why keep this to the board? What if they publish this button to all the business? What if everyone can read the code and see the databases - suddenly would it be move to make sure that tour area is no longer red? Well let's improve that thing - yes some gaming, some manipulating but then the COO can use a diff measure.  Oh this needs to be announced and beta tested and - it's beginning to sound like economics 
-
-A programmable company also can be a transparent company - which will lead to a democratic company if we trust it.
-
-We can have authoritarian companies if we just demand the reporting goes upwards - but if we accept that those KPIs can be challenged and improved - then we will be bettered off
-  
-  
-  
-  
+ 
 * second order
 do we ask novelists to estimate their deadlines for delivering each chapter? and expect the chapters in order? And we discuss scope and cost and quality 
 
@@ -74,12 +132,7 @@ Sometimes a business model demands it (charles dickens) - but
 The old one about the factory that has steam engine spindle and then tries to make same electric engine. not till all distributed around did electrical revolution occur
 
 same for computers - why don't we have a 
-
-The revolution is when the data in a company is arranged in a way it can be iterated over - all of it.  A programmable company - a computable company 
-
-No spreadsheets passed around, just data lakes and rivers and streams and tributaries 
-
-But this means everyone is a coder - it means software literacy 
+ 
   
   
 - project management 
@@ -97,35 +150,7 @@ Otherwise you are an investor in a start up - treat accordingly.  don't worry ab
 - programmable company
   If everyone is literate what can change about the company? why is it different
   
-- Doubling down on democracy
-Hypocrisy and "doubling down on democracy"
 
-The pg idea that we should not stop entrepreneurs from building the new land - that this is what makes america vibrant misses a big part of the story
-
-Getting to the top, when using / exploring others is what we complain about in other less democratic societies
-
-It is not about winning at all costs, it is not about winning for my side.  The insidious part of pg argument is that it is not racist or sexist - it is power-ist- it is those who have power deserve to have power irrespective of how they got it.
-
-airbnb cheated. paypal cheated uber cheated.  And won.  they did nit murder or bomb or gas.  It was not that bad.  But it wouldn't it stand up in court
-
-it's hypocrisy 
-
-democracy sits in a spectrum - every dictator in their high castle still must pay attention to the mob
-
-and we are not on the far end of that spectrum 
-
-
-150 years ago america paid bounties on native american scalps, 75 years ago state sponsored terrorists in white hoods, often employed by police departments, used violence to prevent blacks from voting, today children are ripped from their mothers arms as they cross borders abs thrown into jail
-
-no. Doubling down on democracy is  not just carrying on as we are. it is living up to these ideals.  what is needed is not "we stopped"
-but truth and reconciliation.  And yes compensation often says you are truthful in your statements.
-
-and building new companies is not just carrying on cheating as we are, leaning on the systemic injustices to allow some people achieve power more easily.  Sharing power at executive level with employees and stakeholders is costly - just as redistributive compensation is costly.
-
-It is easier for a camel to pass through the eye of a needle than it is for a rich man to break the system that made him rich.
-
-building new companies means changing more than the algorithms in the CRM.  New enterprises need to change at a software level - and at a deep organisational level 
-  
   
 - swardley maps, coase and 
   org design
@@ -702,6 +727,14 @@ Instead, it merely repackages that siren song that tells disaffected young peopl
 The calculus of fascism / slavery / military elites in pre-industrial society - it's possible for everyone to be nice and subsistence farmers in equal society (barring weather disease etc etc)
 
 but once one person takes control of a society and uses violence to make slaves of others, and then uses their surplus to create superior weapons (hang on how did get build the skills base? by having slaves anyway and using surplus to research).  Once one society does that all others need to similar else be defeated.  Wars are won with surpoerior weaponry and doctrine and training.  Things only surplus and then leadership can supply 
+
+utilities:
+
+google will become utility - boring - but necessary
+
+utilities: 
+not neomliberalism - look at tap water - free, 
+really you think the market will provide? and taking existing vast investment and then privatising it ... yeah where's my return on tax investment ? 
 
 
  

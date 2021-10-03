@@ -750,4 +750,6 @@ People kind of are rioting, though. The election of Donald Trump (and the rise o
 https://news.ycombinator.com/reply?id=28740183&goto=item%3Fid%3D28738407%2328740183
 
 Riots are usually ineffectual at expressing real change - change is supported when someone or something expresses a solution to the underlying feeling - we are searching for it.  I think the search continues 
+
+we are seeing a legitimacy crisis of major ivatituitojns that support status quo - parliaments, police, finance etc 
  

@@ -1,9 +1,14 @@
 
 Start with software literacy and the printing press.
 
-But actually this is too childish - look at how states and armies evolved over that time - we have the march towards unconstrianed totalitarianism in WW2 - there were no checks on that power, beyond institutions - beyond "the rules" 
+But actually this is too story-for-children - we want to dive into how States went from retinues if detinues, to centralised tax collection and uniformed armies to industrialisation and the lack of inherent checks on central authority.  Democracy was the prime check - in the USA it is explicit- balance of powers.  In UK it is "how things are done" 
 
-So what we the new rules? the new institutions - what is power ?
+But Germany and Russia are lost children for uncontrolled central control - and disasters that followed.  We like small, decentralised, compromise and common protocols  - just like internet
+
+
+with software literacy we come to the idea of programmable company
+
+What is programming - code and executing code over that data.
 
 Now we have idea of programmable company. But extend that to programmable society and programmable people
 
@@ -737,4 +742,12 @@ not neomliberalism - look at tap water - free,
 really you think the market will provide? and taking existing vast investment and then privatising it ... yeah where's my return on tax investment ? 
 
 
+Riots and fairness
+------------------
+
+People kind of are rioting, though. The election of Donald Trump (and the rise of populist parties across Europe); the January 6th capitol riot; the Black Lives Matter movement - whatever you think of these things, they're all connected at some level to a deep-seated feeling of social injustice. Perhaps we're only at the start.
+
+https://news.ycombinator.com/reply?id=28740183&goto=item%3Fid%3D28738407%2328740183
+
+Riots are usually ineffectual at expressing real change - change is supported when someone or something expresses a solution to the underlying feeling - we are searching for it.  I think the search continues 
  

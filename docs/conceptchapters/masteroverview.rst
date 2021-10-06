@@ -753,3 +753,7 @@ Riots are usually ineffectual at expressing real change - change is supported wh
 
 we are seeing a legitimacy crisis of major ivatituitojns that support status quo - parliaments, police, finance etc 
  
+ 
+ Regulation
+ 
+ the great facebook fail (dns down 4 oct) - the impact on communities using whatsapp as a utility is enormous - the right answer - to force it onto open protocols, to ensure countries and companies can renamed mesages much like email.  can this be done? 

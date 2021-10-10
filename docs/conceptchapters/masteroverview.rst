@@ -1,6 +1,23 @@
 
 Start with software literacy and the printing press.
 
+Henry VIIi and dissolution of monasteries
+-for a millennia after fall of rome (western) european monasteries we're the administrative centres - record keeping and law holding.  Respected 
+
+retinuenof retine as was no ability to replicate that on large scale 
+
+but after printing press henry VIII found a pool of literate subjects that were not in monasteries - so he had a new means to "administer" 
+
+(and is software a new means - my argument is yes. directly not by proxy as in accountancy, and project managers as retinues (ie cannot centrally know what is going on without asking all the monasteries) 
+
+
+But actually this is too story-for-children - we want to dive into how States went from retinues if detinues, to centralised tax collection and uniformed armies to industrialisation and the lack of inherent checks on central authority.  Democracy was the prime check - in the USA it is explicit- balance of powers.  In UK it is "how things are done" 
+
+But Germany and Russia are lost children for uncontrolled central control - and disasters that followed.  We like small, decentralised, compromise and common protocols  - just like internet
+
+
+
+
 
 software literate
 writing literate - ability to use this technology to express, communicate and shape ones own thoughts
@@ -10,9 +27,7 @@ software - again
 if you are writing-illiterate you cannot do this (richard briers - many other factors but all being equal)
 and if you are software illiterate you cannot use this technology to ... do things you cannot explain to a illiterate person  
 
-But actually this is too story-for-children - we want to dive into how States went from retinues if detinues, to centralised tax collection and uniformed armies to industrialisation and the lack of inherent checks on central authority.  Democracy was the prime check - in the USA it is explicit- balance of powers.  In UK it is "how things are done" 
 
-But Germany and Russia are lost children for uncontrolled central control - and disasters that followed.  We like small, decentralised, compromise and common protocols  - just like internet
 
 
 with software literacy we come to the idea of programmable company
@@ -50,7 +65,7 @@ So the immutable ledger (blockchain) is part of a change where top management ca
 
 Democracy is harder, often slower, doubtful, but more comprehensive and in my hope more impala able 
 
-
+most ceos will talk about importance trust and reputation 
 
 
 Immutable company

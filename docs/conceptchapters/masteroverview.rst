@@ -21,6 +21,45 @@ What is programming - code and executing code over that data.
 
 Now we have idea of programmable company. But extend that to programmable society and programmable people
 
+democratic company
+------------------
+Management: 
+- resource allocation
+- strategic cohesion
+- monitoring and understanding data 
+
+thats all going to change 
+- monitoring is automoc, voting will do resource allocation - rest is politics 
+
+Why do i care so much about society and so on? Apart from my liberal bleeding heart ...
+
+https://acoup.blog/2019/06/12/new-acquisitions-how-it-wasnt-game-of-thrones-and-the-middle-ages-part-iii/
+
+so look at transition from Roman Europe to Early
+middle ages (dark ages) to late middle ages.  The early part is retinue of retinues - unable to know what is going on in any timely
+manner there is a only one way to manage.
+
+But accountancy allows one a view (by proxy) into all parts of the kingdom
+And a literate bureaucracy can use that 
+
+
+
+death of project management is basically the death of retinues of retinues as it becomes possible to administer a company centrally (ie persuade retinues) 
+
+So the immutable ledger (blockchain) is part of a change where top management can see abs drill down into any aspect in near real-time - eliminating the need for retinues and allowing decision between force and power (democracy and non-democracy)
+
+Democracy is harder, often slower, doubtful, but more comprehensive and in my hope more impala able 
+
+
+
+
+Immutable company
+-----------------
+
+Why innovate *inside* a company when it is doing the thing we want? At some point a utility is a utility and we want it to stop growing / changing and just provide the damn service already. 
+
+Gas companies laying hydrogen pipes.  Sounds good.  Why not have a hydrogen company? Or solar ? why are we paying for it without the decision ? who voted ? whomallocared? 
+
 Programmable Company
 --------------------
 

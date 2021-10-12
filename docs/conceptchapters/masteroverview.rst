@@ -1,6 +1,8 @@
 
 reasons for writing : pg / joel / were social proof that our way of thinking was valid. it was useful to point others at the *implications*.  i am hoping similar social proof
 
+Also my brain is feeling full - I want to clear it out a bit and make room for some new stuff 
+
 Start with software literacy and the printing press.
 
 Henry VIIi and dissolution of monasteries

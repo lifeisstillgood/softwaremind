@@ -1,4 +1,6 @@
 
+reasons for writing : pg / joel / were social proof that our way of thinking was valid. it was useful to point others at the *implications*.  i am hoping similar social proof
+
 Start with software literacy and the printing press.
 
 Henry VIIi and dissolution of monasteries

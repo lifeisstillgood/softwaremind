@@ -822,5 +822,14 @@ we are seeing a legitimacy crisis of major ivatituitojns that support status quo
  
  
  Regulation
- 
+ ----------
  the great facebook fail (dns down 4 oct) - the impact on communities using whatsapp as a utility is enormous - the right answer - to force it onto open protocols, to ensure countries and companies can renamed mesages much like email.  can this be done? 
+ 
+ Facebooks algorithm problem - that the newsfeed is too big for a chronological approach, no one wants to write their own filters, so ... they need to invent something that guesses what you want (or should want, or want to want) - and that is somehow restricting other peoples free speech or something - but ultimately it is impossible - and so facebook essentially is asking for suitable regulation - and this is another trolley problem - define upfront what kind of society we think we are / want to be.
+ 
+ 
+ we do it when we define the syllabus for our kids education, we just need to do it more often and in other areas
+ 
+ upfront decisions are now an important issue - we probably want to have commissions on these things - 100 or so people coming out and making a recommendation (after informed expert opinion)
+ 
+It seems a sensible approach 

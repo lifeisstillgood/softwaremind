@@ -92,6 +92,16 @@ What is programming - code and executing code over that data.
 
 Now we have idea of programmable company. But extend that to programmable society and programmable people
 
+immutable corporation 
+
+why try and make it an adaptable organisation ? see war and tehchnilgy 
+
+do one thing. then destroy it - no need for project mamnagers and so on to *chnage* the company.  just design it to do one thing. 
+
+gig economy? what will be our social guide? if not work? 
+
+
+
 democratic company
 ------------------
 Management: 

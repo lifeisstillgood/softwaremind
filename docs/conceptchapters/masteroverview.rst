@@ -11,42 +11,57 @@ Book Outline
 
    -- Sydney Greenstreet in The Maltese Falcon
 
-Generally we don't see *talking* as a technology.  Not like Steam Trains or Rocket Ships.
-Often *writing* is not seen as a technology - what we *write with* might be (a biro, or a laptop)
-but in general putting words on paper is ... natural.
+Generally we don't see *talking* as a technology.  Not like Steam
+Trains or Rocket Ships.  Often *writing* is not seen as a technology -
+what we *write with* might be (a biro, or a laptop) but in general
+putting words on paper is ... natural.
 
-Only it isn't.  Humans are the only creature on the planet that writes its language.
-And possibly the only one to have an advanced language.  A language at its simplest uses
-a gutteral sound as a shared symbol - this sound *means* "mysterious yellow thing that burns" in
-my head and your head.  This "one simple trick" enabled an ape in Kenya to explode, to teach and
-understand the world not just from ones own experience but passed down from others experience.
+Only it isn't.  Humans are the only creature on the planet that writes
+its language.  And possibly the only one to have an advanced language.
+A language at its simplest uses a gutteral sound as a shared symbol -
+this sound *means* "mysterious yellow thing that burns" in my head and
+your head.  This "one simple trick" enabled an ape in Kenya to
+explode, to teach and understand the world not just from ones own
+experience but passed down from others experience.
 
-A few thousand years later, these languages met another technology - writing. And suddenly you could learn from the stories and expeirence of people far away or even dead.  It made communication better.
+A few thousand years later, these languages met another technology -
+writing. And suddenly you could learn from the stories and expeirence
+of people far away or even dead.  It made communication better.
 
-Look i dont need to extoll the virtues of *literacy* to someone reading a book.
+Look i dont need to extoll the virtues of *literacy* to someone
+reading a book.
 
-But my conjecture is that there is another form of literacy, another technology recently invented.
-It allows symbolic manipulation in *both* the heads of otehr humans and in a new head - a computer CPU.
+But my conjecture is that there is another form of literacy, another
+technology recently invented.  It allows symbolic manipulation in
+*both* the heads of other humans and in a new head - a computer CPU.
 
 I think software is a new form of literacy.
 
 This is not an uncommon point of view
 
 We start with the printing press and the Cabinet Office Minister.
-When a government minister is esposing your clever viewpoints, its time to look deeper.
+When a government minister is esposing your clever viewpoints, its
+time to look deeper.
 
 But it is the right thinking
 
-So what did printing press usher in ? A new age of common literacy (well middle class literacy).
-And that ... changed the world.  Within a hundred years, the centralised power of the Catcholic church
-had been replaced by Kings and States that could find enough people outside the church to *adminsiter*
-their tax raising efforts, their complex co-ordinattion needs, and the end of the Middle Ages.
-The church was suck dry of wealth in both catholic and protestant countries, who found they could do without the amdinsitrative abilities of the literate record keeping monks.
+So what did printing press usher in ? A new age of common literacy
+(well middle class literacy).  And that ... changed the world.  Within
+a hundred years, the centralised power of the Catcholic church had
+been replaced by Kings and States that could find enough people
+outside the church to *adminsiter* their tax raising efforts, their
+complex co-ordinattion needs, and the end of the Middle Ages.  The
+church was suck dry of wealth in both catholic and protestant
+countries, who found they could do without the amdinsitrative
+abilities of the literate record keeping monks.
 
-(expand on the retinue of retinues, centralised states, and into WW2 for unfettered state violence - and
-democracy and individual rights as a check on that unfettered control)
+(expand on the retinue of retinues, centralised states, and into WW2
+for unfettered state violence - and democracy and individual rights as
+a check on that unfettered control)
 
-(and is software a new means - my argument is yes. directly not by proxy as in accountancy, and project managers as retinues (ie cannot centrally know what is going on without asking all the monasteries) 
+(and is software a new means - my argument is yes. directly not by
+proxy as in accountancy, and project managers as retinues (ie cannot
+centrally know what is going on without asking all the monasteries)
 
 
 
@@ -54,7 +69,8 @@ reasons for writing : pg / joel / were social proof that our way of
 thinking was valid. it was useful to point others at the
 *implications*.  i am hoping similar social proof
 
-Also my brain is feeling full - I want to clear it out a bit and make room for some new stuff 
+Also my brain is feeling full - I want to clear it out a bit and make
+room for some new stuff
 
 
 

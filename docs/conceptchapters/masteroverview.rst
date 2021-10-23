@@ -1,3 +1,48 @@
+Our modern administrative states can do wonderful things – they build roads and schools, provide healthcare (sometimes), they can care for the poor and regulate workplaces. But they can also produce spectacular and horrifying amounts of violence. It is this task – the violence, not the schools or the roads – for which they were designed and to which they remain best suited. We forget this (by pretending such violence belongs only to HBO and the distant past) at our peril.
+
+
+Also systems thinking vs reductionism - the whole is the interactions between the parts and is greater than the sun
+
+https://news.ycombinator.com/item?id=28886764
+
+Is that how we should build our orgs:
+
+- decisions are resource allocation decisions.
+
+- decisions are at the systems level (ie programmable companies are unit components) systems are where interactions matter
+
+- 10M isnlower boujd 100m upper
+
+- stop having people decision makers outside those roles - own the lower components to produce a given effect or are building a component t 
+
+
+Writing is a form of technology - we spend ages learning not alphabet but how to construct words and sentences to express ideas in minds of others 
+
+software is a way to express ideas in executable form - interactive literacy??
+
+Also productivity: it's crap because most organisations have dead weight - either extractive financial situations (private equity) or middle abs top management - smaller leaner companies will be more productive - how we learn to build better organisation s 
+
+
+It's about preprogrammed responses 
+-----------------------
+war, the trolley problem and organisational responsiveness
+
+
+https://warontherocks.com/2020/06/chinese-debates-on-the-military-utility-of-artificial-intelligence/
+
+The next world war will teach us that the winner had already planned their moves and fired them off before the other made a decision
+
+Preprogrammed responses are needed in HFT world - where guessing opponents move is valuable
+
+So prororogmmed moves in business ? contextual as well 
+
+
+Big Tech is not so big. 
+-----------------------
+https://twitter.com/realnatashache/status/1451624440022716418?s=21
+
+Tech is 2% employment but 25% S&P - so ... it's not the world.  the world remains uneaten and you cannot compete against Google because a) it cheats (see anti trust stuff on ad server exchange https://news.ycombinator.com/item?id=28965949) and b) it's way more software literate than you are.  So become software literate as an organisation  
+
 Book Outline
 ============
 

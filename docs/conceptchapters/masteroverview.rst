@@ -43,6 +43,11 @@ https://twitter.com/realnatashache/status/1451624440022716418?s=21
 
 Tech is 2% employment but 25% S&P - so ... it's not the world.  the world remains uneaten and you cannot compete against Google because a) it cheats (see anti trust stuff on ad server exchange https://news.ycombinator.com/item?id=28965949) and b) it's way more software literate than you are.  So become software literate as an organisation  
 
+
+Front Line Only organisation - where there is no chnage management, it just runs.  What about? That's the coding the programming. that changes. And policy is explicit 
+
+see also - code that google ran to cheat on exchanges 
+
 Book Outline
 ============
 

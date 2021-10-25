@@ -48,6 +48,14 @@ Front Line Only organisation - where there is no chnage management, it just runs
 
 see also - code that google ran to cheat on exchanges 
 
+
+Why democracy
+-------------
+Because it is only way for employees that will lose all privacy at work to have control over how that is used - will be feedback loop ito society 
+
+No diff between a medicalmorientated dara that has interests of user at heart legally or totalitarian
+
+
 Book Outline
 ============
 

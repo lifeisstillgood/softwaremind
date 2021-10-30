@@ -1,3 +1,48 @@
+it's a new world
+
+
+It's a world of trolley problems 
+
+It's a world of freedom (and tech won't fix dictatorships)
+
+it's a world of literacy - and the tools of literacy (library of alexandria etc) 
+
+Socialism, society, achievement and credit
+
+Delegation is crap
+
+If you aren't doing it, don't take credit for it.
+
+At best you have the architectural plan in mind, unless you build with robots, it's still not your creation 
+
+Stop giving credit 
+
+Social regulatory environment- it's the police and the roads and the justice system etc.  It's what makes it possible for companies to innovate so they should jot get too bent out of shape when regulations prevent monolooes - we are looking for the ideal balance. it's not government central planning, it's not monopoly - it's jot anarchy.  it's somethingjusing market proce mechanisms - and sensible regulation.  What do we mean sensible ... hmm ... let's use scientific method? 
+
+
+Software literate org: knight capital isn't nor is OPm - because that should be in their bones
+
+
+https://news.ycombinator.com/item?id=29053003
+
+Secrecy is where they don't know anything about you. (And that is long gone)
+
+Privacy is where they know everything about you, but are not allowed to exploit you. (And that is the fight for the next decade)
+
+Progess is where they know everything about you, and can assist you in your best interests. (that's my conjecture)
+
+
+
+
+Conclusion
+----------
+
+Yes. But we lack two things to make that paper to digital move convincing
+1. A clear unambiguous security framework (HSM, FIDO, on disk encryption, standard terminology for roles access etc) that is just as common as HTML. There are so many competing strategies here let alone implementations that we just really need one winner that everyone can just drop in to their industry CRM / HR app whatever
+2. Legal framework around private data that has social benefits baked in, but limits the crappy side.
+3. Stop thinking we can solve the rest of the worlds problems (with technology). There is a tendency for say crypto or tor to think it will create another Arab Spring and whole world will be free. A far far better bet is to build our democracies better, clean out our corruption and uneven playing fields, to make a free and fair society that is just so damn enviable, others have to follow.
+
+
 Our modern administrative states can do wonderful things – they build roads and schools, provide healthcare (sometimes), they can care for the poor and regulate workplaces. But they can also produce spectacular and horrifying amounts of violence. It is this task – the violence, not the schools or the roads – for which they were designed and to which they remain best suited. We forget this (by pretending such violence belongs only to HBO and the distant past) at our peril.
 
 

@@ -31,6 +31,9 @@ Privacy is where they know everything about you, but are not allowed to exploit 
 
 Progess is where they know everything about you, and can assist you in your best interests. (that's my conjecture)
 
+Why it matters - we are entering an age of awful awesome progress.  We as a society need to find ways to openly discuss, agree on and decide the trolley problems of the new century.  Mustering the political will to move to non carbon lifestyle is one thing - finding ways to decide how to use the dangerous new technologies is a different form of political action we have rarely seen before.
+
+Most likely template is citizen juries and so on 
 
 
 

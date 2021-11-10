@@ -35,6 +35,36 @@ Why it matters - we are entering an age of awful awesome progress.  We as a soci
 
 Most likely template is citizen juries and so on 
 
+We are all living in a socialist utopia 
+-----------------------
+Teach our kids to share
+look at index funds - if common ownership is fine then what is socialism
+if we include regulation in socialism then everything is regulated for the common good anyway.
+
+Where we fail it's monkey level reactions to the unfairness (see 2008) 
+
+Writing is a technology - we had walls around jericho thousands of years before we had writing ! 
+
+
+
+Democracy in companies
+- start small.
+- why should we assume the current ltd company approach (designed for minimising losses in expeditionary shipping ) is really the right way now?
+
+Software literacy, greater access to information (I mean Inknow more about the meetings of US cabinet than Indonabout the board meetings for my employer) 
+
+
+Metrics
+-------
+https://news.ycombinator.com/item?id=29130039
+
+https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla
+
+SRE: SLO > SLA > SLI
+Objective > agreement > Indicators 
+Goal > commitment > metric 
+
+
 
 
 Conclusion

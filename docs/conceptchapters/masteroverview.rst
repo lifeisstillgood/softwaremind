@@ -65,7 +65,18 @@ Objective > agreement > Indicators
 Goal > commitment > metric 
 
 
+End of "management" 
+------------------
+- see end of johnson and hobson  and GE 
+- what does mgmt add? 
 
+politics is a change package - people vote for that 
+
+taste is what people ask for - see elon musk 
+
+the problem here is the vision need articulating then people buying into that and having skills for it
+
+problem is then preventing
 
 Conclusion
 ----------

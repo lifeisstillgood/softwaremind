@@ -250,6 +250,24 @@ so no financial engineering, smaller focused firms ignoring need for diversifica
 
 really managemtnshoukd be hired by the staff (aka laboratory or medical model) 
 
+Democracy and bad calls
+-----------------------
+Gene Kranz and elon musk
+I bet if we could ask Gene would he like to be richest man on earth the answer is yes. 
+But as nasa chief flight director he guided moon missions and made many difficult decisions  - his grissom and columbia like 
+
+We know he took difficult decisions and we know he took a (good) salary
+
+when your life is balanced on my decision and the choice is your life or a billion dollars, well i hope i am not marking the decision, i hope a better man than i is.
+
+Or a man open and transparently making decision and 
+
+There is a point every organisation becomes a regulated utility.  It just does not have to die, but we have to be sure of the investment - we have to watch and participate 
+
+maybe democracy in the small is the best way to watch, local democracy can be local interests as well
+
+
+
 
 Conclusion
 ----------

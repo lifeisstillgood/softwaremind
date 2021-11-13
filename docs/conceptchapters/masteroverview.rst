@@ -1,50 +1,128 @@
-it's a new world
+Editor Notes
+============
+
+I am aiming to build the following *argument*
+
+* Software is a new form of Literacy.  [intro, to cabinet office, then hey this is not enough]
+
+* Literacy is a human reaction to a new form of technology - just as
+literacy was for writing (Jericho had walls before humans had writing)
+
+* Software is eating the world - but what does that mean?
+What about software is meanginfully different?
+
+- programmability.
+
+- modelling & monitoring. A company, even a person or society, can be
+  seen as a deterministic(?) set of instructions.  The policy can be
+  expressly codified and written.  We would think that is good for
+  say, a financial exchange.
+
+- it means programmability - information travels "instantly" (no more
+  middle mgmt)
+
+- opennness by defualt (try having laws that no one is allowed to
+  read)
+
+- it means change is atomic and explicit - you can read what the
+  expected behaviour is under different conditions.
+
+- if you put humans in the loop (to keep decision making flexibility,
+  you lose speed and feedback and modelling )
+
+- trolley problems. most important implication is more and more Trolley problems
+
+  Prediction: There will become a class of security researcher not
+  focused on software bug bounties, but trolley problem misalignments.
+  THink people who found VW software issue.  University researchers.
+  But (anecdata) thousands of MOT workers had opportunity and
+  knowledge.
+
+- privacy vs secrecy (see Lanister, Data Dignity)
+
+  https://news.ycombinator.com/item?id=29053003
+
+  Secrecy is where they don't know anything about you. (And that is long gone)
+
+  Privacy is where they know everything about you, but are not allowed
+  to exploit you. (And that is the fight for the next decade)
+
+  Progess is where they know everything about you, and can assist you
+  in your best interests. (that's my conjecture)
+
+  Why it matters - we are entering an age of awful awesome progress.
+  We as a society need to find ways to openly discuss, agree on and
+  decide the trolley problems of the new century.  Mustering the
+  political will to move to non carbon lifestyle is one thing -
+  finding ways to decide how to use the dangerous new technologies is
+  a different form of political action we have rarely seen before.
+
+  Most likely template is citizen juries and so on 
+
+- Dmeocracy in companies. DOuble down on democracy.
 
 
-It's a world of trolley problems 
+- Programmable Society, Company and Person.
 
-It's a world of freedom (and tech won't fix dictatorships)
+What wont it fix
 
-it's a world of literacy - and the tools of literacy (library of alexandria etc) 
+- politics.  Politics is about deciding resource allocation and what
+  should be changed about current system.  Thats exactly the
+  pre-software part.  So tech solutions like Arab Spring wont
+  help. Arab Spring was human politics.
 
-Socialism, society, achievement and credit
+- biology, climate change and everything else - we have no silver
+  bullets for politics.  That is just hard work and economics.
 
-Delegation is crap
+COnjectures and hot takes
 
-If you aren't doing it, don't take credit for it.
+* We are all socialists now.
 
-At best you have the architectural plan in mind, unless you build with robots, it's still not your creation 
+  Social regulatory environment- it's the police and the roads and the
+  justice system etc.  It's what makes it possible for companies to
+  innovate so they should jot get too bent out of shape when
+  regulations prevent monolooes - we are looking for the ideal
+  balance. it's not government central planning, it's not monopoly -
+  it's jot anarchy.  it's somethingjusing market proce mechanisms -
+  and sensible regulation.  What do we mean sensible ... hmm ... let's
+  use scientific method?
 
-Stop giving credit 
 
-Social regulatory environment- it's the police and the roads and the justice system etc.  It's what makes it possible for companies to innovate so they should jot get too bent out of shape when regulations prevent monolooes - we are looking for the ideal balance. it's not government central planning, it's not monopoly - it's jot anarchy.  it's somethingjusing market proce mechanisms - and sensible regulation.  What do we mean sensible ... hmm ... let's use scientific method? 
+* Better allocation of credit (Elon etc) (Delegation is crap, just do the job using co-ordinating
+protocols (which is 50% of mgmt)
+
+* Death of Project Mgmt
+* death of middle mgmt
+* mgmt is 50% co-ordination (you are not reporting in way that makes it possible to comapre you)
+  and 50% resource allocation (hire, fire, fund, defund) and 50% risk mgmt
+  co-ordination is use of common protocols. (DevManual?)
+  resource allocation is important, but can be *voted* on
+  Risk mgmt - much much better done in open discussion and voting, open reporting.
+  Overall, open reporting is a very good idea.
+  "In the same way tytping pools were replaced with everyone doing their own typing,
+  much of management will be replaced with open discussion and everyne contributing to management"
+  "THis will either lead to death by committee, or to protocols that monitor for success and track"
+  
+
+* Death of Mgmt (again) If you aren't doing it, don't take credit for it.
+
+  At best you have the architectural plan in mind, unless you build
+  with robots, it's still not your creation
 
 
-Software literate org: knight capital isn't nor is OPm - because that should be in their bones
 
 
-https://news.ycombinator.com/item?id=29053003
+  Software literate org: knight capital isn't nor is OPm - because that should be in their bones
 
-Secrecy is where they don't know anything about you. (And that is long gone)
 
-Privacy is where they know everything about you, but are not allowed to exploit you. (And that is the fight for the next decade)
-
-Progess is where they know everything about you, and can assist you in your best interests. (that's my conjecture)
-
-Why it matters - we are entering an age of awful awesome progress.  We as a society need to find ways to openly discuss, agree on and decide the trolley problems of the new century.  Mustering the political will to move to non carbon lifestyle is one thing - finding ways to decide how to use the dangerous new technologies is a different form of political action we have rarely seen before.
-
-Most likely template is citizen juries and so on 
 
 We are all living in a socialist utopia 
------------------------
+----------------------------------------
 Teach our kids to share
 look at index funds - if common ownership is fine then what is socialism
 if we include regulation in socialism then everything is regulated for the common good anyway.
 
 Where we fail it's monkey level reactions to the unfairness (see 2008) 
-
-Writing is a technology - we had walls around jericho thousands of years before we had writing ! 
-
 
 
 Democracy in companies
@@ -82,15 +160,35 @@ Conclusion
 ----------
 
 Yes. But we lack two things to make that paper to digital move convincing
-1. A clear unambiguous security framework (HSM, FIDO, on disk encryption, standard terminology for roles access etc) that is just as common as HTML. There are so many competing strategies here let alone implementations that we just really need one winner that everyone can just drop in to their industry CRM / HR app whatever
-2. Legal framework around private data that has social benefits baked in, but limits the crappy side.
-3. Stop thinking we can solve the rest of the worlds problems (with technology). There is a tendency for say crypto or tor to think it will create another Arab Spring and whole world will be free. A far far better bet is to build our democracies better, clean out our corruption and uneven playing fields, to make a free and fair society that is just so damn enviable, others have to follow.
+
+1. A clear unambiguous security framework (HSM, FIDO, on disk
+encryption, standard terminology for roles access etc) that is just as
+common as HTML. There are so many competing strategies here let alone
+implementations that we just really need one winner that everyone can
+just drop in to their industry CRM / HR app whatever
+
+2. Legal framework around private data that has social benefits baked
+in, but limits the crappy side.
+
+3. Stop thinking we can solve the rest of the worlds problems (with
+technology). There is a tendency for say crypto or tor to think it
+will create another Arab Spring and whole world will be free. A far
+far better bet is to build our democracies better, clean out our
+corruption and uneven playing fields, to make a free and fair society
+that is just so damn enviable, others have to follow.
 
 
-Our modern administrative states can do wonderful things – they build roads and schools, provide healthcare (sometimes), they can care for the poor and regulate workplaces. But they can also produce spectacular and horrifying amounts of violence. It is this task – the violence, not the schools or the roads – for which they were designed and to which they remain best suited. We forget this (by pretending such violence belongs only to HBO and the distant past) at our peril.
+Our modern administrative states can do wonderful things – they build
+roads and schools, provide healthcare (sometimes), they can care for
+the poor and regulate workplaces. But they can also produce
+spectacular and horrifying amounts of violence. It is this task – the
+violence, not the schools or the roads – for which they were designed
+and to which they remain best suited. We forget this (by pretending
+such violence belongs only to HBO and the distant past) at our peril.
 
 
-Also systems thinking vs reductionism - the whole is the interactions between the parts and is greater than the sun
+Also systems thinking vs reductionism - the whole is the interactions
+between the parts and is greater than the sun
 
 https://news.ycombinator.com/item?id=28886764
 

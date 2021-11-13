@@ -116,6 +116,82 @@ protocols (which is 50% of mgmt)
 
 
 
+  https://news.ycombinator.com/item?id=29053003
+
+  Secrecy is where they don't know anything about you. (And that is long gone)
+
+  Privacy is where they know everything about you, but are not allowed
+  to exploit you. (And that is the fight for the next decade)
+
+  Progess is where they know everything about you, and can assist you
+  in your best interests. (that's my conjecture)
+
+  Why it matters - we are entering an age of awful awesome progress.
+  We as a society need to find ways to openly discuss, agree on and
+  decide the trolley problems of the new century.  Mustering the
+  political will to move to non carbon lifestyle is one thing -
+  finding ways to decide how to use the dangerous new technologies is
+  a different form of political action we have rarely seen before.
+
+  Most likely template is citizen juries and so on 
+
+- Dmeocracy in companies. DOuble down on democracy.
+
+
+- Programmable Society, Company and Person.
+
+What wont it fix
+
+- politics.  Politics is about deciding resource allocation and what
+  should be changed about current system.  Thats exactly the
+  pre-software part.  So tech solutions like Arab Spring wont
+  help. Arab Spring was human politics.
+
+- biology, climate change and everything else - we have no silver
+  bullets for politics.  That is just hard work and economics.
+
+COnjectures and hot takes
+
+* We are all socialists now.
+
+  Social regulatory environment- it's the police and the roads and the
+  justice system etc.  It's what makes it possible for companies to
+  innovate so they should jot get too bent out of shape when
+  regulations prevent monolooes - we are looking for the ideal
+  balance. it's not government central planning, it's not monopoly -
+  it's jot anarchy.  it's somethingjusing market proce mechanisms -
+  and sensible regulation.  What do we mean sensible ... hmm ... let's
+  use scientific method?
+
+
+* Better allocation of credit (Elon etc) (Delegation is crap, just do the job using co-ordinating
+protocols (which is 50% of mgmt)
+
+* Death of Project Mgmt
+* death of middle mgmt
+* mgmt is 50% co-ordination (you are not reporting in way that makes it possible to comapre you)
+  and 50% resource allocation (hire, fire, fund, defund) and 50% risk mgmt
+  co-ordination is use of common protocols. (DevManual?)
+  resource allocation is important, but can be *voted* on
+  Risk mgmt - much much better done in open discussion and voting, open reporting.
+  Overall, open reporting is a very good idea.
+  "In the same way tytping pools were replaced with everyone doing their own typing,
+  much of management will be replaced with open discussion and everyne contributing to management"
+  "THis will either lead to death by committee, or to protocols that monitor for success and track"
+  
+
+* Death of Mgmt (again) If you aren't doing it, don't take credit for it.
+
+  At best you have the architectural plan in mind, unless you build
+  with robots, it's still not your creation
+
+
+
+
+  Software literate org: knight capital isn't nor is OPm - because that should be in their bones
+
+
+
 We are all living in a socialist utopia 
 ----------------------------------------
 Teach our kids to share

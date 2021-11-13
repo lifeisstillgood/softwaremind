@@ -232,6 +232,25 @@ the problem here is the vision need articulating then people buying into that an
 
 problem is then preventing
 
+See felix salmon - but in world where dividends are mattering less (or rather  you don't need a huge conglomerate that has diversified revenue so it can maintain a dividend and do versification comes from index fund.) dividends still matter and should come back but they are just things where stock buy backs should be dividends 
+
+This to me is really the idea of forms as unix commands - do one thing and do it well. - when index funds own everything it is resource allocation at the functional level 
+
+and so we see death of financial engineering (or rather a more explicit open form. this is good people will still do stupid risk but we can see it we hope and take action. at least pour it out.
+
+so no financial engineering, smaller focused firms ignoring need for diversification- sounds like need for management as 
+
+- agree a vision
+- agree a set of milestones 
+- track to milestones 
+- see progress 
+- hire good people
+- ensure they have team spirit or at least can just execute 
+- automate the administration part
+
+really managemtnshoukd be hired by the staff (aka laboratory or medical model) 
+
+
 Conclusion
 ----------
 

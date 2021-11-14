@@ -203,6 +203,13 @@ Where we fail it's monkey level reactions to the unfairness (see 2008)
 
 Democracy in companies
 - start small.
+https://news.ycombinator.com/item?id=29123870
+Imagine a typical hierarchical manager. they have a bunch of devleads under them and decide to hire a "senior dev lead".
+He could just hire someone on his own. But what if he let the other devleads have a say? What if 51% of them protested at his choice.
+Democracy can start small
+
+
+
 - why should we assume the current ltd company approach (designed for minimising losses in expeditionary shipping ) is really the right way now?
 
 Software literacy, greater access to information (I mean Inknow more about the meetings of US cabinet than Indonabout the board meetings for my employer) 

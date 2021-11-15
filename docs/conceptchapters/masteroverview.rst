@@ -1,3 +1,18 @@
+
+Software literacy
+
+implications
+programmable company
+implications 
+end of management 
+implications 
+smaller companies (unix do one thing well, end of diversified conglomerates and if society changes end of corruption ?)
+
+programmable society
+
+programmable people
+
+
 Editor Notes
 ============
 
@@ -1260,3 +1275,10 @@ we are seeing a legitimacy crisis of major ivatituitojns that support status quo
  upfront decisions are now an important issue - we probably want to have commissions on these things - 100 or so people coming out and making a recommendation (after informed expert opinion)
  
 It seems a sensible approach 
+
+
+Encryption and security
+https://www.wired.com/story/encrypted-messaging-privacy-security-metadata/
+
+If the struggle is over product design (and metadata informs that, then that needs to be opened up )
+

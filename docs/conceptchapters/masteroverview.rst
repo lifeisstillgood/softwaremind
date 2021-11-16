@@ -13,6 +13,17 @@ programmable society
 
 programmable people
 
+web 1 - you publish on your site
+web 2 - you publish on their site
+web 3 - your code and content on open mesh 
+
+implies distributed shared ownership of means of production (ie hardware running software) 
+
+Democracy and citizenship and web 3.0
+
+Administrators currently have all the votes. Web 3.0 vision is to remove those votes and *either* every citizen has rights or earn rights by some contribution (not sure which is best but likely european model is online is it distinct from offline)
+
+
 
 Editor Notes
 ============

@@ -4,7 +4,8 @@ Software literacy
 implications
 programmable company
 implications 
-end of management 
+end of management as the 
+end of administration
 implications 
 smaller companies (unix do one thing well, end of diversified conglomerates and if society changes end of corruption ?)
 

@@ -23,7 +23,12 @@ Democracy and citizenship and web 3.0
 
 Administrators currently have all the votes. Web 3.0 vision is to remove those votes and *either* every citizen has rights or earn rights by some contribution (not sure which is best but likely european model is online is it distinct from offline)
 
+The universal computing platform
+----------------------
 
+distributed ledger
+crypto
+software organisations 
 
 Editor Notes
 ============

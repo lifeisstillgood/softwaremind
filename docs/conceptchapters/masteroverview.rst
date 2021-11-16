@@ -1,3 +1,9 @@
+Base 
+
+the problems of tech are problems of democracy and politics - and so we need to have the one system that has worked (liberal democracy and scientific progress) injected deeper into our societies and companies 
+
+and the forcing function for this is software literacy 
+
 
 Software literacy
 

@@ -2,7 +2,7 @@
 The Software Mind
 ==================
 
-An optimist in skeptic's clothing takes you on a tour of the software future
+An optimist in skeptic's clothing takes a tour of the software future
 
 
 {{ conceptchapters/masteroverview.rst }}
@@ -12,7 +12,9 @@ Start off here -
 https://news.ycombinator.com/item?id=25816422
 
 
-We want to cover some of the history of software (software cowboys book) and things like therac-25 and pre-microsoft history (and ms history) bugs, retrospectives, mindset
+We want to cover some of the history of software (software cowboys
+book) and things like therac-25 and pre-microsoft history (and ms
+history) bugs, retrospectives, mindset
 
 
 {{ conceptchapters/sm_software_literacy.rst }}
@@ -37,8 +39,26 @@ We want to cover some of the history of software (software cowboys book) and thi
 
 
 
+{{ conceptchapters/bookemail.txt }}
+{{ conceptchapters/emailnotes.txt }}
+{{ conceptchapters/freespeech.rst }}
+{{ conceptchapters/housing.rst }}
+
+{{ conceptchapters/manifesto-policy.rst }}
+{{ conceptchapters/masteroverview.rst }}
+{{ conceptchapters/OpenSourceStrategy.rst }}
+{{ conceptchapters/roughideas.rst }}
+{{ conceptchapters/shorterconclusion.rst }}
+
+
+{{ conceptchapters/sm_howtothinkabout.rst }}
 
 
 
+wrongwithbitcoin
+----------------
+{{ conceptchapters/wrongwithbitcoin.rst }}
 
-
+ibelieve
+--------
+{{ conceptchapters/ibelieve.rst }}

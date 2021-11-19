@@ -1,3 +1,32 @@
+Each iteration neeed some set of technology plus platform to be ready 
+
+web 1 - sufficient PCs plus HTTP plus legal framework
+
+web 2 - I don't think this was (social was just another application - it was the mobile
+platform that supercharged it even though it was named early
+
+web 2.5 - mobile platform
+
+web 3 
+
+technologies are obvious
+platform is? what?
+we are missing something - it might be ubiquitous micro payments (bank of england) 
+
+is the platform server less code? run anywhere (aka bob)
+
+IPFS - allows a content addressed data to decide where to run my code - you choose which data you want to run against and the server less finds where it is closest and runs it (charging you?)
+
+reverse: run code, code looks for data, now it's find data, now look for the code - code is smaller so faster to bring code to mountain than other way round. 
+
+a distributed database that knows where all content is stored, and can be updated privately, and has ability to decide where to run, and get estimates queue times and costs - literally how much is this going to be? 
+
+
+code lawyers
+------------
+conjecture of OSS running government - making specialising in that code a legal like profession (possibly being a lawyer and a coder) - and making all sorts of strange outcomes - the most interesting of which is one code base across huge swathes of territory - the dream of the internet may still
+come true 
+
 Web 3.0 fanboys
 ---------------
 

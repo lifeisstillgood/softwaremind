@@ -4,6 +4,11 @@ the problems of tech are problems of democracy and politics - and so we need to 
 
 and the forcing function for this is software literacy 
 
+Deep time
+---------
+Wooden stone topped spears from SA found 1/2M years ago - before homo sapiens! 
+Walls of jericho before writing 
+
 
 Software literacy
 

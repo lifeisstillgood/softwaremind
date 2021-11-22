@@ -4,6 +4,19 @@ the problems of tech are problems of democracy and politics - and so we need to 
 
 and the forcing function for this is software literacy 
 
+
+new democracy
+DAO is first attempt since co op
+to build new org form
+
+ 50/50 failure rate of command and control
+ 
+ governance is on block chain
+ 
+ 
+use egyptian whips - each take turns to fight off slackers 
+
+
 Deep time
 ---------
 Wooden stone topped spears from SA found 1/2M years ago - before homo sapiens! 

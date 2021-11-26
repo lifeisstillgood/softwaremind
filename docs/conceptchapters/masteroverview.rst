@@ -1491,4 +1491,10 @@ spectrum, and that have solid production monitoirng is effectively having solid 
 reuse of code as a metric of organisational cohesion - start up to spreadeagled.
 Lots of companies have many ways to do same thing.  But there should be one right way to do it. Look at xkcd cartoon - 14 different standards.  A cohesive org has one common standard - by fiat or by discussion.  If an org is happy to allow many flowers to bloom to find the right way then frankly its a community not an atomic unit.
 
+Another treason why large orgs are bad
 
+https://news.ycombinator.com/item?id=29321063
+
+
+Smaller organisations
+- co-ordination though APIs and testing is easier and faster and more reliable and modellabke - 

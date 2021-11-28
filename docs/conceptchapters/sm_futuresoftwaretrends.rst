@@ -270,6 +270,14 @@ insurance for gig econmony (insurance by the minute)  legal NLP
 
 Add in "the rental economy" (or the subscription economy) where the whole idea is to gain market domaince and then exploit prices sounds bad for us all - and we don't think regulation  is going to keep up (Europe) or be allowed to think about keeping up (rest of world) - see schneier on lawyers like us - https://venturebeat.com/2019/03/06/bruce-schneier-its-time-for-technologists-to-become-lawmakers/
 
+
+Lawyers are hackers too
+-----------------------
+lock picking lawyer: "No-one pays two hundred dollars an hour to hear what everyone thinks the law was designed to do - they want to hear what it can be made to do"
+
+
+
+
 Add on to this the ways we are trying to regulate the new tech landscape - GDPR, elizabeth warrens proposal to split up companies into platforms and exploiters, these are all generally good (software socialist remember) where good means having a floor but no ceiling to society.
 
 https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c?stream=business

@@ -1498,3 +1498,30 @@ https://news.ycombinator.com/item?id=29321063
 
 Smaller organisations
 - co-ordination though APIs and testing is easier and faster and more reliable and modellabke - 
+
+
+How did facebook become bad?
+-------------------
+
+It's the algorithm 
+
+- start with just a chronological news feed
+
+- then that's too much so show from your closer friends instead of friend of friends
+
+- but that drops engagement (do you care about your brothers fifth post about his football / dinner ?)
+
+- so show things from your network that interest you .. ok you have spent time looking at cat pictures, so here is a cute cat post from your cousins friend
+
+- but now we are recommending things that get you interested - cat pictures yes, but that soon becomes sensational and 
+
+All that happened was we discovered tabloid news on internet speed 
+
+The problem - most people now get their irl news from phones and via social media.  social media is really just a news aggregator. with the news mostly not written by traditional journalists a
+
+
+the algorithm has influence - even if it is kit intended that way
+
+how do we decide what you *should* read? Right wing news has views on this - previously locked away in mid west radio 
+see journalism as AI labelling 
+

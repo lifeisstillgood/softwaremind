@@ -2,7 +2,187 @@
 The Software Mind
 ==================
 
+
+Major Models in mind
+---------------------
+
+* Beasly maps
+* Coasian Thoery of firm
+* code is the Design,  design is the whole thing
+* openness really really works - it is the best comunincation model
+* most management is dead - supervision much more effectgive by software
+* software is a new form of litersacy
+* mgmt activies:
+  - monitoring (supervision)
+  - modelling
+  - mentoring
+  - hiring
+  - resource allocation (free market?)
+  - decision making in uncertainty
+  - decide new form of org needed, and build it (thats software writing!)
+
+* Software literacy
+* Programmable company
+* immutable company (a version)
+* Map making as a function of a company -
+  https://twitter.com/swardley/status/1146447217886224384
+* introspection and extrospection
+  What does the world look like, and how did we fit it?
+* coase, thoery of firm and theory of many small pieces.
+* democracy, value capture, value return, who works for whom
+* why are the executives "blessed"? Will software coders as managers changes this?
+* how do we get to democratic companies, that can take scientific discoveries and apply them widely and find new methods to acheive engineering?  Why is tesla building a new car? Because the old car makers were stagnant.  Because no one voted the executuves out.
+* end of tournament style progress to executvie positions. all the excess salary gets voted down to all the participants.
+
+
+
+Coders are the new managers.
+=============================
+
+Mgmt and capital and labour
+Social good is for all indivuduals to be self actualised
+Drucker had GM as ideal, but it leads to "management as a special class" -
+to elites.  instead of simply being given the decision making opportunitu
+
+and those decisions can be complex.
+But there is strategy, operations and otehr factors in deciding what is appropriate - should we have lots of aircraft carriers or small attack boats.
+
+Porcupine strategy as a decentralised response.
+
+
+Management is changing
+Google experiment - in 2002 they got rid of all managers.
+
+- coach
+- not micromanage
+- care about team as people
+- results / outcome orientated
+- good communicators
+- career aware
+- clear vision
+- technically skilled
+
+But this does not mean "manager" as we understand it is needed.
+The manager shown above is not a "boss". Not a supervisior, but an
+... inspirer....
+
+SO what is the gap filling in?
+
+Software as a means of sharing communications of the company - what is going on
+what is planned etc.
+
+we dont have a thing that does X, and communicates with Y, in this form.
+
+This is architecture.... But we dont like architecture cos its not town planning.
+
+So ... building codes tell us if building is safe, town planning tell us if it is fit in the ecosystem. (thorughout of cars or people or sewage)
+
+So is the dev mnaual really town planners guide for a company.
+
+And if there is a town planners guide, then the size of the company can vary.
+
+Coase...
+
+
+In the end we live in a liberal democracy
+We think that there are huge benefits to that arrangement, that come from
+avoiding the autocractic and dobling down on democracy.
+And companies are going to find that autocractic government does not work
+- top down planning, limiting openness, no ability to adaptt o local conditions
+etc, are less effective than the others.
+
+We want to see freer markets, better competition, reduced government subsidy,fairer treatments.  We like that. We just want it applied across the board.
+
+The end of traditional management
+---------------------------------
+
+* Businesses can be controlled by software.
+Amazon warehouses and indeed all logistics, heavy industry, energy generaation,
+most transport.
+
+* most problems in business are problems in the process of designing.  The facotry does not have enough space to do X. You desinged it wrong.  Sometimes you cannt iterate out of a problem - see the ward cunnigham sudoko thing. sometimes you need to be better.
+
+* More and better inputs .... 
+
+Drucker is still relevant:
+
+Decentralisation is key - liberal democracy again.
+
+theory of the business - assumptions / finding product market fit.
+This dials into the idea of an immutable company. this version is now acting.
+This version needs to be monitored and seen if it acts.
+
+Software has now adjusted the business to be like this - see facebookrelease process.  They are *all* managers now.
+
+Google has softened the "manager" tag to go from druckers defintions, to basically becoming Druvker ... a coach for the people who define and decide upon the
+business
+
+1. if the code is the design, then the person doing the coding is making decisions for the business
+
+2. The theory of business is that you create a business and (every three years) recreate it to challenge every assumption.  The same is true for an immutable buinsess.  Just the timescales have dialle dup to 11.
+
+3. an immutable copany is one *controlled* by software - wehre decisions have been encoded into the software so that there is no lattitude, the decision is deterministic from the inputs and the decisions alreaydy made at design stage
+
+4. any changes to the algorithm is determined by the "designers" and may include Facebook like moderators and scope to make different decsions).
+
+
+Google is a bellweather for a software company - it is an advert driven business and si almost totally virtual, so it can be seen as a good example: thousnds of workers, whole google process is in code. The design of the whole thing is
+shown in code.  It can be modelled (indeed using software to find out what you have designed is part of process)
+
+
+
+* need software that models your software, and shows how it will perform under different corcumstances.  Like regulatory stress testing, but better.
+
+* do you have SMEs who "know" how the various pieces fit together?  They should be encded into a model.  its not an expert system. The damn stuff is written down - its running on your servers.  If you cannot introspect your own runnign code thats your problem.  Management should not be needed to keep introspection of the systems in their heads. (although that is a good defintion of a coder - but then that says managers are like coders.  Yes.  But thats bad if their activiteis do not prodiuce code - its supposed to be "written down" - see software literacy)
+
+* a software litersate comapny is not pne where everyobne can code.  Its wjere everyone can code, and does so, building the immutable form of a company that will act in the real world, and collect data about the outside worl d and tits own performance (introspection and extraspection)
+
+A normal literate company 
+
+
+
+
+
+
+What bout AI???
+
+
+
+How does a liberal democracy cope with software freedoms being stripped away. How doe s atrade union?
+
+
+
+
+
+
+The new technology of Writing Software is going to impact everything.
+
+
+
+
+
 An optimist in skeptic's clothing takes a tour of the software future
+
+Democracy and individual freedom, versus software and internet
+
+internet has communication net from eachindivdual to eachindividual
+democracy - push down decisin to lowest level (ie indivdual)
+enterprises and governmetns pay lip service to this but prefer
+to act at level of their understanding
+
+Freedom exists in the space where government cannot break through its own abstraction to interfere.
+
+I am sounding a lot like a right wing ledilog
+
+But it is *feasible* that gov / org / society can track all information
+needed to break through abstraction
+
+If this is good or bad depends on ... the original design, and the individual freedom.
+
+
+
+problem of curating at scale
+
 
 Democracy- Thrasybulus' message - cut down all ears of corn higher than yourself. Not the message we want to find ways of overcoming the future
 

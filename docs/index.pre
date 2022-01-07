@@ -2,6 +2,80 @@
 The Software Mind
 ==================
 
+Coders as managers
+------------------
+
+What is management ?
+Drunker etc
+but fundamentally it is command and control of a machine designed for a specific, repeatable job
+
+operating pacific navy in midway, Runnign GM etc
+
+the capital investment has been made, the global strategic decisions have been set (every level has strategic and tactical decisions)
+
+And management at each level is concerned with minimising the failures and the system behaving as expected.
+
+Automation is the primary means of achieving that, manual decisin minimised by directing software another major part. 
+
+A naval vessel that fires its guns by software that flies aircraft by software - sounds bad but that is primarily what IS navy has built as a sort of response to th e problems of WW2 era
+
+The main point is that a naval vessel and a fleet are a machine designed to do one thing - even if that thing is very complicated. It has been carefully designed to do it.  And the people doing the design, the people creating not just the blueprints of the bulkheads but the rules and regulations, (business processes) are also designing that navy - the doctrine if you will.
+
+And that is less and less the job of the "manager".  
+
+the manager used to be the boss.  The guy who told you what to do.  But admirals don't do that. They set direction and provide funding, maybe set standards (but not in detail just "excellent").  
+
+Look at google's rules for better managers - this is not MBA stuff - it's not resource allocation, it's not 
+
+The resource allocation part is pushed up to the admiral level. The political level.  "go to Pearl and don't come back till war is won".  (you now have command of the pacific navy till the end of the war plus all the funding there in)
+
+so what's left? The actual design is done by coders - they are actually building the processes.  
+
+The managers (even the google good ones) are baby sitting coders, and 
+
+We don't need babysitters - the management job has split into two - the actual 
+
+two kinds of companies - the kind where a job / area / function / component is identified as being neeed and someone allocates people / coders to develop that 
+
+and then 
+
+1. coders go do it and "managers"
+look after them 
+
+2. coders are told what to produce (either by waterfall, or by having a agile system that actually is just a ticket system that "manager" allocates people to go build 5 story points at a time)
+
+the version 2. company has been failing for ten years honestly 
+
+There are plenty of companies where codes go do it and get it wrong.  Of course.  But this is never ever going to be solved by adding "managers"  - you won't get a better football team by adding more coaches - there is an ideal number of coaches to players.  and there are ideal levels of skill in players.
+
+(psychosis share video games and politics)
+
+Why openness and democracy wins
+-------------------------
+Because it solves to co-ordination problem and the 
+agreement problem
+
+- Paxos and raft are trying to solve this problem - but they solve it with voting !
+
+openness and voting solves the problem - as long as everyone agrees to abide by the majority decision.  
+
+what if the majority decision is "wrong"? Prove it and they will chnage.
+
+what if people had to vote for linux? or facebook? they did.
+
+This is about co-ordinating large groups of people in a single organisation (which may be small groups in other orgs but ...)
+
+- that is agile and project mgmt and so on.  And it's much much easier to just have open discussions and agree somehow.
+
+- and dictatorship is often not the best way.  opennness and pushbdecisions down (but not negligent but genuine decentralised sharing of power)
+
+
+
+
+ignorance of the law is no defence 
+-------------------
+read the code ! 
+
 
 Major Models in mind
 ---------------------

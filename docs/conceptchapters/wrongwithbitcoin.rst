@@ -72,3 +72,15 @@ imagine I want to borrow a million dollars - you could trnafaer me those bitcoin
 
 
 Bitcoin, any currency, cannot exist in a legal vacuum and the ideological no government attitude just strikes me as odd - money lending become impossible without government (which is why a mafia is usually a government for a people who have no government - either because they are an underclass (Catholic Italians in New York) or geographically separate 
+
+
+https://news.ycombinator.com/item?id=29845208
+
+Problem of ownership and trust less ownership
+
+- ownership is a legal umbrella
+- everyone needs to be under the umbrella
+- no one is going to agree because satoshi owns 1 million 
+- and so it's just dead 
+
+but the concepts are fine 

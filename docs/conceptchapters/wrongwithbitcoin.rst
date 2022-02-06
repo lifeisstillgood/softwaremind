@@ -107,4 +107,14 @@ which means there is literally no bank too big to fail
 
 which means ... if bank wants to take loan out to meet payroll - it should be better run 
 
+This is "the end of banking as we know it"
+
+Honeytraps
+----------
+
+No one knows who (or whoms) satoshi was. But the most impressive conspiracy theory is that this is a long game from the US law enforcement who built this to honeytrapnevery money launderer on the planet into using publically traceable methods to launder their money.
+
+There is a version of the blockchain that has poor opsec and so every single dirty transaction is tracked back to the money launderers - and every single enabler and co-conspirator is laid bare in a sting operation that makes panama papers look like a till receipt
+
+Yeah.  i like it.  And somewhere it is close to the truth 
 

@@ -84,3 +84,27 @@ Problem of ownership and trust less ownership
 - and so it's just dead 
 
 but the concepts are fine 
+
+fungibility
+-----------
+https://news.ycombinator.com/item?id=30224637
+
+because traceable then certain addresses and history can be blacklisted - possible to do with people we don't like too 
+
+
+But also
+---------
+China rolling out own currency
+we could do same - discuss tokens etc
+
+but the problem is fractional reserve banking 
+
+and unless we have a path to get there that is controlled
+
+but essentiallly the big win for regulators is to avoid retail banks - no deposits means no free loan money
+
+which means there is literally no bank too big to fail
+
+which means ... if bank wants to take loan out to meet payroll - it should be better run 
+
+

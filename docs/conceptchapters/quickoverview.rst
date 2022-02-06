@@ -1,3 +1,4 @@
+
 Literacy
 
 Programmable has an extra literacy issue - as well as sounding like you know what a subject is about, code actually has to work - further increasingly likelihood the coder understands the subject - welcome to the antidote to fake news 

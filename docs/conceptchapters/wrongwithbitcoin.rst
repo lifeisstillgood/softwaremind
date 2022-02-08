@@ -118,3 +118,11 @@ There is a version of the blockchain that has poor opsec and so every single dir
 
 Yeah.  i like it.  And somewhere it is close to the truth 
 
+
+What if it is all money laundering
+----------------------
+if it is, money is taken out - but the amount taken out is (including just held) cannot be more than the fee for laundering 
+
+so at some point bitcoin will become too expensive as a form of money laundering - and this kind of means mexican drug lords will have the trigger to cause middle class wealth loss on vast scale  
+
+it's all a bit ... unknown 

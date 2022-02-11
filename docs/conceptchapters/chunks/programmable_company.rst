@@ -39,6 +39,23 @@ much analysis will be done on jupiter notebooks?
 The meetings and discussions will be on/about the company, and interpreting its performance.  this is true now, 
 
 
+Why?
+because every founder wants a compmay that works the way they want it - all the organisation and people "challenges" are just in the fucking way
+
+
+Industrial society
+- https://youtu.be/AgpGXSAS7Cs
+
+Holy fuck 
+
+
+Institutions make markets
+-------------------------
+https://news.ycombinator.com/item?id=30303550
+
+markets make societies
+societies maintain institutions 
+
 
 
 

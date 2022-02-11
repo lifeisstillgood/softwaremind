@@ -30,6 +30,12 @@ A western liberal strawman does not trust those same owners - and wants to have 
 
 There is a difference 
 
+Longer view
+-----------
+200 years ago 90% of humanity lived below absolute poverty - today it is 10%.  And we have made enormous improvements in quality of life and medicine for billions.  And frankly we don't really know how we did it.  Science is almost certainly the right answer, and putting science in the driving seat of politics.  but this level of pragmatism is ... hard tom maintain.  everyone wants power, most people should not be let anywhere near it.
+
+Countries try to replicate success - Japan / MeiJi restoriation.  but carbon copies are not ideal and ... 
+
 
 
 

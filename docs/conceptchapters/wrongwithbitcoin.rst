@@ -1,5 +1,35 @@
 What's wrong g with bitcoin
 ----------------------------
+start here : https://blog.dshr.org/2022/02/ee380-talk.html?m=1
+
+
+Permissioned and permsiionleas crypto-coins 
+
+look at the Modern Monetary theory - money supply equals productive capacity 
+
+impact of permissioned is going to be great - because fiat coins are ... representative of the productive capacity of the jurisdictions they represent
+
+and so ...
+
+What are the implications of permissioned fiat currency (the one we are likely to get)?
+
+well firstly collapse of bitcoin.  that will have negative impacts, also there is a huge trail of poor opsec to be followed (assume it's mostly speculation, currency control avoidance and arbitrage and straightforward money laundering)
+
+Implications: 
+- no need for deposits (so what do banks do for deposits?) end of fractional reserve banking?
+
+- speed up of trade
+- immutable transactions ? but recoverable - but only though the courts.  how do you force a trans action when one party reduces? some form of replacing the coin - coin is marked as ended and cannot be reused and new coin granted.
+
+this demands a PKI - a realmPKI which we have not built yet 
+
+Hardware security modules are everywhere 
+
+
+good implications - the next round of QE would just be straight into peoples wallets? maybe that's a partly political decision - but yeah they could have done that in 2008.  so not likely really.
+
+
+
 
 Alos:
 

@@ -158,7 +158,12 @@ so at some point bitcoin will become too expensive as a form of money laundering
 it's all a bit ... unknown 
 
 
+Crypto - the argument 
+======================
 
+Discuss fractional reserve banking and modern monetary theory - basically loans make up how we expand money supply to equal productive capacity (in theory if a new factory opens making new goods, people borrow money to purchase those goods, then the money supply has expanded to match the productive capacity, and done so in a decentralised-ish way without anyone having to talk to the central bank and get them to print more dollars.)
+
+You can see how a crypto currency (permissioned or not) breaks this 
 
 I have been noodling on this for a bit and this is just trying to get some thoughts out:
 

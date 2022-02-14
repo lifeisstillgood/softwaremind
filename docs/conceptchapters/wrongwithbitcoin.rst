@@ -156,3 +156,51 @@ if it is, money is taken out - but the amount taken out is (including just held)
 so at some point bitcoin will become too expensive as a form of money laundering - and this kind of means mexican drug lords will have the trigger to cause middle class wealth loss on vast scale  
 
 it's all a bit ... unknown 
+
+
+
+
+I have been noodling on this for a bit and this is just trying to get some thoughts out:
+
+The base fundamental use case is this:  We (humanity) need a digital native currency.  If I can web / email / interact with pretty much any human on the planet, over a commonly owned and shared infrastructure using openly developed protocols and software, why can't I send / receive money from them too? Why should the world pay a Visa tax?
+
+
+1. there is a difference between "permissioned" and "permissionless" crypto.  Roughly speaking permissioned crypto is where some trusted third party (Bank of England, ECB, the Fed) gets involved in creating the crypto-currency and being the validation point to prevent double spending.
+
+The double spending thing is the issue - it is the core of what makes all this difficult.  If A spends with B and tries to double spend with C you need some *public ledger* that says A has already spent with B so C is out of luck.  The easy way is A and B post the transaction on the Fed's website and the Fed just takes whoever comes in first. The hard way is to say we don't trust the Fed and have a clever way of agreeing what posts are "true" - blockchain, mining etc etc.
+
+2. Ok - so we now just invent a working permissioned crypto-dollar.  Surely this is all good? Well maybe - the basic use case is really important - we want to spend money as easily as sending email - but :
+
+a. Deposits are a big thing. if I can hold crypto-dollars on my phone and send them to Jeff Bezos with no marginal cost or intermediary then why do I have a bank account? Why deposit my salary into my bank? And if I do not deposit my salary into my bank then the wikipedia article on fractional reserve banking goes all funny.
+
+If deposits go out the window, all sorts of second and third order consequences hit.
+
+- If no deposits, then no lending via the banks.  and so no monetary supply expansion.  Monetary supply expansion in fact needs to be explicit at the permissioned base.  
+
+- we could try having banks produce their own currency "under" the Fed but the history of that is total disaster
+
+(it's worth nothing that the history of bitcoin is roughly a fast forwarding of 200+ years of bank failures and fraud that lead to the current state of regulation.  Crypto is a wild west that needs a marshal.)
+
+- Yes we can "trick" everyone into holding their currency in a wallet that routes through a bank account, but most banks will fuck that up in the initial implementation and even so people are stupid, especially for bank accounts that charge - and will simply leave quickly .
+
+
+
+
+These sort of consequences of a working crypto-currency were what was being talked about in 2009/10/11 - the downfall of fiat currency etc.   Before lots of people found that the number just go up - and speculation (and money laundering / currency control avoidance) became the  basis of bitcoin.
+
+
+
+References: 
+https://blog.dshr.org/2022/02/ee380-talk.html?m=1
+
+
+Regulators start to catch up
+----------------------------
+
+We are seeing more and more cases of crypto companies trying to come under common regulation and tripping up or failing completely
+
+https://www.sec.gov/news/press-release/2022-26
+
+These sort of issues are not "ooops we filled in the paperwork wrongly" - that is the sort of thing where you loudly sue your bankers and lawyers and make sure the SEC knows you are.  This is the sort of thing where you need to tell the SEC who owns all the assets, where the assets are kept, how the assets are committed to your project, and how the assets will be used to (hopefully)make wealth for the investors.  This sort of thing is pretty simple if you are building a new housing estate in California, but if you are using crypto backed assets to make hourly loans in another anonymous crypto currency it gets sticky quickly.
+
+I mean this is all possible but, you know, this was supposed to be a currency not a financial derivatives system. can't we sort one out first before the other? 

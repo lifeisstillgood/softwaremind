@@ -32,6 +32,11 @@ this is not how we write stories - it might work for encyclopaedia but a book is
 
 we don't have perfect metaphors - but we didn't for writing in 2000bc or even 0bc
 
+Productivity debate
+--------------------
+
+finally software literacy solves for me one of the great economist conundrums - computers appear everywhere but in the productivity statistics - because we have succeeded in putting pen and paper on every desk, but barely anyone can read or write, and the libraries, bookshelves, letter service etc are woeful
+
 
 
 

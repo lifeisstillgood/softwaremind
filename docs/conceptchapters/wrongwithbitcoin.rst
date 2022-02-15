@@ -209,3 +209,8 @@ https://www.sec.gov/news/press-release/2022-26
 These sort of issues are not "ooops we filled in the paperwork wrongly" - that is the sort of thing where you loudly sue your bankers and lawyers and make sure the SEC knows you are.  This is the sort of thing where you need to tell the SEC who owns all the assets, where the assets are kept, how the assets are committed to your project, and how the assets will be used to (hopefully)make wealth for the investors.  This sort of thing is pretty simple if you are building a new housing estate in California, but if you are using crypto backed assets to make hourly loans in another anonymous crypto currency it gets sticky quickly.
 
 I mean this is all possible but, you know, this was supposed to be a currency not a financial derivatives system. can't we sort one out first before the other? 
+
+
+biblio
+
+https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy

@@ -86,3 +86,13 @@ see brexit
 see fall of Rome and differ r t equilibrium levels 
 
 
+The wests best bet
+=====•=========•••
+
+If we see software literacy as best bet for a company to compete (we have put pens and paper on everyone's desk but 99% cannot read or write) then the same applies to democracy - the way to compete is to embrace software literacy - and FOSS embraces that - imagine a world where you have to follow the law but we're not allowed to see the laws? wtf
+
+a world where the data is locked up and passed around by hand and not available (science)
+
+we want to spread knowledge - of all. this is not about forcing one group to stay in charge - we think the best group should be in charge that being constantly discussed in scientific politics
+
+and the final part is fairness - we will be happy to sacrifice control if rewards are fairly shared 

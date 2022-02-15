@@ -96,3 +96,13 @@ a world where the data is locked up and passed around by hand and not available 
 we want to spread knowledge - of all. this is not about forcing one group to stay in charge - we think the best group should be in charge that being constantly discussed in scientific politics
 
 and the final part is fairness - we will be happy to sacrifice control if rewards are fairly shared 
+
+
+deep state - is really in transparent parts of how state functions - things like rules for maintaining nuclear missiles
+
+and some cutbacks and efficiencies are possible - but without full open modelling you cannot know if cutbacks cut too deep
+
+so deep state will get replaced by explicit software - which may romany both e good thing
+- guess game for what department agriculture is involved in 
+
+

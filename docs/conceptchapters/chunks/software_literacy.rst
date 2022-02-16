@@ -1,6 +1,21 @@
 Software literacy
 =================
 
+
+it's not like engineering or science - it's not a science
+(algorithms are but that's not most computer programmaubg(
+
+it's not engineering like building an aqueduct abs people benefit from it by getting clean water or getting tweets
+
+it's liteeacy in that most people will read and write abs will benefit directly in their gooddaily lives, abs that there will be second order benefits to all society that's
+we can barely believe right now
+
+but we have the historical precedent of literacy to guide us
+
+And to get those before we need to build new structures and institutions and practise a - like libraries (see google is dying) 
+
+
+
 (usual intro) then 
 
 Another introduction

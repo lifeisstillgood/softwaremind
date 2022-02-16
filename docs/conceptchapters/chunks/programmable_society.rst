@@ -105,4 +105,31 @@ and some cutbacks and efficiencies are possible - but without full open modellin
 so deep state will get replaced by explicit software - which may romany both e good thing
 - guess game for what department agriculture is involved in 
 
+Future of internet
+-------------------
+
+Google is dying 
+https://news.ycombinator.com/item?id=30347719&p=2
+
+It's worthy thinking about this because it has been the 800lb gorilla for twenty years
+
+And it's not that there is going to be some other commercial search engine to replace it one for one.  We are talking now about how to build a software literate society - and software enabled access to a *library* of data is probably the first port of call.  Access to data (will
+look something like Arrow on top of IPFS) - and search is only part of the issue : 
+
+social media is *really* news which is really a current feed that needs journalism (human curation) so we can pick out the right bits 
+
+but all the rest of the worlds data - i mean all of it - timetables and traffic lights and restaurant prices and even actual reviews (danger zone)
+
+We are almost certainly going to see a PKI come in - with a crypto currency.  And everyone's business will be available - our personal tracking data everything we do will be somewhere.
+
+but we will have nots to help find most things and fight our corner with privacy - but also remind u of failings where we have not done MOOP
+
+Google is dying - good we need a global library not an advertising billboard 
+
+
+Future of software
+------------------
+There will be a Dr Seuss of software, who will write software that plays with the house lights and can be read and executed and understood by children 
+
+we have not created that language nor trained the dr aries's - but we will create the libraries and the 
 

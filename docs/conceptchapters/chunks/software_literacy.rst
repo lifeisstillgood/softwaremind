@@ -14,6 +14,9 @@ but we have the historical precedent of literacy to guide us
 
 And to get those before we need to build new structures and institutions and practise a - like libraries (see google is dying) 
 
+and in this software literate world - everything is programmable (topless computing) - people companies society 
+
+libraries etc etc 
 
 
 (usual intro) then 

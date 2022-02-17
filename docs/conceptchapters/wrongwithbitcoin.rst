@@ -211,6 +211,13 @@ These sort of issues are not "ooops we filled in the paperwork wrongly" - that i
 I mean this is all possible but, you know, this was supposed to be a currency not a financial derivatives system. can't we sort one out first before the other? 
 
 
+Crypto likely to hang around as a security
+-------------
+See BlockFi which took an interesting path to getting a SEC regulated lending product (you deposit your crypto to BlockFi and they lend it to someone and you get paid).  That's not (mostly) what currency is used for.  That's what stocks and bonds are used for. Fine Inguess but it's not solving the *fundamental use case*.
+
+
 biblio
 
 https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy
+
+https://www.bloomberg.com/news/articles/2022-02-14/blockfi-s-plans-to-register-with-sec-augurs-new-era-for-crypto?cmpid=BBD021522_MONEYSTUFF&utm_medium=email&utm_source=newsletter&utm_term=220215&utm_campaign=moneystuff

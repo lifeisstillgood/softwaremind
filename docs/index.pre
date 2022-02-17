@@ -2,6 +2,8 @@
 The Software Mind
 ==================
 
+{{ conceptchapters/introduction.rst }}
+
 {{ conceptchapters/masteroverview.rst }}
 
 

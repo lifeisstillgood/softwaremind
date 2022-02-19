@@ -39,25 +39,9 @@ and humanity was entering a new ... Well you know.
 And about 6 years later I listened to a speech from the then Cabinet Minister.  He had a better suit than I did but pretty much the same speech - "invention
 of the printing press in 1454".
 
-Oh.  If I am going to maintain my levels of smug I need to think harder.
+Oh.  I realised that I was to maintain my levels of smug I need to think harder.
 
-
-
-
-
-
-
-
-
-
-
-
-Security services, AI with rights
----------------------------------
-Idea: security services are actions of nationa state trying to defend itself
-AN AI trying to defend itself.  And so does a company have similar rights?
-Are those constrained - it can or cannot use underhand tactics?
-
+So I started writing this book.  It took a while.
 
 
 
@@ -67,14 +51,10 @@ Are those constrained - it can or cannot use underhand tactics?
 * Not only do people *think* but so do corporations and societies - think of them as slow forms of AI.  (Societies and corporations also die).
 (http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
 
-
-
 * How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy
 
+* there is such a thing as a programmable compmay and programmable society and programmable person
 
-The layouts 
-
-There is such a thing as a Programmable company 
 
 how does a crowd decide what to do? that's slow ai
 

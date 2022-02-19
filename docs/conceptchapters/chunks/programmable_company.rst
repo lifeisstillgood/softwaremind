@@ -48,6 +48,16 @@ Industrial society
 
 Holy fuck 
 
+Death of project management 
+-----------------
+
+Soldiers don't plan to be in place by 6pm to support the attack, if they have not developed the rifle already - the plan is get in place with the rifle not get in place, after inventing testing building a factory and tooling and outputting rifle, then in place for 6pm
+
+this is same for building and releasing an immutable company - you dot put off going to market because the tooling to build an even better company is not developed - release what you have.
+
+what we do is R&D - migrating that into market place is the coder to manager challenge 
+
+
 
 Institutions make markets
 -------------------------
@@ -56,6 +66,9 @@ https://news.ycombinator.com/item?id=30303550
 markets make societies
 societies maintain institutions 
 
+Why will companies become democracies?
+-------------------------
+They may lose conglomerate status - do one thing well.  and so the coders (managers) will code the company to do X and so it will be conglomerates or easier to see where not - so much harder to move to company that you agree with ? what ? 
 
 
 

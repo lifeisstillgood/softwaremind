@@ -1,3 +1,17 @@
+Software mediated policy mgmt
+-----------------------------
+It is policies that set us apart
+policies channel values to action
+
+soppy sop framework 
+metrics -> policy trigger
+policy action 
+everything in a company is aligned in a metric - if it is not triggering or triggered by software it's not part of the ecosystem
+
+create simple ownership ans responsibility 
+
+
+
 What does a programmable company imply?
 
 I want to hark back to my main theme - software literacy.  I find literacy such a useful comparator because it is so ingrained in our (programmed!) minds, that if we imagine a world without it so many things become clear.

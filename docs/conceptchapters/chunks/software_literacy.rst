@@ -21,6 +21,25 @@ libraries etc etc
 
 (usual intro) then 
 
+
+Second phase of the car industry
+----------------------
+
+Ben evans talks about first fifty years of cars - and second was dominated by GM etc
+
+but the car is not to be seen as the whole industry - the car is the *platform* or *utility* (diff is in tax and regulation levels) - so you could not build walmart or the supermarket in 1920 because not enough people had a car so you had to take the groaceries to within walking distance - but by 1980 car penetration was deep enough as was use of databases and inventory mgmt and barcodes and so on.
+
+So software literacy is a choice - and there will be levels of literacy penetration.  what is penetration (commit rates) for google? 
+
+So because what walmart does is enabled by abs necessary for *car ownership* it does not make walmart a car compmay.
+
+and so because every bank and newspaper and etc is enabled by internet ("tech") it does not make them a tech company.
+
+But it does make them need to be software literate - to both have programmers on board but also to put software deep into every part so that it can be monitored and policy triggers 
+
+NB - barcelona city super blocks - now groceries within walking distance is a policy choice not a market driven solution - this is the failure of "market ideology" - when market can supply different outcomes based on guardrails 
+
+
 Another introduction
 --------------------
 

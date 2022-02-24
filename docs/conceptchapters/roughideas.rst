@@ -861,6 +861,11 @@ https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96
 
 It's why productive teams usually form around mother / father figures ??? 
 
+
+The right to not organise
+-------------------------
+Capital structure favours massively the early investor or founder.  It does not have to be so. UBi or something like it will enable fairer organisations- it's clear what a society like that would look like, but not clear how to get there.
+
 Network security and 5G
 ------------------------
 https://news.ycombinator.com/item?id=26843068

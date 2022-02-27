@@ -10,6 +10,16 @@ This book has at leasrt one axiom, maybe more
 
 1. Software is a new form of literacy
 2. Everything is about to become programmable
+
+3. the company as a machine 
+
+- it is programmable 
+- each version is immutable
+- it is introspectable 
+- it is designed - and so who gets to design it ? architecture vs detailed code versus town planning vs policy and laws and politics and ethics
+- corporate and capital stricter is not the only forces in play - but who gets the money inimportant 
+
+- democracy implies a fair sharing of wealth - which is why most companies are not democracies but why when the first ones succeed all others will follow suit except in presence of force 
  
 implications
 

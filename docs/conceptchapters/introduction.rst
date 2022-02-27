@@ -37,7 +37,10 @@ Programmability
 - coders as managers, immutable company
 - journalism as data labelling. (poisoning of the data layer)
 
-
+Elon - destroy all monster companies
+-----------------
+93% engineers at spacex used to work at nasa - they took the people abs built better spaceships in a diff organisation.  so it a lesson - destroy the company and rebuild it under different name
+- investment capital guided by universal suffrage 
 
 Software Literacy
 =================

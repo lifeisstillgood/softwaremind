@@ -29,6 +29,18 @@ Hardware security modules are everywhere
 good implications - the next round of QE would just be straight into peoples wallets? maybe that's a partly political decision - but yeah they could have done that in 2008.  so not likely really.
 
 
+Also
+
+problem with permissioned is that countries where we have nice governments and regular electricity are ones we are mostly happy with currency.
+where people kotnhappy with currency and want government fiscal policy to be less crazy are ones where they don't have ... electricity let alone voting 
+
+
+crypto argues currency mismanaged - maybe but they want to impose a technocratic solution - and how we manage the economy should be a democratic decision - we should be less profligate but we should vote for it
+
+
+also web 3
+running apps and DAOs on a smart contract is less good - because that is basically voting - and we like anaonymous voting for anything more important than the masked singer 
+
 
 
 Alos:

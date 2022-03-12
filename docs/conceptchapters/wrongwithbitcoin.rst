@@ -228,6 +228,19 @@ Crypto likely to hang around as a security
 See BlockFi which took an interesting path to getting a SEC regulated lending product (you deposit your crypto to BlockFi and they lend it to someone and you get paid).  That's not (mostly) what currency is used for.  That's what stocks and bonds are used for. Fine Inguess but it's not solving the *fundamental use case*.
 
 
+Right with bitcoin
+------------------
+Trying to show the "other side"
+
+- its an asset - a verifiable asset that can be used basis for other transactions
+
+yes.
+
+gold mining is environmental destructive as well
+
+https://www.ft.com/content/325864c5-01c5-4373-bdd2-aaa56400b30b
+
+
 biblio
 
 https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy

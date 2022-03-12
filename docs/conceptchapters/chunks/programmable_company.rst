@@ -86,4 +86,30 @@ They may lose conglomerate status - do one thing well.  and so the coders (manag
 
 
 
+Coders are the new managers
+-------------
+Traditional management - by exception - you do the work and if something goes wrong you tell me and I can chnage the company and fix it
+
+relies on "good"'people under the manager to tell them something is wrong - in other words the manager does not need to build a system they just need people who do build their own system (intuition experience) and then report up
+
+what's the fucking point in having you then 
+
+just monitor all the activity - abs then look for exotoxins - now we don't need the manager or the good employee - we are just making the whole company like a machine
+
+we make companies like we mamie machines 
+
+
+
+
+Kill SpaceX Now!
+----------------
+
+why spacex and not nasa
+because nasa was trying to keep nasa organisation alive
+
+now spacex is same
+
+but if the chnage org and operate org are separate you can keep building soacecraft and then just destroy the other bit - return capital and go ! 
+
+
 

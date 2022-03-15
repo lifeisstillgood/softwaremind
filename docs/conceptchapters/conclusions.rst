@@ -869,6 +869,8 @@ Architecture paradox But this leads to the architecture paradox - by
 having a robot do the building there is a lot more upfront work
 fromthe architect (coding)
 
+(example of this now happening - https://youtu.be/m46QekDm0oY)
+
 Productivity conjecture
 - we are missing the re-arrangement of work - that software literacy may be 
 

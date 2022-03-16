@@ -39,6 +39,11 @@ But it does make them need to be software literate - to both have programmers on
 
 NB - barcelona city super blocks - now groceries within walking distance is a policy choice not a market driven solution - this is the failure of "market ideology" - when market can supply different outcomes based on guardrails 
 
+How to manage literacy
+----------------------
+Journmalism 
+- lead by example vs iron fiat
+journalist have "iron fist" throw it all out start again - how to "manage" literacy 
 
 Another introduction
 --------------------

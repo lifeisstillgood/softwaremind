@@ -40,7 +40,9 @@ In short, you are an investment in our massive VC fund, and you have paid off ha
 Having said that we would be very interested in your manifesto (sorry prospectus).  Can you do anything about  the potholes round my way? 
 
 
-
+The foss elephant in the room
+-----------------------------
+https://news.ycombinator.com/item?id=30741324
 
 China's Totalitarian Bet
 ========================

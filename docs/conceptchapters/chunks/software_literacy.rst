@@ -90,5 +90,7 @@ presidents men - how do we arrange a company so the reading and writing is still
 How ? that is what we will
 loo at in the next part 
 
+best options for avoiding organisational think (like group think but trapped in org power structures ie please your boss) is *tenure* - why founders are effective  - same as FU money 
+
 
 

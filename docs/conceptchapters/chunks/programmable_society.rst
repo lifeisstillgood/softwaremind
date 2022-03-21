@@ -44,6 +44,8 @@ The foss elephant in the room
 -----------------------------
 https://news.ycombinator.com/item?id=30741324
 
+https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf
+
 China's Totalitarian Bet
 ========================
 

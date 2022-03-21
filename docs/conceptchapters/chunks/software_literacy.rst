@@ -79,6 +79,16 @@ Productivity debate
 
 finally software literacy solves for me one of the great economist conundrums - computers appear everywhere but in the productivity statistics - because we have succeeded in putting pen and paper on every desk, but barely anyone can read or write, and the libraries, bookshelves, letter service etc are woeful
 
+Implications for organisations 
+------------------------------
+
+"""I used to read and write, but I don't do reading and writing anymore now I am a manager."""
+
+Think Ben x in all
+presidents men - how do we arrange a company so the reading and writing is still vital part of the job at the top? 
+
+How ? that is what we will
+loo at in the next part 
 
 
 

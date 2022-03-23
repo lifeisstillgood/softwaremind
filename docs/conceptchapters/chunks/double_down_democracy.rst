@@ -1,5 +1,12 @@
 
+Democracy in companies
+----------------------
+Shareholder voting should be legally binding on election of directors.  And it should be possible to have contested elections (ie different parties) on the ballot. 
+radical perhaps
+
+
 https://www.ben-evans.com/benedictevans/2022/1/2/2022-questions
+
 
 privacy should be seen as harm related - what harm 
 

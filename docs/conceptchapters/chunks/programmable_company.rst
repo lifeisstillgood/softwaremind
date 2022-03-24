@@ -112,4 +112,14 @@ now spacex is same
 but if the chnage org and operate org are separate you can keep building soacecraft and then just destroy the other bit - return capital and go ! 
 
 
+Alinable and non alignabke differences 
+--------------
+why technology is / is not adopted 
+
+this car is faster than that car - alignabke difference
+
+using a software language is better than no-code 
+
+non alignabke 
+
 

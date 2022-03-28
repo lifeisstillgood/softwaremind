@@ -137,3 +137,16 @@ There will be a Dr Seuss of software, who will write software that plays with th
 
 we have not created that language nor trained the dr aries's - but we will create the libraries and the 
 
+
+Point of private business
+------------------------
+price discovery?
+higher tempo of resource reallocation via schumpeter ?
+
+business is less innovative than government ? funded programs of science is discovery 
+
+from that everything has come
+
+but organisation is the new efficiency - see nasa vs spacex 
+
+so more often destroy orgs to find new ways to deliver - so need lower blast radius of org destruction (more gov regulation / welfare state etc) 

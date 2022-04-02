@@ -150,3 +150,15 @@ from that everything has come
 but organisation is the new efficiency - see nasa vs spacex 
 
 so more often destroy orgs to find new ways to deliver - so need lower blast radius of org destruction (more gov regulation / welfare state etc) 
+
+Why do I go on about Swardley Maps?
+----------------------------
+Because what makes humans successful (for at least some definitions of success) is co-operation and organisation.  we have seen science and engineering deliver value to humanity on scales that beggar belief. 
+
+And that comes from new ways of organising 
+
+unless we discover amazing new technologies (like the seminal nature such as electricity or oil) then the benefits to society must come from better organisation 
+
+This may come from fairer sharing of wealth produced, as well as increasing the wealth in total.  Yea that sounds socialist, but before you have a knee jerk reaction tell me if millions in poverty is a good thing? no it's not.  and that's how we have organised the world, dictators and oppression, segregation and suppression 
+
+

@@ -60,3 +60,5 @@ one thing to note is china making better strategic choices because the leo l of 
 
 Swardley - we have no idea what a real map of multi dmlimensional geography and technology will even look like - it's probably a game like engine 
 
+Post industrial naval strategy has not been colonies - it has been keeping trade open for one's own industries. that is the key desirable future - a shared common trade future - and the global tax minimum is a first step in that direction 
+

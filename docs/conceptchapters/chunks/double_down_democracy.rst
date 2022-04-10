@@ -33,3 +33,18 @@ discuss
 
 Chinas totalitarian bet 
 -----------------------
+
+
+
+
+Swardley maps
+-------------
+Strategy in a geography-less world 
+
+https://youtu.be/nEe8JX0YKBE
+Mahan and naval strategy 
+
+point being is that geography plays enormous part of strategy into operations - what effect does geography have
+
+and swardley is first glimmer of attempt to map out implications and allow strategic choices
+

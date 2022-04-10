@@ -161,4 +161,5 @@ unless we discover amazing new technologies (like the seminal nature such as ele
 
 This may come from fairer sharing of wealth produced, as well as increasing the wealth in total.  Yea that sounds socialist, but before you have a knee jerk reaction tell me if millions in poverty is a good thing? no it's not.  and that's how we have organised the world, dictators and oppression, segregation and suppression 
 
+measure cohesion vs morale for an organisation.  morale is mission, cohesion is infra-group identity
 

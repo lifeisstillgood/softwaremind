@@ -122,4 +122,20 @@ using a software language is better than no-code
 
 non alignabke 
 
+Implications of programmable
+company
+------------------------
+Easier to drop / fire people not happy with
+Just move the whole company to a new set of processes
+
+can act with fewer people - gig economy the whole thing?
+
+idealised you don't need dedicated people to the company because the company is so much easier to interact with - you claustrophobic need someone to follow the inputs 
+
+also can domsame with management - why have a pointy pyramid when the decisions on direction are mostly policy and this politics
+
+- politics ina dictatorship is at cabinet level.  but in a democracy it's suffused - the policy really does matter.
+
+
+
 

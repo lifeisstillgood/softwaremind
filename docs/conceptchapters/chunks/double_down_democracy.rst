@@ -58,3 +58,5 @@ but a trade based approach might mean sharing pacific trade - the volume is betw
 
 one thing to note is china making better strategic choices because the leo l of policy discussion in democracy is ... woeful
 
+Swardley - we have no idea what a real map of multi dmlimensional geography and technology will even look like - it's probably a game like engine 
+

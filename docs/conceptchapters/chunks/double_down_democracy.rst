@@ -48,3 +48,13 @@ point being is that geography plays enormous part of strategy into operations - 
 
 and swardley is first glimmer of attempt to map out implications and allow strategic choices
 
+It also asks what is a state? When looking at which state has sea control and so will gain the wealth and trade benefits, what is the diff between UK and US? NATO and nations? Do we think that the recent minimum corporate tax is a global strategic gain - that countries in that are essentially joining in a trade union - and will be able to share wealth and have little need to compete ? 
+
+it's a nice theory (US special presence changes a lot of that but still).  
+
+china going to war may chnage this - traditional vs non traditional - traditional is nuclear umbrella forces them to build nuclear triad (icbms submarines air force) and enter same position re russia
+
+but a trade based approach might mean sharing pacific trade - the volume is between both of them.  china belt and roads is desire to not be dependant on amaeica
+
+one thing to note is china making better strategic choices because the leo l of policy discussion in democracy is ... woeful
+

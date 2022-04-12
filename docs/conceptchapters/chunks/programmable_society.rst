@@ -163,3 +163,9 @@ This may come from fairer sharing of wealth produced, as well as increasing the 
 
 measure cohesion vs morale for an organisation.  morale is mission, cohesion is infra-group identity
 
+
+Social contract, US Navy and piracy
+--------------------
+https://www.foreignaffairs.com/articles/united-states/2022-02-21/cyber-social-contract
+
+

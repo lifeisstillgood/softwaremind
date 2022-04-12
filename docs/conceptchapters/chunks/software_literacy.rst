@@ -1,6 +1,9 @@
 Software literacy
 =================
 
+Just how much of current business does *not* get written down - that's how much should not be in software 
+
+
 
 it's not like engineering or science - it's not a science
 (algorithms are but that's not most computer programmaubg(

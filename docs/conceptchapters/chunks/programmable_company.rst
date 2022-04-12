@@ -62,6 +62,16 @@ Industrial society
 
 Holy fuck 
 
+Google is not a conglomerate 
+----------------------------
+They keep buying things and shutting them down.  sometimes total screwups like wave / circle.  other times it's mostly they realise it is not part of their core strategic strength - software.  no point in being an alarm company if you need to hire a guy in a truck to put the alarm on the house.  not software - so don't do it sell it to ADT.  
+
+but ADT is using software to tell guy in truck here to go what to do etc 
+
+
+
+
+
 Death of project management 
 -----------------
 
@@ -136,6 +146,6 @@ also can domsame with management - why have a pointy pyramid when the decisions 
 
 - politics ina dictatorship is at cabinet level.  but in a democracy it's suffused - the policy really does matter.
 
-
+Just how much of current business does *not* get written down - that's how much should not be in software 
 
 

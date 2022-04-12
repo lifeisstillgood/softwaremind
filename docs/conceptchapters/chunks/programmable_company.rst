@@ -1,3 +1,20 @@
+Google is not a conglomerate 
+----------------------------
+They keep buying things and shutting them down.  sometimes total screwups like wave / circle.  other times it's mostly they realise it is not part of their core strategic strength - software.  no point in being an alarm company if you need to hire a guy in a truck to put the alarm on the house.  not software - so don't do it sell it to ADT.  
+
+but ADT is using software to tell guy in truck here to go what to do etc
+
+GE lies in its stats - but that's what a conglomerate *is*. Old desire to put different companies together to make constant returns for dividend owners (rich land owners). see Jane Austen
+
+but google throws out ADT because it does not fit
+
+and because people can (easily?) make their own portfolio. 
+
+So conglomerates are a lie, and truth is needed for retail investors to accurately assess (warren buffet - read 300 annual reports a year). 
+
+how will business react ? 
+
+
 Software mediated policy mgmt
 -----------------------------
 It is policies that set us apart
@@ -62,11 +79,7 @@ Industrial society
 
 Holy fuck 
 
-Google is not a conglomerate 
-----------------------------
-They keep buying things and shutting them down.  sometimes total screwups like wave / circle.  other times it's mostly they realise it is not part of their core strategic strength - software.  no point in being an alarm company if you need to hire a guy in a truck to put the alarm on the house.  not software - so don't do it sell it to ADT.  
-
-but ADT is using software to tell guy in truck here to go what to do etc 
+ 
 
 
 

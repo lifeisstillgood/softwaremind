@@ -19,6 +19,24 @@ and we need to look at mobile phone / software similarly - what wider choice and
 
 Barcelona and city built around cars - this is a negative (not net negative but a huge problem in say Houston) - and it is a choice (san francisco has maximum parking for new block building lower than the minimum for LA) - and there will be negative consequences for mobile phone - as  father of three i see some (and also see benefits just cannot work out which) 
 
+What are the most obvious issues:
+
+1. true recommendations 
+So mobile first has enormous amounts of (schien or instagram) user generated content explaining their experiences with the product.  and that is probably the strongest retailing model - but also the hardest nut to crack.  (business idea: a peer to peer recommendation engine that is *trustworthy* - good luck with that!) 
+
+2. location 
+
+3. discovery - what do i want - this is a curated lifestyle - or perhaps a regulated "libertarian paternalism".  We do not actually need to spend all that money - but the market will not help us !
+
+4. software literacy 
+
+5. politics is retail selling of political manifestos - so obviously changes in retail affect politics - but for the better or not? more democracy - more access to data - more journalism - more trust (peer to peer recommendations)" but also more bubble) 
+
+6. Agents 
+we need a lot of help. one algorithm is not going to cut it.  i could use the Guardian agent for my shopping and my purchases - this is likely to be best option before AGI - which becomes a trust issues 
+but it's likely i could easily not just buy the same sports shoes and make up as kimmkhardashian but the same ISA the same ... groceries - how do you regulate that? 
+
+
 What is society?
 ================
 

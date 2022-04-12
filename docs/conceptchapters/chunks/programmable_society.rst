@@ -1,3 +1,24 @@
+Ben evans and car companies
+===========================
+
+First there was "what does a car look like?" 1890s to 1940s - electric steam or petrol? wheel
+or levers? which side is the brake abs which side accelerator? 
+
+the there were a few dominant t companies GM chrysler etc.  And a few state protected companies (renault, british key land, skoda)
+
+And a few challengers decades later like toyaota.  yes google and amazon will become 
+fat and slow and be disrupted in 2040 by new incumbents from Delhi and Guangdong.  but that's not the point 
+
+the point is that we know know what a computer is - it's a smartphone (not a laptop).  my ideal is it will become foss based VR headset for proper programming
+
+anyway google will not run every business, will not disrupt every insdutry.  (see google notes on ADT) 
+
+but someone and something will - software literacy is at th core of this - and it is why walmart is a company that can only exist where everyone has acar - because a hyprnakrket offloads the last mile problem to the consumer in return for cheaper food and wider choice.
+
+and we need to look at mobile phone / software similarly - what wider choice and cheaper prices coulee do you your industry? parking- so done.
+
+Barcelona and city built around cars - this is a negative (not net negative but a huge problem in say Houston) - and it is a choice (san francisco has maximum parking for new block building lower than the minimum for LA) - and there will be negative consequences for mobile phone - as  father of three i see some (and also see benefits just cannot work out which) 
+
 What is society?
 ================
 

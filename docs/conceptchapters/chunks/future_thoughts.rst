@@ -2,3 +2,10 @@ crypto - unpermissioned is crap but permissioned is going to simply threaten fra
 
 
 Social credit score - bad idea or good idea? will it replace money? is money best representation ? will we challenge it? 
+
+End of war
+https://en.m.wikipedia.org/wiki/Azar_Gat
+
+basically it's too expensive to conveyer places now - plus you really want people to buy your stuff
+
+the only reason for military is internal repression 

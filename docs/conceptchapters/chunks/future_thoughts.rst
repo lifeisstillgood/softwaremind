@@ -9,3 +9,19 @@ https://en.m.wikipedia.org/wiki/Azar_Gat
 basically it's too expensive to conveyer places now - plus you really want people to buy your stuff
 
 the only reason for military is internal repression 
+
+
+
+how to manage child abuse online
+
+https://news.ycombinator.com/item?id=30961314
+https://news.ycombinator.com/item?id=30963206
+
+The devmanual and BOSs 
+Business operating systems 
+http://c10m.robertgraham.com/p/manifesto.html?m=1
+
+Azar gat - basically modern system warfare is too expensive - it's cheaper to trade and stopninvading places (post industrial revolution) 
+https://www.amazon.co.uk/AzarGat/e/B001IQZAOG/ref=dp_byline_cont_book_1
+
+

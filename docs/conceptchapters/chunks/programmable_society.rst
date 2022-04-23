@@ -208,3 +208,5 @@ Social contract, US Navy and piracy
 https://www.foreignaffairs.com/articles/united-states/2022-02-21/cyber-social-contract
 
 
+https://twitter.com/yishan/status/1514938507407421440?s=21
+

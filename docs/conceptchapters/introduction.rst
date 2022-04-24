@@ -4,14 +4,19 @@ Introduction
 Editors overview
 ----------------
 
-My credentials - spending 25 years writing software, in companies big and samall proprietary and FOSS, good and bad.
-
-This book has at leasrt one axiom, maybe more
+This book has at least one axiom
 
 1. Software is a new form of literacy
+
+and 
+
 2. Everything is about to become programmable
 
-3. the company as a machine 
+3. A company is a machine (a slow AI as per x).  But so is society - it's not limited to companies.  all human organisations are distributed thinking machines. 
+
+
+
+These three basics take us a long way. 
 
 - it is programmable 
 - each version is immutable

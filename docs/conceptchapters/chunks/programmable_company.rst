@@ -14,6 +14,11 @@ So conglomerates are a lie, and truth is needed for retail investors to accurate
 
 how will business react ? 
 
+Coders are new managers
+-----------------------
+https://news.ycombinator.com/item?id=31143013
+
+managers are the new VCs 
 
 Software mediated policy mgmt
 -----------------------------

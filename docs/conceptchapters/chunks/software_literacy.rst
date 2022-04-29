@@ -1,9 +1,19 @@
 Software literacy
 =================
 
+
+At a top level view, human language is a technology, symbolic manipulation and communication between minds.  but you can see that as something many animals have at simple levels - Thumper
+
+And writing most certainly is 
+a technology - and it's fair to say that when Vabalonians first scratched sheep into their tablets they probably could not imagine newspapers, publishing deals and love letters.  but that is what a literate society produced.
+Would they have feared for their childrens chnaged society as we do looking at their smartphones ? 
+
+I am arguing that software is another enormous technological advance - symbolic manipulation and communication just like writing systems.  And they will transform our society - with all the attendant fears and changes. 
+
 Just how much of current business does *not* get written down - that's how much should not be in software 
 
-
+"education is a process of developing more accurate and useful
+mental models of the world".  economics and politics - but software modelling is important here
 
 it's not like engineering or science - it's not a science
 (algorithms are but that's not most computer programmaubg(

@@ -1942,5 +1942,15 @@ Safe Spaces
 decentralised
 common set of rules
 
+Source Address Verification
+https://datatracker.ietf.org/doc/html/rfc5210
+https://blog.apnic.net/2022/02/07/source-address-validation-use-cases-and-gap-analysis/
 
+
+Goal
+we cannot find an algorithm for truth - but we can build a society that values it and supports it
+
+We can limit the harm that toxic manipulation can do (state company or individual) - that is rate limiting, edication, shared models of behaviour, safe spaces to avoid populists 
+
+and just sensible community based behaviour with feedback mechanisms 
 

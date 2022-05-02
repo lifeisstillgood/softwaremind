@@ -24,9 +24,18 @@ http://c10m.robertgraham.com/p/manifesto.html?m=1
 Azar gat - basically modern system warfare is too expensive - it's cheaper to trade and stopninvading places (post industrial revolution) 
 https://www.amazon.co.uk/AzarGat/e/B001IQZAOG/ref=dp_byline_cont_book_1
 
+
+gareber bullshit jobs are just transitioning out of literacy
+
+
 Games vs movies
 ----------------
 https://news.ycombinator.com/item?id=31127875
 
 there is a weird cross over point - pearl is a movie VR - it's not a game but you can see it's  it a movie either 
 
+
+Modelling and testing at streaegic level
+-------
+Model at level of each service
+before service is created it has to determine what it's contract will be and that is put into a simulator - then you have a top level view of all services working together and you have ability to write strategy acceptance tests - and can model our foolish if decisions etc etc 

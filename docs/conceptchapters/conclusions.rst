@@ -1932,6 +1932,15 @@ Overcoming fake news
 Fake news in companies (usually too positive, without full data)
 so only way is to get clean - avoid the spiral of nudge wink abs the right data 
 
+Solutions 
+---------
+
+https://blog.dshr.org/2018/06/rate-limits.html?m=1
+
+Rate limits
+Safe Spaces
+decentralised
+common set of rules
 
 
 

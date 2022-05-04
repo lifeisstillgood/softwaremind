@@ -1954,3 +1954,12 @@ We can limit the harm that toxic manipulation can do (state company or individua
 
 and just sensible community based behaviour with feedback mechanisms 
 
+Infinite space, finite monkeys--
+----------------------
+One thing to note is that twitter after it banned trump saw a 21% increase is usage - removing the loud shouty person from the room allows other conversations 
+
+But why did people not move rooms? The effort to move rooms is waaaay less than IRL - so perhaps the lesson from twitter isnnotnsocialmmedia needs regulation (but that is nice) but that social media is ... not allowing the infinite 
+
+wikipedia won't run out of pages - just moderators
+
+social media won't run out of conversations but ways to initiate a conversation - shouting loudly and seeing who responds it not always best way - so what is? 

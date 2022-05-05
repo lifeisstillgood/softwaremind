@@ -23,8 +23,11 @@ def gettext(readfrom):
     """ 
     """
     print(readfrom)
-    txt = open(readfrom, encoding='utf-8').read()
-    print(len(txt))
+    try:
+        txt = open(readfrom, encoding='utf-8').read()
+        print(len(txt))
+    except Exception as e:
+        txt = 'Unable to get file {} - {}'.format(readfrom, e)
     return txt
 
 def run(args):

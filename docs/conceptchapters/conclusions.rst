@@ -869,6 +869,8 @@ Architecture paradox But this leads to the architecture paradox - by
 having a robot do the building there is a lot more upfront work
 fromthe architect (coding)
 
+(example of this now happening - https://youtu.be/m46QekDm0oY)
+
 Productivity conjecture
 - we are missing the re-arrangement of work - that software literacy may be 
 
@@ -1930,6 +1932,34 @@ Overcoming fake news
 Fake news in companies (usually too positive, without full data)
 so only way is to get clean - avoid the spiral of nudge wink abs the right data 
 
+Solutions 
+---------
+
+https://blog.dshr.org/2018/06/rate-limits.html?m=1
+
+Rate limits
+Safe Spaces
+decentralised
+common set of rules
+
+Source Address Verification
+https://datatracker.ietf.org/doc/html/rfc5210
+https://blog.apnic.net/2022/02/07/source-address-validation-use-cases-and-gap-analysis/
 
 
+Goal
+we cannot find an algorithm for truth - but we can build a society that values it and supports it
 
+We can limit the harm that toxic manipulation can do (state company or individual) - that is rate limiting, edication, shared models of behaviour, safe spaces to avoid populists 
+
+and just sensible community based behaviour with feedback mechanisms 
+
+Infinite space, finite monkeys--
+----------------------
+One thing to note is that twitter after it banned trump saw a 21% increase is usage - removing the loud shouty person from the room allows other conversations 
+
+But why did people not move rooms? The effort to move rooms is waaaay less than IRL - so perhaps the lesson from twitter isnnotnsocialmmedia needs regulation (but that is nice) but that social media is ... not allowing the infinite 
+
+wikipedia won't run out of pages - just moderators
+
+social media won't run out of conversations but ways to initiate a conversation - shouting loudly and seeing who responds it not always best way - so what is? 

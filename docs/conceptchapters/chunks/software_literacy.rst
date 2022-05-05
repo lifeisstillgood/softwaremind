@@ -2,6 +2,19 @@ Software literacy
 =================
 
 
+At a top level view, human language is a technology, symbolic manipulation and communication between minds.  but you can see that as something many animals have at simple levels - Thumper
+
+And writing most certainly is 
+a technology - and it's fair to say that when Vabalonians first scratched sheep into their tablets they probably could not imagine newspapers, publishing deals and love letters.  but that is what a literate society produced.
+Would they have feared for their childrens chnaged society as we do looking at their smartphones ? 
+
+I am arguing that software is another enormous technological advance - symbolic manipulation and communication just like writing systems.  And they will transform our society - with all the attendant fears and changes. 
+
+Just how much of current business does *not* get written down - that's how much should not be in software 
+
+"education is a process of developing more accurate and useful
+mental models of the world".  economics and politics - but software modelling is important here
+
 it's not like engineering or science - it's not a science
 (algorithms are but that's not most computer programmaubg(
 
@@ -39,6 +52,11 @@ But it does make them need to be software literate - to both have programmers on
 
 NB - barcelona city super blocks - now groceries within walking distance is a policy choice not a market driven solution - this is the failure of "market ideology" - when market can supply different outcomes based on guardrails 
 
+How to manage literacy
+----------------------
+Journmalism 
+- lead by example vs iron fiat
+journalist have "iron fist" throw it all out start again - how to "manage" literacy 
 
 Another introduction
 --------------------
@@ -74,6 +92,18 @@ Productivity debate
 
 finally software literacy solves for me one of the great economist conundrums - computers appear everywhere but in the productivity statistics - because we have succeeded in putting pen and paper on every desk, but barely anyone can read or write, and the libraries, bookshelves, letter service etc are woeful
 
+Implications for organisations 
+------------------------------
+
+"""I used to read and write, but I don't do reading and writing anymore now I am a manager."""
+
+Think Ben x in all
+presidents men - how do we arrange a company so the reading and writing is still vital part of the job at the top? 
+
+How ? that is what we will
+loo at in the next part 
+
+best options for avoiding organisational think (like group think but trapped in org power structures ie please your boss) is *tenure* - why founders are effective  - same as FU money 
 
 
 

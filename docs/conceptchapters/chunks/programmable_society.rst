@@ -1,3 +1,42 @@
+Ben evans and car companies
+===========================
+
+First there was "what does a car look like?" 1890s to 1940s - electric steam or petrol? wheel
+or levers? which side is the brake abs which side accelerator? 
+
+the there were a few dominant t companies GM chrysler etc.  And a few state protected companies (renault, british key land, skoda)
+
+And a few challengers decades later like toyaota.  yes google and amazon will become 
+fat and slow and be disrupted in 2040 by new incumbents from Delhi and Guangdong.  but that's not the point 
+
+the point is that we know know what a computer is - it's a smartphone (not a laptop).  my ideal is it will become foss based VR headset for proper programming
+
+anyway google will not run every business, will not disrupt every insdutry.  (see google notes on ADT) 
+
+but someone and something will - software literacy is at th core of this - and it is why walmart is a company that can only exist where everyone has acar - because a hyprnakrket offloads the last mile problem to the consumer in return for cheaper food and wider choice.
+
+and we need to look at mobile phone / software similarly - what wider choice and cheaper prices coulee do you your industry? parking- so done.
+
+Barcelona and city built around cars - this is a negative (not net negative but a huge problem in say Houston) - and it is a choice (san francisco has maximum parking for new block building lower than the minimum for LA) - and there will be negative consequences for mobile phone - as  father of three i see some (and also see benefits just cannot work out which) 
+
+What are the most obvious issues:
+
+1. true recommendations 
+So mobile first has enormous amounts of (schien or instagram) user generated content explaining their experiences with the product.  and that is probably the strongest retailing model - but also the hardest nut to crack.  (business idea: a peer to peer recommendation engine that is *trustworthy* - good luck with that!) 
+
+2. location 
+
+3. discovery - what do i want - this is a curated lifestyle - or perhaps a regulated "libertarian paternalism".  We do not actually need to spend all that money - but the market will not help us !
+
+4. software literacy 
+
+5. politics is retail selling of political manifestos - so obviously changes in retail affect politics - but for the better or not? more democracy - more access to data - more journalism - more trust (peer to peer recommendations)" but also more bubble) 
+
+6. Agents 
+we need a lot of help. one algorithm is not going to cut it.  i could use the Guardian agent for my shopping and my purchases - this is likely to be best option before AGI - which becomes a trust issues 
+but it's likely i could easily not just buy the same sports shoes and make up as kimmkhardashian but the same ISA the same ... groceries - how do you regulate that? 
+
+
 What is society?
 ================
 
@@ -40,7 +79,11 @@ In short, you are an investment in our massive VC fund, and you have paid off ha
 Having said that we would be very interested in your manifesto (sorry prospectus).  Can you do anything about  the potholes round my way? 
 
 
+The foss elephant in the room
+-----------------------------
+https://news.ycombinator.com/item?id=30741324
 
+https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf
 
 China's Totalitarian Bet
 ========================
@@ -132,4 +175,38 @@ Future of software
 There will be a Dr Seuss of software, who will write software that plays with the house lights and can be read and executed and understood by children 
 
 we have not created that language nor trained the dr aries's - but we will create the libraries and the 
+
+
+Point of private business
+------------------------
+price discovery?
+higher tempo of resource reallocation via schumpeter ?
+
+business is less innovative than government ? funded programs of science is discovery 
+
+from that everything has come
+
+but organisation is the new efficiency - see nasa vs spacex 
+
+so more often destroy orgs to find new ways to deliver - so need lower blast radius of org destruction (more gov regulation / welfare state etc) 
+
+Why do I go on about Swardley Maps?
+----------------------------
+Because what makes humans successful (for at least some definitions of success) is co-operation and organisation.  we have seen science and engineering deliver value to humanity on scales that beggar belief. 
+
+And that comes from new ways of organising 
+
+unless we discover amazing new technologies (like the seminal nature such as electricity or oil) then the benefits to society must come from better organisation 
+
+This may come from fairer sharing of wealth produced, as well as increasing the wealth in total.  Yea that sounds socialist, but before you have a knee jerk reaction tell me if millions in poverty is a good thing? no it's not.  and that's how we have organised the world, dictators and oppression, segregation and suppression 
+
+measure cohesion vs morale for an organisation.  morale is mission, cohesion is infra-group identity
+
+
+Social contract, US Navy and piracy
+--------------------
+https://www.foreignaffairs.com/articles/united-states/2022-02-21/cyber-social-contract
+
+
+https://twitter.com/yishan/status/1514938507407421440?s=21
 

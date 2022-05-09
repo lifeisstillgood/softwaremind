@@ -1,3 +1,34 @@
+Housing and Cities
+==================
+
+This is not a software-adjacnet post so it will have to move.  But I wanted to
+get some thoughts down.
+
+FIrstly, please do read / watch the excellent series of video lectures at UCL  (https://youtu.be/RX-AzKgUEWk).  There is a lot of focus on housing across the political spectrum (obviously really, its where we all live), and this is a fairly good overview of some of the hidden drivers.  Now, my summary of the thrust is
+
+1. Land is Rentierismumumum ... in short if you own some land and
+someone near you builds a town, sewer, hospital, disneyland, your land
+value goes up but you did nothing, added no value, did no work.  And
+that has all sorts of negative consequences.  One big one is that if
+government (ie local city council) invests millions in a public
+transport hub or a whatever, people around there see their land values
+go up.  And if the city council then wanted to for example buy some of
+that land to build bigger and better stuff, they would have to pay
+thorugh the nose.
+
+2. UK in the late 1940s had a solution for this.  100% Marginal Land
+Value Tax.  Thats right. The UK decided to build "New Towns". Harlow,
+Milton Keynes etc.  They are not nice places, but they are not
+terrible and they worked.  mostly because the government did something
+like this - "If we announce we are going to buy your field and put a
+hospital and 500 houses on it, then the owners of those fields might
+want to sell them.  If they sell them to some middle man for
+*agricultural prices* and that middleman sells to the government for
+domestic housing prices, the farmer looks silly and the government
+pays about 10X.  So instead we announce that 'https://en.wikipedia.org/wiki/Town_and_Country_Planning_Act_1947' exists - the idea was simple.  A middleman / housing developer agrees to buy a field at an *current agricultural* price, and also agrees a tax rate to be paid after sale of the developed house.  This was a high tax - essentially taking away the increase in land price apart from the development cost plus profit.  In short, farmers could sell their fields without feeling silly.
+
+
+
 Josh Ryan Collins and Strong towns - somewhere there and there is a real plan
 
 

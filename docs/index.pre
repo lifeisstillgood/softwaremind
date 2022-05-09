@@ -2,7 +2,9 @@
 The Software Mind
 ==================
 
+
 {{ conceptchapters/introduction.rst }}
+
 
 {{ conceptchapters/masteroverview.rst }}
 
@@ -37,18 +39,27 @@ The Software Mind
 {{ conceptchapters/housing.rst }}
 
 {{ conceptchapters/manifesto-policy.rst }}
-{{ conceptchapters/masteroverview.rst }}
+
 {{ conceptchapters/OpenSourceStrategy.rst }}
 {{ conceptchapters/roughideas.rst }}
 {{ conceptchapters/shorterconclusion.rst }}
+
+
+
+Different Points of View
+------------------------
+
+There are, obviously, different ways to think about many
+software-adjacent subjects.  The following chapters are my
+points-of-view on some of those subjects.
+
 
 
 {{ conceptchapters/sm_howtothinkabout.rst }}
 
 
 
-wrongwithbitcoin
-----------------
+
 {{ conceptchapters/wrongwithbitcoin.rst }}
 
 ibelieve

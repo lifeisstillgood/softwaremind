@@ -2,6 +2,8 @@ Software literacy
 =================
 
 
+Let me tell you a story ... narrative power in Twitter, scoail media, optimism, investment and common goals of organisations and society (military mission orientated is road yo success) 
+
 At a top level view, human language is a technology, symbolic manipulation and communication between minds.  but you can see that as something many animals have at simple levels - Thumper
 
 And writing most certainly is 

@@ -39,3 +39,15 @@ Modelling and testing at streaegic level
 -------
 Model at level of each service
 before service is created it has to determine what it's contract will be and that is put into a simulator - then you have a top level view of all services working together and you have ability to write strategy acceptance tests - and can model our foolish if decisions etc etc 
+
+
+Steven Biddle - modern warfare  system - operating at basic levels.  dotmafl 
+
+
+The cpaital structure and imicatiosn
+-------------
+Whybshoukd bezos grt all the money?
+
+vut also, why do VCs and Public markets workmlike they do? why should investirs get all thenuoside? index funds ?
+
+but also latfe baujesses muat grow - so they form conglomerates making hard to hudge - why dunbar number more useful ? 

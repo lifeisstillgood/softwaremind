@@ -15,3 +15,16 @@ also
 - but its also diacovery, promotion, and a new idea of individual not general curation
 
 
+imperatives fir groeth on piblic mkts not same as building a town hall
+
+making social media a utility is not over regulation - its correctky identifying what is a social need and what is a growth for a specific conpany need.
+
+
+What is point of socual media? 
+to publish ones own words and expression
+
+so being a verified actual human is kind of basic.
+
+end if anonnimity - yes.
+
+

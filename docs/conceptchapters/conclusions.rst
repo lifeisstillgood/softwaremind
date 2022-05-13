@@ -1963,3 +1963,6 @@ But why did people not move rooms? The effort to move rooms is waaaay less than 
 wikipedia won't run out of pages - just moderators
 
 social media won't run out of conversations but ways to initiate a conversation - shouting loudly and seeing who responds it not always best way - so what is? 
+
+Wealthism and fututee of education - undergraduate tiday is a renaissance geniur
+so we will need to push furhther - to aim for physics professor as end gialmof highbschool 

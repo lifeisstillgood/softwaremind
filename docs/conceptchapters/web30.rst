@@ -69,3 +69,8 @@ like SQL
 It seems an add on, not a necessity.  But damn it's cool.
 
 
+What is good about it?
+----------------------
+
+Participatuin - dmeocracy that takes into account every persons participation.  
+

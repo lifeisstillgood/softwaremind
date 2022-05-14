@@ -10,7 +10,7 @@ This book has at three axioms
 
 2. Human organisations are distributed thinking machines - "slow AI" - and software is super-charging their node latency
 
-2. Everything is about to become programmable
+3. Everything is about to become programmable, peiple, companies, soxiety 
 
 
 Leading to 
@@ -29,9 +29,10 @@ These three basics take us a long way.
 - each version is immutable
 - it is introspectable 
 - it is designed - and so who gets to design it ? architecture vs detailed code versus town planning vs policy and laws and politics and ethics
+
 - corporate and capital stricter is not the only forces in play - but who gets the money inimportant 
 
-- democracy implies a fair sharing of wealth - which is why most companies are not democracies but why when the first ones succeed all others will follow suit except in presence of force 
+- democracy implies a fair sharing of wealth - which is why most companies are not democracies.  but if tou had chnace ti join a company that shared its wealth equally to all emlloyees (a partneership) and one that didnnot - which would younjoin.? When we normalise democracy in compnaies it will be a snowball effect.
  
 implications
 
@@ -40,7 +41,8 @@ Literacy
 - we dont have libraries, Dewey decimal, journalism, data
 - software does not work without data, there is a data layer that we need to
 build, secure, read and write to and from and *trust*
-- Trust - jourmalism as
+- Trust - jourmalism as corpus labelling for reality
+
 
 Programmability
 - topless computing

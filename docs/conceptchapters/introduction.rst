@@ -4,17 +4,24 @@ Introduction
 Editors overview
 ----------------
 
-This book has at least one axiom
+This book has at three axioms
 
 1. Software is a new form of literacy
 
-and 
+2. Human organisations are distributed thinking machines - "slow AI" - and software is super-charging their node latency
 
 2. Everything is about to become programmable
 
-3. A company is a machine (a slow AI as per x).  But so is society - it's not limited to companies.  all human organisations are distributed thinking machines. 
 
+Leading to 
 
+- we will program our orgabisatiins 
+
+- orgabisations will become alsmot disposabke
+
+- that the team is not the people in the robot but the team that program the robot.
+
+- posiitve orogramming and negative coding - just kike tealnpolitics 
 
 These three basics take us a long way. 
 

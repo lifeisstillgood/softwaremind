@@ -36,6 +36,14 @@ These three basics take us a long way.
  
 implications
 
+
+does software force openness? Is the advantage to "the swarm" so great that giving up authoritarian control is worth it? 
+
+also you can be totalitarian in a software enabked workd - software has total control.  its just we think the swarm is more effective than the giant robot.
+
+swarm vs giant robot. my Sci fi tv viewing is wring. the borg are good
+
+
 Literacy
 - universal
 - we dont have libraries, Dewey decimal, journalism, data

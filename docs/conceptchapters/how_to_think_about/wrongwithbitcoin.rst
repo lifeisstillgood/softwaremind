@@ -1,3 +1,15 @@
+summary: Ledgers are a great idea.  Shared common ledgers are also great idea.  
+
+"permissioned" is fine. If someone is selling or buying thats pretty much all the permission needed. Its a supply chain.  
+
+Yes digital identity matters - as does reputatuon. sona seller willmlikely want to verify their identity and promote it in most cases.
+
+The May collapse in Luna is just revealing the underlying weakness of botcoin. Thats not a long trrm problem despite pain 
+
+But we are almsot certain to see fiat-coins - which will have deep inpacts on banking 
+
+
+
 What's wrong g with bitcoin
 ----------------------------
 start here : https://blog.dshr.org/2022/02/ee380-talk.html?m=1

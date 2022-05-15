@@ -10,7 +10,7 @@ But we are almsot certain to see fiat-coins - which will have deep inpacts on ba
 
 So banking is one of thise "fosh in water" things - its global structure now is not the only wat to arrnage a banking system.  Germany (opponent to Uk/USA) has sparkassen - much more local banks tied to a city
 
-Anyway - depository banks with capital multiplication for loans is under threat - so a new form of banking is needed.  My hot take is that real eatate lending is mostly risk-free so the lending practises of VCs and small business loans are likely ti be much more focused 
+Anyway - depository banks with Fractional reserve banking for loans is under threat - so a new form of banking is needed.  My hot take is that real eatate lending is mostly risk-free so the lending practises of VCs and small business loans are likely ti be much more focused 
 
 
 

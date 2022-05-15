@@ -258,6 +258,23 @@ https://news.ycombinator.com/item?id=31137407
 The vast majority of people who benefit from bank loans are not value creators, they are rent-seekers. 
 
 
+Fiture thoughts
+---------------
+Whilst botcoin is scam / money laundering, the digital currency isea is great ans likely tonhappen with fiat blockchains
+
+this impliess
+- people use smartphones (with biometrics and HSMs) as wallets. as depository wallets
+- end if depaitiry banking?
+- end if fractuonal reserve banking
+- but nice part of banks is mostly theybwill make you whole - sonwhomis going to do the "dont lose your money" insurance - well the wallet maker (Apple mostly)
+
+- so the nice oart of credit cards becomes ... what apple wqllet does.  Want to keep spending this month ? have a cryptto overdraft.
+
+
+
+- imllications - regulating smartphones ans walket access
+
+
 
 Right with bitcoin
 ------------------

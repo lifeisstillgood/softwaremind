@@ -1,5 +1,20 @@
-The Executive Summary
-=====================
+"Say what you are going to say"
+===============================
+
+My old history teacher tried to drum into his classes how to structure an
+essay.::
+
+    Say what you are going to say, say it, then say you said it.
+
+So, quite simply, this is a book that says *software is a form of literacy*.
+
+That is pretty much it.  But if true, the implications are huge, from democracy and free soceties, social media and happier working lives.
+
+Don't believe me.  That's fine. Its not a requirement. This is a journey.
+Hold my hand, I tend to wander off the point a lot...
+
+Three speeches
+--------------
 
 This book is based on three speeches 
 

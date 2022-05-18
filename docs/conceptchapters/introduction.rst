@@ -1,16 +1,55 @@
-Introduction
-==================
+The Executive Summary
+=====================
 
-Editors overview
-----------------
+This book is based on three speeches 
 
-This book has at three axioms
+One I gave maybe 15 years
+ago.  The company I own sponsored a meetup in a cavern under a pub and I gave
+a speech about how the internet was like the invention of the printing press,
+and humanity was entering a new ... Well you know.
+
+And about 6 years later I listened to a speech from the then Cabinet Minister.  He had a better suit than I did but pretty much the same speech - "invention
+of the printing press in 1454".
+
+Oh. The clever idea with no *action*, no *driving force* is just a nice soeech.
+
+The third speech has not happened yet - the third speech is what I am writing this book *for*
+
+
+https://news.ycombinator.com/item?id=31419489
+
+Homo spaiens arrived about 60k years agao in East africa - culture, teamwork, organisation.  Less testisterone (finger size similar) - more collaborative, less intra-group conflict.  teamwork built us.
+
+
+
+* Software is a new form of literacy 
+
+
+
+* How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy
+
+* there is such a thing as a programmable compmay and programmable society and programmable person
+
+
+how does a crowd decide what to do? that's slow ai
+
+
+
+My old historybteacher used to say to us, "say what you are going to say, say it, then say you have said it"
+
+
+This book has at its heart three axioms 
 
 1. Software is a new form of literacy
 
-2. Human organisations are distributed thinking machines - "slow AI" - and software is super-charging their node latency
+2. Not only do people *think* but so do corporations and societies - think of them as slow forms of AI.  (Societies and corporations also die).
+(http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
 
-3. Everything is about to become programmable, peiple, companies, soxiety 
+Human organisations are distributed thinking machines
+
+3. Everything is about to become programmable, peiple, companies, soxiety.  The problems of 
+
+For thousands if years we put the good and bad if our society into the technology of literwcy 
 
 
 Leading to 
@@ -64,34 +103,23 @@ Elon - destroy all monster companies
 93% engineers at spacex used to work at nasa - they took the people abs built better spaceships in a diff organisation.  so it a lesson - destroy the company and rebuild it under different name
 - investment capital guided by universal suffrage 
 
+Secrecy and privacy
+-------------------
+If you take a drug you shouldnbe in a frug trial
+
+New forms of organisation
+=========================
+bitcoin debate is most imortant around the simple idea of how do we decentralise organisations? gocen the history if homo erectus this kight be a fundamwntal question - a new form of democracy
+
+wikipedia is a good examole
+ 
+but is using botcoin to solve all these issues together (currency, permissionaless etc)  
+
+
 Software Literacy
 =================
 
-There are two speeches at the start of this book.  One I gave maybe 15 years
-ago.  The company I own sponsored a meetup in a cavern under a pub and I gave
-a speech about how the internet was like the invention of the printing press,
-and humanity was entering a new ... Well you know.
-And about 6 years later I listened to a speech from the then Cabinet Minister.  He had a better suit than I did but pretty much the same speech - "invention
-of the printing press in 1454".
 
-Oh.  I realised that I was to maintain my levels of smug I need to think harder.
-
-So I started writing this book.  It took a while.
-
-
-
-
-* Software is a new form of literacy 
-
-* Not only do people *think* but so do corporations and societies - think of them as slow forms of AI.  (Societies and corporations also die).
-(http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
-
-* How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy
-
-* there is such a thing as a programmable compmay and programmable society and programmable person
-
-
-how does a crowd decide what to do? that's slow ai
 
 SpaceX solved NASAs organisation problem
 --------------------

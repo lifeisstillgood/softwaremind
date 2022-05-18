@@ -86,10 +86,21 @@ These three basics take us a long way.
 
 - corporate and capital stricter is not the only forces in play - but who gets the money inimportant 
 
-- democracy implies a fair sharing of wealth - which is why most companies are not democracies.  but if tou had chnace ti join a company that shared its wealth equally to all emlloyees (a partneership) and one that didnnot - which would younjoin.? When we normalise democracy in compnaies it will be a snowball effect.
+- democracy implies a fair sharing of wealth - which is why most companies are not democracies.  but if tou had chnace ti join a 
+
+
+company that shared its wealth equally to all emlloyees (a partneership) and one that didnnot - which would younjoin.? When we normalise democracy in compnaies it will be a snowball effect.
  
 implications
 
+
+coders become managers
+managers become politicians 
+hence desire to put people back in offices - for politics.
+
+remote worj is bad fir politics, good for writing
+
+the work of future is deciding how decisions are made 
 
 does software force openness? Is the advantage to "the swarm" so great that giving up authoritarian control is worth it? 
 

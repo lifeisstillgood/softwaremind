@@ -33,6 +33,16 @@ the thing about content moderation is pretty much the worst is out there and alm
 
 rate limiting is likely yo be the best solution tonthis - but that might not be whole solution
 
+denocracy and stuff
+-------------------
+Every authoritarian dictator isnin some form of democracy - its looking for the goldilocks zone that matters - where scientific orogress can continue and social fairness allows the wealth to spread
+
+continuum of totalitaian dictatorship and anarchy but at right angles social fairness - inside that cube is a zone of scientific orofres and wealth creatuon
+
+- the social norms play huge oart - for exmaole how scientific debate is conducted.  in ankecture hall a professor attacking a post grad on social grounds is awful - see lysenko https://en.m.wikipedia.org/wiki/Trofim_Lysenko
+
+so the social norms we are fighting for today are not absolutist but have need of a feedback function (shared wealth?) and cannot be "free speech or die"
+
 
 
 

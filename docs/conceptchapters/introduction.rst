@@ -75,6 +75,8 @@ Leading to
 
 - that the team is not the people in the robot but the team that program the robot.
 
+(The New York Times is the same compnay today as yesterday but it does notnhave the samenwords or pictures.  They did not startbwithbyesterdays words and plan how to move them around to become todays.  thats not hownliterwcybworks - and the organisation that writes the words is not what people "use")
+
 - posiitve orogramming and negative coding - just kike tealnpolitics 
 
 These three basics take us a long way. 

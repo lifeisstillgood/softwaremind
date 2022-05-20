@@ -11,6 +11,30 @@ Look this must be pretty obvious surely?
 actually no - defining what is anti-social is hard and almost impossible to move globally.  we will probably see balkanisation based around language first.  which will lean heavily on jurisdiction
 
  
+Publisher vs comkon carrier
+---------------------------
+If twitter / Fb etc was just a common carrier then you coukd no more hokd themnresponsibke formme saying hotriblenthings or planning a mutder on thenphone 
+
+but they sont just pass on my worss. they provide *discovery* through algorithn - they highlight some messages to others - that is publishing ? 
+
+Aldo the whole cancel cukture.  some people think that there is a curtailing of free speech. people are not allwoed to saybsomething. somethings are being made unsayable.
+
+well, no. 
+
+1. every group has social norms - what is and is not acceptable.  but the group just went from small isolated grouos (younand your friends, people whomwatch newsnifht) to - wveryone on the planet who soeaks english.
+
+and this muchnlarger grouo now needs to work out its social norms.
+
+some fundamental understandings of free soeech is going to be oart if that - but curtailed by what is necesaary for social survival / cohesion
+
+some one saying x should be raped is kindnof free speech but is also kind of something that ruins everyones day. 
+
+the thing about content moderation is pretty much the worst is out there and almaot everyone when oresented woth it will go, yeah lets ban that. 
+
+rate limiting is likely yo be the best solution tonthis - but that might not be whole solution
+
+
+
 
 Philosophy 
 Marx defines production as important part of industrial society

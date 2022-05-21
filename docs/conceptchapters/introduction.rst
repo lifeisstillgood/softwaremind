@@ -1,45 +1,33 @@
 "Say what you are going to say"
 ===============================
 
-My old history teacher tried to drum into his classes how to structure an
-essay.::
+My old history teacher tried to drum into his classes how to structure an essay.::
 
     Say what you are going to say, say it, then say you said it.
 
 So, quite simply, this is a book that says *software is a form of literacy*.
 
-That is pretty much it.  But if true, the implications are huge, from democracy and free soceties, social media and happier working lives.
+That is pretty much it.  
 
-Don't believe me.  That's fine. Its not a requirement. This is a journey.
+But what that *implies* is enormous - as enormous as moving companies and society from mostly people who could not read or write to mostly people who could.
+
+This is a journey around the world of tech and politics - and how *software literacy* chnages how you view everything.
+
 Hold my hand, I tend to wander off the point a lot...
 
-Three speeches
---------------
 
-This book is based on three speeches 
+- homo erectus - less testosterone, (finger sizes) more co-operation.  
 
-One I gave maybe 15 years
-ago.  The company I own sponsored a meetup in a cavern under a pub and I gave
-a speech about how the internet was like the invention of the printing press,
-and humanity was entering a new ... Well you know.
+the groip is a thinking machine.
 
-And about 6 years later I listened to a speech from the then Cabinet Minister.  He had a better suit than I did but pretty much the same speech - "invention
-of the printing press in 1454".
+dunbars number 
 
-Oh. The clever idea with no *action*, no *driving force* is just a nice soeech.
+Printing oress 
 
-The third speech has not happened yet - the third speech is what I am writing this book *for*
-
-
-https://news.ycombinator.com/item?id=31419489
-
-Homo spaiens arrived about 60k years agao in East africa - culture, teamwork, organisation.  Less testisterone (finger size similar) - more collaborative, less intra-group conflict.  teamwork built us.
-
+internet (cabinet ofgice)
 
 
 * Software is a new form of literacy 
-
-
 
 * How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy
 
@@ -125,6 +113,13 @@ Programmability
 - slow AI
 - coders as managers, immutable company
 - journalism as data labelling. (poisoning of the data layer)
+
+Code and law 
+------------
+
+Here is a fun Bloomberg Businessweek story about a guy named Andean Medjedovic who hacked a decentralized finance project called Indexed Finance, taking about $16 million in a series of trades that (1) were allowed by Indexed’s smart contracts but (2) Indexed’s founders clearly didn’t intend to allow. 
+
+
 
 Elon - destroy all monster companies
 -----------------

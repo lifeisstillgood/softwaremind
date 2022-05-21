@@ -885,6 +885,17 @@ Snapchat filter that is liable for speed deaths
 
 https://www.npr.org/2021/05/04/993579600/snapchat-can-be-sued-for-role-in-fatal-car-crash-court-rules
 
+https://news.ycombinator.com/item?id=31419489
+
+Homo spaiens arrived about 60k years agao in East africa - culture, teamwork, organisation.  Less testisterone (finger size similar) - more collaborative, less intra-group conflict.  teamwork built us.
+
+List of tech co-ops
+--------------------
+https://github.com/hng/tech-coops#coops-europe
+
+
+
+
 self driving cars
 -----------------
 

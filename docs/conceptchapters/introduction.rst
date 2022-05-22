@@ -81,6 +81,26 @@ These three basics take us a long way.
 
 company that shared its wealth equally to all emlloyees (a partneership) and one that didnnot - which would younjoin.? When we normalise democracy in compnaies it will be a snowball effect.
  
+ 
+Managers
+--------
+
+Software is a form of literacy
+
+some managers will, to boost their technical chops say "I used to be a coder, but now I am a manager I dont do that but I use my old knowledge to  be a better manager"
+
+If you were a footballer or a soldier that works.
+
+But has anyone said "Inused to read and write, but now I am a manager I dont do that anymore, but I remeber reading and writing so am still good at maning decisions"
+
+No.
+
+But we do that for sfotware. 
+
+And if just one or two managers did that they woukd bebthe problem - but if they all do it. maybe its the companies.
+
+How do you build a company that can be managed with code? What does that mean? 
+
 implications
 
 
@@ -119,6 +139,19 @@ Code and law
 
 Here is a fun Bloomberg Businessweek story about a guy named Andean Medjedovic who hacked a decentralized finance project called Indexed Finance, taking about $16 million in a series of trades that (1) were allowed by Indexed’s smart contracts but (2) Indexed’s founders clearly didn’t intend to allow. 
 
+
+Literacy and philosophy
+-----------------------
+https://existentialcomics.com/comic/268
+
+Language is not a precise science - but a means of symbolic representation.  which is the underlying bit of computer scoence - anvariabke can represetb hige machijes and calculations 
+
+
+
+Literwcy and surviving deatruxtion 
+----------------------
+Destruction of temple twice 
+but jewish judean oeople allowed to keep culture 
 
 
 Elon - destroy all monster companies

@@ -26,7 +26,22 @@ Printing oress
 
 internet (cabinet ofgice)
 
+Aggregatijg human curation and activity - who owns it? who benefits?
+-----------------------
 https://news.ycombinator.com/item?id=31523917
+
+Most major tech giants are aggregaotrs if User generated content (from google to fb) - google: pagerank is based on links, but also which page inchoose and how long spend on it
+
+This is why walled gardens bad idea, why regukation to give back provacy (download my content) misses rhe point 
+
+The point is the value is in recording my acticity and aggregating it toneveryone.  we mostly agree this for medical (see auto wnrollment in medical trials) - rare to see people think that is propritary info.  but for my browser history - make that public? make that a utility ?
+
+they are not publiahers in traditional sense because that bundled many acticites 
+
+
+
+
+
 * Software is a new form of literacy 
 
 * How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy

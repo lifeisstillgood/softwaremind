@@ -46,6 +46,16 @@ but then so is shein and exommerce and amazon and every pub and shop and school 
 
 
 
+Socialism and democracy
+-----------------------
+I bekeive that eachjindiicdual human - democracy is hearing thise and sharing the wealth for good of all
+
+since second world war democeacy flourished - driven by amazong industural gains.  but thise gains occurred along social policy - anti-totalitarinaims
+
+but china represents a threat to rhat comofrtable assumption - so software loterwcy is the big new way to power change - and it needs us to focus on improving our democracy, sharing benefits and making better decisions - because we either are a shing fucking beacon or we are ... wasting opoortunity
+
+(reference continuum of contorls ans freeommand gov etc) 
+
 * Software is a new form of literacy 
 
 * How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy

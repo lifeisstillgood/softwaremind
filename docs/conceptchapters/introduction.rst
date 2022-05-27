@@ -36,6 +36,9 @@ This is why walled gardens bad idea, why regukation to give back provacy (downlo
 
 The point is the value is in recording my acticity and aggregating it toneveryone.  we mostly agree this for medical (see auto wnrollment in medical trials) - rare to see people think that is propritary info.  but for my browser history - make that public? make that a utility ?
 
+utility is not mean gocernment owned.  just gov regukated.  oh lets discuss socialism and the continuim of regilation (totwlitariannto anarchy) 
+
+
 they are not publiahers in traditional sense because that bundled many acticites 
 
 

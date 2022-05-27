@@ -41,7 +41,8 @@ utility is not mean gocernment owned.  just gov regukated.  oh lets discuss soci
 
 they are not publiahers in traditional sense because that bundled many acticites 
 
-
+facebook is exhonchamber 
+but then so is shein and exommerce and amazon and every pub and shop and school - 
 
 
 

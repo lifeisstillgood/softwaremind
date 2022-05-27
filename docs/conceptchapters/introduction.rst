@@ -26,7 +26,7 @@ Printing oress
 
 internet (cabinet ofgice)
 
-
+https://news.ycombinator.com/item?id=31523917
 * Software is a new form of literacy 
 
 * How corporations and societies think, and who codes *how* they think, is being changed by Software Literacy

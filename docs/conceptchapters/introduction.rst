@@ -26,6 +26,19 @@ Printing oress
 
 internet (cabinet ofgice)
 
+
+
+organisations need to become more resilient - that not growth sustains complex systems 
+
+
+History if Anerican capitalism
+------------------
+
+1953 GE annual reokrt showed how much share of fprofots went ti emoloyees suppoers and tax. see GE welcoh man who broke capitalism - but now Aneifcan capitakisn driven by atack ranking, financialisatiin etc.  profit smoothing and conglomerates - see heinz 
+
+but that is not thebwhole phase soace - see https://news.ycombinator.com/item?id=31523917
+
+
 Aggregatijg human curation and activity - who owns it? who benefits?
 -----------------------
 https://news.ycombinator.com/item?id=31523917

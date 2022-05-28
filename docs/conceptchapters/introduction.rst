@@ -31,6 +31,8 @@ internet (cabinet ofgice)
 organisations need to become more resilient - that not growth sustains complex systems 
 
 
+software moteracy - not just that you can code, but the workd around youbis code-able
+
 History if Anerican capitalism
 ------------------
 

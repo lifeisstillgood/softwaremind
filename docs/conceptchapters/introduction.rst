@@ -34,6 +34,7 @@ organisations need to become more resilient - that not growth sustains complex s
 how corrupt are modern large companies?
 https://youtu.be/i9i47sgi-V4
 
+Corruption and corrusuon and sunlight and virtual world - harder to hide (why spreadsheets still get passed around.  its not enough tibbendigital - yiu need programmatic access which means introspetion 
 
 software moteracy - not just that you can code, but the workd around youbis code-able
 

@@ -31,6 +31,10 @@ internet (cabinet ofgice)
 organisations need to become more resilient - that not growth sustains complex systems 
 
 
+how corrupt are modern large companies?
+https://youtu.be/i9i47sgi-V4
+
+
 software moteracy - not just that you can code, but the workd around youbis code-able
 
 History if Anerican capitalism

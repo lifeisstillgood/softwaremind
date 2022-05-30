@@ -13,6 +13,17 @@ But what that *implies* is enormous - as enormous as moving companies and societ
 
 This is a journey around the world of tech and politics - and how *software literacy* chnages how you view everything.
 
+Software is autistic - the workd is becoming auttistic
+--------------
+for autistic oeople the workd runs in lies - what cannot be quatified is ... ineffable, and so os well a lie.  politics, internpersonal socialndunamics and hierqrchies
+
+but now we are quatifiying so much more of the world.  Geeks and nerds have been attracted ti software for all sorts if reasons - but a majornreaosn is this - it allows youbtonquantify and contorl and understand.
+
+If software is eating the world, the world is becomingnkore autitstic 
+
+
+
+
 Hold my hand, I tend to wander off the point a lot...
 
 

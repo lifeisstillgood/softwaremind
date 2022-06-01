@@ -9,19 +9,22 @@ So, quite simply, this is a book that says *software is a form of literacy*.
 
 That is pretty much it.  
 
-But what that *implies* is enormous - as enormous as moving companies and society from mostly people who could not read or write to mostly people who could.
+But like "normal" literacy, its existence, and spread, will have enourmous impkixations.  Imagine a compnay, or a society, populated moatky by people who cannot read ir write, imagine how it chnages as its people become literate, are abke to read and write.  How information soreqds, is buikt upon and so forth chnages.
+
 
 This is a journey around the world of tech and politics - and how *software literacy* chnages how you view everything.
 
-Software is autistic - the workd is becoming auttistic
---------------
-for autistic oeople the workd runs in lies - what cannot be quatified is ... ineffable, and so os well a lie.  politics, internpersonal socialndunamics and hierqrchies
 
-but now we are quatifiying so much more of the world.  Geeks and nerds have been attracted ti software for all sorts if reasons - but a majornreaosn is this - it allows youbtonquantify and contorl and understand.
+software as literacy - some  conjectures
+----------------------
 
-If software is eating the world, the world is becomingnkore autitstic 
+Literacy is a bottom up force - itnis not something that 
+
+My conjecture isnthat many / most current monolith applications will get rewritten not becuase if microservices etc, but because of wantingnliterate access to the pieces.  this does not have a huge analog in literaxy but its somethingnnew - like we are mostly writing process mgmt - and mostly that is introspectable and does not have to be efficient - just wfficient enough. so you can allow people to write their own processes if givnen basics (soppy)
 
 
+top down software vs bottom up 
+postmaster intermediation
 
 
 Hold my hand, I tend to wander off the point a lot...

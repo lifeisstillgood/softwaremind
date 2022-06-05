@@ -275,6 +275,12 @@ this impliess
 - imllications - regulating smartphones ans walket access
 
 
+bitcoin and credit
+------------------
+bitcoin (explocitly) has not means to create credit on the blockchain - as ecomonc  growthboccurs the money aupoly stays same. the exchnage cakue chnages
+
+i dont thinknthis is great solution - having feactional banking aolves the credit growth issue (mostly relatd ti safe assets like real estate)
+
 
 Right with bitcoin
 ------------------
@@ -296,3 +302,6 @@ https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-
 https://www.bloomberg.com/news/articles/2022-02-14/blockfi-s-plans-to-register-with-sec-augurs-new-era-for-crypto?cmpid=BBD021522_MONEYSTUFF&utm_medium=email&utm_source=newsletter&utm_term=220215&utm_campaign=moneystuff
 
 https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/
+
+
+https://youtu.be/KH-jhuLCegQ

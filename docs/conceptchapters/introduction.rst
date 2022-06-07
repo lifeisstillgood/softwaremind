@@ -1,4 +1,10 @@
-"Say what you are going to say"
+The software mond is the mind of the software liteerate orfnisation - a less slow AI
+
+How can we crowd siurce all the external monitoring, client feedback, and strategy into say a swardley map and ongoing discussion innthe compnay
+
+
+
+Say what you are going to say"
 ===============================
 
 My old history teacher tried to drum into his classes how to structure an essay.::

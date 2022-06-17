@@ -1,10 +1,109 @@
+
+
+
+
 say-what-you-are-going-to-say
+
+Cavern introduction
+Cabinet office
+swardly call out
+
+software literacy - technology
+maasive dislocation still to come - "barely begun chewing"
+
+The conjectures
+- software is a new forn if literaxy 
+- coders new managers
+- double down on democracy 
+- but that implies more aharing of wealth 
+- corruption and corrusion in organisations - its everywhere
+- we will care - because we 
+
+secondary conjectures and implications
+
+- software is used to *run* companies day to day (algo trading is affecting liquidity ?)
+
+- so compnaies are basically versioned - coders are new managers. managers were building a compnay deisnging its processes 
+
+- not remore working but async working
+
+- loans as example - now decision is based on credit score.  this is not a hige difference from chinees social score (its whatvis unofficially kept anyway)
+
+- Biggest implication is trolley problem. We will have to decide (and decide hiw ti decide) all thise horrivle edge cases.  This will get nasty in democeacy, especially as people will try and use code in politics
+
+- we will see many issues currntly seen in crypto - what oracle do we use to trigger some situation in code? how do we habdle the "oh we did not mean that" problem 
+
+- ooen source society (segue to society)
+
+
+
+
+The software mind is the meta mind of annorganisation  - hownit thinos (slow fast AI) and how that chnages in a world of software literacy
+
+
+
+Neuromancer and Demon internet - the cirtualmconnecting to the physical - this is the dream but it is also a noghtmare of control - the current beneficiaries and managers are due to lose out 
+
+there is no such thing as a free market / software socialism - the virtual workd measures and raises to a level of visibility - thisnwill disrupt corruption and corrosion (in companies and leseqhere )
+
+
+Changes in compmaies
+--------------------
+
+- Project management 
+Project management is promarily programme mgmt - co-ordination between different projects. Its not some clever methodology that will make the current single project magically work better.  You can do that with a decent todo list (hence joel spolsky)
+
+The provlem is co-ordinating between projects to a oid catastrpphe - see the thing abiut tubnel under airprirt that was too small
+
+You *could* donthis by careful planning - but in software world its simpler easier more eliable to write tests and stuc out - this explains growthbof mixroservices (which match bausiness functions)
+
+expand to inclide - large baujess taxonomies and service mapping (shoukdnbe managing 1000s of movroservoces
+
+so a companu that cannot introspect its current state is goign to need project mgmt - but onbthat can, can test next state releases and so on can make progress - without prject mgm - and that is proceless
+
+
+
+Micro sevices - stop trying to control it in one persons head - the abstractions are too large to be useful 
+ microservices show the actual useful units if process / acticity - and are hiw business should arenage itself 
+ 
+ and they need to be manages not woth "thats bobs area" bur with groahviz ans software 
+ - need to become software literate 
+
+
+
+conclusion
+----------
+We will see a new mind. Faster
+fairer
+if we xhoose tonnake it so
+
+we worrybabout democracy backsliding - but I thinknit has a bright fuutre (70 ywars old) and software, freely abailableninformation and the correct labelling of sata for the Slow AI of society will lead to a gloriuos future 
+
 software-as-literacy-some-conjectures
+
+mybpolitics
+- prefer pragmatism over odeology, "nothing is agreed till everything is agreed, but see what the market likes first"
+
+
 history-if-anerican-capitalism
 aggregatijg-human-curation-and-activity-who-owns-it-who-benefits
+
+
+
 socialism-and-democracy
 managers
 code-and-law
+
+privacy
+we see contextual and personalised ads
+generally push back against personalised ads 
+howeber apple CSAM mechnaism (homomorphic encroyion on client) was unable to over come "privcy" concerns because its nit about someone knowing what i have on my machine, its about doing something with it
+- the ohone in my hand scanned me and then did something i dont like. even if it dis not "tell" anyone
+- it still did it
+
+the solutionnhere is medical levels - in the best interesrs if the citizen (woth few exceptions such as CSAm)
+
+
 literacy-and-philosophy
 literwcy-and-surviving-deatruxtion
 elon-destroy-all-monster-companies

@@ -71,6 +71,16 @@ Micro sevices - stop trying to control it in one persons head - the abstractions
 
 
 
+Democracy
+---------
+https://polite.technology/preview
+
+I think that the arreival of voting on features will transform the democracy of companies - if we all vote we all have reaource allocation control (so some peoplee get more votes - thats going to be interesting)  but alos whomundersrand the implixations
+
+this requires discussion 
+and likely micro services 
+
+
 conclusion
 ----------
 We will see a new mind. Faster

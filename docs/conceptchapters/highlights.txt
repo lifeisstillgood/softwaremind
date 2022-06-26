@@ -69,6 +69,19 @@ Neuromancer and Demon internet - the cirtualmconnecting to the physical - this i
 there is no such thing as a free market / software socialism - the virtual workd measures and raises to a level of visibility - thisnwill disrupt corruption and corrosion (in companies and leseqhere )
 
 
+Softeare and ghe paved road
+--------/---------------///
+https://www.infoq.com/news/2017/06/paved-paas-netflix/
+
+Within the Netflix technical stack, functionality provided by the PaaS includes microservice Remote Procedure Calling (RPC), service discovery and registration, operating system, application runtime, configuration, metrics, logging, tracing, dashboards, alerts and stream processing.
+
+At some point you need these as business building blocls - cloud is not servrrs its services thst worl in sensble ways - ifs not putting saas togethe rwoth ifttt its codijg reql apis and real data. it feels different 
+
+90% of it will looknlike from people import person - select all persons with contract > 1 year
+
+This is viaion of fitute company - all the siloed functions of company (hr, finance, etc) and access to roam across then. jupyer notevook style
+
+
 Changes in compmaies
 --------------------
 

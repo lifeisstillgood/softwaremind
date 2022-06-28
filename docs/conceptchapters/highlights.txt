@@ -82,6 +82,12 @@ At some point you need these as business building blocls - cloud is not servrrs 
 This is viaion of fitute company - all the siloed functions of company (hr, finance, etc) and access to roam across then. jupyer notevook style
 
 
+leadership
+----------
+https://en.m.wikipedia.org/wiki/Hugh_Dowding
+
+"""Beyond the critical importance of the overall system of integrated air defence which he had developed for Fighter Command, his major contribution was to marshal resources behind the scenes (including replacement aircraft and air crew) and to maintain a significant fighter reserve, while leaving his subordinate commanders' hands largely free to run the battle in detail."""
+
 Changes in compmaies
 --------------------
 

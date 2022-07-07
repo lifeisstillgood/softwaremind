@@ -1,24 +1,46 @@
+This is my post-it notes version of the book - an attempt to get some
+organisation going
 
 
-
-
+Introduction
+------------
 say-what-you-are-going-to-say
 
 Cavern introduction
 Cabinet office
-swardly call out
 
-The conjectures
----------------
+The explosion of software literacy.
 
 - software is a new form of literacy
 
-- coders are the new managers 
+This book is based on a (reasonable) conjecture - that software is
+best viewed as a new form of literacy.
 
-- double down on democracy 
+This is ok - we can see the suprficial similarities - but its the
+downstream impacts that are the most interesting, and more controversial.
+
+
+
+Software Literacy and Second-order consequences
+===============================================
+
+
+
+
+
+
+- coders are the new managers 
+(the typing pool takes over the Boardroom)
+
+- double down on democracy
+(if the machines do as they are told, who needs slaves?)
+Chinas totalitarian bet
 
 - but that implies more aharing of wealth 
+Sharing? Why this form of capitalism
+
 - corruption and corrusion in organisations - its everywhere
+Is capitalism eveworking? All profits went to traders.
 
 corrupt
 corroded
@@ -29,19 +51,26 @@ loss of foxus
 secondary conjectures and implications
 --------------------------
 
-The virtual world makes measuring the real world possible, and at greater detail than we imagine
+Lo-code and No-code is a joke
 
-The social media furire is really one of sudden access to data - like London peq souoer cleqring out 
+The virtual world makes measuring the real world possible, and at
+greater detail than we imagine
 
-conversations online are terrible - but they were offline we just did notnknow
+The social media furire is really one of sudden access to data - like
+London peq souoer cleqring out
+
+conversations online are terrible - but they were offline we just did
+notnknow
 
 online reviews 
 
 digital activity leaves nonwheee to hide.
 
-important thing is to focus eegukation on the real menaingful thing.  Freedom?
+important thing is to focus eegukation on the real menaingful thing.
+Freedom?
 
-Chinese totalitarian bet - our bet is on freedom through respectful politelness
+Chinese totalitarian bet - our bet is on freedom through respectful
+politelness
 
 
 

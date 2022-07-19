@@ -19,6 +19,29 @@ best viewed as a new form of literacy.
 This is ok - we can see the suprficial similarities - but its the
 downstream impacts that are the most interesting, and more controversial.
 
+software literacy, comouter science and electronic engineering
+
+the hard stuff is between compteru dcience (algorithms, languages compilers) and EE (something forbthen to runnon)
+
+this is not software literaxy intue main.
+expressing a flow in software is not same as building an socillscope from parts 
+
+
+conjecture:
+ML models of society will work better than ee expcet - and this will affect organisations and politics 
+We could bot do inage classification because we did not have millions of labelled images of cats and 
+not enough comouting power
+
+The problem of aociwty / polirics is loved experience - and as we captire (surveill) more of it we will have more reliabke data fir --- Seldonism ??
+
+
+
+
+Open democracies will have an advantage in that free soeech in johrnalism is a labelling probkem
+
+that ckass docides and elites will have to decide what to do - triumph of the socialst
+
+Privacy social media and AI
 
 Scene setting
 -------------

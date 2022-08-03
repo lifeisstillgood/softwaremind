@@ -2,6 +2,73 @@ This is my post-it notes version of the book - an attempt to get some
 organisation going
 
 
+Impacts of software literacy 
+
+* The slow death of management and management class
+
+- administration and co-ordination (software just stright uo replaces)
+
+- resiurce allocation (frankly voting and internal journalism)
+
+- no one gives uo power voluntarily
+
+- coders are rhe new managers.  so managers will have to become coders to recpature power.
+
+because it is ridiculously inefficient to tell the coder what to code and try to ensure they have done so wothout readig the code. imaging how an illiterate manager could ensure the people under him writes what he wants.
+
+corcollary: managemtnwilm become like newspaper editing - reading the final output.  arguing over stule guides.
+
+* Dmeocracy plays a part
+
+chinas totalitarian bet
+conjecture:
+ML models of society will work better than ee expcet - and this will affect organisations and politics
+
+
+
+companies and gov are
+
+corruot
+corruded 
+
+
+The programmable company
+- everything is a import and functikn 
+
+Scene setting
+-------------
+
+scenes:
+
+silicon revolution: 
+humans and computers making "centaurs" better together
+Communication for every adult on planet
+
+End of the mass market / long tail.
+This will affect democracy (which scene: just selling packages of policies)
+
+
+
+policy packaging
+- individual political advertising - actuakky not a terrible idea - still needs regukatuin and of course a fully open model (see tubes wayer economics model)
+
+
+massive advatnage of co-ordinated arms (which is why large companies work well - for now!)
+but co-ordinated is hard and requires communication and awareness. internal jounrlaism 
+
+Becoming experts
+- what we donwith software has chnaged. what we want fromkournaoftware is complex - unformed. business often has no immediate feedback loops.
+
+so find one - what can younootimise for? 
+
+- feedback
+- non random features / calid encironemt / lots of opportinities
+
+- timely feedback 
+- deliberate practise
+
+
+
 Introduction
 ------------
 say-what-you-are-going-to-say
@@ -33,7 +100,7 @@ why is tech disrupting (appleninto banks, new banks in uk, amazon into groceries
 because the advatnages of software kiteracy are so great
 
 
-Democracy again
+ * Democracy again
 
 look at Modern monetary theory - gov is just partnof whole economy
 
@@ -81,22 +148,7 @@ Over sampling extreme ecents
 another social media issue
 https://www.worksinprogress.co/issue/biases-the-wrong-model/
 
-Scene setting
--------------
 
-scenes:
-
-silicon revolution: 
-humans and computers making "centaurs" better together
-Communication for every adult on planet
-
-End of the mass market / long tail.
-This will affect democracy (which scene: just selling packages of policies)
-
-
-
-policy packaging
-- individual political advertising - actuakky not a terrible idea - still needs regukatuin and of course a fully open model (see tubes wayer economics model)
 
 
 Bad investment decisions

@@ -42,6 +42,15 @@ A programmable company is a *transaprent and visible* company.
 THis will obviously hit problems.  Spy organisations will have to adapt to this as well
 Bribery will adapt in other ways. (not the McWiter brothers rolodexes)
 
+* Software, Bots and personal lives
+
+just having a server makes a diff
+Bots and programmability - this will make enourmkous diff 
+ApI ans rate likiting and so on 
+
+we will get used to it - cotrage industries 
+
+
 
 Scene setting
 -------------
@@ -536,3 +545,30 @@ and-all-that
 revolution-in-military-affairs
 wrongwithbitcoin
 ibelieve
+
+
+
+
+management is understood generally wrong like generalship is understood wrong - it is not tactical genius on the battlefield, calling out intricate orders - mostly because those orders would not be heard 
+
+and like generalship management is missing some of the understandings - that deploying people to a project is the only lever managers at most levels have 
+
+effective management levels
+- top level assigning all money
+build me a mix of tanks and artillery in this order for this mission - build orders and capital ships
+
+- colonel level - how to run a tank battalion, have bough trucks following the tanks with shells and fuel - training and logiticis 
+
+- sergeant level - clean the oil filter on that tank  - keep to training in day to day - 
+
+- grunt levle - fire the gun 
+
+three things
+
+* an army and a company is a built function - it does what it is built to do. an army of tanks cannot fight a naval battle, a company of web services is going to struggle running a logistics company
+
+
+* the doctrine for companies is changing to be software first.  Like motrorised first.  this changes everything - if the front end is software literate the whole company mist become so or it holds back 
+
+
+* a model of the battle scape enables ... not movement by moment tactical decisions but less tactical freedom - the freedom to experiment is going - so it is m much more likely to be a immutable company 

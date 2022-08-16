@@ -2,6 +2,8 @@ Structure
 ---------
 
 * Intro
+Software Literacy 
+
 
 * Second Order consequences.
 ** coders are the new managers
@@ -29,6 +31,16 @@ History of industrial revolution, not just democracy.
 chinas totalitarian bet conjecture: ML models of society will work
 better than ee expcet - and this will affect organisations and
 politics
+
+Counter-Totalitarian bet
+------------------------
+Our bet is that like economic management, you cannot donthis centrally.Too down wont work - and thisnis not just for an exonomy but for a compmay  - the complexity of software is not just a benefit but a 
+
+- military jet fighters in saudi and USA. 
+
+companies become too complex (third order - smaller companies and more clarity over conglomeratisation) and will become smaller and more focused.  There is some theory of the firm here as well
+
+
 
 But if we bet on democracy for our politics, our defence.
 Why are we not betting on it for 50% of our resource allocation.

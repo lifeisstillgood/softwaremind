@@ -32,6 +32,8 @@ then managing it *must* be coding. Anything else is hilariously inefficient
 
 ** modelling, monitoring, mentoring
 
+Use of models and monitors and democracy to decide best course if action as ipposed ti political networks - democracy todsy tries this.  At worst we get inefficnecies like every oart of a plane made in different states - at least thats fair vs effocent whilst making resolience and improved decision making 
+
 - so only coders are managers
 - so the barrier to being a manager is literacy
 - so it will look like newspaepr office.  Editors discuss the stories.

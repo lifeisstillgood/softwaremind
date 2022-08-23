@@ -6,15 +6,13 @@ Software Literacy
 
 
 * Second Order consequences.
-** coders are the new managers
-
-** Slow death of management class
-   - Shit jobs theory (paying off middle class / UBI)
-   - administration and co-ordination simple replacmeent
 
 ** programmable company
 - if it is possible to program the whole thing (think api access person.filter)
 then managing it *must* be coding. Anything else is hilariously inefficient
+
+** modelling, monitoring, mentoring
+
 - so only coders are managers
 - so the barrier to being a manager is literacy
 - so it will look like newspaepr office.  Editors discuss the stories.
@@ -25,6 +23,25 @@ then managing it *must* be coding. Anything else is hilariously inefficient
 - democracy unleashed by jounrlaism pointing out silly things.  But investors will support journalists on the big stories.
 - companies already thoeretically seperated into changing the company and running the company, but this may well become clearer distinction.  Amazon warehouse staff vs coders.
 
+** coders are the new managers
+
+** Slow death of management class
+   - Shit jobs theory (paying off middle class / UBI)
+   - {DeathOfProjectManagement}
+   - administration and co-ordination simple replacmeent
+   - modelling and monitoring is a software endeavor.
+   - most modelling done now barely rises above an out of date spreadsheet,
+     and hardly ever touches even standard deviations
+   - so management becomes a coaching activity - maybe supervision  of standards.
+   - why let allocation of significant resources be lower down hierarchy?
+   - is this in favour of totaltitarian bet
+   - how do we choose to allocate resources, and monitor the results? democracy
+   
+   - strategy is built strategy
+   - so the company builders are the key. - coders.
+   - who controls the coders?
+   - unionisation, democracy,
+   
 * Democracy matters
 History of industrial revolution, not just democracy.
 
@@ -34,79 +51,109 @@ politics
 
 Counter-Totalitarian bet
 ------------------------
-Our bet is that like economic management, you cannot donthis centrally.Too down wont work - and thisnis not just for an exonomy but for a compmay  - the complexity of software is not just a benefit but a 
+
+Our bet is that like economic management, you cannot donthis
+centrally.Too down wont work - and thisnis not just for an exonomy but
+for a compmay - the complexity of software is not just a benefit but a
 
 - military jet fighters in saudi and USA. 
 
-companies become too complex (third order - smaller companies and more clarity over conglomeratisation) and will become smaller and more focused.  There is some theory of the firm here as well
-
-
+companies become too complex (third order - smaller companies and more
+clarity over conglomeratisation) and will become smaller and more
+focused.  There is some theory of the firm here as well
 
 But if we bet on democracy for our politics, our defence.
 Why are we not betting on it for 50% of our resource allocation.
 Are CEOs genetically superior to the rest of us?
 
-massive advatnage of co-ordinated arms (which is why large companies work well - for now!)
-but co-ordinated is hard and requires communication and awareness. internal jounrlaism 
+massive advatnage of co-ordinated arms (which is why large companies
+work well - for now!)  but co-ordinated is hard and requires
+communication and awareness. internal jounrlaism
 
 * corruption, corrusion and software
-A programmable company is a *transaprent and visible* company.
-THis will obviously hit problems.  Spy organisations will have to adapt to this as well
-Bribery will adapt in other ways. (not the McWiter brothers rolodexes)
 
-* Software, Bots and personal lives
+A programmable company is a *transaprent and visible* company.  THis
+will obviously hit problems.  Spy organisations will have to adapt to
+this as well Bribery will adapt in other ways. (not the McWiter
+brothers rolodexes)
 
+* Programmable person
+
+Software, Bots and personal lives
 just having a server makes a diff
 Bots and programmability - this will make enourmkous diff 
 ApI ans rate likiting and so on 
-
 we will get used to it - cotrage industries 
+slaves,machines, organising our urban lifestyles.
+centaurs
+Communication for every adult on planet
+MOOP
+
+* Programmable society
+
+Laws, see the model.
+Agree /se the impact
+Just as iphone tracking will transform people and companies,
+simply knowing everything everyhwhere all at once will enable
+ridiculously useful planning
+THis is a point in favour of the totalitarian bet.
+We just have to work at it.
+
+Is AI going to change everything?
+Nah. Its big, but big as in SQL, not big as in literacy.
+Firstly forget AGI.  Imagine if we did make a human like intelligence.
+THen speed it up a million times.  Would you like to be speed up a million times? we now what a human shut indoors just thinking with minimal interactions does - its not pretty.  
+
+SO make this AGI have millions more interactions.  what can they pick up and discovedr - essentially this is millions of experiments.
+
+ANd this is what we are describing as the meta-human,the moop. Daily interactions with smartphones feeding back into a data store.
+
+We are about to kick off a global epidemiolgicla experiment.  Managed well
+it will benefit all of humanity.
+
+And we dont need some god like AGI in the middle.  We just need the principles
+of medical science - empirically driven, with the best interstes of the individual as its moral core.
 
 
 
-Scene setting
--------------
+
+
 
 scenes:
 
-silicon revolution: 
-humans and computers making "centaurs" better together
-Communication for every adult on planet
-
-End of the mass market / long tail.
-This will affect democracy (which scene: just selling packages of policies)
 
 policy packaging
 - individual political advertising - actuakky not a terrible idea - still needs regukatuin and of course a fully open model (see tubes wayer economics model)
 
 What is ML good at and what is it bad at
 - same thing as human expertese.
-
 - need immediate feedback loops. Why market making in houses is hard and slow and shares is wrapped up.
-
 so find one - what can younootimise for? 
-
 - feedback
 - non random features / calid encironemt / lots of opportinities
 - timely feedback 
 - deliberate practise
 
+
+
 * Conclusion
-Software literacy is a thing.
-It will change companies and societies
-A programmable commpany will operate at speeds undreant of.
-But it will be like Jet fighter - building the company that is bigger and faster will
-be a nightmare - but once it is done you can build many many more and cheaeper levels.
-Once the trains are built and monitored then it just runs.
 
-However we should expect accurate costs.  This might mean a degredation of expectation in society
+Software literacy is a thing.  It will change companies and societies
+A programmable commpany will operate at speeds undreant of.  But it
+will be like Jet fighter - building the company that is bigger and
+faster will be a nightmare - but once it is done you can build many
+many more and cheaeper levels.  Once the trains are built and
+monitored then it just runs.  But it does one thing.
 
-Democracy is a thing too.
-Democracy thrived and needed mass literacy. So people could learn and trust
-The new democracies will need mass software literacy - same learning and trusting
+However we should expect accurate costs.  This might mean a
+degredation of expectation in society
 
-"A programmable company is what you get when you ask a software engineer to design
-a company."
+Democracy is a thing too.  Democracy thrived and needed mass
+literacy. So people could learn and trust The new democracies will
+need mass software literacy - same learning and trusting
+
+"A programmable company is what you get when you ask a software
+engineer to design a company."
 
 It wont look like anything else we are used to.
 
@@ -389,31 +436,67 @@ leadership
 ----------
 https://en.m.wikipedia.org/wiki/Hugh_Dowding
 
-"""Beyond the critical importance of the overall system of integrated air defence which he had developed for Fighter Command, his major contribution was to marshal resources behind the scenes (including replacement aircraft and air crew) and to maintain a significant fighter reserve, while leaving his subordinate commanders' hands largely free to run the battle in detail."""
+"""Beyond the critical importance of the overall system of integrated
+air defence which he had developed for Fighter Command, his major
+contribution was to marshal resources behind the scenes (including
+replacement aircraft and air crew) and to maintain a significant
+fighter reserve, while leaving his subordinate commanders' hands
+largely free to run the battle in detail."""
+
 
 Changes in compmaies
 --------------------
 
 - Project management 
-Project management is promarily programme mgmt - co-ordination between different projects. Its not some clever methodology that will make the current single project magically work better.  You can do that with a decent todo list (hence joel spolsky)
 
-The provlem is co-ordinating between projects to a oid catastrpphe - see the thing abiut tubnel under airprirt that was too small
+{DeathOfProjectManagement}
 
-You *could* donthis by careful planning - but in software world its simpler easier more eliable to write tests and stuc out - this explains growthbof mixroservices (which match bausiness functions)
+Project management is promarily programme mgmt - co-ordination between
+different projects. Its not some clever methodology that will make the
+current single project magically work better.  You can do that with a
+decent todo list (hence joel spolsky)
 
-expand to inclide - large baujess taxonomies and service mapping (shoukdnbe managing 1000s of movroservoces
+The provlem is co-ordinating between projects to a oid catastrpphe -
+see the thing abiut tubnel under airprirt that was too small
 
-so a companu that cannot introspect its current state is goign to need project mgmt - but onbthat can, can test next state releases and so on can make progress - without prject mgm - and that is proceless
+You *could* donthis by careful planning - but in software world its
+simpler easier more eliable to write tests and stuc out - this
+explains growthbof mixroservices (which match bausiness functions)
 
+expand to inclide - large baujess taxonomies and service mapping
+(shoukdnbe managing 1000s of movroservoces
 
+so a companu that cannot introspect its current state is goign to need
+project mgmt - but onbthat can, can test next state releases and so on
+can make progress - without prject mgm - and that is proceless
 
-Micro sevices - stop trying to control it in one persons head - the abstractions are too large to be useful 
- microservices show the actual useful units if process / acticity - and are hiw business should arenage itself 
- 
- and they need to be manages not woth "thats bobs area" bur with groahviz ans software 
- - need to become software literate 
+Micro sevices - stop trying to control it in one persons head - the
+ abstractions are too large to be useful microservices show the actual
+ useful units if process / acticity - and are hiw business should
+ arenage itself and they need to be manages not woth "thats bobs area"
+ bur with groahviz ans software - need to become software literate
 
+THis change from 'bobs area does that so I should talk to bob' and
+more detailed understanding and monitoring is probably the biggest change
+- companies become more machine and less network of people.
 
+Imagine this is ship-building vs ship-day-to-day running.
+Given all strategy is built strategy, the leverage lies in
+the design of the ship.
+
+A future is where the ship can evolve to meet changing need and understanding.
+THis is desperately important - avoids waterfall.
+But how feasible is it?
+How does democracy come intoit.
+Why cant you change the code? openness, modelling.
+
+If its totaitarian, then only the shipbuilders get to understand the systemic imapcts.  If its an open ship, everyone can.  And the ship can evolve safely.
+
+that is the answer to the totalitarian bet.  If everyone is in control,
+you can scale. if only a few people are then they cannot scale.  And it is the
+same reason hierarchies wont work.
+
+Evolution needs democracy.
 
 Democracy
 ---------
@@ -440,9 +523,14 @@ then content moderation stops and younsimply become a punlisher - why bother mod
 
 Even nazis need a safe space
 --------------
-Everyones lived experience gets then to a certain set of opinions in life - and while almsot everyone is willing to chnage they have a himan need to be recognised where they are and be part if the conversation ans conversion
 
-because internt and social media and gloaboisation is requireing us to find new common ground - what is and is not acceptable
+Everyones lived experience gets then to a certain set of opinions in
+life - and while almsot everyone is willing to chnage they have a
+himan need to be recognised where they are and be part if the
+conversation ans conversion
+
+because internt and social media and gloaboisation is requireing us to
+find new common ground - what is and is not acceptable
 
 conclusion
 ----------
@@ -539,6 +627,16 @@ the impicaions are huge - you need to be explixt as tonthe aims of the orgnaisat
 and it newns org can be self evovling - self modelling 
 
 we dont have to lice in hierarchy 
+
+This is prbably too far an analogy
+But if we think that it is really hard to turn an oil tanker (analogy)
+imagine you want to tranform that oil tanker into an aircraft.
+If every nut and bolt, every process, was software controlled,then
+the impossible just becomes highly difficult.
+
+
+
+
 
 democracy
 ignorance-of-the-law-is-no-defence

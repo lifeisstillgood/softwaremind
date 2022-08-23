@@ -1,38 +1,49 @@
-
-The veil of capitalism
-----------------
-Like veilmof ognorance 
-but ot feeda into why people 
-think that Jeff bezos earning 27millionntimes an employee is ... not fair but acceptable
-
-Why is structuring things that way good? why does ownershipmconfer contolr?
-
-why does not Einstein own everything? What about Linux
-
-what about Fritz Haber ? it still is powerful firm. 
-Why is current struxture of firms the only one? Germany had a differwnt one but lost the industrial wars. Maybe thats why.  Move too far from "what worked" and likely to fail completely 
-
-But does that counter the totalitarian bet? 
-What struxture can we find that is going to work, ans why did the induatial revolution work.  Is there any unviabke rocket shape once younhave enough jet? 
-
-Wjat does orbit look like in this context - and is stabilisation feedback and aerodynamics importnat? 
-
 Structure
 ---------
 
 * Intro
 Software Literacy 
+Just the basics.
+
+What are the intersting questions? (Ben Evans)
+
+If software is *just* engineering like building construction,
+then we build it once and we walk away.  Walmart or Tescos have a dependancy
+on building construction, and even like Mcdonalds famously might be a real estate company thinking its  aburger company,  but the questions that matter are not software questions
+
+But if software is literacy. If the whole of a compnay can (in theory) be re-written
+in one day, then the questions stay sfotware.  Imagine a store that can be re-configured at night.
+AN extra storey added, the entrance moved.  Then each day the building construction feeds into
+the other relevant questions.
+
+This is to me the impact of software.  Companies are made from software like buildings made from broicks.
+The virtual overlays and onforma and controls the real.
+
+And the first company in each industry to successfully combine the flow of software, to make each decision point software literate, is *assumed* to have advantages.  
+
+There are limits.  You (probably) cannot move from being a car company to a real estate company.
+But if you can change yourself quickly and easily, maybe you have industry advantages.
+
+THis is why it is an interesting question to ask is Tesla a software company or a car company.
+
+
 
 
 * Second Order consequences.
 
 ** programmable company
+
 - if it is possible to program the whole thing (think api access person.filter)
 then managing it *must* be coding. Anything else is hilariously inefficient
+- what is a company? two things - the 
 
 ** modelling, monitoring, mentoring
 
-Use of models and monitors and democracy to decide best course if action as ipposed ti political networks - democracy todsy tries this.  At worst we get inefficnecies like every oart of a plane made in different states - at least thats fair vs effocent whilst making resolience and improved decision making 
+Use of models and monitors and democracy to decide best course if
+action as ipposed ti political networks - democracy todsy tries this.
+At worst we get inefficnecies like every oart of a plane made in
+different states - at least thats fair vs effocent whilst making
+resolience and improved decision making
 
 - so only coders are managers
 - so the barrier to being a manager is literacy
@@ -63,7 +74,39 @@ Use of models and monitors and democracy to decide best course if action as ippo
    - who controls the coders?
    - unionisation, democracy,
    
-* Democracy matters
+Democracy matters
+-----------------
+
+Democratic company
+------------------
+Stakeholders can use regulation. This is about providers of capital deciding on most effective
+forms of allocation.
+
+Labour capital and financial capital
+
+Level 0 - non tradesunions
+Level 1 - trades union
+LEvle 2 - 
+
+The veil of capitalism
+----------------
+Like veilmof ognorance 
+but ot feeda into why people 
+think that Jeff bezos earning 27millionntimes an employee is ... not fair but acceptable
+
+Why is structuring things that way good? why does ownershipmconfer contolr?
+
+why does not Einstein own everything? What about Linux
+
+what about Fritz Haber ? it still is powerful firm. 
+Why is current struxture of firms the only one? Germany had a differwnt one but lost the industrial wars. Maybe thats why.  Move too far from "what worked" and likely to fail completely 
+
+But does that counter the totalitarian bet? 
+What struxture can we find that is going to work, ans why did the induatial revolution work.  Is there any unviabke rocket shape once younhave enough jet? 
+
+Wjat does orbit look like in this context - and is stabilisation feedback and aerodynamics importnat? 
+
+
 History of industrial revolution, not just democracy.
 
 chinas totalitarian bet conjecture: ML models of society will work

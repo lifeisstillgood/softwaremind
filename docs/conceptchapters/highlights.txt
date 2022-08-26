@@ -68,6 +68,10 @@ resolience and improved decision making
 
 ** coders are the new managers
 
+If we dont want texhnical people to stop being texhnical when having to "manage" then build a compnay that can be managed with code.
+
+
+
 ** Slow death of management class
    - Shit jobs theory (paying off middle class / UBI)
    - {DeathOfProjectManagement}

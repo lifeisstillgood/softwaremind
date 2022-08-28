@@ -5,7 +5,29 @@ Structure
 Software Literacy 
 Just the basics.
 
-What are the intersting questions? (Ben Evans)
+its not a technology
+compare iterative develolment of steam engiens as conquering niches to computing
+
+maybe its true for silicon but the interesting question for aoftware is not faster faster.  we have kotnhit a point where software can carry its own fuel.
+
+Fairness and overall production
+- I am risk intolerant - as are most people. the investment to be more productive is a risk.  and the social context makes a difference.  startups and BCs - but mostly there is a voting / control over resources.  do we feel like we have control? 
+
+This is my final
+conjexture - that taking us to a higher performing economy like Rome means better instirutions - we know this on the totalitarian bet, but the even higher level is making a society that has everyone willing abke to build their own capital moat. a society of entreprenuers. a software loterate society trading as equals 
+
+
+Asking the Interesting questions
+--------------
+(Note on Ben Evans)
+
+The valuation of firms is based on are they traditional industry or are they suddenly a software firm with thise sweet near zero marginal costs.
+
+Well no. Obviously outside if pure software licenses the marginal costs mount, and for SaaS companies (even like Facebook or Google) the anciallry costs are huge (basically invent regulation and society on line please - which is why Zuckerberg keeps asking please regulate me)
+
+But rhere is a concisrent attempt like WeWork to be valued as something soecial. No obviously everyone wishes they were soecial but at somepoint my conjecture is that there is something aoecial about software.
+
+
 
 If software is *just* engineering like building construction,
 then we build it once and we walk away.  Walmart or Tescos have a dependancy
@@ -70,6 +92,14 @@ resolience and improved decision making
 
 If we dont want texhnical people to stop being texhnical when having to "manage" then build a compnay that can be managed with code.
 
+Why do people want to "move into management"
+
+- more control (over their own work)
+- more control over others 
+- more money
+- more security 
+
+Most of which can be solved via voting? sounds like needs for trades unions 
 
 
 ** Slow death of management class

@@ -130,6 +130,11 @@ Most of which can be solved via voting? sounds like needs for trades unions
 
 
 ** Slow death of management class
+
+   - deathbof project management 
+   https://news.ycombinator.com/item?id=32647781
+   my theory of management - checking the smooth production of needed output.  This is basically reviewing code and checkingmplanned tickets are in order.  And just writing about it (journalism)
+   this os what project managers are supposed to do - so if thats managwnebt what di mangwrs do? 
    - Shit jobs theory (paying off middle class / UBI)
    - {DeathOfProjectManagement}
    - administration and co-ordination simple replacmeent
@@ -515,6 +520,9 @@ Freedom?
 Chinese totalitarian bet - our bet is on freedom through respectful
 politelness
 
+"""The dilemma that China's leaders have is that they need an educated workforce, capable of logical and critical thinking, but they can't stop that workforce thinking critically outside work."""https://news.ycombinator.com/item?id=32643572
+
+
 
 class war
 ---------
@@ -578,6 +586,19 @@ contribution was to marshal resources behind the scenes (including
 replacement aircraft and air crew) and to maintain a significant
 fighter reserve, while leaving his subordinate commanders' hands
 largely free to run the battle in detail."""
+
+This is definition of management by rolled up detail - focus on code reviews and Jiras. That tells younwhether younare heading to your goals and what needs to be adjusted (monitoring throughput, inouts and outputs, in prod and in dev)
+
+it is also why project mgmt is not a thing. its managwment. and if there is more pllitics (ie find out about the funding the new plans erc, then upper mgmt is failing to spread those around)
+
+
+I think this is a re-work of "Chinas Totalitarian Bet". So there is a theory that the reason Middle East armies are basically expensive and crap is that the elites of the Saudis and Kuwaitis and Iraqis have loads of money but are despots and won't trust anyone but the most loyal / ethnically familial close with real power. So the tank battalions are lead not by talented colonels but by a cousin of the royal family. Spend six million training a nobody from nowhere Tom Cruise to be a fighter pilot? Make all the princes pilots. Let a sergeant train with a Anti Tank weapon. No way. They might aim at the cousin in his tank.
+This is the opposite of the (more) meritocratic USA. Decision making is pushed downwards and the coherent mission is aligning all.
+It is worth noting that a lot of ISIS / al-quida success is attributed to having to let go of this attitude - their central driving mission meant everyone was loyal, this decision making and training could be pushed right down into cells. Anyway I am not an expert here.
+The point being that Totalitarian regiemes have a hard time making militaries that are flexible and responsive. And that rolls over to factories and civil servants etc.
+Now the guardian writer Jon (?) and up with Chinas Totalitarian Bet - china knows this but thinks software and the surveillance state changes the game enough that either no-one can get out of line enough before their digital footprint catches them (again see al-qeueda) or that they can just give direct orders to be followed like Amazon warehouse packers and that will allow such flexibility and change.
+So yeah mass education was about teaching the masses to think. And the people in say Victorian Britain who said this will end their way of life were actually right - fortunately for us.
+The question now is can software replace our thinking? Can we all just do as we are told ? Will a society of drones be worth living in or even be productive enough to survive? And will the opposite, a more democratic more meritocratic and more fair and generous society be more productive innovative and worthwhile. I say Yes to the last and no to all others.
 
 
 Changes in compmaies

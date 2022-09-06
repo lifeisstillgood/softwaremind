@@ -1,0 +1,109 @@
+Structure
+---------
+
+* Intro
+- cavern, newspaper, accounts
+- literacy, mass literacy, 1454, 1492, etc.
+
+* Second Order consequences.
+
+** management is not a grey blob
+- end of GE / Welch idea of ubermentschen.
+- management is mostly HR - if all you have is hierarchy then all
+you can do is move people around.
+- but then power comes form more people - which is not how innovation works
+- hence Agile trying to fix scale problem. But big tech not use that.
+- break down management into chunks
+- the hierarchy implies total control, direction, process, etc. but that
+rarely works.
+- But 'success' - nah. You could make a lottery for Prime minister or president and have a good chance of people doing a competant job without (Johnson kennedy etc etc)
+
+
+** coders are the new managers
+
+
+** Slow death of management class
+   - Shit jobs theory (paying off middle class / UBI)
+   - administration and co-ordination simple replacmeent
+
+** programmable company
+- if it is possible to program the whole thing (think api access person.filter)
+then managing it *must* be coding. Anything else is hilariously inefficient
+- so only coders are managers
+- so the barrier to being a manager is literacy
+- so it will look like newspaepr office.  Editors discuss the stories.
+- but the complexity level is huge (see microservices) and will need data analysis
+- so the possible moves will be huge - but like proteins it is a manageable solutuion
+- mapping as a means to discuss impacts
+- internal journlism
+- democracy unleashed by jounrlaism pointing out silly things.  But investors will support journalists on the big stories.
+- companies already thoeretically seperated into changing the company and running the company, but this may well become clearer distinction.  Amazon warehouse staff vs coders.
+
+* Democracy matters
+History of industrial revolution, not just democracy.
+
+chinas totalitarian bet conjecture: ML models of society will work
+better than ee expcet - and this will affect organisations and
+politics
+
+But if we bet on democracy for our politics, our defence.
+Why are we not betting on it for 50% of our resource allocation.
+Are CEOs genetically superior to the rest of us?
+
+massive advatnage of co-ordinated arms (which is why large companies work well - for now!)
+but co-ordinated is hard and requires communication and awareness. internal jounrlaism 
+
+* corruption, corrusion and software
+A programmable company is a *transaprent and visible* company.
+THis will obviously hit problems.  Spy organisations will have to adapt to this as well
+Bribery will adapt in other ways. (not the McWiter brothers rolodexes)
+
+
+Scene setting
+-------------
+
+scenes:
+
+silicon revolution: 
+humans and computers making "centaurs" better together
+Communication for every adult on planet
+
+End of the mass market / long tail.
+This will affect democracy (which scene: just selling packages of policies)
+
+policy packaging
+- individual political advertising - actuakky not a terrible idea - still needs regukatuin and of course a fully open model (see tubes wayer economics model)
+
+What is ML good at and what is it bad at
+- same thing as human expertese.
+
+- need immediate feedback loops. Why market making in houses is hard and slow and shares is wrapped up.
+
+so find one - what can younootimise for? 
+
+- feedback
+- non random features / calid encironemt / lots of opportinities
+- timely feedback 
+- deliberate practise
+
+* Conclusion
+Software literacy is a thing.
+It will change companies and societies
+A programmable commpany will operate at speeds undreant of.
+But it will be like Jet fighter - building the company that is bigger and faster will
+be a nightmare - but once it is done you can build many many more and cheaeper levels.
+Once the trains are built and monitored then it just runs.
+
+However we should expect accurate costs.  This might mean a degredation of expectation in society
+
+Democracy is a thing too.
+Democracy thrived and needed mass literacy. So people could learn and trust
+The new democracies will need mass software literacy - same learning and trusting
+
+"A programmable company is what you get when you ask a software engineer to design
+a company."
+
+It wont look like anything else we are used to.
+
+Hints
+- microservices, swarms, AB testing, requirements and capabilities.

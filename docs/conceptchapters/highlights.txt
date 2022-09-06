@@ -3,8 +3,15 @@ Structure
 
 theory of firm - why shoukd not regulations apply to internal market of company?  see bidding up salaries for internal jobs 
 
+So lots of business in a box (pyscriptUI and HR and SOPpy and ... just because software forms can be smaller firms.)
 
 software forces specidic - so politics amd regatok become explicit 
+
+exploxit:
+imagine taking all
+policy documents in a large compnay and repalcing it with runnabke code - cose youncan of course read but code rhat with right access you can ezexute - code that will ask if people.reporting-to < 3 then start isstilllinemanager reciew
+
+all of that underneath code needs to be written - the whole company needs to be written - but when it is ... 
 
 Software literacy, cavern and changes
 Like Lawyers

@@ -1,6 +1,15 @@
 Structure
 ---------
 
+-> more openness / sunlight improves quality of decision making, leading to better decsions in dmeocracy.  But only if decisions are open.  See DOminic Cummings views on gov decisions.  Complexity is hard, but at least software can handle lots of data, which is often mistekn for complexity.  simulation is then easier.
+
+But simple models and visualisation is useful - and will grow as more policy is digitised and made exposed to sunlight.  Deepstate is not a bad thing.
+
+But software literacy, leads to programmable companies, which can lead to
+AB testing of actions which can lead to real-world empirical models which leads to better decision making.
+
+
+
 Software literacy, cavern and changes
 
 - What advantages does a litersate company have?

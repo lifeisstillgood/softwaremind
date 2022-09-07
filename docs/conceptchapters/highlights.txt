@@ -1,46 +1,72 @@
 Structure
 ---------
 
-Judging as software is really looking for supra-national network effects - see ben evans on Heros outside USA - structure was wrong to encourage use of hit shows to grow brand. 
-
-theory of firm - why shoukd not regulations apply to internal market of company?  see bidding up salaries for internal jobs 
-
-So lots of business in a box (pyscriptUI and HR and SOPpy and ... just because software forms can be smaller firms.)
-
-software forces specidic - so politics amd regatok become explicit 
-
-exploxit:
-imagine taking all
-policy documents in a large compnay and repalcing it with runnabke code - cose youncan of course read but code rhat with right access you can ezexute - code that will ask if people.reporting-to < 3 then start isstilllinemanager reciew
-
-all of that underneath code needs to be written - the whole company needs to be written - but when it is ... 
-
 Software literacy, cavern and changes
-Like Lawyers
-dashboard for life, dashboard for local politics - enhanced journlaism - data jounrlism is just a term for
-journalism,
-Journalism as data labelling for mass AI / ML that is meta human
-meta human - see Stble diffusion art - guided by all work of humans previously - it is just faster not creative?
+
+- What advantages does a litersate company have?
+
+- Software forces explicit
+
+-- architecture and robotic construction
+
+-- change all policies in a large company.  Now change the underlying
+APIs so the policy can read the data,then wht you have is a
+programmable company But you have now made everything explicit.  See
+Volkswagen software chanvges. Can we see the actual commits?
+
+-- a programmable company can provide dashboard.  Choice of dashboard
+   matters (see car dashboard reflects the org structure.  But if the
+   dashboard is all that really matters changing the dashboard can
+   affect org structure.
+
+-- lawyers - architects
+
+-- journalism View this as data labelleing for society.  But that implies jounrnalism has a place in
+a company. It is propaganda if done by mgmt.  What does it look like / how does a large company make
+independant journalism It will be a seperate power base? Not exactly equivalent because journalism used to have access to masses that politicians did not - Facebook twittere broke that.
+But jounrlaiism in companies will be first important step towardsd democracy in companies.
+
+-- but as we see changes in one part of life (a dashboard showing all costs etc for the business we work in, we are likely to demand similar access to local policitcs) symbiotic evolution.
+
+-- the metahuman
+jounrlism and data labelling - the "common shared corpus".
+meta human - see Stble diffusion art - guided by all work of humans previously - it is just faster not creative? Stable Diffusion has shown the explosion of art and value open source has.
+
+Future is open because the unlocking of total social wide value is greater.
+Implication is that is open works best for software, and world is becoming software,
+then open works best for people, companies and society.
+
+Its a conjecture. A bet.  cf Chinas totalitarian bet
+
+Ask the questions (pace the danger of industriual bathwater)
+New intersting questions
+
+- structure of companies and capital allocation (why is Elon rich)
+- Urban design, 49 slaves and energy transiation / all pverty is energy poverty
+- higher functioning urban software economy - needs instuitutions - new institutions - software instituions. No I dont know what they will look like.  (law (see policy in companies), journalism, data cleanliness / ownership)
+Just as urban design is a choice, so is capital allocation and resource allocation
+Why is 50% of resource allocation in dicatorships? Why is capital labour under-valued?
+
+Will software-as-capital change this
 
 Programmable company, society and person, moop
 SRE - what you get whne you ask a softwar engineer to desing a release process.
 What do you get when you ask a softaee engineer to design a company? A society?
 If I am right about literacy, then companies will be deisnged by software engineers. Society wull be
 
-All economy is energy economy, all poverty is energy poverty.
-Higher functioning ROman economy
+Moop and public epidemiology
+ONly flowing solution I can see is all PPI data is public, published, but commercial use is licensed and costs - and see cottage industry of people trying to get people to pay for illegal useage.
 
-Capital allocation and path dependancy - why should Elon get all the cash?
-urban design, 49 slaves.
-Just as urban design is a choice, so is capital allocation and resource allocation
-Why is 50% of resource allocation in dicatorships? Why is capital labour under-valued?
-Will software-as-capital change this
-
-Inflection points we can see
 UBI
-public epidemeology 
-solar energy transition
-faster voting?
+most dramatic transition away from current capitilism ever conceived.
+Not sure if how it will work
+But likely to see dramatic shift on compensation arrangments
+
+Size of firms
+Coase - but yardstick. If firm has internal "no pouching" arrangement, it is too large and
+an internal hiring market could exist.  THis is pretty much every firm over 5000 people.
+
+
 
 
 Structure of society
@@ -105,6 +131,10 @@ The enegy transitio  and the politics transition
 
 the software mind is the mind that can not just design a sustainablenworld - its the mind that can agree to and accept it.
 
+Size of a Firm / how to run a firm 
+theory of firm - why shoukd not regulations apply to internal market of company?  see bidding up salaries for internal jobs 
+
+So lots of business in a box (pyscriptUI and HR and SOPpy and ... just because software forms can be smaller firms.)
 
 
 
@@ -141,6 +171,9 @@ Implications cor structure of democracy - needs to be negotiated, bottom up, few
 Top down gets big militaries and so on. but infrasturcutre can be buikt by contract. its just more comlocated but software can smoothbthat put. 
 
 cycleways are probably the most obvious "If I had 40 servants I would not love like this" - https://www.kickstarter.com/projects/carltonreid/lets-rescue-britains-forgotten-1930s-protected-cyc/posts/3493962
+
+* Judging as software is really looking for supra-national network effects - see ben evans on Heros outside USA - structure was wrong to encourage use of hit shows to grow brand. 
+
 
 How we structure society matters
 ------------------------

@@ -30,52 +30,100 @@ these are ideals
 more aunlight means more democracy means better decisions (usually)
 
 Judging as software is really looking for supra-national network effects - see ben evans on Heros outside USA - structure was wrong to encourage use of hit shows to grow brand. 
+Software literacy, explicit, programmable company
 
-theory of firm - why shoukd not regulations apply to internal market of company?  see bidding up salaries for internal jobs 
+- What advantages does a literate company have?
 
-So lots of business in a box (pyscriptUI and HR and SOPpy and ... just because software forms can be smaller firms.)
+- Software forces explicit. 
 
-software forces specidic - so politics amd regatok become explicit 
+-- architecture and robotic construction
 
-exploxit:
-imagine taking all
-policy documents in a large compnay and repalcing it with runnabke code - cose youncan of course read but code rhat with right access you can ezexute - code that will ask if people.reporting-to < 3 then start isstilllinemanager reciew
+-- change all policies in a large company.  Now change the underlying
+APIs so the policy can read the data,then wht you have is a
+programmable company But you have now made everything explicit.  See
+Volkswagen software chanvges. Can we see the actual commits?
 
-all of that underneath code needs to be written - the whole company needs to be written - but when it is ... 
+-- a programmable company can provide dashboard.  Choice of dashboard
+   matters (see car dashboard reflects the org structure.  But if the
+   dashboard is all that really matters changing the dashboard can
+   affect org structure.
 
-Software literacy, cavern and changes
-Like Lawyers
-dashboard for life, dashboard for local politics - enhanced journlaism - data jounrlism is just a term for
-journalism,
-Journalism as data labelling for mass AI / ML that is meta human
-meta human - see Stble diffusion art - guided by all work of humans previously - it is just faster not creative?
+-- lawyers will be the interface layer between business desire /
+opportunity and configuration.  But if a company is 'configurable',
+then why have executives? Just change the code?  [Death of management]
+
+-- journalism View this as data labelleing for society.  But that
+implies jounrnalism has a place in a company. It is propaganda if done
+by mgmt.  What does it look like / how does a large company make
+independant journalism It will be a seperate power base? Not exactly
+equivalent because journalism used to have access to masses that
+politicians did not - Facebook twittere broke that.  But jounrlaiism
+in companies will be first important step towardsd democracy in
+companies.
+
+-- but as we see changes in one part of life (a dashboard showing all
+   costs etc for the business we work in, we are likely to demand
+   similar access to local policitcs) symbiotic evolution.
+
+-- the metahuman jounrlism and data labelling - the "common shared
+corpus".  meta human - see Stble diffusion art - guided by all work of
+humans previously - it is just faster not creative? Stable Diffusion
+has shown the explosion of art and value open source has.
+
+Future is open because the unlocking of total social wide value is
+greater.  Implication is that is open works best for software, and
+world is becoming software, then open works best for people, companies
+and society.
+
+Its a conjecture. A bet.  cf Chinas totalitarian bet
+[FOSS]
+[CHINA TOTALITARIAN BET]
+
+
+Ask the questions (pace the danger of industriual bathwater)
+New intersting questions
+
+- [CAPITAL STRUCTURE] structure of companies and capital allocation (why is Elon rich)
+- [URBAN DESIGN] Urban design, 49 slaves and energy transiation / all pverty is energy poverty
+- higher functioning urban software economy - needs instuitutions - new institutions - software instituions. No I dont know what they will look like.  (law (see policy in companies), journalism, data cleanliness / ownership)
+Just as urban design is a choice, so is capital allocation and resource allocation
+Why is 50% of resource allocation in dicatorships? Why is capital labour under-valued?
+
+Will software-as-capital change this
 
 Programmable company, society and person, moop
 SRE - what you get whne you ask a softwar engineer to desing a release process.
 What do you get when you ask a softaee engineer to design a company? A society?
 If I am right about literacy, then companies will be deisnged by software engineers. Society wull be
 
-All economy is energy economy, all poverty is energy poverty.
-Higher functioning ROman economy
+Moop and public epidemiology
+ONly flowing solution I can see is all PPI data is public, published, but commercial use is licensed and costs - and see cottage industry of people trying to get people to pay for illegal useage.
 
-Capital allocation and path dependancy - why should Elon get all the cash?
-urban design, 49 slaves.
-Just as urban design is a choice, so is capital allocation and resource allocation
-Why is 50% of resource allocation in dicatorships? Why is capital labour under-valued?
-Will software-as-capital change this
-
-Inflection points we can see
 UBI
-public epidemeology 
-solar energy transition
-faster voting?
+most dramatic transition away from current capitilism ever conceived.
+Not sure if how it will work
+But likely to see dramatic shift on compensation arrangments
+
+Size of firms
+Coase - but yardstick. If firm has internal "no pouching" arrangement, it is too large and
+an internal hiring market could exist.  THis is pretty much every firm over 5000 people.
 
 
-Structure of society
+
+
+Programmable society
+
+There is the fear that we will dance to the tune of Cambridge Analytica and Ad-men
+But there is an immune reaction, competition and more importantly, the power of truth.
+
+
 
 * moop
+
 * greater complexity higher productive society - also fairer soxiety. That massive capital allocation unlikely to be the best solution (chinese cities)
+
 * end of big artists (but still big songs)
+
 * programmable person company and society (democracy and agency - persuasion not coercion)
 
 UBI means end of coercion and need for persuasion. 
@@ -133,9 +181,34 @@ The enegy transitio  and the politics transition
 
 the software mind is the mind that can not just design a sustainablenworld - its the mind that can agree to and accept it.
 
+Size of a Firm / how to run a firm 
+theory of firm - why shoukd not regulations apply to internal market of company?  see bidding up salaries for internal jobs 
+
+So lots of business in a box (pyscriptUI and HR and SOPpy and ... just because software forms can be smaller firms.)
+
+* Deep State, DOminic Cummings, open democracy and its not all a disaster
+Cummings on organisational failure (cf Civil Service)
+This ties into Deep State, into accountability and sunlight.  But also into this sam ething plays out in
+giant corporations every day.  And govenrment is just the giant-est corp there is.
+
+-> more openness / sunlight improves quality of decision making, leading to better decsions in dmeocracy.  But only if decisions are open.  See DOminic Cummings views on gov decisions.  Complexity is hard, but at least software can handle lots of data, which is often mistekn for complexity.  simulation is then easier.
+
+Software and openness means open data, means a constant feedback loop on fixing errors. Which means better decisions and instituions that can learn
 
 
+But simple models and visualisation is useful - and will grow as more policy is digitised and made exposed to sunlight.  Deepstate is not a bad thing.
 
+But software literacy, leads to programmable companies, which can lead to
+AB testing of actions which can lead to real-world empirical models which leads to better decision making.
+
+My view - people need feedback. Too many people, too many layers away from the real movers and shakers
+and people just ... stop. Remove most of the bureaucracy, with software, and you need fewer people,
+so more facetime.
+
+
+#################################################################
+
+##################################################################
 * Intro
 Software Literacy 
 Just the basics.
@@ -169,6 +242,9 @@ Implications cor structure of democracy - needs to be negotiated, bottom up, few
 Top down gets big militaries and so on. but infrasturcutre can be buikt by contract. its just more comlocated but software can smoothbthat put. 
 
 cycleways are probably the most obvious "If I had 40 servants I would not love like this" - https://www.kickstarter.com/projects/carltonreid/lets-rescue-britains-forgotten-1930s-protected-cyc/posts/3493962
+
+* Judging as software is really looking for supra-national network effects - see ben evans on Heros outside USA - structure was wrong to encourage use of hit shows to grow brand. 
+
 
 How we structure society matters
 ------------------------

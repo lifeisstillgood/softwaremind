@@ -1,6 +1,17 @@
 Structure
 ---------
 
+"I used to write software, but then I became a manager and stopped."
+
+How many of these managers used to read and write English, and how many, once they became managers, stopped?
+
+This is because it is no longer possible to manage a company without rewding and writing English.  But it isnpossible to do so wothout reading or writing code.
+
+What happens when that chnages.  What happens when a compnay is sonautomated you have to read the code tonunderstand the compamy.
+
+What happens is software literacy.
+
+
 Military 5th gen doctrine:
 
 

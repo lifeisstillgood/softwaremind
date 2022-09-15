@@ -1,26 +1,56 @@
-Structure
----------
+Opening Page
+------------
 
-"I used to write software, but then I became a manager and stopped."
+There is a common refrain in large companies, almost a badge of
+honour.::
 
-How many of these managers used to read and write English, and how many, once they became managers, stopped?
+  "I used to write software, but then I became a manager and
+  stopped. But I am still technical."
 
-This is because it is no longer possible to manage a company without rewding and writing English.  But it isnpossible to do so wothout reading or writing code.
+How many of these managers used to read and write English (or Spanish
+or Japanese) , and how many, once they became managers, stopped? But
+are still literate?
 
-What happens when that chnages.  What happens when a compnay is sonautomated you have to read the code tonunderstand the compamy.
+It is no longer possible to manage a company without reading and
+writing English (or Spanish or Japanese) But it *is* possible to do so
+without reading or writing *code*.
 
-What happens is software literacy.
+This book believes that it will soon be just as impossible to run a
+company without reading (and writing) *code* as it currently is to do
+so without *English* (or Spanish or Japanese).
+
+All companies will be use software to gain what advantages in what
+military term "tempo of decision making contests"
+
+This I call *software literacy*.
+
+[INTRO] cavern etc
+
+Programmable company, society, person
+
+[ALL BORN EQUAL]
+THis is about infrastructure.  FOr cities it is urban infrastructue.
+but for societies it is more subtle - 
+
+[SECOND ORDER]
+Decentralised decision making - decentralised resource allocation.
+Local government, more democracy, change in capitalism / capital structure / allocation.
 
 
-Military 5th gen doctrine:
+[CHINA TOTAL BET]
 
+
+Military 5th gen doctrine
+-------------------------
 
 https://youtu.be/NFqwQlM_g1Q
 Alan Stephens - Airpower Reborn
 fifth geneeation thinking : Tempo, decision making contest , strategic Paralysis, 
 knowledge dominace, operational manouecere 
 
-this is leadership since Caeser.  But now we see democracy and devolved decision making learning what previously one guy and a hierarchy could do.
+this is leadership since Caeser.  But now we see democracy and
+devolved decision making learning what previously one guy and a
+hierarchy could do.
 
 The future of the most hierarchiacal of all organisations is mission lead and decentralised.  The software mind.
 
@@ -652,6 +682,22 @@ And same goes for software. What we want are simple open things. things that are
 
 Software is like loteracy. its not something that is valuabke if you keep it tonyiurself . 
 
+NOtes on cryptocurrency
+-----------------------
+PoW bad
+PoS - interesting.
+But still the libertarian bent has  problems - IRL governments are legitimate trading partners and
+bring value to idealogically pure
+Trust - well the problem with having a digital currency outside of the control of the government is the government has the guns. And if they dont abuse their power then 99% of the problems
+And the common refrain is "what if the government does fiscal actions I dont approve of". Welcome to democracy. I have a list of things my government does I dont approve of.  So far none of them have crossed the line into "well its armed revolution now".  At least not yet.
+
+So what is the value - if actual currency is easier solved (and trusted) what does it bring.  It brings local governance? But that can also be solved without this underpinning.
+
+I still think its fascinating, it shows how organisations can evolve and be software literate entirely.
+
+But I remain a bitter no-coiner
+
+
 
 
 Software Literacy and Second-order consequences
@@ -959,6 +1005,16 @@ howeber apple CSAM mechnaism (homomorphic encroyion on client) was unable to ove
 Also geopolitical - usa bana tiktok, china ensures they access to data.  this is useful data only if it is shared medical research - not blackmail
 
 the solutionnhere is medical levels - in the best interesrs if the citizen (woth few exceptions such as CSAm)
+
+The price of fame
+-----------------
+
+if provacy is removed, and instead the proce of exploting the infomration is
+raised, then only those who have a dispropritionate amount of influence will
+be worth exploiting (advertising) and ... well.
+
+The end of advertising? 
+
 
 
 literacy-and-philosophy

@@ -73,7 +73,8 @@ more aunlight means more democracy means better decisions (usually)
 Judging as software is really looking for supra-national network effects - see ben evans on Heros outside USA - structure was wrong to encourage use of hit shows to grow brand. 
 Software literacy, explicit, programmable company
 
-- What advantages does a literate company have?
+What advantages does a literate company have?
+-----------------------
 
 - Software forces explicit. 
 
@@ -92,6 +93,9 @@ Volkswagen software chanvges. Can we see the actual commits?
 -- lawyers will be the interface layer between business desire /
 opportunity and configuration.  But if a company is 'configurable',
 then why have executives? Just change the code?  [Death of management]
+
+
+management is a co ordination position in midst of chaos. But co-ordination is much more easily done between unit and and software 
 
 -- journalism View this as data labelleing for society.  But that
 implies jounrnalism has a place in a company. It is propaganda if done

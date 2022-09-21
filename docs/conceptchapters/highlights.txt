@@ -30,10 +30,21 @@ there is the how to runa society - the totalitaian bet vs the democratic bet
 and peiple - making good decisios  
 
 
+Software enables *programmability*. 
+Programmable company, society, person
+The key takeaways are
+
+managvers and programmable company
+Making good decisions, programmable person
+Democracy vs totalitarian - programmable society
+
+
+
+
 
 [INTRO] cavern etc
 
-Programmable company, society, person
+
 
 is a DAO a programmable company? kinda 
 
@@ -125,6 +136,56 @@ What advantages does a literate company have?
 -----------------------
 
 - Software forces explicit. 
+
+We live in a built environment. Built military. Built urban.
+Built rules and processes for society and companies.
+
+SOftware is really good at rules and processes.  Words are. Symbols.
+But that makes the system *explicit*. See Noam CHomsky on ANdrew Marr - if you did not believe it you would not be in the position of power.
+
+But ... the dichotomey is coming - software will make companies flexible,
+fast to respond, data driven processes. It will also expose their decision making
+to scrutinty and to change.  So what will make them successful in the 5th gen
+decision making envionemnt, will also make them, vulnerable to criticism.
+Make them not need managers ? Split managementn into policy vs implementation.
+
+
+
+Society
+-------
+The strongman idea - democracy is fighting against that.
+It is making everyone their own owner of their own part of the communal decision making effort.
+
+ethereum is trying to replace courts / contract law with a piece of software.
+Its trying to make law as code.  Not a terrible idea but why not just have code as part of a contract.
+And if we think we can fix dictaotrships with some code, well... yeah.
+
+ALl wealth is energy wealth.
+10,000 BC - 2M people on planet
+1776 AD - about 1 Bn people.
+We had, with same energy supply, increased efficnecy to 500X
+
+Now if money is a claim on future priductive capacity.
+is that capacity measured in energy
+- and is that energy source going to increase or will we get better at using it?
+
+End of fractional reserve banking - crypto currency will break that
+but the productive capacity still exists.
+
+How do we allocate money - imagine one bank, it cannot create more money
+than the one shop deposits.  So fractional creation is just how to cool down inflation
+as prioductive capcity increases.  One assumes that can be done via some other mechanism -
+not sure which one? needs to be decentralised. what is productive capacity - what is
+wealth creation vs rent?
+
+which one makes more efficnet use of energy?
+
+
+if we can vote democratically why can we not vote on how businesses work
+We do - by buying their services.
+
+
+
 
 -- architecture and robotic construction
 

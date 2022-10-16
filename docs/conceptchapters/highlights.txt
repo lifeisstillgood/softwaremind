@@ -1487,6 +1487,8 @@ these are not middle managemwnt decisions
 
 hollwingnout of middle managemet and data passing
 
+React to chaos ans chnage better than yourbopponents 
+
 There is atill Hope:
 ---------------------
 

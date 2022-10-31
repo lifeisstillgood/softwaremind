@@ -31,6 +31,13 @@ totalitarian best vs democracti  bet
 
 end of management - span of expertese - how many peoplendoijg what jobs can pne person understand and jusge quality ofnwork? after that it becomes HR / political 
 
+shearing layers and systems and buildings - https://medium.com/@glenn.sorrentino/layers-of-change-how-buildings-and-software-are-alike-faa8e644e9e8
+
+Failure of innovation 
+- innovation is rarely asked for just spotted - esp with poor product management - so go build it (intraprenuer) ans it will get blessed - just sit there doing as told and noninnovation occurs because management not doing new stuff
+
+only disbedience gets things fone !! 
+
 this leads to pressure onnsmaller more specialised firms - because software reduces non-expertese value of non generalist - resuces conglomeration
 
 (siggests a new form of funding to avoid conglomeration?)
@@ -153,6 +160,14 @@ Is hierarchy the best way to manage (large) organisations
 
 https://www.nytimes.com/2022/08/30/world/europe/ukrainian-soldiers-weapons-front-line.html
 
+
+
+Social medias product is xontent moderation 
+https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation
+
+And this is a structureal problem - the distributed bature idea - backnin day demon internet - put mini server in eachmpersons house rhen they are literally serving owncontent - easier ti prosecute - but waaay harder to find - the centralisation has fouled up - just realise that people are "promoting / punlishing / hey look here" - content - and its section 230 that tries to defiencommon carrier - but they are not common carrying.  they nee to just transmit - not discover notnfikter not anything else.
+
+oh dear
 
 Moop and moneyball management hypothesis - that the way we manage companies (business vs tech), hierarchy of orders coming down vs mission command and reward incentives (promotion to manage more people, whichnkight not even be the right way - imean manage more sickle users or manage a combine harvester driver?)
 

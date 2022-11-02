@@ -1599,3 +1599,72 @@ Limits to growth and current induatrial model
 https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf
 
 can we model chemical dependancies?? 
+
+Social media 
+-------------
+
+Just getting my thoughts straight:
+
+1. This is primarily a discovery / promotion problem vs a common carrier problem.
+
+2. Content moderation is *brutally hard*.
+
+3. Content moderation at scale is probably impossible - and at scale across legal jurisdictions certainly is
+
+4. The solutions end much of the business model and influence of social media.  It's probably a good thing.
+
+So, social media firms are treated (under US law - which is where most firms are headquartered so that's what mostly counts) as *common carrier*.  That is they are not publishers, liable for the shit their users post, they are seen as a telephone provider - AT&T is not prosecuted if I shout racist abuse over the phone.
+
+This is a good thing - newspapers can be prosecuted if they publish child sexual abuse material, because they are making a *choice* to publish.  If someone sends a CSAM by fax over the phone network the person sending it is prosecuted not AT&T
+
+Where does wikipedia sit?
+
+However Facebook and Twitter are *not* passive pipes sending whatever out.  They do make decisions. Automated decisions obviously but decisions nonetheless.
+
+Those decisions Inthink stop them from being common carriers - they simply have to become dumb pipes in order to keep that status.
+
+Otherwise I think they just become liable.
+
+Of course that shuts down their whole business model and .. yeah well.
+
+* Notes on Trump and twitter and fake news. 
+ 
+So why did Twitter ban Trump? There are of course many reasons but the avowed reason was risk of further incitement to violence,
+
+Other political leaders also incite violence, promote untruths.
+
+The issue is trying to decide on The Truth rather than each persons truth 
+
+But also the role of society in deciding a framework and set of ground truths.  (The earth is spherical, goes round the sun etc).
+
+Content moderation
+
+This is ridiculously hard. Nasty.
+
+At scale it needs some AI approach. This is unlikely to work. 
+
+A surprising good approach was linking to untruths (lost elections, flat earth)
+
+This referred to commonly accepted scientific theories / facts.
+
+Solutions:
+
+Quite simply "divorce the pipes from the promotion" - that is a platform that can accept any post / image etc 
+
+Platofmrs will obv monitor (and if they dont someoen else will its public)
+
+But the feed will have to be "things youbhave subscrived to"
+
+Will this "drive engagement" - hell no. 
+
+will this mean its harder fir small posts and channels to go viral and reach karge audience - yes. 
+
+Is that bad? Dunno.  Trump managed to make a preseidebtial run from it.
+
+
+Links:
+https://twitter.com/twittersafety/status/1347684877634838528?s=46&t=50jcltbtfG_eW5Xd9JBbuQ
+
+
+
+DemOcracy in companies leads to situation where if company goes banktupr then there is less need for industrial pilicy to cushion workers - they had democratic access to and infience on comoany direction and so democracy can be closer to ideal free market ahemcy 

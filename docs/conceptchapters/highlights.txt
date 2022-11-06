@@ -1701,6 +1701,28 @@ https://news.ycombinator.com/item?id=33477289
 
 use ratings such that posts rated by people who have disagreed in past but now agree get ranked higher - might lead to vacuous but might be how compromise works 
 
+Platform
+
+Content moderation
+
+content selection / presentation / management (from AI to expkicit user choice is spectrum)
+
+Content discovery
+
+user authentication
+
+user behaviour analysis and content labelling / moderation 
+
+Platform is awesome (newspaper)
+
+even if we just presented what was followed we have polarisation (see WhatsApp Brazil) - humans sort themselves bu who they associate with. We are not (merely) passive recipents of information and the algorithm
+
+then the moderation as if you could not read the language - this is the level of moderation that is feasible cross borders - not trying to judge trith facts and opinion 
+
+then we have legal restructions and regulations - these have two levels German and Russian (ir German has clear defiend meaning, russian is whatever we tell you) 
+
+
+
 
 Links:
 https://twitter.com/twittersafety/status/1347684877634838528?s=46&t=50jcltbtfG_eW5Xd9JBbuQ

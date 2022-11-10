@@ -57,6 +57,18 @@ https://www.theguardian.com/technology/2014/jun/30/facebook-emotion-study-breach
 But remeber the MOOP
 
 
+If we are to achieve the ambition set out in the Integrated Review, if we are to become a science and technology superpower, if we are going to lead in technologies that are critical for our security, then just ‘doing more awesome research’ isn’t going to cut it. We need to get into market shaping, and that’s uncomfortable. We need the global market to demand the things we’re going to produce, and we need to protect them as they are developed and make sure people can’t just come and buy or steal them.
+
+https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits
+
+now imagine youncan model the intenralmprocesse of a company 
+
+"""Next, imagine you could model an entire network as a graph with the nodes representing functions, data sources, bits of kit and so on, and the edges representing the relationships between them. We’ve started this with the CNI Knowledgebase that we’ve talked about in the last few NCSC Annual Reviews, and that’s helping us reason about cascade failures in the UK’s critical infrastructure. So, it should be possible to do something similar with enterprise and ‘local’ control systems"""
+
+At this point you can reason about cascade failures and dependancy fraphs 
+
+
+
 Manage self - CeO of one - clearly ine person better decisikns
 but what about many people - can uou be as good as a doctator as if there was a perfext decisionnmaiing mechanism?
 
@@ -1523,6 +1535,12 @@ doing joe wicks workout
 Crypto
 ------
 My story - nah not me I dont get it
+
+cyner security - what happens if someone destroys all the bank records? wioes out the last week of trnaaxcations at barlcays? 
+well what if all money was on BoE website? all transactions ? we just have a copy? what about rollbacks? well go to court ...  what about privacy (well thats why you rollup into a bank clearing house - see a little cottage industry going there)
+
+but when cyber securty becomes a natioanl security issue this may work - but not anonymously !! 
+
 
 Interesting parts - its all public, its mostly money laundering, money launderers are going to spend years getting caught, over time as they break opsec, and an awful lot of dodgy accountants will get shot in the head, 
 

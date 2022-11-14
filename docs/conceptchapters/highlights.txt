@@ -1811,3 +1811,18 @@ https://news.ycombinator.com/item?id=33571180
 
 mastodon as reaction tonrisks in same way small
 scale farming reaction to risksnin trade networks
+
+
+Its social
+or its news 
+------------
+
+https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/
+
+basically we dont want our news to be the stuff that goes viral - we want our news to be facts - part of a civic database - punlished curated scientifically supported facts
+
+social is ... gossip.  what your fieends twll you.  When was the last timemone of yiur friends expalined trigonometey or QE?
+
+Social is perhaps more - advice.  
+
+Advice has MOOP imloixations 

@@ -528,6 +528,12 @@ a distibuted power grod is our only hope for survival but also chnages how we wi
 
 - enabkes handling far far grearer comllexity
 - see that in microservices and programmabke compnay
+
+Microservices is sharding software (that is the virtualmoverlay of a companies processes and hence is the company) in the shape of the processes and nodes of ancompany - not a monolith.  And this is forcing a reverse conways law - businesses organise along shape of its software - this means as decbetelised software (because it inevitably is produced remotely as there are no or few coders in the bsuienss) 
+
+one day it will evolve and grow naturally - coders enbedded in bsuoness 
+
+
 - also see that in dmeocracy - its not voting wvery few years.  Its an engaged, local issue.
 
 Higher oerforming economy (to outso the totalitairna bet) needs 

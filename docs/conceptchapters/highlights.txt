@@ -26,6 +26,10 @@ This I call *software literacy*.
 Themes:
 
 
+coders are new managers
+
+- Obviously we need domain experts - but management is primarily an exercise in being a domain manager in the internal workings of the company - cf Twitter / Elon. However that works out, if the company is programmable then the internal workngs are visible and manipulable - and the calue of that domain knowledge tends to zero.  Coaching is whats left. model, monitor, mentor
+
 MMT - most important part - better organised organisations (bettr capital usage) is v important in increasing productive capacity if UK
 
 States, organisation, develolment of wardare and weapons 

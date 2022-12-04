@@ -13,6 +13,18 @@ but who does the work ? gig economy?
 
 whatvis the work - anything too awkward to automate 
 
+See rhe dpilt between cicil servant and politician - there will be coders as managers (civil aervants) and poloticians (exec?) and 
+this plays out today - of someone holds the budget but does not have tome to gonintk the detail then ... what? 
+
+Rule of 2 orders magnitude
+Tactical 1-100
+Operational 100-10,000
+Strategic 10,000-1,000,000+
+
+You can manage something at each level (people, servers, purchases, transactions) but the next level needs new tools and new expertese 
+
+And I dont think it is valuabke to use hierarchy as the way to occlude the underlying details - just as randommaccess disk made it possible to avoid hierarchy in what we laud on disk, internt communications makes it vainle for everything else to be random access - if we dont need hierarchy in management - what can we fo? 
+
 
 
 Opening Page

@@ -25,7 +25,7 @@ You can manage something at each level (people, servers, purchases, transactions
 
 And I dont think it is valuabke to use hierarchy as the way to occlude the underlying details - just as randommaccess disk made it possible to avoid hierarchy in what we laud on disk, internt communications makes it vainle for everything else to be random access - if we dont need hierarchy in management - what can we fo? 
 
-
+Also "war on general purpose comouting" is just as ever, control over the means of production (and now leisure)
 
 Opening Page
 ------------

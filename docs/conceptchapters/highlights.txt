@@ -5,6 +5,9 @@ software literacy is communication / creation mediated by compute - so my words 
 
 metrics / KPIs as unit teats - undersdanding th esystem is vital but having warnings of brewkdown in system is useful - again coders as new managers 
 
+
+what is mgmt - systems design at the two orders of magnitude transition fromt 
+
 The transition
 ------------/-
 

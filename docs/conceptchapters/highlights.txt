@@ -1,4 +1,7 @@
 
+
+
+
 literacy is part communication and part creation 
 
 software literacy is communication / creation mediated by compute - so my words can chnage depending on context  - enabking proframmable compnay 
@@ -19,7 +22,7 @@ mgmt as technocal value message passing - data plane. but if mgmt is non technic
 
 
 The transition
-------------/-
+--------------
 
 we are ik trqnsition now
 
@@ -124,6 +127,14 @@ You can manage something at each level (people, servers, purchases, transactions
 And I dont think it is valuabke to use hierarchy as the way to occlude the underlying details - just as randommaccess disk made it possible to avoid hierarchy in what we laud on disk, internt communications makes it vainle for everything else to be random access - if we dont need hierarchy in management - what can we fo? 
 
 Also "war on general purpose comouting" is just as ever, control over the means of production (and now leisure)
+
+What is management
+------------------
+mgmt of people vs mgmt of technology (coders as managers) - the technology does a lions share of the actual work (this is defintion of a technology company)
+
+Split (see IC track in major companies)
+
+Also the literacy gap in companies - do not conflate resource allocation with non-literate people - this makes bad decisions.  See idea of mgmt as message passing, how are teh people aligned to the goal (disquiet, etc)  How to fix - is to have a *democracy*. DO not have better managers who can adjust - have a dmeocracy ! Thats the point
 
 Opening Page
 ------------

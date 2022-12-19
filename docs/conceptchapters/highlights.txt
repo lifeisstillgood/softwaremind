@@ -8,6 +8,16 @@ metrics / KPIs as unit teats - undersdanding th esystem is vital but having warn
 
 what is mgmt - systems design at the two orders of magnitude transition fromt 
 
+leadership v mgmt 
+https://youtu.be/JHpj8PcsyH4
+
+mgmt is about complaints and people 
+
+leadership about technical vision
+
+mgmt as technocal value message passing - data plane. but if mgmt is non technical this fails- hence literacy gap 
+
+
 The transition
 ------------/-
 

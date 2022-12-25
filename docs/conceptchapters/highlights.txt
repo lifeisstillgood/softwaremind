@@ -55,6 +55,16 @@ Therapy is distilled learning from lives lived
 So MOOP is distilled learnings on industrial scale with better stats than Carl Jung could do 
 
 
+
+ChatGPT hot take
+----------------
+we have to have one - so ... Its reqlly hard to get chatGPT to do specific things - like maths - correctly.
+
+And its also hard to get it to do software correctly - it essentialy just copies and can fail - so ensuring you are talking to a human might be asking them to show you their code ...
+
+nah. 
+not hot 
+
 Management as politics 
 ----------------------
 

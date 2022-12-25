@@ -15,8 +15,13 @@ MMT
 miltary spend / need / projection ofnpower / carriers  vs naval
 
 
+https://twitter.com/joey_cranney/status/1606349908809637888
+Replace journalism (which exposes local horrors) with local (200 voting cillages?) funded investiagtive commissions - the staff stay same the exec are vited like a NGO ans rotate and the goal is to funnel investiagtion tompolice 
 
 
+Online anonymity
+- yiu are not anonymous in a bar so why online?
+- the ability to be anonymous is useful for some cases but thise cases are like Iran 1956 - we should fix the underlying problem 
 
 
 

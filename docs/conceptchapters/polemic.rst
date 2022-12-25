@@ -35,3 +35,5 @@ So people who organise / arrnage the workers are the coders - so what are the ma
 
 this is where shit jobs come from - there are people who 
 dont code and just blah 
+
+We havr a society that works, but we can explore better ways 

@@ -37,3 +37,8 @@ this is where shit jobs come from - there are people who
 dont code and just blah 
 
 We havr a society that works, but we can explore better ways 
+
+
+I doubt the town square ever existed as an idealised thing - social underclasses would always have struggled to even be allowed into the square, it would have been commercially dominated and social success would have correlated wrongly to commercial and political success.
+
+Luckily we get to design the rules for our society and town squares and so improve access.  In my view most of the so called "social justice wars" are to do with how far to the front shoukd one push previously excluded underclasses.

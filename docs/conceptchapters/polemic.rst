@@ -42,3 +42,9 @@ We havr a society that works, but we can explore better ways
 I doubt the town square ever existed as an idealised thing - social underclasses would always have struggled to even be allowed into the square, it would have been commercially dominated and social success would have correlated wrongly to commercial and political success.
 
 Luckily we get to design the rules for our society and town squares and so improve access.  In my view most of the so called "social justice wars" are to do with how far to the front shoukd one push previously excluded underclasses.
+
+More and more I think we need proof of being human to participate in the "town square". It essentially means the end of anonimity online, but I struggle to see how we overcome bots without it.
+reply (https://news.ycombinator.com/item?id=34129974)
+
+Humans are a super-organism - and one that can adjust itself to be more optimal. 
+which means - software is a more effective means to define the suoer orgnaism - we are making the rules surfaced and transparent 

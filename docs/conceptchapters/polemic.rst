@@ -57,3 +57,6 @@ organisational forms
 https://link.springer.com/article/10.1186/s41469-018-0036-3
 
 the imprrance of jounrlaism ans osint - https://www.theguardian.com/world/2013/mar/21/frontroom-blogger-analyses-weapons-syria-frontline
+
+Just build more libraries
+https://news.ycombinator.com/item?id=34167554

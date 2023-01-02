@@ -8,6 +8,18 @@ software literacy is communication / creation mediated by compute - so my words 
 
 metrics / KPIs as unit teats - undersdanding th esystem is vital but having warnings of brewkdown in system is useful - again coders as new managers 
 
+Order of Magnitude hierarchy
+------------------
+
+Grunt
+Team lead (sergent)
+Colonel / General
+Politician 
+
+financier worries about cash flow
+https://commoncog.com/cash-flow-games/
+
+
 
 what is mgmt - systems design at the two orders of magnitude transition fromt 
 

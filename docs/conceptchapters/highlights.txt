@@ -5,6 +5,43 @@ But the way to measure tech  giants is not tech but business model - they all al
 Coders are the new managers
 ---------------------------
 
+Manufacturing has long been the more wfficient organisation of resources to deliver outocomes - farming, factories ????
+
+A simplified model of management - a conpany is a "machine" producing an output - conglomerate, factory or aearch engine: 
+
+1. Resource acquisition (finance, then others)
+
+2. resource allocation (systems design, project planning)
+
+3. Operations management (problem fixing)
+
+4. people management (training, culture)
+
+5. ?
+
+Anyhow, the more software is involved, the more 2,3,4 sit with coders not managers.
+
+
+The politics of reaource acquisition still continue - forwver probbalt but organising "workers" (CPUs) is 
+
+
+
+
+Does a swardley map help here? 
+
+
+
+
+Drucker -> 1960s management 
+Google 8 Rules
+
+
+
+Impactful chnages: financial engineering, LBO etc. 
+
+
+
+
 https://news.ycombinator.com/item?id=34286875
 
 literacy is part communication and part creation 

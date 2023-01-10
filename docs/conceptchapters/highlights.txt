@@ -2,11 +2,14 @@
 
 * Coders Are New Managers
 
+Because when twitter fired all its workers - it did not fore the workers doing the day job, it fired the coders (ie managers)
+
+https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/
 * finding the new literate stuke (dev manual) 
 
 * Capitalism is a set if choices underscores by price mechanism and competion and idea if money and ownership
 
-* designing systems is not just compnaies but socieities - we can and should be bolder (MMT is just we cannuse all resources if a country) 
+* designing systems is not just compnaies but socieities - we can and should be bolder (MMT is just we cannuse all resources if a country) (society is basically a attempt to overcome the flaws of the individuals psyche comprising it)
 
 * production is always moving firward (tongreater efficient ise if scare reaource) - ie whooe planet
 
@@ -18,6 +21,10 @@ Do we have to do conglomerates (capitalism is great, regukations are a choice, a
 Most companies are rewally conglomerates - solving the cash flow problem by being many companies and one tresury (also solving the finding money problem for managernt (implies a better VC world woukd mean smaller companies)
 
 But the way to measure tech  giants is not tech but business model - they all alessentially have one thing they do. are not conglomerates 
+
+
+google and fb - all the advertising - https://news.ycombinator.com/item?id=34297286
+
 
 Coders are the new managers
 ---------------------------
@@ -41,6 +48,11 @@ Anyhow, the more software is involved, the more 2,3,4 sit with coders not manage
 
 The politics of reaource acquisition still continue - forwver probbalt but organising "workers" (CPUs) is 
 
+
+Software is theory buikding
+---------------------------
+
+https://news.ycombinator.com/item?id=23375193
 
 
 

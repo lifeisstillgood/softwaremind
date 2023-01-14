@@ -1,3 +1,21 @@
+Themes and overview
+===================
+
+We start with the idea of software literacy. Its a simple idea, but it unrolls into many new concepts.
+
+* SOftware Literacy
+* Coders are the new managers
+* the feed, curation, model and journalism
+* Journalism is daata labelling for AI of metaman.
+* Programmable company, society and person
+* how to change edication to match work (industrial schools for infomration age)
+* Intersting side alleys:
+  Swardley maps,
+  democracy in companies
+  topless computing, data flow 
+  GOod does not defeat evil - its all about how we organise our selves (social vs technical)
+
+
 journalism os crap - which is why it is threateend by facebook ans twitter - it was supposed to be out windwo in thw rold but it was not objective (harry then and now taliban kill) and it is not balanced (bleeds it leads, world news) and it os not trying to provide a model just entrrtainment - reportage is important but it is either a feed or curation and we need more - a model and a testabke model.
 
 better jounrlaism to overcome the feed 

@@ -15,4 +15,13 @@ more goods then we buy or not
 So if youbare workshop of the worlde you can run a trade surplus (more coming in) and then the other two parts (private and government) can "save" (invest in infrastruxture)
 
 
+Issue is hiw to create enough money to match productive capacity of country - and to choose the productive capacity types ? War productionshows this can work amazingly effecticeky
+
+but banks might not be the best approach - see freddie mac not giving blackmpeoole loans 
+
+so how to measure productive capavity? how tonmeasure chnages in capacity? How to guide chnages in way you want - welcome to politics
+
+
+
+
 

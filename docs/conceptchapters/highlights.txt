@@ -77,6 +77,22 @@ Anyhow, the more software is involved, the more 2,3,4 sit with coders not manage
 The politics of reaource acquisition still continue - forwver probbalt but organising "workers" (CPUs) is 
 
 
+
+
+Software is Literaxy by analogy
+-----------------------
+Imagine its hundreds if years ago, and youbhave been tasked with writing out the policy manual for a world spanning company.  This will ensure consistent application of best oractises across the various parts of the company.  Maybe its a bank.
+
+You however are not annexpert innbanking but youbare a grwat writer
+
+So you sit down and have a great intoduxtory meeting - its going fine.  Then youbrealise that youbdont understand some part and you ask again and cannot get the meeting and then people try to reatruxture this because there is too much to write so we hire a hundred writers and now you all need managers and 
+
+look. If you want software to encode the knowledge then you need one person to have the knowledge in their head and the ability to write code ... well.
+
+dont argue.
+
+
+
 Software is theory buikding
 ---------------------------
 

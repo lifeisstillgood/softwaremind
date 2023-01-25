@@ -15,6 +15,28 @@ We start with the idea of software literacy. Its a simple idea, but it unrolls i
   topless computing, data flow 
   GOod does not defeat evil - its all about how we organise our selves (social vs technical)
 
+Software Literacy
+=================
+
+(put in usual doscourse here)
+
+Development of language and literacy, symbolic manipulation and the incredible effort needed to make sure someone else mightnunderstand it
+
+
+My day job for past (gulp!) thirty years, has mostly involved understanding some business, and then writing down how that business works, writing it down so a computer can understand it
+
+
+Here is a story
+
+Imagine its hundreds if years ago, and youbhave been tasked with writing out the policy manual for a world spanning company.  This will ensure consistent application of best oractises across the various parts of the company.  Maybe its a bank.
+
+You however are not annexpert innbanking but youbare a grwat writer
+
+So you sit down and have a great intoduxtory meeting - its going fine.  Then youbrealise that youbdont understand some part and you ask again and cannot get the meeting and then people try to reatruxture this because there is too much to write so we hire a hundred writers and now you all need managers and 
+
+look. If you want software to encode the knowledge then you need one person to have the knowledge in their head and the ability to write code ... well.
+
+dont argue.
 
 journalism os crap - which is why it is threateend by facebook ans twitter - it was supposed to be out windwo in thw rold but it was not objective (harry then and now taliban kill) and it is not balanced (bleeds it leads, world news) and it os not trying to provide a model just entrrtainment - reportage is important but it is either a feed or curation and we need more - a model and a testabke model.
 
@@ -81,15 +103,7 @@ The politics of reaource acquisition still continue - forwver probbalt but organ
 
 Software is Literaxy by analogy
 -----------------------
-Imagine its hundreds if years ago, and youbhave been tasked with writing out the policy manual for a world spanning company.  This will ensure consistent application of best oractises across the various parts of the company.  Maybe its a bank.
 
-You however are not annexpert innbanking but youbare a grwat writer
-
-So you sit down and have a great intoduxtory meeting - its going fine.  Then youbrealise that youbdont understand some part and you ask again and cannot get the meeting and then people try to reatruxture this because there is too much to write so we hire a hundred writers and now you all need managers and 
-
-look. If you want software to encode the knowledge then you need one person to have the knowledge in their head and the ability to write code ... well.
-
-dont argue.
 
 
 
@@ -1903,6 +1917,15 @@ management is understood generally wrong like generalship is understood wrong - 
 and like generalship management is missing some of the understandings - that deploying people to a project is the only lever managers at most levels have 
 
 effective management levels
+
+politician
+financier
+manager
+coder
+Cpu
+
+
+
 - top level assigning all money
 build me a mix of tanks and artillery in this order for this mission - build orders and capital ships
 

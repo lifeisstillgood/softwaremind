@@ -1925,6 +1925,7 @@ coder
 Cpu
 
 
+culture wars and the transiation to aoftware defined workd - the architects problem 
 
 - top level assigning all money
 build me a mix of tanks and artillery in this order for this mission - build orders and capital ships

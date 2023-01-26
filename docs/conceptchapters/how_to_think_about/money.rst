@@ -22,6 +22,19 @@ but banks might not be the best approach - see freddie mac not giving blackmpeoo
 so how to measure productive capavity? how tonmeasure chnages in capacity? How to guide chnages in way you want - welcome to politics
 
 
+MMT
+---
+
+simple expnomy woth farmer and threed factory. Not ejough noney to go round so pront more money - have the parablenof the babysitting circle
+
+Scoreboard like crocket
+Bank of england has record of money
+thinknof roads as infrastructr / part of productive capacity that shoukd be measured by cirrency
+- each poujd represtns a claim onnfitire production - so needs to exist as money else the fitire procu tion cannot benpaid for
+
+
+
+
 
 
 

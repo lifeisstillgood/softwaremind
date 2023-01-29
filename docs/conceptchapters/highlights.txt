@@ -68,7 +68,24 @@ It is not easy - but the welds between alloys will be stronger (if we survive).
 MMT ought help scaffold us while we build a new society that is more productive 
 
 
+Its not about computational power
+-----------------------
+Its about understanding data. And its not ML - yes *maybe* ML can find the hidden in the noise.  But much more aomos arenaging the data we know we have in ways that are useful - dashboards, HUDs etc
 
+
+but that implies a *programmable company* (busimess at the soeed of thoguht) - one that reacts as inputs and code are chnaged. 
+
+Which implies smaller
+
+and implies better coded (which implies coders as managers)
+
+which implies a (prifesioanl) middle class not management - owners and voters
+
+is there an end likit tonproduction? is it possible for the whole world to have enough ? 
+
+to trust the rest of the world ? 
+
+if 20s and 30s was just waiting for tech to overcome stalemate, what are we waiting for? 
 
 
 

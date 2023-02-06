@@ -4,16 +4,30 @@ Themes and overview
 We start with the idea of software literacy. Its a simple idea, but it unrolls into many new concepts.
 
 * SOftware Literacy
+
 * Coders are the new managers
+
 * the feed, curation, model and journalism
+
 * Journalism is daata labelling for AI of metaman.
+
 * Programmable company, society and person
+
+* democratic companies / resource allocation
+
 * how to change edication to match work (industrial schools for infomration age)
+
+* software socialism (India?) 
+
+* new forms of social organisation enabked bu technology (software socialism, democratic compnaies,military (grwater cadence of decision making) - good does not defeat evil
+
+* aspirational person to have therapy as a goal in renaissance edication
+
 * Intersting side alleys:
-  Swardley maps,
-  democracy in companies
+  Swardley maps
   topless computing, data flow 
-  GOod does not defeat evil - its all about how we organise our selves (social vs technical)
+  if schien has fifty likes for a dress, theybcan put in annordwr to buybthem. Individual manifacture does not need nanotechnology to build anythijg at one place. It needs a sufficnetly flexibke giant facotry with low toolijg costs for almost anything nayone wants in small batches 
+  software as a markwt for lemons - but then again, so is literacy. teputation and focus on quality (new york times vs whatevrr on facebook) 
 
 Software Literacy
 =================

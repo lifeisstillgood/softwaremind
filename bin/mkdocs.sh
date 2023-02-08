@@ -17,9 +17,10 @@ echo "Make Sphinx Docs"
 cd $REPODIR/docs/
 make clean
 make html
-make latex
-cd $REPODIR/docs/_build/latex
-pdflatex --interaction=nonstopmode $BOOKNAME.tex
+#once rinoh working again uncomment
+#make latex
+#cd $REPODIR/docs/_build/latex
+#pdflatex --interaction=nonstopmode $BOOKNAME.tex
 
 #I expect to run this in a docker instacne on my laptop
 #so i need to run it on here like a server
@@ -33,7 +34,7 @@ cd $REPODIR/
 python $REPODIR/bin/postprocess.py
 
 # prep as a zip file to mail to work for printing
-zip /var/data/book.zip docs/_build/latex/TheSoftwareMind.pdf
+#zip /var/data/book.zip docs/_build/latex/TheSoftwareMind.pdf
 
 echo "############################################"
 echo "Wordcount: $wordcount"

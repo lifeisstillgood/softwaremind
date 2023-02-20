@@ -32,12 +32,12 @@ sys.path.insert(0, os.path.abspath('_ext/'))
 # ones.
 extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.intersphinx',
-              'rinoh.frontend.sphinx',
-              'view_headings'
+#              'rinoh.frontend.sphinx',
+#              'view_headings'
              ]
 
 #
-intersphinx_mapping = {'weaver': (os.path.abspath('../../weaver/docs/_build/html/'), None)}
+#intersphinx_mapping = {'weaver': (os.path.abspath('../../weaver/docs/_build/html/'), None)}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

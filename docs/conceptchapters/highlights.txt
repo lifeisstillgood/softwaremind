@@ -21,35 +21,32 @@ We start with the idea of software literacy. Its a simple idea, but it unrolls i
 
 * new forms of social organisation enabked bu technology (software socialism, democratic compnaies,military (grwater cadence of decision making) - good does not defeat evil
 
+regulation, companies as arm of state, everhything as arm of the state (MMT 
+
+
 * aspirational person to have therapy as a goal in renaissance edication
 
 * Intersting side alleys:
-  Swardley maps
-  topless computing, data flow 
-  if schien has fifty likes for a dress, theybcan put in annordwr to buybthem. Individual manifacture does not need nanotechnology to build anythijg at one place. It needs a sufficnetly flexibke giant facotry with low toolijg costs for almost anything nayone wants in small batches 
-  software as a markwt for lemons - but then again, so is literacy. teputation and focus on quality (new york times vs whatevrr on facebook) 
+  - Swardley maps
+  - topless computing, data flow 
+  - if schien has fifty likes for a dress, theybcan put in annordwr to buybthem. Individual manifacture does not need nanotechnology to build anythijg at one place. It needs a sufficnetly flexibke giant facotry with low toolijg costs for almost anything nayone wants in small batches 
+  - software as a markwt for lemons - but then again, so is literacy. teputation and focus on quality (new york times vs whatevrr on facebook) 
+  - rules, regulations
+  Software does rules - its easy. Write the test, pass or fail.
+  Regulation does not do that - it does desired end goal (ie usually status quo, dont rock the boat)
+  Rules are explicit, regulation implicit - as we write more rules we see the implicit biases (see rejecting female CVs)
+  - democracy in companie 
+  Since humans discovered agricyktre and so made technology (somethijg that genrally is easier if youndont move location evey month) we have been a texhnology auffised society and organisae around its beenfots
+  Democracy, despite what Greeks might protest, is very young - 1921, 1945 perhaps. 
+  The very idea that the modern limited company with direct hierarchical control is the only or best organisatioalnform is laughable even if we seem to pay homage to it globally.  
 
-Why Companiez ?
+  - The rocket equation for enterprises
+   The more money / political outcome is put onto a project (the more money) then more momey and effort is needed tomlift it - more expectation, means more money, which means more  momey needed yo lift all the people who like to be on multinmillion dollar project
 
-Since humans discovered agricyktre and so made technology (somethijg that genrally is easier if youndont move location evey month) we have been a texhnology auffised society and organisae around its beenfots
-
-The very idea that the modern limited company with direct hierarchical control is the only or best organisatioalnform is laughable even if we seem to pay homage to it globally.  
-
-More chnages will come as democracy matures 
-
-The rocket equation for enterprises
-
-The more money / political outcome is put onto a project (the more money) then more momey and effort is needed tomlift it - more expectation, means more
-money, which means more
-momey needed yo lift all the people who like to be on multinmillion dollar project
-
-Also 
-- autuer theory for projects and systems linus and linux but extend it out - whomare autoers for facebook ? Google? gmail guy 
-
-
-india not caring about US culture https://dor.gov.in/sites/default/files/FinalBlackMoney.pdf
-
-Marxism - britain and dutch developed modern capitalism / bourges and wound it uo with empire and industrial revolution - also trade is profitable, empire is costly
+  - software has an auteur theory - it is creative exercise like film making, so an auteur theory is reasonable.
+    Its about taste. 
+  - india not caring about US culture https://dor.gov.in/sites/default/files/FinalBlackMoney.pdf
+  - Marxism - britain and dutch developed modern capitalism / bourges and wound it uo with empire and industrial revolution - also trade is profitable, empire is costly
 
 The modern world is woukd up with industrial revolution 
 
@@ -58,28 +55,25 @@ But each empire is tied up with a "philosophy" - empire, industry, capitalism, d
 but democracy is something it hink wont die - indovodual rofhts make a difference and somdoes agreement in path forward. Its really hard and lots of negotiation and compromise and niance and frnakly we moght not like ot 
 
 
-banks as arm of state (implies MMT) and does digital currency threaten them? 
+  - banks as arm of state (implies MMT) and does digital currency threaten them? 
 
-massive investment in iphones and networks to empower billions adults - but stopped short of software loteracy the  next oart of owning and benefiting from suchninfrastructure 
+  - massive investment in iphones and networks to empower billions adults - but stopped short of software loteracy the  next oart of owning and benefiting from suchninfrastructure 
 
-We see markets appearing in everything, ledgers will drive this more - esp currency ledgers like fiat digital currency.
+  -  We see markets appearing in everything, ledgers will drive this more - esp currency ledgers like fiat digital currency. This will chnage relationahshipmof state to banks - whichbwill chnage enormous amounts (visa, moneyblaundering etc)
 
-This will chnage relationahshipmof state to banks - whichbwill chnage enormous amounts (visa, moneyblaundering etc)
+  - But markwts in othe rthings - labour (gigbeconomy) etc will be enormous  lessonsnin regukating finacial markets are valuable - abuses are common and regulation needs to be strong and in our favour - but software literacy is not enough to educate people - they need open access to the code (to read the lw) and to vote on chnaging the law.
 
-But markwts in othe rthings - labour (gigbeconomy) etc will be enormous - lessonsnin regukating finacial markets are valuable - abuses are common and regulation needs to be strong and in our favour - but software literacy is not enough to educate people - they need open access to the code (to read the lw) and to vote on chnaging the law.
+  -  You mightbthink that we wont get a referendum on which piece if C code gets used.  But inagine the vote for kill the driver or kill the kid
 
-You mightbthink that we wont get a referendum on which piece if C code gets used.  But inagine the vote for kill the driver or kill the kid
+  - End goal for texh companies - we seem to be lining up for a new round of tech wars over AI (see SQL)
 
-End goal for texh companies - we seem to be lining up for a new round of tech wars over AI (see SQL)
+  - but if we loom for literacy then its software literayc plus software common access (read the law) and controlled chnage (vote for lawmakers) - more proprietary control the more we shoukd fight back against it - dont be Egyptian scribes where writing was mystical and controlled. But just being "able to code" is not same as having demcratic access and control over the code that does and will run (and improce) our lives.  This is our dmeocratic vs totalitarian bet - bet on the right side
 
-but if we loom for literacy then its software literayc plus software common access (read the law) and controlled chnage (vote for lawmakers) - more proprietary control the more we shoukd fight back against it - dont be Egyptian scribes where writing was mystical and controlled. But just being "able to code" is not same as having demcratic access and control over the code that does and will run (and improce) our lives.  This is our dmeocratic vs totalitarian bet - bet on the right side
+  - politics- this is continual process of finding people whose "taste" is suitable to whole organism such that the organism is willing to be guided by that taste - a process of trust (or force)
 
+  - if ChatGPT is AI, then so is an organsiation (see writer) - slow AI.  But emergent mind is adjusted by politics
+  studying how AI works might not help fix conciousness, but might help fix companies.
 
-Rules and software
-
-enterprises dont do rules way software soes rules - see regulation as arm of state, regukation as desired end state guidsance
-
-and nonactual rules 
 
 Democracy ans transparency
 --------------------------
@@ -95,22 +89,14 @@ just because flood of information is then a software problems
  uration matfers - repitation matters so a government beckmes one source of truth - but each source travels back to lriginal sensor dsta.
  
  
-Capitalism, competition ansd monopoly behaviour 
-https://youtu.be/ayrVYwoe-DY
-lots of ranting but underlying issue of faikure of market competition is valid
-
-politics- this is continual process of finding people whose "taste" is suitable to whole organism such that the organism is willing to be guided by that taste - a process of trust (or force) 
-
-But as more software models and monitors and reacts throughout orgnism more of the taste is *encoded* - argued over and agreed upon or not.
-
-trabsparency in the driver ir little girl debate - another step towards a single simple utopian goal (total hive mind?) 
+  - Capitalism, competition ansd monopoly behaviour 
+  https://youtu.be/ayrVYwoe-DY
+  lots of ranting but underlying issue of faikure of market competition is valid
 
 
-Startuos as MLM - capitalism as lying to itself - https://news.ycombinator.com/item?id=34921099
-
+  - Startuos as MLM - capitalism as lying to itself - https://news.ycombinator.com/item?id=34921099
 agree with top comment https://news.ycombinator.com/item?id=34921369
 
-capitalism hoards resaources / power for selfish reasons and wont let just anyone have reaources - but drom a theory perspectice having everyone equal, or at least not droven by survival, will enable better allocation 
 
 Emergent Mind and Progammable company
 -------------------

@@ -13,28 +13,23 @@ We start with the idea of software literacy. Its a simple idea, but it unrolls i
 
 * Programmable company, society and person
 
-* democratic companies / resource allocation
+* democratic companies / resource allocation / politics is how to agree on resource allocation. Why should resources of ~50% GDP be under such feudal control?
+(see also culture wars are just regulation debates, and rules vs regulations, and democaracy in companies is really just where I want to work - end of the gig economy for citizens. Also like the french approach to citizen (rescues kids from building).  Military increased cadence of decision making enables tighter turns (see regulation vs rules).  Politics is what regulation, software will encode the rules thus making programmable companies - but also making voting on the rules (ie commits) is a vital part of 'new' democracy. 
 
 * how to change edication to match work (industrial schools for infomration age)
 
-* software socialism (India?) 
-
-* new forms of social organisation enabked bu technology (software socialism, democratic compnaies,military (grwater cadence of decision making) - good does not defeat evil
-
-regulation, companies as arm of state, everhything as arm of the state (MMT 
-
-
-* aspirational person to have therapy as a goal in renaissance edication
 
 * Intersting side alleys:
   - Swardley maps
   - topless computing, data flow 
-  - if schien has fifty likes for a dress, theybcan put in annordwr to buybthem. Individual manifacture does not need nanotechnology to build anythijg at one place. It needs a sufficnetly flexibke giant facotry with low toolijg costs for almost anything nayone wants in small batches 
+  - if schien has fifty likes for a dress, theybcan put in annordwr to buybthem. Individual manifacture does not need nanotechnology to build anythijg at one place. It needs a sufficnetly flexibke giant facotry with low toolijg costs for almost anything nayone wants in small batches. side note - event based working is almost same as batch working ith batch size of one.  Just loads simpler and less architecture.
+ 
   - software as a markwt for lemons - but then again, so is literacy. teputation and focus on quality (new york times vs whatevrr on facebook) 
   - rules, regulations
   Software does rules - its easy. Write the test, pass or fail.
   Regulation does not do that - it does desired end goal (ie usually status quo, dont rock the boat)
   Rules are explicit, regulation implicit - as we write more rules we see the implicit biases (see rejecting female CVs)
+
   - democracy in companie 
   Since humans discovered agricyktre and so made technology (somethijg that genrally is easier if youndont move location evey month) we have been a texhnology auffised society and organisae around its beenfots
   Democracy, despite what Greeks might protest, is very young - 1921, 1945 perhaps. 

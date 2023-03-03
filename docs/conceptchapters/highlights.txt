@@ -1,3 +1,6 @@
+To me software develolment is annintuitice fluid process, not something that can be planned with tickets and controlled by reins on jira tickets.  Of course *planning* is needed, and performance and so on can and must be measured. If it is wrong it goes, but there is a lot of not wrong out there and sonvery little right.  
+
+
 Themes and overview
 ===================
 

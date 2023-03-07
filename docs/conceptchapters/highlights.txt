@@ -26,7 +26,7 @@ We start with the idea of software literacy. Its a simple idea, but it unrolls i
 
 * SOftware Literacy
 
-* Coders are the new managers
+* Coders are the new managers - and management of managers needs to feed into code.  so managing writers meant policy documents, then manging coders means policy *code* - if you speak policy to a literate world and it remains spoken only and never writren down then that defeats the whole value chain of loteracy.  Thisnmight work at somemlevels (ie politicians) but it is not viabke at most levels (see 2orders mangitude rulemofnthumb - 1-100 coder 100-10000 financier 10000-10000000 politican 
 
 * the feed, curation, model and journalism
 
@@ -36,6 +36,10 @@ We start with the idea of software literacy. Its a simple idea, but it unrolls i
 
 * democratic companies / resource allocation / politics is how to agree on resource allocation. Why should resources of ~50% GDP be under such feudal control?
 (see also culture wars are just regulation debates, and rules vs regulations, and democaracy in companies is really just where I want to work - end of the gig economy for citizens. Also like the french approach to citizen (rescues kids from building).  Military increased cadence of decision making enables tighter turns (see regulation vs rules).  Politics is what regulation, software will encode the rules thus making programmable companies - but also making voting on the rules (ie commits) is a vital part of 'new' democracy. 
+
+Also democracy helps reduce corruption ans corrusion - see US army vs russian army. Sergei Shoigu - its fine fir the sec if defence tonhave their own PMC their own pricate army.
+
+
 
 * how to change edication to match work (industrial schools for infomration age)
 

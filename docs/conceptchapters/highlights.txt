@@ -8,6 +8,13 @@ also if coders are new manager then a manager of managers must provide some conf
 comlany (bloomberg terminal
 analogy) 
 
+project management 
+- look at film creation as a analog - it can either be an Ayb Randian (snyder) style too down micro managed slug fest or some chinese whispers or an ecosystem of collaborative effort - and this is the useful part - where does a ecosystem begin and a singukar aorgnisam end? thise choices probably not individuals but alos not a borg cube - and that based on goodmans law says how your system will work 
+
+devmanul: do not make commitments except in process - you cannot guarantee outcomes only work towards them and measure progress.
+
+Architexts and project managers - its fin to rag on them but they are as much a part of the aystem as anyonenelse. they need to be unplugged.
+or elecated by code kiteracy 
 
 Relationships
 Regulatuons

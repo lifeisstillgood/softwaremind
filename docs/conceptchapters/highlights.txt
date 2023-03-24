@@ -1,4 +1,4 @@
-To me software develolment is annintuitice fluid process, not something that can be planned with tickets and controlled by reins on jira tickets.  Of course *planning* is needed, and performance and so on can and must be measured. If it is wrong it goes, but there is a lot of not wrong out there and sonvery little right.  
+To me software develolment is an intuitive, fluid process, not something that can be planned with tickets and controlled by reins on jira tickets.  Of course *planning* is needed, and performance and so on can and must be measured. If it is wrong it goes, but there is a lot of not wrong out there and sonvery little right.  
 
 Choices of policy are rules regulation or state provisiob (DIY). 
 talk about the code is the design then architects need to donsoftware then the idea of programmablle comoany means the build phase is direct - its software rules this any programmable compnay is a direct build of the policy - law becomes architecture and voting on laws becomes ... non regulatory?  

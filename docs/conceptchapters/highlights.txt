@@ -45,6 +45,10 @@ software and software literacy will lead to programmable companies - were to sur
 
 and so we will have new ways of controlling our organisations - and it is both threat and opportunity - we need the powerful now to become like FDR - traitors to their class
 
+Also - software revolution should enable study of how organisations actually make decisions and achieve things - the driven founder is one thing  but it's a science in infnancy 
+
+
+
 
 To me software develolment is an intuitive, fluid process, not something that
 can be planned with tickets and controlled by reins on jira tickets.  Of course

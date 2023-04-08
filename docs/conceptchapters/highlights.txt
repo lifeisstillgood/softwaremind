@@ -63,8 +63,17 @@ and so we will have new ways of controlling our organisations - and it is both t
 
 Also - software revolution should enable study of how organisations actually make decisions and achieve things - the driven founder is one thing  but it's a science in infnancy 
 
+socialism - we all rely on each other to a ridiculous degree - 
+
+https://www.howtoflyahorse.com/what-coke-contains/
+https://news.ycombinator.com/item?id=35481712
+i pencil
+
+if we understand those degrees we may well treat the networks with more care ? 
 
 
+Intro
+-----
 
 To me software develolment is an intuitive, fluid process, not something that
 can be planned with tickets and controlled by reins on jira tickets.  Of course

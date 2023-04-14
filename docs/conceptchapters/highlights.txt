@@ -2,93 +2,153 @@
 Software Literacy
 =================
 
-I have been writing software for almost as long as I have been actually writing
-and I have found they are deeply similar processes.  This book I hope will persuade some people
-(maybe even you !) that this is a simple truth, and that the implications of that are deep, 
-wide-ranging and probably very disruptive.  But the gains, will be incredible for 
-us poor humans.
+I have been writing software for almost as long as I have been writing English
+and I have found they are deeply similar processes.  This book I hope will
+persuade some people (maybe even you !) that this is a simple truth, and that
+the implications of that are deep, wide-ranging and probably very disruptive.
+But the gains, will be incredible for us poor humans.
 
 
 
 A short note on sidenotes
 -------------------------
 
-Oh boy. I tend to wonder off the point a lot. You may find it annoying, but I try and keep the wanderings
-related to some other relevant idea.  So for example, over there you can see a margin note
+Oh boy. I tend to wonder off the point a lot. You may find it annoying, but I
+try and keep the wanderings related to some other relevant idea.  So for
+example, over there you can see a margin note
 
 ```{margin} There shall only be two (orders of magnitude)
 
-The rule of the Sith, but as a vague way of identifying when we need to 
-manage something differently.
+The rule of the Sith, but as a vague way of identifying when we need to manage
+something differently.
 
-So, look tehre are the first two orders of magnitude - 1-100. 100 servers. 100 customers,
-100 bicycles.  You can just write these down. Managin this number is well within most adults
-capability.  However at 2 more orders of magnitude, 100-10,000, well managing 10,000 servers is
-not going to work with a spredsheet and ssh logins.  You need to build out *different* tooling.
-Not necessarily better, just, different.  At 10,000-1,000,000 we are in a whole new world. And then we are in 
-100,000,000. 
+So, look tehre are the first two orders of magnitude - 1-100. 100 servers. 100
+customers, 100 bicycles.  You can just write these down. Managin this number is
+well within most adults capability.  However at 2 more orders of magnitude,
+100-10,000, well managing 10,000 servers is not going to work with a spredsheet
+and ssh logins.  You need to build out *different* tooling.  Not necessarily
+better, just, different.  At 10,000-1,000,000 we are in a whole new world. And
+then we are in 100,000,000. 
 
 I call these scales roughly, Private, Colonel, Financier, Politician.   
 
 ```
 
-organisational inertia - deep state - willynicky telegrams first world war and cuban missile crisis 
-
-what happens when an org is programmable? what happens if hitler takes power again? dint vote for him 
 
 
-"they did it anyway" - the failure to control
-our organisations and their slow AI
+* software literacy
+* desire to arrange the world to be iteraed over
+* programmable company
+* organisation as feudal 
+* how to bring democracy in - fierce belief in democracy as force to make
+  better decisions outside of the elite self serving
+
+
+Organisation THoughts
+
+* Organisations have inertia
+  - this is the idea of the Deep State
+  - But it is also the idea of 'They did it anyway'
+  - Changing an organisation is massively difficult - potentially impossible.
+  - it might be a political issue but is often 'this is what we think we are here for'
+    hence the deep state
+    THis can be good.
+    This can be cause of massive friction.
+    Perhasp it is only good when state is democratci and the goals are same
+    it depends on your mission, and the psychological safety of the relevant people.
+    WillYNickY telegrams, WWI, cuban missile crisis - those nominally in charge could not change the org / thnking.
+ - form of slow AI
+ - Two orgs - the programmable and the change. see Elon and twitter.  
+ - democratic safeguards - democarcy
 
 citizenship is a commit bit 
 
-the point of an organisation is to do what it is programmed to do.  the point of an org aaisatik  chnaging an organisation is to program it - much simpler now - but what needs chnaging and to what and how do we agree 
+the point of an organisation is to do what it is programmed to do.  
 
-- collection of data - this i partly metrics but mostly will be a search problem (most management is there to answer questions as they arise - https://www.manning.com/books/ai-powered-search?a_aid=1&a_bid=e47ada24&chan=aips) and then most middle management t can be replaced with effective search (not saying magic chatGPT - but it's part of the solution) 
+SLow AI. programming as in shared common understanding of mission. Often at odds.
+How to split an org - split it based on understanding of mission - see large conglomerates.
+Single cultre single org???
+
+
+orgs are political beings 0 but for now most of the polirics is elite in-fighting.
+If more democratic the fighting becoes over culture and what is agreed common mission. 
+Agreed Common Understanding of Mission of Enterprise - Acumen
+
+
+
+
+- collection of data - this i partly metrics but mostly will be a search
+  problem (most management is there to answer questions as they arise -
+https://www.manning.com/books/ai-powered-search?a_aid=1&a_bid=e47ada24&chan=aips)
+and then most middle management t can be replaced with effective search (not
+saying magic chatGPT - but it's part of the solution) 
 
 - decision on what outcome to have (social democracy ? regulation to rules) 
 
 - implementation  
 
 
-org size issue - when you can no longer predict investment in project will output something then you are eco system and that is different management - no longer cellular auto moat on - so just shrink?
+org size issue - when you can no longer predict investment in project will
+output something then you are eco system and that is different management - no
+longer cellular auto moat on - so just shrink?
 
-too big too fail is just cross subsidies - why not make it explicit 
-we are not a software company "bank executive". yea the bank is - but the meta organisation around the bank that tries to direct / chnage the bank is not - yet and it needs to be ! 
+too big too fail is just cross subsidies - why not make it explicit we are not
+a software company "bank executive". yea the bank is - but the meta
+organisation around the bank that tries to direct / chnage the bank is not -
+yet and it needs to be ! 
 
 
-The generals of WWI weren't fools - general warned keizer how bad.  But they could not control their organisations - not when FUD rules.  Democracy gives a different way of controlling our society
+The generals of WWI weren't fools - general warned keizer how bad.  But they
+could not control their organisations - not when FUD rules.  Democracy gives a
+different way of controlling our society
 
-software and software literacy will lead to programmable companies - were to survive and be nimble you need the architects trapmof being explicit - and so like VW it must be visible - any decision not in accordance with software will be spotted (like regulators and traders). 
+software and software literacy will lead to programmable companies - were to
+survive and be nimble you need the architects trapmof being explicit - and so
+like VW it must be visible - any decision not in accordance with software will
+be spotted (like regulators and traders). 
 
-and so we will have new ways of controlling our organisations - and it is both threat and opportunity - we need the powerful now to become like FDR - traitors to their class
+and so we will have new ways of controlling our organisations - and it is both
+threat and opportunity - we need the powerful now to become like FDR - traitors
+to their class
 
-Also - software revolution should enable study of how organisations actually make decisions and achieve things - the driven founder is one thing  but it's a science in infnancy 
+Also - software revolution should enable study of how organisations actually
+make decisions and achieve things - the driven founder is one thing  but it's a
+science in infnancy 
 
 socialism - we all rely on each other to a ridiculous degree - 
 
 https://www.howtoflyahorse.com/what-coke-contains/
-https://news.ycombinator.com/item?id=35481712
-i pencil
+https://news.ycombinator.com/item?id=35481712 i pencil
 
 if we understand those degrees we may well treat the networks with more care ? 
 
-and recognise that org chnage that is acceptable (ie does not demand the people at top lose their privilege) and unacceptable can be same change just the implications for loss of prestige - so we should remove the prestige blocker - ie socialism or whatever name we care to give it - chnage should not be dependant on the policies of an org - it's also why politicians rarely have strong opinions because they don't know the correct course of action and is why founders succeed in chnaging orgs 
+and recognise that org chnage that is acceptable (ie does not demand the people
+at top lose their privilege) and unacceptable can be same change just the
+implications for loss of prestige - so we should remove the prestige blocker -
+ie socialism or whatever name we care to give it - chnage should not be
+dependant on the policies of an org - it's also why politicians rarely have
+strong opinions because they don't know the correct course of action and is why
+founders succeed in chnaging orgs 
 
 
-also
-organisations are not and should be institutions - they should have opinions and visions on how to achieve their missions - and be shutdown when they have achieved them - else they are politically neutral institutions that are there ti ensure the foam game is fair 
+also organisations are not and should be institutions - they should have
+opinions and visions on how to achieve their missions - and be shutdown when
+they have achieved them - else they are politically neutral institutions that
+are there ti ensure the foam game is fair 
 
 
 https://news.ycombinator.com/item?id=35507649
 
-this happens inside large companies as well - best solution imo is to have st least two projects trying to internally deliver same thing  
+this happens inside large companies as well - best solution imo is to have st
+least two projects trying to internally deliver same thing  
 
 
 organisations and institutions
 
-- organisations are supposed to be short lived - enterprises.
-my suggestion a that after a certain period of time a company or organisation should return its capital to shareholders or re to become a dexomratically accountable institution - why should a bank be profit seeking? 
+- organisations are supposed to be short lived - enterprises.  my suggestion a
+  that after a certain period of time a company or organisation should return
+its capital to shareholders or re to become a dexomratically accountable
+institution - why should a bank be profit seeking? 
 
 
 

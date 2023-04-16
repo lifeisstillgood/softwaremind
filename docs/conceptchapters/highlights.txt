@@ -17,6 +17,20 @@ Big themes
 - architects dilemma
 - coders as new managers 
 
+
+- societies rules will be encoded in software just as they are in english / japanese
+- implications 
+- architects dilemma 
+- rules vs regulations 
+- hacking (tax lawyer) will be a coder
+- modelling will work in each industry but so will cross economy modelling - look at the liquid flow thing 1950s
+
+- we will be an open source society in same way we are an open source legal society
+
+- safer to just do what everyone else does in open source saas usage 
+
+- 
+
 * software literacy
 * desire to arrange the world to be iteraed over
 * programmable company

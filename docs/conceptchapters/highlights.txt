@@ -8,6 +8,19 @@ persuade some people (maybe even you !) that this is a simple truth, and that
 the implications of that are deep, wide-ranging and probably very disruptive.
 But the gains, will be incredible for us poor humans.
 
+Big themes
+
+- software as literacy
+- software as globalism driver
+- programmable company
+- A org and B org
+- architects dilemma
+- coders as new managers 
+
+
+
+
+
 
 
 A short note on sidenotes
@@ -23,8 +36,10 @@ The rule of the Sith, but as a vague way of identifying when we need to manage
 something differently.
 
 So, look tehre are the first two orders of magnitude - 1-100. 100 servers. 100
-customers, 100 bicycles.  You can just write these down. Managin this number is
-well within most adults capability.  However at 2 more orders of magnitude,
+customers, 100 bicycles.  You can just write these down. Some people can just remember each customer. Managin this number is
+well within most adults capability.  
+
+However at 2 more orders of magnitude,
 100-10,000, well managing 10,000 servers is not going to work with a spredsheet
 and ssh logins.  You need to build out *different* tooling.  Not necessarily
 better, just, different.  At 10,000-1,000,000 we are in a whole new world. And
@@ -75,6 +90,12 @@ A org follows orders (software rules)
 B org decides policy 
 
 And to avoid long term problems have opennness - 
+
+Regulators then have the architects dilemma - they have to write the rules - because the rules are software - and then the rules become the problem - the commit bit 
+
+
+
+elite - insider - citizen benefits - psychological safety 
 
 
 

@@ -16,7 +16,19 @@ Big themes
 - A org and B org
 - architects dilemma
 - coders as new managers 
+- management as building systems not controlling budgets 
 
+
+How in the hell does a group of people manage to come together and build something capable of this.
+
+I wonder if I will ever be able to learn to delegate.  I feel a managers jobs is lay a framework of system that enables others to plug in their innovation but not escape the bounds laid down.  
+
+Budgets kind of play this role for most projects - but software and cheap computing power has rewritten the link between money and capability such that a lot of coder management focuses on saying "wait I don't understand"
+
+it's impossible to understand what you cannot read as code.  And equally it's feasible to lay down frameworks that make it possible to manage effectively without fear 
+
+
+I see amazing photo of space fuel spiral - and it's all about me :-) 
 
 - societies rules will be encoded in software just as they are in english / japanese
 - implications 

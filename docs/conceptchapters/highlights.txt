@@ -29,7 +29,12 @@ Big themes
 
 - safer to just do what everyone else does in open source saas usage 
 
-- 
+
+
+Plato and cycles of history 
+- uncanny repeating of history.
+
+we should realise that wealth of a nation is the wealth of its people and their shared contributions - we can argue over best way to get everyone to contribute at their potential (private markets/government programs) but the same idea - shared wealth - should be same 
 
 * software literacy
 * desire to arrange the world to be iteraed over

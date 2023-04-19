@@ -17,17 +17,7 @@ Big themes
 - architects dilemma
 - coders as new managers 
 - management as building systems not controlling budgets 
-
-
-How in the hell does a group of people manage to come together and build something capable of this.
-
-I wonder if I will ever be able to learn to delegate.  I feel a managers jobs is lay a framework of system that enables others to plug in their innovation but not escape the bounds laid down.  
-
-Budgets kind of play this role for most projects - but software and cheap computing power has rewritten the link between money and capability such that a lot of coder management focuses on saying "wait I don't understand"
-
-it's impossible to understand what you cannot read as code.  And equally it's feasible to lay down frameworks that make it possible to manage effectively without fear
-
-how does one build a plug-in system for the next hire ? 
+- theory of the firm
 
 - societies rules will be encoded in software just as they are in english / japanese
 - implications 
@@ -95,6 +85,37 @@ I call these scales roughly, Private, Colonel, Financier, Politician.
 ```
 
 
+
+What is "management"
+--------------------
+
+(need some overview of the literature as well)
+
+Management has different meanings at different levels - and keeping to the rule of Two Orders Of magnitude - we can go with our 'Sergent' (100), 
+'General' (10,000), Financier (1,000,000), Politician (100,000,000).   
+
+It is my contention that coders are the new managers - that the worker drone of the silicon age is not a human on the factory line or tending to the mill, but a CPU or GPU, processing the data as it flows past the cache.
+
+As such coders start at the Sergent level - coraaling unruly workers and 
+
+Does such a person need supervision? Need micromanaging? It seems unlikely as the previous level of manager was mostly treated well and had a span of control / freedom. Unlike CPUS who do exactly as they are told.
+
+And the way to co-ordinate people who have degrees of freedom in their job is 
+to build sysems that allow for and expect differences but can cope and still prevent straying beyong boundaries.
+
+A plugin system.
+
+Possiby the first such was accounting and budgeting - show the image.
+
+Each layer has to build the plugin system for all of the people below.
+
+It is why authoritarimsism is so popular in hierarchies - if everyone below you does exactly as you say then things are predictable and can be reasonaed about.  But that also leaves no room for innovation, for adjusting to change, for cadence of decision making.  THis is the diff betwen militaries in war and militaries in peace.  And why US Army keeps invading places.
+
+I feel a managers jobs is lay a framework of system that enables others to plug in their innovation but not escape the bounds laid down.  
+
+Budgets kind of play this role for most projects - but software and cheap computing power has rewritten the link between money and capability such that a lot of coder management focuses on saying "wait I don't understand"
+
+how does one build a plug-in system for the next hire ? 
 
 
 

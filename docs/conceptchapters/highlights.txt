@@ -2,43 +2,38 @@
 Software Literacy
 =================
 
+
 I have been writing software for almost as long as I have been writing English
 and I have found they are deeply similar processes.  This book I hope will
 persuade some people (maybe even you !) that this is a simple truth, and that
 the implications of that are deep, wide-ranging and probably very disruptive.
-But the gains, will be incredible for us poor humans.
+But the gains, will be incredible for us poor humans. Assuming the robots have 
+not turned us all into large battery farms by then.
+
+<software literacy introduction>
+
 
 Big themes
 
-- software as literacy
+* Software as a form of literacy.  It will be as profound a change and it is not 'internet' its knowledge and process and data.
+
+* HOw we organise (feudal managemnet, voting, dmeocracy, no more deep state, programmable company, A and B)
+
+* Social Democracy, Openness, Double down on democracy. Individual rights, wider access to funding 
+
+* how we organise (comms & A org v B org)
+* thoery of firm.
+
+ software as literacy
 - software as globalism driver
 - programmable company
 - A org and B org
 - architects dilemma
 - coders as new managers 
-- management as building systems not controlling budgets 
-
-socialism 
----------
-OSS - cathedral vs bazaar - is more scout led armies and general led armies.
-
-works better as socialism - there is no competitor - just getting better because everyone shares equally.
-
-Our software society is built on a socialist foundation that has time and again won out.
-
-
-
-How in the hell does a group of people manage to come together and build something capable of this.
-
-I wonder if I will ever be able to learn to delegate.  I feel a managers jobs is lay a framework of system that enables others to plug in their innovation but not escape the bounds laid down.  
-
-Budgets kind of play this role for most projects - but software and cheap computing power has rewritten the link between money and capability such that a lot of coder management focuses on saying "wait I don't understand"
-
-it's impossible to understand what you cannot read as code.  And equally it's feasible to lay down frameworks that make it possible to manage effectively without fear
-
-how does one build a plug-in system for the next hire ? 
+- management as building systems for the O(m) below you  
+- software socialism - OSS, scientific progrss.
+- build it again and again and again.  
 - theory of the firm
-
 - societies rules will be encoded in software just as they are in english / japanese
 - implications 
 - architects dilemma 
@@ -51,18 +46,91 @@ how does one build a plug-in system for the next hire ?
 - safer to just do what everyone else does in open source saas usage 
 
 
-
-Plato and cycles of history 
-- uncanny repeating of history.
-
-we should realise that wealth of a nation is the wealth of its people and their shared contributions - we can argue over best way to get everyone to contribute at their potential (private markets/government programs) but the same idea - shared wealth - should be same 
-
 * software literacy
 * desire to arrange the world to be iteraed over
 * programmable company
 * organisation as feudal 
 * how to bring democracy in - fierce belief in democracy as force to make
   better decisions outside of the elite self serving
+
+
+
+
+```{margin} I cannot 'manage'
+
+Honestly I seem to be terrible at it.  My basic idea is I should not ask 
+anyone to do something I cannot do, so in software that basically means 
+writing the code first, exploreing the phase space. Turns out that at that point
+you are not far from doing it all yourself.  So the goal in management is to find (train?)
+people who can be as effective scouts as you can.  That seems to be anathema to 
+most management theory and practise as its mostly hire people and tell them what to do
+and shout if it does not get done in the arbitrary timescales you assign.
+
+So systemic framework and scouting for new capabilities is what i want.  Does not seem to fit.
+
+Scouting - to allow people to travel off and find new capabilities and build new things,
+but only this far and no furtehr.  We are learning to 
+ 
+I wonder if I will ever be able to learn to delegate.  I feel a managers jobs is lay a framework of system that enables others to plug in their innovation but not escape the bounds laid down.  
+I wonder if I will ever be able to learn to delegate.  I feel a managers jobs is lay a framework of system that enables others to plug in their innovation but not escape the bounds laid down.  
+Budgets kind of play this role for most projects - but software and cheap computing power has rewritten the link between money and capability such that a lot of coder management focuses on saying "wait I don't understand"
+
+it's impossible to understand what you cannot read as code.  And equally it's feasible to lay down frameworks that make it possible to manage effectively without fear
+
+how does one build a plug-in system for the next hire ? 
+```
+
+Social Democracy, Openness, individual rights
+---------------------------------------------
+
+Beware of philosophers designing the ideal society. Look at Plato.
+
+* Common Wealth
+
+we should realise that wealth of a nation is the wealth of its people and their shared contributions - we can argue over best way to get everyone to contribute at their potential (private markets/government programs) but the same idea - shared wealth - should be same 
+
+* feudalism in companies
+
+* voting as way to align leaders with masses.
+See FDR 'traitor to his class'
+
+* its not necessary for capitalism to direct workers - it directs the capital
+
+
+Will become an open society in several ways
+
+* rules will be open to be read (open source software like open source laws)
+* Architects dilemma becomes all management dilemma
+  (leadership is least important of Sun-tzus maxims. Its a hygiene factor *only*.)
+* management as feudalism will struggle as policy breaks through archite4cts dillemma
+* maangemtn and how we organise is under threat.
+
+In large companies and government, no-one knows how it all works. Where all the cogs and pieces are.
+The deep state is important (I mean having some serious people with serious rules about the launch of nuclear weapons is *good*.) But the deep state implies two things.  1. that there is some state actors 
+that are secretive and powerful enough to ignore and even oppose the will of the peoples elected representatvic.  I dont agree there. Yes there are plenty ofpeople who disagree, will reluctantly comply - but few if any givne a driect order will *oppose*. resign possibly but *oppose*. 
+
+Far far far more realistic is the scenario where elected representive wants to make a change, but imply does not know how - which people doing which job are the ones who need to stop and change?  
+This unknowableness is the source of either frustration (Raab, cummings) or humour (Sir Humphrey)
+But it is a source.
+
+However.... if the software is there to read, if the barium bullets can discover and map 
+the nooks and crannies of process, then the inner workings of the deep state of the org 
+is laid bare.  Arguments about the Deep state, about changing how we work become discussions 
+of *policy* not implenetation.  
+
+In short if a robot is building your house, then it will do what you tell it.  Removing the 
+human decision from that means your policy is implented. If the house falls down thats on you.
+
+The code is the design.
+
+OSS - cathedral vs bazaar - is more scout led armies and general led armies.
+
+works better as socialism - there is no competitor - just getting better because everyone shares equally.
+
+Our software society is built on a socialist foundation that has time and again won out.
+
+carpe societatis "seize the company"
+------------------------------------
 
 
 Leading to social democracy as a aligned for software chnaged if we so choose 
@@ -74,9 +142,12 @@ by this 'other form' he is referring to an organisation of politics which includ
 
 """
 
-Fundamentals of justice and fairness vs feudalism of most private organisations - software is an inflection point and will rework organisations - and we need to take the chnace to gain control of the org that run 50% of our gdp - and direct them to more social democracy - because their goal is not to make money but to serve our society - to deliver benefits of all humans working together for a better future 
-
-carpe societatis "seize the company"
+Fundamentals of justice and fairness vs feudalism of most private organisations
+- software is an inflection point and will rework organisations - and we need
+to take the chnace to gain control of the org that run 50% of our gdp - and
+direct them to more social democracy - because their goal is not to make money
+but to serve our society - to deliver benefits of all humans working together
+for a better future 
 
 A short note on sidenotes
 -------------------------
@@ -124,6 +195,7 @@ And the way to co-ordinate people who have degrees of freedom in their job is
 to build sysems that allow for and expect differences but can cope and still prevent straying beyong boundaries.
 
 A plugin system.
+----------------
 
 Possiby the first such was accounting and budgeting - show the image.
 

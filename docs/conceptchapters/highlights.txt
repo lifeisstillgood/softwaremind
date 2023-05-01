@@ -149,6 +149,34 @@ direct them to more social democracy - because their goal is not to make money
 but to serve our society - to deliver benefits of all humans working together
 for a better future 
 
+https://news.ycombinator.com/item?id=35756763
+
+There is a meta-meta situation surrounding really good software management.
+You can knock up some code that say solves a specific business problem right now. (meta:0)
+But you need an environment that can take a new piece of code and deploy it and test it (meta:1)
+how is that code running - this is shadingnfrom production monitoringninto QA and performance (meta:2)
+Compare all the running code and its performance against the benefits of replacing code or going back to level 0 and just fixing a business problem (meta:3)
+Then this death eater - meta 4 I think.
+And to me this is why comments like "software needs to solve business problems" is naive - once you start using software you need more software to manage the software - it's going to grow till it consumes the business.
+
+It's literacy - it's all or nothing 
+
+Hierarchy and control
+---------------------
+
+Its called deep state because elected officials cannot contoor it - not because sabotage but because they simply don't know where it exists - the levers are hidden in thickets
+
+but software ... reporting ... lines of code... you can find software through introspection - we are heading this way
+
+and if so then you can control - directly - perhaps by chnaging the code.  
+
+so why do you need a hierarchy? I mean it's good - but it's like claiming pyramids are built by aliens because ancient humans could not pile stones on top of each other
+
+How do we build / organise / when its decentralised ? (no not talking DAO) When resources can be voted ? directly ? 
+
+we will i hope see experimentation on organisation - 
+
+
 A short note on sidenotes
 -------------------------
 

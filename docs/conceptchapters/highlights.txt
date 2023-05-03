@@ -2,13 +2,13 @@
 Software Literacy
 =================
 
+Writing a human language (like English, Spanish, Japanese) is surprisingly similar 
+to writing software or code.  Expressing ideas, such that another brain can understand your intentions
+is a skill and one for written languages we pour huge amounts of time into teaching our kids.
 
-I have been writing software for almost as long as I have been writing English
-and I have found they are deeply similar processes.  This book I hope will
-persuade some people (maybe even you !) that this is a simple truth, and that
-the implications of that are deep, wide-ranging and probably very disruptive.
-But the gains, will be incredible for us poor humans. Assuming the robots have 
-not turned us all into large battery farms by then.
+But the similarities between coding and writing are not co-incidental - the aim, 
+the goals are deeply similar and if we accept this as a simple truth, the deep
+disruptive implications pour forth.
 
 <software literacy introduction>
 
@@ -17,12 +17,10 @@ Big themes
 
 * Software as a form of literacy.  It will be as profound a change and it is not 'internet' its knowledge and process and data.
 
-* HOw we organise (feudal managemnet, voting, dmeocracy, no more deep state, programmable company, A and B)
+* HOw we organise ourselves (feudal managemnet, voting, dmeocracy, no more deep state, programmable company, A and B)
 
 * Social Democracy, Openness, Double down on democracy. Individual rights, wider access to funding 
 
-* how we organise (comms & A org v B org)
-* thoery of firm.
 
  software as literacy
 - software as globalism driver

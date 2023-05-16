@@ -1,3 +1,34 @@
+Concepts
+
+* OODA
+* cadence of decision making
+* theory of the firm
+* prgrammable company
+* 2 ord mag
+* A and B Org 
+* rules v regulations (managing in and down 2 OrdMag)
+* architects dilemma
+* code is the design
+* peak globalism
+* coders are new managers
+* Sofware literacy forces software SDLA - builds and reviews and so on (cathedral v bazaar)
+* We live in social democracy - get over it. Maybe embrace it. NATO and pacific alliances (sharing the burden)
+* fire the assholes (high trust high performacne)
+* 
+
+Implications
+
+* pre-release modelling - robots going to build house get good premodelling. What about pre-modelling policies - see OMB etc
+
+
+Themes
+
+
+
+
+
+
+
 =================
 Software Literacy
 =================
@@ -10,17 +41,21 @@ But the similarities between coding and writing are not co-incidental - the aim,
 the goals are deeply similar and if we accept this as a simple truth, the deep
 disruptive implications pour forth.
 
+Just spendng time as a developer leads to a natural form of anthropology.
+
 <software literacy introduction>
+
+
+Themes - Concepts - Implications
 
 
 Big themes
 
 * Software as a form of literacy.  It will be as profound a change and it is not 'internet' its knowledge and process and data.
 
-* HOw we organise ourselves (feudal managemnet, voting, dmeocracy, no more deep state, programmable company, A and B)
+* How we communicate and organise data will affect HOw we organise ourselves (feudal managemnet, voting, dmeocracy, no more deep state, programmable company, A and B)
 
-* Social Democracy, Openness, Double down on democracy. Individual rights, wider access to funding 
-
+* Software will stop eating world when mgmt stops saying 'I used to'
 
 - it's freedom vs totalitarianism- or more accurately trying to get balance of freedom
 and duty to the social group right - medical information presented back so we can all learn though epidemiology 
@@ -171,13 +206,31 @@ works better as socialism - there is no competitor - just getting better because
 
 Our software society is built on a socialist foundation that has time and again won out.
 
+
+
+
 carpe societatis "seize the company"
 ------------------------------------
 
+There are two types of "management" - the organisation of systems for the 2 OrdersMagnitude "below" you
+and OODA loop day-to-day management. We are seeing now the migration of OODA loop to coders - coders are the
+new managers. Meaning that we are building programmable companies - layers of orders of mgnitude at a time.
 
-Leading to social democracy as a aligned for software chnaged if we so choose 
+Cadence of decision making.
 
+SO the oncoming disruption is more and more parts of the OODA loop being automated away, and the relevant decision
+making being made at the code-face - if you cannot read code, thats fine if you are 2 orders of magnitude "up".
+But not inside those 2 orders.
+
+Social democracy - because fairness is the obvious way to start.
 What do you get if you ask a coder to design a company?
+
+What is the fair / acceptable way for decision making to be done at the upper level? Openly. Transparently. And Democratically.
+
+Why should people who are making the decisions on the ground be given no voice in the 2OM decisions? I mean it works
+sometimes, but ... the question has brewed for 2000 years and in 1945 a large chunk of the world got a tate and we liked it.
+And more importantly it looks very m uch like such arrangements promote scientific rational decision making and the subsequent 
+insane wealth growth.
 
 """
 by this 'other form' he is referring to an organisation of politics which includes democratic institutions and promotes policies that are inclusive, conscientiously egalitarian, and socially considerate, then he is essentially arguing for social democracy. Here, here!
@@ -190,6 +243,7 @@ to take the chnace to gain control of the org that run 50% of our gdp - and
 direct them to more social democracy - because their goal is not to make money
 but to serve our society - to deliver benefits of all humans working together
 for a better future 
+
 
 https://news.ycombinator.com/item?id=35756763
 

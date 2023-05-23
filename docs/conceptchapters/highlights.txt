@@ -53,7 +53,8 @@ yeah. but so? math music, dsl, jargon, genre and literacy?
 
 Themes - Concepts - Implications
 
-
+"""jesus it was bad enough listening to this stuff in the pub but now I have to read it sober? 
+"""
 Big themes
 
 * Software as a form of literacy.  It will be as profound a change and it is not 'internet' its knowledge and process and data.
@@ -2110,6 +2111,14 @@ use - software enabkes us to share more easily?
 
 
 aoftware is capital - build some
+
+
+Privacy
+-------
+HN went for it here :
+https://news.ycombinator.com/item?id=36029377
+
+
 
 privacy not the point - its the use to which data us put - see medical HIPAA or
 pay me formmy sata 

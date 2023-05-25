@@ -1,4 +1,5 @@
 Concepts
+testing the keyboard
 
 * OODA
 * cadence of decision making

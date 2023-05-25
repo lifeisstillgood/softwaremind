@@ -1,8 +1,10 @@
 Concepts
-testing the keyboard
+--------
 
-* OODA
-* cadence of decision making
+For each of these I will write a (chapter) to describe it and its history and how it fits intolarger themes
+
+
+
 * theory of the firm
 * prgrammable company
 * 2 ord mag
@@ -18,6 +20,11 @@ testing the keyboard
 * Social Media - discovery / culture wars are deciding what culture sould look like. Uneducated will feel left out.
 * what social mesia is is fairer reflection of views of everyone (which kind of is the problem)
 * I have to trust democracy - why there should not be a sdcond referendum. get it right first time.
+- the masters of the universe are really custodians trained by society to do jobs needed. And we want it back in one piece, improved and ready front he next custodian.  
+* OODA
+* cadence of decision making
+* MMT and keynes and #
+
 
 
 Implications
@@ -27,9 +34,11 @@ Implications
 
 Themes
 
+Software as a form of literacy
+Software tends to open source, which tends to openness, democratic or meritocratic decisions
+and if thats how software goes, society is likely to go too.
+However that might be aivee, but we can at least aim higher
 
-
-- the masters of the universe are really custodians trained by society to do jobs needed. And we want it back in one piece, improved and ready front he next custodian.  
 
 
 

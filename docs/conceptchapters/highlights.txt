@@ -37,6 +37,10 @@ Implications
 Themes
 
 Software as a form of literacy
+
+
+the wnd point of all automation discussions is software literacy - someone automaing their workflow to meet their needs.
+
 Software tends to open source, which tends to openness, democratic or meritocratic decisions
 and if thats how software goes, society is likely to go too.
 However that might be aivee, but we can at least aim higher

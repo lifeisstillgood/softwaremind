@@ -1,6 +1,23 @@
 
 history philosophy and future of software 
 
+History
+-------
+First round - to fortran
+JAcquard loom
+TUring and wwII
+Lyons tea house
+Fortran
+
+Rise pf unix (editorfor mortals)
+Corporations and inabilityto grip software - see calc for the mac
+This is also an ineresting point about failure of accountancy to grapple with post-large-capital features of software.  they invent new gateways that are 'unnatural' to prevent usage whereas accountancy and budgets were natural in re-software days.
+
+internet and pixar
+open source and linux
+
+Interesperse these with the concepts chapters and we are done.
+
 
 Concepts
 --------
@@ -10,25 +27,47 @@ For each of these I will write a (chapter) to describe it and its history and ho
 
 
 * theory of the firm
-
-also how forms turn evil?
+also how forms turn evil? "they did it anyway"
 * prgrammable company
+
 * 2 ord mag
 * A and B Org 
-* rules v regulations (managing in and down 2 OrdMag)
+* rules v regulations (managing in and down 2 OrdMag) v revolutions - brexit was desperate attmpt to say it needed revolution.  Ukraine seems to have triggered required response in EU - we shall see.  EU approach to managing GDPR is positive - 
+
 * architects dilemma
+Links to capital, budgets, architecture. 
+THere are genuine online buinsesses that will be impactful (look at my password holder - hundreds of sites of which maybe 5 I will pay for. The value of most interenet companies is zero.) but things like central bank digital currencies are transformative, disruptive and coing for us. Identity managemet, etc.
+
+Point being that te code is the design
 * code is the design
+
 * peak globalism
+Have we reached peak globalism. Look at impact of frederix taylor and ICE. 
+
 * coders are new managers
+CPUS and GPUS are new workers. So the ones arranging systems (see multiple levels of control always needed - meta levels 1-5 do the job, look for moniotring etc etc)
+
 * Sofware literacy forces software SDLA - builds and reviews and so on (cathedral v bazaar)
+
+There is a 'natural' way to build and deliver software - it is not limited by budgets any more than the stories from shakespeares quill (Isaac asimovs) are limited by how much he is paid per word. 
+
+So companies who want to control software need to find ways to naturally manage software like budgets and accountancy (see image). That is a problem, and we have not found solutions to it (agile rant at this point - but basically agile stops some levels up and that is pointless)
+
 * We live in social democracy - get over it. Maybe embrace it. NATO and pacific alliances (sharing the burden)
+
 * fire the assholes (high trust high performacne)
+
 * Social Media - discovery / culture wars are deciding what culture sould look like. Uneducated will feel left out.
+
 * what social mesia is is fairer reflection of views of everyone (which kind of is the problem)
+Is it? Or is it just reflecting the extremes (again)
+
 * I have to trust democracy - why there should not be a sdcond referendum. get it right first time.
 - the masters of the universe are really custodians trained by society to do jobs needed. And we want it back in one piece, improved and ready front he next custodian.  
+
 * OODA
 * cadence of decision making
+
 * MMT and keynes and #
 
 

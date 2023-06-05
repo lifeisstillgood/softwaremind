@@ -1,32 +1,39 @@
-
-Capitalism won, but it was not capitalism vs communism - it was liberty vs tyranny and capitalism was just the weapon.  We are still fighting liberty v tyranny but the other side has same weapons and equally good training and doctrine
-
-we need to be shining beacon on a hill, not better at firing our weapons. 
-
-
-
 history philosophy and future of software 
+-----------------------------------------
+
+Some basic themes and chapters
+
+Themes:
+Democracy - science, freedom, systems not heroics, not capitalism but freedom.
+
+.. ::
+
+  	Capitalism won, but it was not capitalism vs   communism - it was liberty vs tyranny and capitalism was just the weapon.  We are still fighting liberty v tyranny but the other side has same weapons and equally good training and doctrine
+
+  we need to be shining beacon on a hill, not better at firing our weapons. 
+
 
 History
 -------
-First round - to fortran
+Turing To Fortran
 JAcquard loom
 TUring and wwII
 Lyons tea house
 Fortran
 
-Rise pf unix (editorfor mortals)
-Corporations and inabilityto grip software - see calc for the mac
+
+Fortran
+Unix and C
+Lisp, and other forms
+Object orientated
+Haskell
+Agile, learning to build software organisations (joel on software, where is the science)
+- Corporations and inabilityto grip software - see calc for the mac
 This is also an ineresting point about failure of accountancy to grapple with post-large-capital features of software.  they invent new gateways that are 'unnatural' to prevent usage whereas accountancy and budgets were natural in re-software days.
 
-internet and pixar
-open source and linux
+Tech bros, global companies, 64K of ram, the new installed base theory and is cloud ending that?
+Open source, linux, just better. really just better.
 
-Interesperse these with the concepts chapters and we are done.
-
-Jokey ideas
------------
-The only reason companies saw improvements in produticivty is because people can now attend meeting and keep working at the same time - sorry olease repeat the question 
 
 Concepts
 --------

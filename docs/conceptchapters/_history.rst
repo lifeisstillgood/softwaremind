@@ -1,10 +1,35 @@
 History Of Software
 ===================
+Guide
+Turing to software - Bomba, Min ACE, first stored program computer - changing your own programming.  
+Changing your own programming is the definting point of intelligence. 1950 paper - can machines think
+Manchester Baby. Pivot of world to USA. Von Neumman
 
-Software as we understadn it is a very young discipline, and even though I argue it is a form of literacy it is a very new form of literacy.
+52-54 road to fortran, plus turing death.
+UK self inflicted wound of last two years of turings life and migration of computing to USA.
+'debug this silent monster'. The 1-1 line conversion vs conceptual ladder of fortran
 
-Alan Turing and The Bombe
+Unix, Thomson, breaking grip of large corporations
+
+80s as rise of open source and 90s rise of PC, and internet, 'a PC on every dsktop' to iPhone a supercomputer in every pocket.
+
+Next step is agents working on our behalf - needing improved security, meaning of privacy and abiity to view review it ourselves and self programming - open and programmable.  And to move beyond the individual to programming the group, the company, the society.
+
+
+
+
+Alan Turing, to Fortran
 -------------------------
+
+I am still pushing the idea of software as a form of literacy, and so it has two competing aims - to be able to run on a computer,  and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
+
+Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.
+
+To get from nowhere to the first software it took the human mind of at least one genius and the horrors of the second world war.
+
+Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS). The BioPic film (name) starring Benedict Cumberbatch follows the He had already been working with the government and Polish Intelligence in their attempts to break 
+
+Turig forsaw software as solution to thinking
 
 American 
 --------

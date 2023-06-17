@@ -21,13 +21,20 @@ Next step is agents working on our behalf - needing improved security, meaning o
 Alan Turing and the road to Software 
 -------------------------
 
-I am still pushing the idea of software as a form of literacy, and so it has two competing aims - to be able to run on a computer,  and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
+I believe that software is best seen as a new form of literacy, and so it has two competing aims - to be able to run as billions of binary instructions on a CPU, and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
 
-Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.
+So Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.
 
-To get from nowhere to the first software it took the human mind of at least one genius and the horrors of the second world war.
+Hw we got there is the story of at least one genius and the horrors of the second world war.
 
-Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS). The BioPic film (name) starring Benedict Cumberbatch follows the He had already been working with the government and Polish Intelligence in their attempts to break 
+Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS), just a day after the declartion of War by the UK on Germany. 
+
+
+The BioPic film (The Lying Game) starring Benedict Cumberbatch follows the common view of a lone genius struggling to realise his dream against a stupid and pompous establishment.  And while I love any film I can persuade my kids to watch that teaches even a passing resemblance to history (look its him from Avengers), Turing had already been working with the government and Polish Intelligence in their attempts to break Nazi Ciphers for over a year, his work on both sides of the Atlantic having been well recognised.
+
+Turing built electronic machines (crib - a plaintext we can assume is in the cipher. As such we can eleimnate many positions (the not ciphering to oneself). Then the bombe is used to try all positions possible to get letter E to D and z to R If some of those positions collide we eliinate those, and so on and so on.)
+
+
 
 Turig forsaw software as solution to thinking
 
@@ -81,6 +88,12 @@ Linux and the socialism of software
 Open, sophisticated but rough, best sevelopemnt practises 
 
 Open in social orgbaisation - the issues of toxic relationships and better solutions
+
+
+Microsoft, WYSIWIG and dead ends
+------------------------
+Its not software - low code and no code. Cutting out marvel comic panels and rearrnaging them. It works to an extent and great practitioners can oroduce something *fast*. But it is more like a DJ remixing. There is nothing wrong per se, there is a need for a busines to just get onwoth it.  But from the stand point of a fully literate society, remixing Panels from Marvel comics is missong the point (and dont get me started on the legal issues of trying to add in panels from DC comics!)
+
 
 
 

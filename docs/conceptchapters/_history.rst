@@ -18,7 +18,7 @@ Next step is agents working on our behalf - needing improved security, meaning o
 
 
 
-Alan Turing, to Fortran
+Alan Turing and the road to Software 
 -------------------------
 
 I am still pushing the idea of software as a form of literacy, and so it has two competing aims - to be able to run on a computer,  and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
@@ -30,25 +30,6 @@ To get from nowhere to the first software it took the human mind of at least one
 Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS). The BioPic film (name) starring Benedict Cumberbatch follows the He had already been working with the government and Polish Intelligence in their attempts to break 
 
 Turig forsaw software as solution to thinking
-
-American 
---------
-
-Stopped on Stairs and Bugs
----------------------------
-
-Fortran
--------
-
-
-UNIX 
-----
-Editor for mortals
-
-
-
-How much is software dependant on technology?
----------------------------------------------
 
 I am still sticking with my "software as a form of literacy" concept.  But just as literacy was not possible without some form of mark-making technology (from clay and stick, to ink and pulp) literacy itself "transcends" the technology, but cannot exist without it - a virtual and real life split perhaps.
 
@@ -72,3 +53,34 @@ Lucian of Samosata
 A True History
 https://en.m.wikipedia.org/wiki/A_True_Story
 )
+
+
+Stopped on Stairs and Bugs
+---------------------------
+
+John Backus and the road to Fortran
+-------
+- Organisation and subversion 
+- The development of in redibly sophisiticated weaponry (radar, cavity magnetron, nuclear fission, jet turbines, proximity fuse (Tizzard mission)
+
+all needed computing power to go firther model more
+
+
+
+
+UNIX 
+----
+Editor for mortals
+Baked into and starting to eat the world - see rows of accountants and replacing them - films stills of tony hancock and then maggie smith film
+
+Unix leads to common operating system 
+
+
+Linux and the socialism of software 
+----------------------
+Open, sophisticated but rough, best sevelopemnt practises 
+
+Open in social orgbaisation - the issues of toxic relationships and better solutions
+
+
+

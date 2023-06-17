@@ -1,5 +1,8 @@
 History Of Software
 ===================
+
+
+
 Guide
 Turing to software - Bomba, Min ACE, first stored program computer - changing your own programming.  
 Changing your own programming is the definting point of intelligence. 1950 paper - can machines think
@@ -60,6 +63,11 @@ Lucian of Samosata
 A True History
 https://en.m.wikipedia.org/wiki/A_True_Story
 )
+
+Biblio:
+
+https://github.com/DJHoffmann/Enigma/blob/master/Enigma.py
+
 
 
 Stopped on Stairs and Bugs

@@ -1,8 +1,6 @@
 History Of Software
 ===================
 
-
-
 Guide
 Turing to software - Bomba, Min ACE, first stored program computer - changing your own programming.  
 Changing your own programming is the definting point of intelligence. 1950 paper - can machines think
@@ -18,22 +16,30 @@ Unix, Thomson, breaking grip of large corporations
 
 Next step is agents working on our behalf - needing improved security, meaning of privacy and abiity to view review it ourselves and self programming - open and programmable.  And to move beyond the individual to programming the group, the company, the society.
 
-
-
-
-Alan Turing and the road to Software 
--------------------------
-
+Intro
+-----
 I believe that software is best seen as a new form of literacy, and so it has two competing aims - to be able to run as billions of binary instructions on a CPU, and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
 
 So Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.
 
-Hw we got there is the story of at least one genius and the horrors of the second world war.
+How we got there is the story of geniuses and mortals, war, organisational guerillas, and a faith that openness and transparency will triumph.
+
+
+Alan Turing and the road to Software 
+------------------------------------
 
 Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS), just a day after the declartion of War by the UK on Germany. 
 
+There is a lovely scene in the 2014 biopic of Turing's life `The Imitation Game` where Benedict Cumberbatch as Turing is having an interview with Charles Dance as 'The Establishment Figure', deciding if Turing should be allowed to work at Bletchly.  Charles Dance's character is pompous and throughout the film provides most of the 'oppostion' to Turing.  Of course we need exposition to explain Turings already astounding genius and where the UK is in the war, but we set up a dynamic here that probably oversells the 'lone genius struggling against a world that does not understand him'.
 
-The BioPic film (The Lying Game) starring Benedict Cumberbatch follows the common view of a lone genius struggling to realise his dream against a stupid and pompous establishment.  And while I love any film I can persuade my kids to watch that teaches even a passing resemblance to history (look its him from Avengers), Turing had already been working with the government and Polish Intelligence in their attempts to break Nazi Ciphers for over a year, his work on both sides of the Atlantic having been well recognised.
+While I love any film I can persuade my kids to watch that teaches even a passing resemblance to history ("look its him from Avengers"), when he walked into Bletchly Park, Turing had already been working with the UK government and Polish Intelligence in their attempts to break Nazi Ciphers for over a year.
+
+Yes there were difficulties getting sufficient resources to build the bombe. Solved by churchill letter.  But the enemy here  
+
+(worth dicussing the home chain radar, bletchly as examples of what UK was supremely good at - organisation on massive Stae scale. Something the spark travelled to USA with).
+ as a mathematictian and cipher expert having been well recognised.
+
+
 
 Turing built electronic machines (crib - a plaintext we can assume is in the cipher. As such we can eleimnate many positions (the not ciphering to oneself). Then the bombe is used to try all positions possible to get letter E to D and z to R If some of those positions collide we eliinate those, and so on and so on.)
 

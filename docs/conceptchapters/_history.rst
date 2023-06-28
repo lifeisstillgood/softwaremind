@@ -20,7 +20,7 @@ Intro
 -----
 I believe that software is best seen as a new form of literacy, and so it has two competing aims - to be able to run as billions of binary instructions on a CPU, and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
 
-So Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.
+So Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.  The English you are reading has only one compiler to target my brain and your brain - the (trained) human mind.
 
 How we got there is the story of geniuses and mortals, war, organisational guerillas, and a faith that openness and transparency will triumph.
 
@@ -34,23 +34,17 @@ There is a lovely scene in the 2014 biopic of Turing's life `The Imitation Game`
 
 While I love any film I can persuade my kids to watch that teaches even a passing resemblance to history ("look its him from Avengers"), when he walked into Bletchly Park, Turing had already been working with the UK government and Polish Intelligence in their attempts to break Nazi Ciphers for over a year.
 
-Yes there were difficulties getting sufficient resources to build the bombe. Solved by churchill letter.  But the enemy here  
+Yes there were difficulties getting sufficient resources to build the bombe, that cracking the Enigma code was always a struggle, but a struggle not against pompous ADmirals, but against mathematics itself. A letter to Churchill solved most of the resource problems, but the enemy remained building a machine to take on nature.  
 
 (worth dicussing the home chain radar, bletchly as examples of what UK was supremely good at - organisation on massive Stae scale. Something the spark travelled to USA with).
- as a mathematictian and cipher expert having been well recognised.
-
 
 
 Turing built electronic machines (crib - a plaintext we can assume is in the cipher. As such we can eleimnate many positions (the not ciphering to oneself). Then the bombe is used to try all positions possible to get letter E to D and z to R If some of those positions collide we eliinate those, and so on and so on.)
-
-
 
 Turig forsaw software as solution to thinking
 
 I am still sticking with my "software as a form of literacy" concept.  But just as literacy was not possible without some form of mark-making technology (from clay and stick, to ink and pulp) literacy itself "transcends" the technology, but cannot exist without it - a virtual and real life split perhaps.
 
-#Anyway the point is software is dependant on a compiler and a computer to actually fuction, yet on a daily basis my collegues and I review and read code that goes through no compiler other than each others brains.  But we need the experience of the code functioning in real life, to see the outputs running,
-t hear as it were, the reeds clacking, so that we can model it in our heads and decide where to go next.
 
 Different technologies drive different computing capabiities, which drives the software literacy tropes / genres we use to represent the new capabilities.
 
@@ -74,10 +68,10 @@ Biblio:
 
 https://github.com/DJHoffmann/Enigma/blob/master/Enigma.py
 
+We lave Alan with his Apple. (stephen Fry comment)
+He foresaw a self modifying machine - and built one. The spark had fled to the USA (politics, Von Braun, organisation, british decline).  But software is a language that had to speak to the computer on how to modify itself but also be understood by the humans.  And at this level of sophistication, humans were mostly understanding at single 1:1 mapping of instructions.  It is as if we counted by making one line on a clay tablet for each addition, instead of using 5 or 7 as symbols.  The next step is to design a language that is short, concise, compact for humans, but *expands* into machin language.
 
 
-Stopped on Stairs and Bugs
----------------------------
 
 John Backus and the road to Fortran
 -------
@@ -87,7 +81,7 @@ John Backus and the road to Fortran
 all needed computing power to go firther model more
 
 
-
+The next step is general computing. Maths is fine and fundamental, but how do we expand outside of maths, how do we share the time on the commputer, how do we build a level of software abstraction that looks after the resources, does the administration of the computer hardware, but does so using the computer, and does so in a way that does not interfere with new growth new needs.  How to we have an operatiing system.
 
 UNIX 
 ----
@@ -96,6 +90,7 @@ Baked into and starting to eat the world - see rows of accountants and replacing
 
 Unix leads to common operating system 
 
+How do we unleash the millions of people who want to build for themselves. How do we find the best wayt to build software together.
 
 Linux and the socialism of software 
 ----------------------
@@ -103,11 +98,15 @@ Open, sophisticated but rough, best sevelopemnt practises
 
 Open in social orgbaisation - the issues of toxic relationships and better solutions
 
+Co-ordination, decision making, large scale software and large scale capitalism.  The challenge of the organisation.  Linux was incredible. Is it the right approach? Failed GUI choices. 
 
 Microsoft, WYSIWIG and dead ends
 ------------------------
 Its not software - low code and no code. Cutting out marvel comic panels and rearrnaging them. It works to an extent and great practitioners can oroduce something *fast*. But it is more like a DJ remixing. There is nothing wrong per se, there is a need for a busines to just get onwoth it.  But from the stand point of a fully literate society, remixing Panels from Marvel comics is missong the point (and dont get me started on the legal issues of trying to add in panels from DC comics!)
 
 
+Apple, Curated computing, distributed computing
 
+unsolved questions
 
+Any new frontiers in computing or software? ChatGPT just copies.

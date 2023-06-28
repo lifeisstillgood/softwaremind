@@ -81,7 +81,7 @@ John Backus and the road to Fortran
 all needed computing power to go firther model more
 
 
-The next step is general computing. Maths is fine and fundamental, but how do we expand outside of maths, how do we share the time on the commputer, how do we build a level of software abstraction that looks after the resources, does the administration of the computer hardware, but does so using the computer, and does so in a way that does not interfere with new growth new needs.  How to we have an operatiing system.
+The next step is general computing. Maths is fine and fundamental, but how do we expand outside of maths, how do we share the time on the commputer, how do we build a level of software abstraction that looks after the resources, does the administration of the computer hardware, but does so using the computer, and does so in a way that does not interfere with new growth new needs.  How to we have an operatiing system.  These are no longer single purpose machines but are expected to do many dofferent functions (databases, UI inouts, reporting, a counting) - each different program wants access to the same resources and coukd also go wring and take out everyone else - (malicious was rare!) - how do we adminster all that?  not manually  
 
 UNIX 
 ----

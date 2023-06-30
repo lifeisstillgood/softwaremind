@@ -10,6 +10,10 @@ Under conditions of extremely free markets firms profits are reduced due to comp
 This also applies to open source software. it is by its nature extremely competitive and as a result almost all value is captured by its users. This is great at any given point in time, but it also means that open source software is constantly underfunded, and research is in fact ironically driven by surpluses of large firms.
 
 
+this os why we need some surpkus but drmocratic control over surplus.  either we give up capialism or we find a way to have democracy in companies 
+
+
+
 The effect of secret information 
 
 https://twitter.com/jonst0kes/status/1668325780303261696?s=46&t=seC8uw3ZXCXUX_XOmF9-8Q

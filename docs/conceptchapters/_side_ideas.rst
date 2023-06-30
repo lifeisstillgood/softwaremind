@@ -1,6 +1,15 @@
 Side Ideas
 ==========
 
+Why ooen source is alwys under funded 
+-------------------------
+https://news.ycombinator.com/item?id=36531443
+
+Schumpeter pointed out that innovation is rarely the result of free market regimes but instead of monopolistic competition. A situation in which individual winners temporarily capture markets and use high surplus returns to fund fundamentally expensive innovation. In dynamic economies usually a handful of firms dominate in the medium term. They're replaced across time, they don't compete in the same space. More and more complex and developed economies naturally move towards this because progress requires immense capital.
+Under conditions of extremely free markets firms profits are reduced due to competition, consumers capture immediate value, but the sectors remain stagnant. An example are many service industries.
+This also applies to open source software. it is by its nature extremely competitive and as a result almost all value is captured by its users. This is great at any given point in time, but it also means that open source software is constantly underfunded, and research is in fact ironically driven by surpluses of large firms.
+
+
 The effect of secret information 
 
 https://twitter.com/jonst0kes/status/1668325780303261696?s=46&t=seC8uw3ZXCXUX_XOmF9-8Q

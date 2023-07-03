@@ -82,6 +82,8 @@ Hitlers choice vs churchills choice - and its the choice of a config statemebt -
 
 Also - escalation theory does not facour the free nation but the richest (or at least one with most capable conventional
 military - which does not nexesaarily mean free (bit see corruotion) 
+
+
 history philosophy and future of software 
 -----------------------------------------
 
@@ -220,7 +222,13 @@ Why dont newspaper journalist get backstage acces to watch a film gettinf nase a
 But what if we could record it all, the worlds largest longitudinal epidemology study - how to raise children. Sort it out once and for all. phones to guide tou thorugh parnting disasters? beat advice goven - does a naughty stepmwork? 
 
 
+Why ooen source is alwys under funded 
+-------------------------
+https://news.ycombinator.com/item?id=36531443
 
+"""Schumpeter pointed out that innovation is rarely the result of free market regimes but instead of monopolistic competition. A situation in which individual winners temporarily capture markets and use high surplus returns to fund fundamentally expensive innovation. In dynamic economies usually a handful of firms dominate in the medium term. They're replaced across time, they don't compete in the same space. More and more complex and developed economies naturally move towards this because progress requires immense capital.
+Under conditions of extremely free markets firms profits are reduced due to competition, consumers capture immediate value, but the sectors remain stagnant. An example are many service industries.
+This also applies to open source software. it is by its nature extremely competitive and as a result almost all value is captured by its users. This is great at any given point in time, but it also means that open source software is constantly underfunded, and research is in fact ironically driven by surpluses of large firms."""
 
 
 

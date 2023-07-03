@@ -1,10 +1,16 @@
-the ptocurement trap - only develop good erapons while at war or never let illitrtates run yout projects
 
-The effect of secret information 
+Leasons From SDLC
+-----------------
+Joels 12 rules, and 12 factor develolment, but cut down to four
 
-https://twitter.com/jonst0kes/status/1668325780303261696?s=46&t=seC8uw3ZXCXUX_XOmF9-8Q
+1. overwhelming importance of daily build as focus
 
-overwhelming importance of daily build as focus
+2. iterate to a solution - build and rebuild dozens of times 
+
+3. tooling matters more then functionality- functionality is something like first few steps in fobonannci because managing the work brings more leverage than doing the work.  So we are aiming to rpelace traditional management with code.  And traditional
+management must move to a VC like issue (2 orders removed)
+
+4. Testing: unit tests and integration builds are like checking for oil in the cogs, but real testing is in production, its the measuring the effect you have on real world  
 
 Fascinating free book that motivated these comments:
 https://www.history.navy.mil/research/publications/publicati...

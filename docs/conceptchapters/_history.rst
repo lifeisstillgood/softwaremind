@@ -41,16 +41,18 @@ While I love any film I can persuade my kids to watch that teaches even a passin
 
 Yes there were difficulties getting sufficient resources to build the bombe, that cracking the Enigma code was always a struggle, but a struggle not against pompous Admirals, but against mathematics itself. Fmously, a letter to Churchill solved most of the resource problems ("give them whatever they need" was the reply), but the enemy remained building a machine to take on nature.  
 
-The Bombe and Colosusss, both used to break German ciphers, were *electro-mechanical*.  That is they lierally moved wires withing themselves (the famous round dials) hunting for one combination of wires that did *not* carry current (the idea being that flaws in the encryption meant that certain rotor settings were impossible
+The Bombe and Colosusss, both used to break German ciphers, were *electro-mechanical*.  That is they lierally moved wires withing themselves (the famous round dials) hunting for one combination of wires that did *not* carry current.  It was much like brute forcing).
 
-(appenix A goes into great detail on how Enigma was broken, and Appenxidx B into the design of ACE, the first stored program coputers.
+(appenix A goes into great detail on how Enigma was broken, and Appenxidx B into the design of ACE, the first stored program coputers.)
 
-I find hat .
+This is a side note on the value of organisations that throw off enough money to afford R&D. States and others. We now are a century from the initial R&D of nuclear energy, quantum mechaics, computing and the ROI on those investments are off the scale.  It might be worth diving inot Home Chain Radar, Proximity fuses and so on.
+
 (worth dicussing the home chain radar, bletchly as examples of what UK was supremely good at - organisation on massive Stae scale. Something the spark travelled to USA with).
 
 
-Turing built electronic machines (crib - a plaintext we can assume is in the cipher. As such we can eleimnate many positions (the not ciphering to oneself). Then the bombe is used to try all positions possible to get letter E to D and z to R If some of those positions collide we eliinate those, and so on and so on.)
+What was Turing's two big ideas.  The first is that software can *think* - that is learn and adapt its own programming so that it can change.  The Bombe was a calculating machine, but it only did one thing.  The instructions that made the were built in and could not be changed except y outside humad
 
+During the war and afterwarda at Machester, he worked on designing a 'stored program machine" - that 
 Turig forsaw software as solution to thinking
 
 I am still sticking with my "software as a form of literacy" concept.  But just as literacy was not possible without some form of mark-making technology (from clay and stick, to ink and pulp) literacy itself "transcends" the technology, but cannot exist without it - a virtual and real life split perhaps.

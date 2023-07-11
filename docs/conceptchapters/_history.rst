@@ -41,6 +41,10 @@ While I love any film I can persuade my kids to watch that teaches even a passin
 
 Yes there were difficulties getting sufficient resources to build the bombe, that cracking the Enigma code was always a struggle, but a struggle not against pompous Admirals, but against mathematics itself. Fmously, a letter to Churchill solved most of the resource problems ("give them whatever they need" was the reply), but the enemy remained building a machine to take on nature.  
 
+The Bombe and Colosusss, both used to break German ciphers, were *electro-mechanical*.  That is they lierally moved wires withing themselves (the famous round dials) hunting for one combination of wires that did *not* carry current (the idea being that flaws in the encryption meant that certain rotor settings were impossible
+
+(appenix A goes into great detail on how Enigma was broken, and Appenxidx B into the design of ACE, the first stored program coputers.
+
 I find hat .
 (worth dicussing the home chain radar, bletchly as examples of what UK was supremely good at - organisation on massive Stae scale. Something the spark travelled to USA with).
 

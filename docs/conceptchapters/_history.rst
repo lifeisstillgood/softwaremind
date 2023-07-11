@@ -1,26 +1,31 @@
-History Of Software
-===================
+A History Of Software
+=====================
 
-Guide
+(editor overview)
 Turing to software - Bomba, Min ACE, first stored program computer - changing your own programming.  
-Changing your own programming is the definting point of intelligence. 1950 paper - can machines think
+Changing your own programming is the definting point of software - the hardware became capable of making a turing complete machine. 
+1950 paper - can machines think
 Manchester Baby. Pivot of world to USA. Von Neumman
 
 52-54 road to fortran, plus turing death.
 UK self inflicted wound of last two years of turings life and migration of computing to USA.
 'debug this silent monster'. The 1-1 line conversion vs conceptual ladder of fortran
 
-Unix, Thomson, breaking grip of large corporations
+60s Unix, Thomson, breaking grip of large corporations
+
+70s lisp grows up, AI winter, functional 
 
 80s as rise of open source and 90s rise of PC, and internet, 'a PC on every dsktop' to iPhone a supercomputer in every pocket.
+80s also OO computing as response to AI winter - again important sell to corporate world (see agile)
 
 Next step is agents working on our behalf - needing improved security, meaning of privacy and abiity to view review it ourselves and self programming - open and programmable.  And to move beyond the individual to programming the group, the company, the society.
 
 Intro
 -----
-I believe that software is best seen as a new form of literacy, and so it has two competing aims - to be able to run as billions of binary instructions on a CPU, and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software between each other and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.
 
-So Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.  The English you are reading has only one compiler to target my brain and your brain - the (trained) human mind.
+I believe that software is best seen as a new form of literacy, and so it has two competing aims - to be able to run as billions of binary instructions on a CPU, and also to be comprehesible to human minds.  I am incapable of performing billions of binary calculations per second, but on a daily basis my collegues and I share software that we can read, imagine running and are able to reason about the outcomes of the software and the bugs we have inevitably added and diverted us from the true purpose of coffee drinking.  
+
+So Software has two compilers to target - (trained) human minds, and the hardware inside every Motherboard.  The English you are reading has only one compiler to target my brain and your brain - the (trained) human mind.  Yes I am deliberatly linking between the use of human written languages and software code.  I bang on about this a lot.
 
 How we got there is the story of geniuses and mortals, war, organisational guerillas, and a faith that openness and transparency will triumph.
 
@@ -28,14 +33,15 @@ How we got there is the story of geniuses and mortals, war, organisational gueri
 Alan Turing and the road to Software 
 ------------------------------------
 
-Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS), just a day after the declartion of War by the UK on Germany. 
+Alan Mathison Turing was 27 years old when he walked through the gates of Bletchly Park, the UK Governments Code and Cipher School (GCCS), just a day after the UK declared war on Germany. 
 
 There is a lovely scene in the 2014 biopic of Turing's life `The Imitation Game` where Benedict Cumberbatch as Turing is having an interview with Charles Dance as 'The Establishment Figure', deciding if Turing should be allowed to work at Bletchly.  Charles Dance's character is pompous and throughout the film provides most of the 'oppostion' to Turing.  Of course we need exposition to explain Turings already astounding genius and where the UK is in the war, but we set up a dynamic here that probably oversells the 'lone genius struggling against a world that does not understand him'.
 
 While I love any film I can persuade my kids to watch that teaches even a passing resemblance to history ("look its him from Avengers"), when he walked into Bletchly Park, Turing had already been working with the UK government and Polish Intelligence in their attempts to break Nazi Ciphers for over a year.
 
-Yes there were difficulties getting sufficient resources to build the bombe, that cracking the Enigma code was always a struggle, but a struggle not against pompous ADmirals, but against mathematics itself. A letter to Churchill solved most of the resource problems, but the enemy remained building a machine to take on nature.  
+Yes there were difficulties getting sufficient resources to build the bombe, that cracking the Enigma code was always a struggle, but a struggle not against pompous Admirals, but against mathematics itself. Fmously, a letter to Churchill solved most of the resource problems ("give them whatever they need" was the reply), but the enemy remained building a machine to take on nature.  
 
+I find hat .
 (worth dicussing the home chain radar, bletchly as examples of what UK was supremely good at - organisation on massive Stae scale. Something the spark travelled to USA with).
 
 

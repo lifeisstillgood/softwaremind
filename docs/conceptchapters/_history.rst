@@ -29,6 +29,28 @@ So Software has two compilers to target - (trained) human minds, and the hardwar
 
 How we got there is the story of geniuses and mortals, war, organisational guerillas, and a faith that openness and transparency will triumph.
 
+Notes:
+Manchester University Transistor Computer, is generally regarded as the first transistor-based stored-program computer having become operational in November 1953
+so was the transistor computer, following the arc laid out by turing
+
+
+Manchester Baby
+- stored program
+- the software was division
+so ran repeatedly 
+- software could be anything (well just calculations but you know)
+store was wiliams tube - https://en.m.wikipedia.org/wiki/Williams_tube
+Basically a cyhorde ray tune that charged on the stored dots faded over time - thus they were read back and faded over time. 
+at this point any instructions coukd be kept in its 32x32 bits if memory, but the underlying hardware needed to supply abilities - addition and negation (the earliest CPU) just allowed for addition and subtraction.  Division was thus just 
+
+frankly these things were just fast calculators. indeed thats all CPUs today are.
+
+MUTC was first transistor conouter so we can see how we got to the starting gate by 1948 - stored programs, transistors, NNaND logic.
+
+So a quick trio theough the manchester baby and transistor via turing.
+
+
+
 
 Alan Turing and the road to Software 
 ------------------------------------

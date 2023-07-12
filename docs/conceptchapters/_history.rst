@@ -55,7 +55,24 @@ This is a side note on the value of organisations that throw off enough money to
 
 The Manchester Baby And First Transistor Computer
 -------------------------------------------------
-Alan Turing's 
+After the second world war ended, computing and "computability" was still little known but vitally important.  Turing moved to the Univeristy of manchester to carry on his work#
+
+Alan Turing's genius gave a working model of computability, the use of computing at NationState scale, and full designs for the next working step - the sotred program computer.  But his great weakness was one we have all seen, he just assumed everyone else would see the obvious next step.
+
+"""
+There was the same problem again, in the fate of the ACE. Having set down a highly intelligent plan, Alan tended to assume that the political wheels would turn as if by magic to put it into effect.
+""" [Alan Turing: The Enigma - A. Hodges]
+
+Manchester University was the epicentre of early computing development, and Alan Turing was its guiding light until the British Government demonstrated the kind of foot-gun incompetance that, speaking as a Brit, is rather tiring.  
+"""
+Williams’ ordinary cathode ray tubes. With two assistants, he had beaten American industry. It was still possible for British ingenuity to ‘jump in ahead of the Americans’.
+""" [hodges]
+VonNeuman wrote to Turing in 1949 describing the disappointments of the American attempts to build a stored program computer (the Iconoscope was eventually abandonded for the ENIAC), at which time the Manchester Baby had successfully computed the highest factor of 2^18 using cathrode ray tubes to store the answers temprarily and dedicated hardware to add and subtract values stored in those glowing tubes.
+
+But dont worry Britain was soon to shoot itself in the foot.
+
+.
+
 
 Notes:
 Manchester University Transistor Computer, is generally regarded as the first transistor-based stored-program computer having become operational in November 1953

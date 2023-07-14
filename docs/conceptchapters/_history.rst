@@ -55,6 +55,10 @@ This is a side note on the value of organisations that throw off enough money to
 
 The Manchester Baby And First Transistor Computer
 -------------------------------------------------
+https://youtu.be/cozcXiSSkwE  - documwntary manchester baby 
+
+
+
 After the second world war ended, computing and "computability" was still little known but vitally important.  Turing moved to the Univeristy of manchester to carry on his work#
 
 Alan Turing's genius gave a working model of computability, the use of computing at NationState scale, and full designs for the next working step - the sotred program computer.  But his great weakness was one we have all seen, he just assumed everyone else would see the obvious next step.

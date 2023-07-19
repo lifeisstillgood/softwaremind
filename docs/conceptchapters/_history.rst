@@ -15,6 +15,10 @@ UK self inflicted wound of last two years of turings life and migration of compu
 
 70s lisp grows up, AI winter, functional 
 
+The spreadsheet 
+my dad exampke
+https://qz.com/578661/dan-bricklin-invented-the-spreadsheet-but-dont-hold-that-against-him
+
 80s as rise of open source and 90s rise of PC, and internet, 'a PC on every dsktop' to iPhone a supercomputer in every pocket.
 80s also OO computing as response to AI winter - again important sell to corporate world (see agile)
 

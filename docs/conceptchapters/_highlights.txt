@@ -29,9 +29,10 @@ Knowledge workers and software
 [Slow AI - paperclip metrics]
 [I Used to be technical]
 [Once the metrics are part of explicit AI, choosing the metrics matters]
-[governance matters]
+[governance matters /change management]
 [Politics of choosing the metrics to aim for - governance]
 [Explicit beats implicit - politics is hding the implicit within explcit, also is where it all breaks]
+[more and more is made explicit which will force out some (dodgy) business models and much vague regulation]
 [shared mental models - own opinions not own facts not true, can have own mental model. Making them explicit is science, and education, and politics.  Whwere politics becomes fractious is where mental models diverge - if we put models in software it makes them explicit and maybe able to discuss and improve education. Slit on degree vs non degree lines]
 [democracy matters, as do unions, regulation etc]
 
@@ -515,7 +516,12 @@ Our software society is built on a socialist foundation that has time and again 
 
 carpe societatis "seize the company"
 ------------------------------------
-
+[TwoOrdMag]
+[coders are new managers]
+[Cadence of decision making]
+[Greater incormation at front line (drones in battle)]
+[Culture infects (infra)structure - social democratic institutions and company designs]
+[Chinas totalitarian bet - and Inida is watching, USA needs to bet big]
 There are two types of "management" - the organisation of systems for the 2 OrdersMagnitude "below" you
 and OODA loop day-to-day management. We are seeing now the migration of OODA loop to coders - coders are the
 new managers. Meaning that we are building programmable companies - layers of orders of mgnitude at a time.

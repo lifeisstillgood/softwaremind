@@ -35,6 +35,19 @@ expected outcomes when makijg a chnage? expected outocmes making many chnages
 
 what does a manager do? what does a non job do? what can be replaced ? how do we judge certain org and intra-orgs? 
 
+Non-Jobs
+--------
+
+Coders are new managers. 
+Non-jobs are trying to affect the organisation that is incrasingly software literate, without being themselves software literate. Thus there is a lot of cargo culting going on.  BUt also "I used to be a manager now I dont read or write".
+
+So how do we have a company that can be run by changing the code?  And if we do how do we predict the effects, and monitor for changes.  Observability, Lean and metric driven development. (noe all those first)
+
+
+
+
+
+
 
 Explicit vs implicit
 --------------------

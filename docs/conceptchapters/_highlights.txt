@@ -1,3 +1,8 @@
+Software is a new form of literacy - and the processes we are developing in using software (source control, release co-ordination, linting etc) are the new publishing etc. We have learnt so much over decades and expect to learn more.
+
+But widespread software loteraxy will have expectations - ability to read drives expectation to read laws and to affect those laws, 
+
+How humans *organise* at companies, at local communities and nation states, is also going to be affected by wodeapread software literacy 
 
 The software mind - speeding up a slow AI corporation 
 

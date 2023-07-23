@@ -1,27 +1,30 @@
+Basics: I will build lots of chunks - thoughts on aspects of software delviery. Intersperse with history and call it a book.
+
+
+=====
+intro
+=====
+
 Software is a new form of literacy - and the processes we are developing in using software (source control, release co-ordination, linting etc) are the new publishing etc. We have learnt so much over decades and expect to learn more.
 
 But widespread software loteraxy will have expectations - ability to read drives expectation to read laws and to affect those laws, and software will encapsulate and codify our laws to the extent that code will become our laws.
 
-How humans *organise* at companies, at local communities and nation states, is also going to be affected by wodeapread software literacy. Our organisations are legally constructed as seperate "individuals" - as Charlie Stross calls then "Slow AIs". But as software automates more ans more of their lrocesses companies shall become faster-Slow AIs, bringing benefits and threats, democracy and darkness.
+Throughout history, Humans have achieved more working together than seperately - either in extremely hierarchical military like organisations, in aggregations that became cities, or in far flung trade networks.  But the tracking of how those relationships work together has been so problemtic that it is sometimes referred to as "emergent", "macro-economics" - or magic. But software, linked to technologies like ledgers and RFID  will enable organisations to view and track thier (actual) internal processes, and then start to affect them.
+
+ How humans *organise* at companies, at local communities and nation states, is also going to be affected by wodeapread software literacy. Our organisations are legally constructed as seperate "individuals" - as Charlie Stross calls then "Slow AIs". But as software automates more ans more of their lrocesses companies shall become faster-Slow AIs, bringing benefits and threats, democracy and darkness.
 
 For the power software literacy will provode us will be like any technology - a choice of how to use it fir good or evil, common beneoft or individual profit.
-
-I will walk thorufhbthe histoty of software and also the important chnages as a practioner of 30 years I see as relevant and impactful 
-
-The software mind - speeding up a slow AI corporation 
-
-Charlie Stross, Peter Drucker and many others have identified the knowledge working organisation as an entity in its own right.
-
 But software is now both speeding up the process and wnabling us to see the programming 
 
-
-Also the mind of a human learning the new literacy 
-
+I will walk thorufhbthe histoty of software and also the important chnages as a practioner of 30 years I see as relevant and impactful 
 
 
 
 Knowledge workers and software
 -----------------------
+The software mind - speeding up a slow AI corporation 
+
+Charlie Stross, Peter Drucker and many others have identified the knowledge working organisation as an entity in its own right.
 
 https://news.ycombinator.com/item?id=36779257
 

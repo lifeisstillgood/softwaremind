@@ -21,7 +21,21 @@ I will walk thorufhbthe histoty of software and also the important chnages as a 
 
 
 Knowledge workers and software
------------------------
+------------------------------
+[nonJobs]
+[coordination via releases]
+[metric driven company]
+[metric driven development]
+[Slow AI - paperclip metrics]
+[I Used to be technical]
+[Once the metrics are part of explicit AI, choosing the metrics matters]
+[governance matters]
+[Politics of choosing the metrics to aim for - governance]
+[Explicit beats implicit - politics is hding the implicit within explcit, also is where it all breaks]
+[shared mental models - own opinions not own facts not true, can have own mental model. Making them explicit is science, and education, and politics.  Whwere politics becomes fractious is where mental models diverge - if we put models in software it makes them explicit and maybe able to discuss and improve education. Slit on degree vs non degree lines]
+[democracy matters, as do unions, regulation etc]
+
+
 The software mind - speeding up a slow AI corporation 
 
 Charlie Stross, Peter Drucker and many others have identified the knowledge working organisation as an entity in its own right.
@@ -30,10 +44,6 @@ https://news.ycombinator.com/item?id=36779257
 
 non jobs? what is not sutomated? why?
 co-ordination id definite automatable - look at integrationnand testing environmwnts - it coordinates a lot.  where next? modelling environment - how donwe replace humans with software next? what does "co-ordination" mean? too many people? a middlesd buisness model? 
-
-expected outcomes when makijg a chnage? expected outocmes making many chnages 
-
-what does a manager do? what does a non job do? what can be replaced ? how do we judge certain org and intra-orgs? 
 
 Non-Jobs
 --------

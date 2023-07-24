@@ -5,7 +5,7 @@ Main Arguments
 --------------
 
 
-- software literacy is a thing. It willnchnage how we organise and how we 
+- software literacy is a thing. A software kiterate workforxe will chnage what we mean for knowledge work, and will impact all aspects of current orgbaisations - which will become smaller, less shared treausries, faster to chnage  
 
 - Traditional management is getting replaced as companies become programmable companies
 
@@ -14,13 +14,25 @@ Main Arguments
 - this has a political ans governance impact 
 
 - coders become new managers - a company can be seen as a slow AI and they will now speed up as more of the companies operations are "programmabke" (definition - actions controlled through software directly or chnages in software released) 
+
 - non jobs and project mgmt and confusion over how projects are delivered is hiding a lot.  but clearer literacy (not lo code) and clearer lones in companies theory of firn / two order mag, will clear our sometjing like 1-2 tirds see twitter
+
+
 
 =====
 intro
 =====
 
 Software is a new form of literacy - and the processes we are developing in using software (source control, release co-ordination, linting etc) are the new publishing etc. We have learnt so much over decades and expect to learn more.
+
+concepts to cover:
+code is the design
+co-ordination problem
+Code base as a (testable) model of the organisation 
+
+
+
+
 
 But widespread software loteraxy will have expectations - ability to read drives expectation to read laws and to affect those laws, and software will encapsulate and codify our laws to the extent that code will become our laws.
 

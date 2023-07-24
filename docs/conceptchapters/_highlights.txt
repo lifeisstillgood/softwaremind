@@ -1,6 +1,18 @@
 Basics: I will build lots of chunks - thoughts on aspects of software delviery. Intersperse with history and call it a book.
 
 
+Main Arguments
+
+- software literacy is a thing
+- Traditional management is getting replaced as companies become programmable companies
+
+- this elimanates deep state and makes hidden explicit.  
+
+- this has a political ans governance impact 
+
+- coders become new managers - a company can be seen as a slow AI and they will now speed up as more of the companies operations are "programmabke" (definition - actions controlled through software directly or chnages in software released) 
+- non jobs and project mgmt and confusion over how projects are delivered is hiding a lot.  but clearer literacy (not lo code) and clearer lones in companies theory of firn / two order mag, will clear our sometjing like 1-2 tirds see twitter
+
 =====
 intro
 =====

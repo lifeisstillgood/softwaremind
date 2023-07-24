@@ -2,8 +2,11 @@ Basics: I will build lots of chunks - thoughts on aspects of software delviery. 
 
 
 Main Arguments
+--------------
 
-- software literacy is a thing
+
+- software literacy is a thing. It willnchnage how we organise and how we 
+
 - Traditional management is getting replaced as companies become programmable companies
 
 - this elimanates deep state and makes hidden explicit.  

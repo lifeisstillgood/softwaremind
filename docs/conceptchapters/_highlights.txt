@@ -5,7 +5,16 @@ Main Arguments
 --------------
 
 
-- software literacy is a thing. A software kiterate workforxe will chnage what we mean for knowledge work, and will impact all aspects of current orgbaisations - which will become smaller, less shared treausries, faster to chnage  
+- software literacy is a thing. A software kiterate workforxe will chnage what we mean for knowledge work, and will impact all aspects of current orgbaisations - which will become smaller, less shared treausries, faster to c
+
+concepts to cover:
+code is the design
+co-ordination problem
+Code base as a (testable) model of the organisation 
+Coase, shared treasuries, single issue companies, democractic control, MMT 
+programmable company - (testable) model of the organisation
+2 / 3 ord mag
+
 
 - Traditional management is getting replaced as companies become programmable companies
 
@@ -25,10 +34,6 @@ intro
 
 Software is a new form of literacy - and the processes we are developing in using software (source control, release co-ordination, linting etc) are the new publishing etc. We have learnt so much over decades and expect to learn more.
 
-concepts to cover:
-code is the design
-co-ordination problem
-Code base as a (testable) model of the organisation 
 
 
 

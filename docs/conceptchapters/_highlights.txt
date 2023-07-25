@@ -3,7 +3,12 @@ Basics: I will build lots of chunks - thoughts on aspects of software delviery. 
 
 Main Arguments
 --------------
-
+ 
+- software literacy
+- programmable company
+- codebase as a testable
+model of the company - which makes Slow AI *explicit*. 
+- coders as managers (what is mangement at levels of ord mag - its resource allocation or its organisation, model monitor mentor - see drucker and coase)
 
 - software literacy is a thing. A software kiterate workforxe will chnage what we mean for knowledge work, and will impact all aspects of current orgbaisations - which will become smaller, less shared treausries, faster to c
 

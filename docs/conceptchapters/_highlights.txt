@@ -1,5 +1,36 @@
 Basics: I will build lots of chunks - thoughts on aspects of software delviery. Intersperse with history and call it a book.
 
+The MOOP
+--------
+
+So this one dives off the deep end quite quickly. It's less about the nice corporate software world and playing with a bunch of what-ifs in society.
+
+My slow movement from punish and control through aggression and towards consensus.
+
+But it's based on faith. What if it does not work? Where on the scale of good / bad dad am I ? lower ten percent ? lower quartile? Half? Upper half? 
+
+MOOP is an attempt to bring some degree of rigour to that problem - science the shit out of it. 
+
+
+The epidemiology of behaviour - 
+
+Massively open online courses becomes psychology- not psychiatry - not broken brains, just maladaptive behaviour 
+
+but having always on analysis of behaviour is ... beneficial??
+
+
+Testable codebase
+-----------------
+
+Barium Bullet ? 
+
+At some point of "automation" the codebase becomes a testable model of the compmay - testable against scenarios of chnage in the environment - back testable? predictive ? AI?
+Making the Slow AI explicit.
+
+Scenarios running throughout the codebase - passing scenarios and changes like barium bullets throughout systems in pre-prod env - being able to load full env and replay previous months and days of activities to get more optimum outcomes - hiring, firing, server utilisation, office space and resource use.  Treating the whole org as an ER P problem - will make huge dent in middle mamabbegt 
+
+
+
 
 Main Arguments
 --------------

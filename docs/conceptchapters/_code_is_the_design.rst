@@ -1,10 +1,28 @@
 The Code is The Design
 ======================
 
-Back in the the autumn of 1992, Jack W Reeves published an essay in C++ Journal, enitted "What is SOftware Design?".
+Back in the the autumn of 1992, Jack W Reeves published an essay in C++ Journal, entitled "What is SOftware Design?".
+
 https://www.developerdotstar.com/mag/articles/reeves_design.html#
 
-The essence boils down to 'when you have cod the final design is done. there is no lernative extra work done. it is mechanical determinism from that point.  so anything before writing code is just artists drawings..
+#The essence boils down to 'when you have cod the final design is done. there is no lernative extra work done. it is mechanical determinism from that point.  so anything before writing code is just artists drawings..
+
+free overtime=#
+design and test
+designing is massively iterative process
+experience teaches us how to avoid some of worst self inflicted errors, but engineering gets us tighter
+
+my takeaways are the organisational design, is vitally important to accepting the process of software design. it is iterative, it should be many laywered.\
+
+I objext to locode solutions because i see them as 1Dimensional.
+
+He definitley foresees the agile revolution.
+(work on that too)
+
+Agile has mostly fallen - its hard to say when almsot every maor company pays lipservice.
+
+But the issues laid out by reeves, that give words to experience of every software developer, are still prevalent - and they are not technical in nature. They are organisational, and by my POV ???they are due to lack of softwre literacy.  We would barely expect ublishing houses to have 
+
 
 >>> Designing software is an exercise in managing complexity. The complexity exists within the software design itself, within the software organization of the company, and within the industry as a whole.
 

@@ -5,6 +5,11 @@ Back in the the autumn of 1992, Jack W Reeves published an essay in C++ Journal,
 
 https://www.developerdotstar.com/mag/articles/reeves_design.html#
 
+Real software runs on computers. It is a sequence of ones and zeros that is stored on some magnetic media. It is not a program listing in C++ (or any other programming language).
+A program listing is a document that represents a software design. Compilers and linkers actually build software designs.
+
+use the robot house here 
+
 #The essence boils down to 'when you have cod the final design is done. there is no lernative extra work done. it is mechanical determinism from that point.  so anything before writing code is just artists drawings..
 
 free overtime=#

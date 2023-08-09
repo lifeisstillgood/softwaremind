@@ -13,5 +13,14 @@ Robot built house - impact on architects
 Inherent comploexity, organisation complexity, standards complexity 
 
 
+Implications: it is cheaper and sinpler to build it and test than almost anything else 
+
+He completely forseea and argues for the agile approach (better defijing the waterfall as eachbstage frozen before next)  
+
+it also shows the isea of QA (quality analysis) as wrong headed - QA uses certain standards to reject one of the many widgets rolling off the lien as substandard - but aoftware rolls off and is an exact copy each time.  whats there it QA? 
+
+This is just testing - and there is no point manually testing (other than a Mumbai jobs program) but there is value on designing upfrotn testinf 
+
+
 
 

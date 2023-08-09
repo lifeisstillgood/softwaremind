@@ -5,8 +5,24 @@ Back in the the autumn of 1992, Jack W Reeves published an essay in C++ Journal,
 
 https://www.developerdotstar.com/mag/articles/reeves_design.html#
 
-Real software runs on computers. It is a sequence of ones and zeros that is stored on some magnetic media. It is not a program listing in C++ (or any other programming language).
-A program listing is a document that represents a software design. Compilers and linkers actually build software designs.
+It was insightful, ahead of its time in many ways. But it was also "just" the insights of a skilled experienced practitioner.
+
+:: 
+
+	Real software runs on computers. It is a sequence of
+	ones and zeros that is stored on some magnetic 
+	media. 	It is not a program listing in C++ (or any 
+	other 		programming language).
+	A program listing is a document that represents a 		
+	software design. Compilers and linkers actually 
+	build 	software designs.
+
+This is his essential insight and argument.  I think he nailed it frankly.  No matter what we do to get a piece of working software, no matter what processes, documentation, no matter who is hired or who is promoted, in the end the code in the programming language is written down, and from that point on compilers totally determinisitcally and mechanistically produce binary outputs, and that runs on CPUs worldwide.  
+
+The implications for this are huge and he touches on many.  THe big ones are things you will find elsewhere in the book - 'Coders are the new Managers', 
+
+In the eighties and ninties leading up to his punlication Reeves worked in many 'traditional' software orgaanisations, looking like stuffy IBM.  And the 'design' was always done 
+
 
 use the robot house here 
 

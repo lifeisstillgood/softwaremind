@@ -1,5 +1,12 @@
 Basics: I will build lots of chunks - thoughts on aspects of software delviery. Intersperse with history and call it a book.
 
+Nice things baout nice managers 
+https://abseil.io/resources/swe-book/html/ch05.html#the_only_thing_to_fear_issemicolonwellc
+
+but google approach is nice
+
+but lo code is foving back ability to do traditional factory management - its one domensional 
+
 its about how we orgnaiss
 - bletchly park was about massive orgnaiationand turing end compared to werner was not (perceived existential threat vs opportunity)
 

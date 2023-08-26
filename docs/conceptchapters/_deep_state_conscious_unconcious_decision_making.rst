@@ -41,3 +41,4 @@ software that depreciates slowly and provides ongoing value.  Do not trwat it as
 biblio
 https://www.baldurbjarnason.com/2022/theory-building/
 
+https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf

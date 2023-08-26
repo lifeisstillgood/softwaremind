@@ -21,7 +21,15 @@ principles
 
 Make policies explicit and auditable 
 
+Multi dimensional Software
+--------------------------
+There are three categories of software governance
 
+1 dimensional - the decision making is encoded in the software - If then starements. Excel and lo-code solutions are mostly found here
+
+2 dinemsional - dofferent actions based on configuretion - more wxplicit, easier to chnage (ie not rewrite) 
+
+3 dimensional- polict engine 
 
 Programming as theory buikding 
 

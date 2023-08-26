@@ -1,6 +1,9 @@
 Side Ideas
 ==========
 
+Everythijgnis a product to someone - treat it with anprosi t lifecycle and resiurce not just creation but maintenance. and build the infrastructure into the oroginal design so maintence costs are lower - this is much rarer and why BaU budgets out of ctontol 
+
+
 Why ooen source is alwys under funded 
 -------------------------
 https://news.ycombinator.com/item?id=36531443

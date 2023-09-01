@@ -1,5 +1,6 @@
 https://mpoweruk.com/enigma.htm
 
+https://math.stackexchange.com/questions/1095042/number-of-possible-combinations-of-the-enigma-machine-plugboard#1095050
 
 A History Of Software
 =====================

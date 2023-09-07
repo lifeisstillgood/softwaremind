@@ -1,5 +1,10 @@
 Geopolitics: snowden (2013) china 3 5 2 - 2016. 
 
+Developer metrics - DORA
+The whole point of measuring indicidual software edeveloper produtcivity is false - and need to measure on team level. But teams need safety too - so the orgsnisation within the team needs to chnage - this is the democratic deficit of organisations ans the major need tonchnage - implications again democracy 
+
+
+
 Security: we dont leave Fedex to have fighter jets o protext their planes- thats the army so why do we leqve xyber threats tonprovate actors? when will we see insurance companies define how to build bouiers? or do we build andevmanual to be flexible? or do we draw line saying younare a utility - fo this? but banks alreadybthat and theyvare a amess
 
 Basics: I will build lots of chunks - thoughts on aspects of software delviery. Intersperse with history and call it a book.

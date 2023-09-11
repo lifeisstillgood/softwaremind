@@ -1,9 +1,30 @@
-History and politics - but this is about software.
+Software, Society, Philosophy, oh my!
+-------------------------------------
 
-(philosophy - I am pretty much in the Beegson/Popperian (Soros?) tradition that science reflexta a major new way to organise society - falabism - and that open soxiwties embrace this much better.  And i see there is another step - software mind - that software is a uber techmology that willmlike all technologoes reshape the societies that embrace it, but that those reshaping will have consequences at the societal level - the goft of technilogy is not free - that totalitarianism is the enemy - and our companies are the bastion of that totalitarian and we need to fight it - at level of ad tracking and at governance )
+This is a book about software, history of software, but software will effect our socieites, and our companies and we can make out the forms that will take.
 
-(roughly open socitirs accept twchmology and chnage fromtexhnology in better ways, and becoming a more open society helps drive such technkooogies - ans software is most and will drive chnage in the companies we work in which drives resource allocation) 
-Software is part technology, part society - its literacy helping define reflect back 
+So, philosophically speaking I put myself in the Bergson / Popperian / (Soros?) tradition, where science (and by extention technology) works in symbiosis with the society that invests and embraces the technology.  And to date that has been open socieites. (History of industial revolutuon, Japan, )
+
+We cannot prove that open socieites breed new technologies, and *embrace* new technologies the best.
+It is a opinion. A hope.
+
+THis is also known as the Totalitatian bet
+
+The bet on our side, freedoms side, is that technology demands change to the society it evolves form, in order for that society to benefit the most.  The Anikythera mechanism, heros steam engine, These deamnd change from the society.  The US Civil war and industrial production.  Some societies cannot make that leap (SOuthern united states). Some societies make the leap (Japan).  It is not entirely successful.
+
+The ENglish social traditions that spawned the Western world have these traits.  Orwell argues it is hypocrisy that enable the society to keep changing from what it is to what it claims / aspires to be.
+
+Not feeling bad enough about it
+-------------------------------
+Jump in a Time machine and grab Gladstone or Disreali and bring them to today.  Explain that one of our biggest health and socail crises is people are hav too much food to eat and are getting obese.  They will laugh, saying "but we had millions of starving children in slums.".  Oh e still have a rare few of those, but mostly its obesity.  And what did you fix to amke this happen? they will ask. And we will say things like food science, refrdigeration, and they will say good good, then we will talk about scoialism, welfare states, increased equality, civil rights, and they willsay we started that.  
+
+Things are improved, but they can improve more. Dont stop now just because you might lose out.
+
+So how do we find the right balance of (revolution) and safety, how do we ? By lots of experimentation. And COmpaneis ar a safe way to experiment with new forms of democracy, and teaching democracy.
+
+software is a uber techmology that willmlike all technologoes reshape the societies that embrace it, but that those reshaping will have consequences at the societal level - the goft of technilogy is not free - that totalitarianism is the enemy - and our companies are the bastion of that totalitarian and we need to fight it - at level of ad tracking and at governance )
+
+ Software is part technology, part society - its literacy helping define reflect back 
 
 The story of the antitykia mechamism - why did the greeks bot expand on this- I argue simply slavery and the technological / social compact.
 

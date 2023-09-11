@@ -1,7 +1,20 @@
 Software, Society, Philosophy, oh my!
 -------------------------------------
 
-This is a book about software, history of software, but software will effect our socieites, and our companies and we can make out the forms that will take.
+This is a book about software, and the history of software, but it talks alot about society, company organisation and so on.  Thisnis mostly your friesnly neighbourhood auther wandering off the point, but there is an underlying reality - technology emerges from human socities, and if it takes hold it *reshapes* the society.  How that society reacts to the technological forces trying to reshape it determines how "auccessful" the software becomes. 
+
+The antikythera mechamism
+-------------------------
+
+The industrial revolution and Japan
+---------
+
+Japan did not become an English culture. But it did adapt a lot - we can oerhaps modulo the cuktures ti find what is nexessary. 
+I am not a historian, a philosopher or anythijg but a coder.  And I defintely dot have the answers to wjat a cukture needs to embraxe technology for posirive ends - but I am guessing it is science (falsification), open society (for fast failure and allocation resources) and focus on shared wealth this avoiding need to control large swathes of population during periods of chnage
+
+
+
+software will effect our socieites, and our companies and we can make out the forms that will take.
 
 So, philosophically speaking I put myself in the Bergson / Popperian / (Soros?) tradition, where science (and by extention technology) works in symbiosis with the society that invests and embraces the technology.  And to date that has been open socieites. (History of industial revolutuon, Japan, )
 

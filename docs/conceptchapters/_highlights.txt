@@ -1,6 +1,16 @@
 Software, Society, Philosophy, oh my!
 -------------------------------------
 
+Soxiety - open vs controlled (totalitarian bet)
+
+Management - open vs control (see US footbal not paying for food - about control)
+
+personal - therapy vs ptsd
+
+
+
+
+
 This is a book about software, and the history of software, but it talks alot about society, company organisation and so on.  Thisnis mostly your friesnly neighbourhood auther wandering off the point, but there is an underlying reality - technology emerges from human socities, and if it takes hold it *reshapes* the society.  How that society reacts to the technological forces trying to reshape it determines how "auccessful" the software becomes. 
 
 The antikythera mechamism

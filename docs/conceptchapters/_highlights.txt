@@ -1,9 +1,29 @@
-we become good at what we do everyday - do democracy every day
+.. rubric::
+
+    we become good at what we do everyday - so do democracy every day, in our companies and working lives.
+
 
 
 Software, Society, Philosophy, oh my!
 -------------------------------------
 
+I have, like so many others, loved movies and 'the silver screen', for my whole life. On of my earliest memories is watching Star Wars at the Harlow Odeon with my father (and having to rush out half way through, my seven year old bladder not able to cope with the double whammy of overwhelming excitement and large soft drinks.) 
+
+When I returned I was convinced I had missed the 5 most important minutes of the most important movie ever.  And could not see it again till the advent of VHS.  It turned out I had missed the boring bit explaining how they had got the Death Star plans.
+
+However later in life (and boy that story does date me), its the boring bits in movies that I find most fascinating.  Its the conversations in offices, the decisions to go to war, the infighting.
+
+Most movies and stories are about a single hero or a small band of adventurers, who band together, overcome their differences and achieve the impossible.
+
+Which is great and all. We live and expereince those small teams each day.  But its not how thee huge resources of the day aare marshalleed.
+
+How orgausatuis kae decisoons matters.  
+
+How org make decisions is changing - software is now the controllig fabric not people. And people who program the software matter.  And how they decide matters.
+
+I sometimes joke that when the robots take over the best job is the one who explains the rukes of the world to them...
+
+Who engtered the lines of code that turned off VW's emissions, how do we make those decisions and how do we keep it all in one human brain?
 Its films about organisations that fascinate me - not one guy doing hisnlonesome but grouos of people working to a commonngoal - and not self destructing innways no sane person would (ok maybe we do do that at work)
 
 But we have thousands of years where one person coukdnonly stand in from t of thise in earshot.  Maybe hundred s where people could be inspired by same book.  And a hundred where millions could hear the same fireside chat.

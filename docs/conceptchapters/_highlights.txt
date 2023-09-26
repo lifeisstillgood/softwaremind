@@ -1,46 +1,17 @@
 .. rubric::
 
-    we become good at what we do everyday - so do democracy every day, in our companies and working lives.
+    we become good at what we do everyday - so do democracy every day, in our companies and our aociety.
 
 
-mgmt - resuced to essence if managing incentives ans aligning incentives 
-
-
-Future of software -> centaurs or manned unmanned Teaming where human has augmented software ti support - think developer. with CICD and observablilty one human can still do one thing but now the quality lecel is higher - providing every home crafter with a fully auonmous facotry packing and delicery aystem
-
-The global affect of say the three developers running instagram before its purchase 
-
-what am saying is when we build the right hooks into companies we elininate deep state and allow one person to deive whole ayatems - wjere aligning incentives or to direxting people 
-
-we shall see deep state fractiring where people dont wnat to do that ans want their own autonomy and hence a tendancy to make smaller independent companies.
-
-whereas all that keeps companies large is shared treasury.  So the biggest incentive is some
-legal arenagement to share treausry amoung otherwose indoenant entities - Hamilton federal something something 
+ 
 
 
 
-Management as enforcing best oractise (sergent)
-- yes but software gating, plus tank in WWII - improvoesd armour 
 
-theory of government 
 
-- big man in charge
-- but democracy and industrial revolution (not same thing - boot revolt)
-- post WWII and post 1990 soviet union empire 
-- we can have family - big man does shouting and kids obey 
-this gets a strategy working if strategy of dad is correct
 
-but 
 
-mental health world - where it's not shouting cos autism 
-
-it's what's best for everyone 
-
-it's growth together
-
-and it's why so many people raised under shotingnsee that's how politics should be 
-
-also woke 
+ 
 
 
 Software, Society, Philosophy, oh my!
@@ -52,15 +23,31 @@ When I returned I was convinced I had missed the 5 most important minutes of the
 
 However later in life (and boy that story does date me), its the boring bits in movies that I find most fascinating.  Its the conversations in offices, the decisions to go to war, the infighting.
 
-Most movies and stories are about a single hero or a small band of adventurers, who band together, overcome their differences and achieve the impossible.
+Most Hollywood movies see a single hero, overcome their internal limitations, and achieve the impossible.  But todays (Western) world is not about individual success. We live in a Socialist Utopia, a massive co-ordinated effort that with millions of people achieves the impossible. Putting humans on other planets, feeding whole cities with fertiliser pulled literally out of thin air.  
 
-Which is great and all. We live and expereince those small teams each day.  But its not how thee huge resources of the day aare marshalleed.
+But how organisations decide matters.  It always has ofc oourse. Now software is becoming intricately entwined with that decision making, not merely used by feudal CEOs to pluck wisdom from spreadsheets, but the decisions themselves are not merely enabed by software presenting reelvant data (ha!) but they are impleneted in software.
 
-How orgausatuis kae decisoons matters.  
+VW emissions scandal was a line of code added byt the CTO.
 
-How org make decisions is changing - software is now the controllig fabric not people. And people who program the software matter.  And how they decide matters.
+Slow AI and slighlty faster AI.
+---------------------------------
 
-I sometimes joke that when the robots take over the best job is the one who explains the rukes of the world to them...
+A progrmamble company is the next concetp of a Slow AI.  No self prgrammable. Thats actually AI.
+But programmable as something like a machine - a predicatable deterministic machine.  Not a vast ecosstem.
+
+Totalitarua Bet
+---------------
+
+our bet is our idea is better
+
+Techology shapes society and tech loves open and so totalitarian cannot be technological. But neither can current western. We need to become more open. more free
+more rich
+
+theiy of gvenrmen
+
+concetps in deptjh
+
+
 
 Who engtered the lines of code that turned off VW's emissions, how do we make those decisions and how do we keep it all in one human brain?
 Its films about organisations that fascinate me - not one guy doing hisnlonesome but grouos of people working to a commonngoal - and not self destructing innways no sane person would (ok maybe we do do that at work)

@@ -2,6 +2,19 @@
 
     we become good at what we do everyday - so do democracy every day, in our companies and our aociety.
 
+What is management for?
+
+- theoretical co-ordination (making plans, politics of agreeing plans, engircing plans)
+- actual co-ordination (markets and forcing / adjusting as plans fail)
+there is a new line, 
+- testable co-ordination - using software in LLE to bring the whole organisation in a test rig 
+(whole organisation test rig). this will enable coders to act as true managers - will also surface 
+all / most failings / conflicts interet / duolications of effort
+
+
+
+
+
 "Share the tools we use to reduce cognitive load"
 https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/
 https://news.ycombinator.com/item?id=37794167

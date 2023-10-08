@@ -4,6 +4,10 @@
 
 https://news.ycombinator.com/item?id=37809316
 
+also 
+
+mgmt basically untrained
+mgmt incentives rarely align with shareholders - staying in the job has status and payment, share ownership rately high enough to overcoem that
 
 Management information sustems are like software logs - you dont look at them 99% of time but when you need to debig you need them now.
 The issue is that most MIS in most orgs is not automated logging and observability - its human mediated soreadheet driven and incomplete

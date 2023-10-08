@@ -2,6 +2,8 @@
 
     we become good at what we do everyday - so do democracy every day, in our companies and our aociety.
 
+https://news.ycombinator.com/item?id=37809316
+
 
 Management information sustems are like software logs - you dont look at them 99% of time but when you need to debig you need them now.
 The issue is that most MIS in most orgs is not automated logging and observability - its human mediated soreadheet driven and incomplete

@@ -9,7 +9,13 @@ is alive and well, but other than middle age what is droving this?
 - encoded business models - architects dilemma
 - whole org test rigs
 - democracy and companies 
+- the financing of companies has become entwined with the 
+executive control of the compnaies. History of accountancy was a limitation or sandboxing 
+not a direct control.  But the funnelling of funds 
 
+Given that the majority of costs in texh-adjacent companies is
+salary then having to finance stuff ... dunno
+is there a way for financier to fund other than through executice ? 
 
 https://news.ycombinator.com/item?id=37809316
 

@@ -1,6 +1,10 @@
 Management and software
 ------------------------
 
+also cobra and crisis management - why treat only criss as soecial - managem this way all time - where is mist uotodate data who is involved on top 
+
+
+
 My inner Trades Unionist (cloth cap, beer, sandwiches)
 is alive and well, but other than middle age what is droving this?
 

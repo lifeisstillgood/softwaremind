@@ -3,7 +3,14 @@ Management and software
 
 also cobra and crisis management - why treat only criss as soecial - managem this way all time - where is mist uotodate data who is involved on top 
 
+An organisation is a machine
+Typically the central nervous system has been information passed "up" the hierarchy through literate management - budgets were limiting size of unapproved action
 
+but with software the central nervous system bypasses management reporting uowards - it's not needed, but they still exist as supervisory and budgetary and political 
+
+but much of role is removed by software - as we move to full SOP in software it almost all goes.
+
+management will be perfect trades unions
 
 My inner Trades Unionist (cloth cap, beer, sandwiches)
 is alive and well, but other than middle age what is droving this?

@@ -2,11 +2,43 @@
 
     we become good at what we do everyday - so do democracy every day, in our companies and our aociety.
 
-the bit where chatgpt cannot replace me is the bit where we decide what software solution is - analysis programmer 
+Major Concepts (chapter Order)
+------------------------------
 
-software literacy will rework this as everyone can but who will decide which solution to use
+* Software as a form of literacy
+* Software Mind - organisations are a form of SLOW AI making decisions and allocating resources.
+  Software Mind organisations will decide differently, either different speed, or with greater openness (by default)
+* We call this a programmable company
+* Theiry of Firm, 
+* Architexts paradox - the code is the deisgn
+* Orgnaistions are *built* for a purpose.  Look at military. Only huge focus on *values* allows the essence of military to survive changing what it is built for.
+  Schumpter ensures most org do not do this (hence too big to fail, and why governments dont change -see culture wars, deep state)
+* Enforced opennness in decison making - VW emissions scandal, Post Office scandal, 
+* MOOP and Police body cams, better decision makig via 
+  Look at agile not actually going up the chain - conflict between budgets (accountacy in 15th c) and get me this by this date.
+  A more comprehensive modle of the company (programmable company - a testable company - a *whole org test rig* ) would allow more flexible. At momnet its only what one sign off can undeestadn - also coders vs managers.  But once the model of companies haviour is encoded, then waht. Who gets to see it? Its everywhere in every SOP
+* Totalitarian Bet in openness and decison making. Can democaracy mkae the leap of faith
 
-pretty certain letting hierarchy decide is currently abysmal and not optimal - is democracy better ? is capitalism/ market choice better ? is there a way to allow market choice internally ? democracy / voting 
+
+The minds that make our decisions, allocate majority of our resources are not our individual human minds but slow AI of our organisaitons and the incentive strictures they inhabit.
+Ho wwe design these minds, how we monitor their decisions, and importantly how we teach the values and ethics needed (see military) 
+The whole org test rig will matter. Like the fluid model of economy we will  be able to see more but how can we decide better.
+
+The lesson of brexit is that technocrats make better decisoons for the or because they are seeing more of the model, but no one wants to be run by technicrats - so democracy and openness
+
+* mgmt is mostly co-rodatin prpblems between polirical interests. Solve most co-ordinatiton that is not polictaclly opposed (accidental co-ordaintin) by whole ord test rigs
+
+* Software makes hidden explict in exchnge for greater control, repeatibility, observaility, metrics speed to change and adjust.  Trade off is in values and losing explotative business model - losing exploitation is socialist / communist approach
+
+* Thoeries of firm and government - shared treasury as major advantage. Conglomerates. risk hiding.
+
+* coderss are new manager
+
+* non jobs - jobs that can be done with softwre instantly - co-ordaintion (magmt) 
+
+* Moop and police body cams
+
+* openness  
 
 Organisational mental health
 - look at post office scandal 
@@ -40,7 +72,7 @@ all about openness and ending unfair business models - rely on nanny style regul
 have all business in a clear open arena? either way we are facing fairness (socialism) 
 
 The architects paradox and hypocrisy 
-
+------------------------------------
 - architects paradox is habing to write doen detailed instructions
 - but that leads to having to remove the compromises and the 
 illegal back deals as part of the coding - or have them clear for people to see (VW emissions)

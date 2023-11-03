@@ -18,6 +18,8 @@ adding more people increase complexity
 asking same people to do the next thing is linear and reduces complexity
 
 but it removes super scaling and removes mgmt agency - that's the key
+Coders are the new managers 
+actually release managers are rhe new managers - see Linus Torvalds
 
 
 

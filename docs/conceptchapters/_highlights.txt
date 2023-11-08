@@ -11,6 +11,35 @@
    I can fix things.  Not healthy it turns out.
 
 
+The Analyst programmer
+----------------------
+
+There is a fake spectrum - business focused solely on delivery 
+on 
+
+metrics help - the right metrics help more, chnaging metrics 
+help a little more
+
+In the end we will converge on skilled 
+people whominderstand both the domain and the technology - this is essentially training people to read and write
+
+for now they are rare but tou can get good resukts by building one person oit of two
+also get pair programming where the two work together 
+
+As we move to "coders as managers" we will see more and more
+architects challenges - the moddle layer of managemtnwill be pulled away 
+and the coders will ask thenfinanciers - so whats the strategy?
+
+And if it is going to eb implemtable the strategy cnanot be nice vague words
+It ahoukd be a fully realised model - so that model can be imllemeted 
+
+This is the challenge of the 21C buosness
+
+and it os where dmeocracy will throce because the Knights of old problem 
+and empirical challebge of policy selection 
+
+(see brexit for how tonimplemtet bad strategy)
+
 Middle management faces a departmet of edication problem
 
 

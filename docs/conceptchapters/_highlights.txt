@@ -73,7 +73,11 @@ Major Concepts (chapter Order)
   Look at agile not actually going up the chain - conflict between budgets (accountacy in 15th c) and get me this by this date.
   A more comprehensive modle of the company (programmable company - a testable company - a *whole org test rig* ) would allow more flexible. At momnet its only what one sign off can undeestadn - also coders vs managers.  But once the model of companies haviour is encoded, then waht. Who gets to see it? Its everywhere in every SOP
 * Totalitarian Bet in openness and decison making. Can democaracy mkae the leap of faith
-
+* Analyst orogrammer - future of one person, skilled. now is two or more - working proactises 
+(ie no remote working). But also if remove midle manageme t layer then financiers at too now need to supply model for the company to be built - 
+they face architects dillemma of not having an effective strategic model and will
+have to back away from "i have money do what I mean".  it of class war going on but also 
+its building the org in evolutionary terms - so will be a built democracy 
 
 The minds that make our decisions, allocate majority of our resources are not our individual human minds but slow AI of our organisaitons and the incentive strictures they inhabit.
 Ho wwe design these minds, how we monitor their decisions, and importantly how we teach the values and ethics needed (see military) 

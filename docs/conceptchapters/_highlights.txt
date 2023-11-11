@@ -55,6 +55,13 @@ but it removes super scaling and removes mgmt agency - that's the key
 Coders are the new managers 
 actually release managers are rhe new managers - see Linus Torvalds
 
+architects paradox
+------------------
+
+psychopaths dont like to write things down 
+write down strategies - it keeps playing people off against each from happening
+(bad ceo)
+but this goes triple for software - write down exactly what you mean
 
 
 Major Concepts (chapter Order)

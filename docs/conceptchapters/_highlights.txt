@@ -17,6 +17,25 @@ main ossie is not one weapon but things like artillery, remote drones, networks 
 
 same is for systems - you cannot do "zipper"
 project planning. systems eveloe in compmay - and somgood tech leading is wnciraging the next step in each case and the eye on the final proxe plus a faith that automate all the things will bring topless advtnages 
+
+Deadlines - we arent in the military
+--------------------------------------
+
+The usual reasons for using deadlines is "co-orination" - imagine younare going into battle you meednto fire the nortars 
+at 6am because thats when infantry attacks
+
+but we are not in military. we can communicate without rosking mission 
+we can delay for five minutes.
+
+(but what about beating the competitokn and yeah yeah. perfect markets are horrible)
+
+so we can use software envoronments and modelling to co-ordinate
+
+project mgmt isnnot about "have you delivered" but "what teat can i write that detemrines if the thing inwant os operating ?" - ie a unit teat running in ApI environemt  
+
+and strategy is about "how do these things combine to form a teal product offering" - and you can build and rebuild it 
+
+
 The Analyst programmer
 ----------------------
 

@@ -55,6 +55,35 @@ main ossie is not one weapon but things like artillery, remote drones, networks 
 same is for systems - you cannot do "zipper"
 project planning. systems eveloe in compmay - and somgood tech leading is wnciraging the next step in each case and the eye on the final proxe plus a faith that automate all the things will bring topless advtnages 
 
+The obvious game chnager is LLM - using AI as coding tool
+people have argued this is a solution to the architects dilemma 
+but i am not convinced. 
+
+the architext atill needs to define uofront all the pitfalls 
+and not leave it to build time (ie the code is the design - the 
+upfront design is just artists impression)
+any buios time challenges to overcome must be overcome before starting build 
+(ie industrialisation)
+
+LLM can write code that satisfies the constraitns provoded 
+but it cannot understand the constraitns or thwir need - ot cannot make policy decisions 
+when writifn the policy engine 
+
+(sode note - actually could it - will LLm make assumptionsnonhow to code thatvhave policy impacts?)
+why its even more importatnto sirface the decision points - thus increasing the cheaters dilemma
+
+architexts dilemma and cheaters dilemma are antagonistic-
+archtiects wants clear model because thats eaiser to build 
+but cheater wants obfuscation to get away with its cheating.
+
+essentially any proprietary code becomes much harder to use
+
+LLM will show how to code CSS or write python to connect to FOSS database 
+but (probably) wont work for internal codebase woth "only here APIs and somon"
+
+training a LLM to code is probably the major challenge on small proprietary code bases - but presumably worth a fortune 
+
+
 Deadlines - we arent in the military
 --------------------------------------
 

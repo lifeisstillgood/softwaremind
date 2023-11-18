@@ -38,6 +38,36 @@ how we orgnaise is a spectrum - and its ahifting from howrqrchy ans enforcmeent 
 open transparent decisionnmaking and clear rules - 
 because architects dilemma is criminals and rentiers dilemma 
 
+Coders are new managers
+------------------------
+Management breakdown:
+
+- model 
+- monitor
+- mentor
+or
+administration (software to rpeoace that)
+
+organisation as a built machone.
+Well, it is, but it also chnages.
+think of it as release versions 
+
+if change is constant then choosing the chnage matters - 
+which means modelling and "gamging out" 
+and fast iterations (AB teating)
+
+Drucker:
+"There is no leadership frpuo but managers in modern sociwty"
+Google:
+its hust coaching the people doing the actual work
+
+https://en.m.wikipedia.org/wiki/Peter_Drucker
+
+A lot of deuckers ideas are communal, social and valuable
+
+
+
+
 
 
 Liberal social welfare bet

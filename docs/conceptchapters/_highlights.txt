@@ -20,7 +20,13 @@ computing (local, topless, withbsoftware loteracy)
 and agents that work for us in explicable means
 whoch seems a lot like contracts and functionalmlang 
 
-
+Implications of architects paradox
+-------------
+thenmore the code is the design, the more build is deterministic,
+then the more things get harder to hid
+- stainless steel rat / crime rate isna polocy choice 
+- every financial transaction to be not onky rexorded but public will be enournous chnabge 
+- 
 Organisations
 -------------
 Humans are the ultra social animal

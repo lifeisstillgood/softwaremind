@@ -41,10 +41,10 @@ def run(args):
             if line.strip().find("<<") == 0: #must be forst thing on a line
                 readfrom = line.replace("<","").replace(">","").strip()
                 readfrompath = os.path.join(rootpath, readfrom)
-                val = gettext(readfrompath)
+                val = gettext(readfrompath) + '\n\n'
             else:
                 val = line
-            outtext += val
+            outtext += val 
     fo = open(outfile, 'w', encoding='utf-8')
     fo.write(outtext)
     fo.close()

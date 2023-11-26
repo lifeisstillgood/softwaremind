@@ -1,3 +1,11 @@
+
+run using
+
+var/projects/softwaremind/bin$ python layout.py docs/index.pre
+then that checks we make the index ok.
+make book will do that anyhow.
+and write book to _build where we can read it.
+
 ================
 Dev Manual
 ================

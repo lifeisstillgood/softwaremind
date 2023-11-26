@@ -2,3 +2,4 @@
 ---------------------
 
 A way of thinking of responsibility outlines 
+

@@ -38,8 +38,8 @@ def run(args):
     outtext = ''
     with open(indexfile, encoding='utf-8') as indexfo:
         for line in indexfo:
-            if line.strip().find("{{") == 0: #must be forst thing on a line
-                readfrom = line.replace("{","").replace("}","").strip()
+            if line.strip().find("<<") == 0: #must be forst thing on a line
+                readfrom = line.replace("<","").replace(">","").strip()
                 readfrompath = os.path.join(rootpath, readfrom)
                 val = gettext(readfrompath)
             else:

@@ -3,3 +3,25 @@ Equal Say, Equal Share
 
 The point is FDR was a traitor to his class.  And that he understood something that is rarely accepted in political circles.  An equal say means an equal share.  And if the answer is 'the plebs only get a say once every four years and the elite get a say every day, look at what explicit implicit and openness directionality means.  There is only so long people can put up with Dark Pools - isnt there? 
 
+
+Productivity - the key?
+-----------------------
+
+Many economists today bemoan lack of productivity growth 
+as a major reason for economic failings.  As an example 
+in UK wages have not risen since 2008 crash.  If we had enjoyed growthbrates similar to 1990-2005
+or much of post war period UK worker average wage would be 10,000 GBP better off.
+
+Thats a huge number 
+
+Now 
+
+we see computers everywhere but in the productivity numbers
+
+Conjecture: The virtual-irl link, software / reality gap
+can be bridged by software literacy in many cases (having people able to read and write, plus aoftware that is deaigned for onward use (topless) plus 
+greater reach of software (sensors, actuators) will provide productivity chnages.
+
+Most enterprises are largely over staffed
+
+

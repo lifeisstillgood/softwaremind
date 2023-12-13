@@ -35,3 +35,11 @@ openness / search for truth / scientific method
 industrial revolution - automation finance and more
 
 double down on what works
+
+
+politician - consensus forming / finding 
+foncnciar - consensus funding 
+
+colonel
+serfent 
+pricate 

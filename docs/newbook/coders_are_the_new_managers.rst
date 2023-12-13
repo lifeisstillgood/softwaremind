@@ -25,3 +25,13 @@ way - commot formats and so on
 
 management is basically xonsrant on job training of others 
 - linting humans 
+
+we live lives of imperfection and pretend every is fine and the dodson are between the two is our stress level - but admitting the truth is a way to find calm and time to fix the imperfections 
+
+the great innovations of 1776 enlightenment 
+
+democracy
+openness / search for truth / scientific method
+industrial revolution - automation finance and more
+
+double down on what works

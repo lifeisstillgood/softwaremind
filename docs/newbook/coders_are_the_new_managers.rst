@@ -17,3 +17,11 @@ or finding obvious failings and initiating blessed solutions
 
 management training matters but 
 is that training in coaching (google 8 rules) or training in project initiation and selection or training in political alignment 
+
+
+i hvave sympathy woth the control freaks because there is no standrdisatikn - no process (military word??)
+there is need for soijg things this way my
+way - commot formats and so on
+
+management is basically xonsrant on job training of others 
+- linting humans 

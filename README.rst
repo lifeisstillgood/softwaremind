@@ -1,4 +1,6 @@
 
+Test 1
+
 run using
 
 var/projects/softwaremind/bin$ python layout.py docs/index.pre

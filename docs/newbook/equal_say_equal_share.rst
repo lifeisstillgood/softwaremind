@@ -22,6 +22,23 @@ Conjecture: The virtual-irl link, software / reality gap
 can be bridged by software literacy in many cases (having people able to read and write, plus aoftware that is deaigned for onward use (topless) plus 
 greater reach of software (sensors, actuators) will provide productivity chnages.
 
-Most enterprises are largely over staffed
+Most enterprises are largely over staffed - so why arent they culled??
+
+Because most enterprises are not staffed by fools ...
+well
+
+conjecture on the theory of the firm - 
+
+- lack of insight into internal
+process - ie deep state and lack automation
+
+- the faikure of large plans - it is ventire captial 
+and people kind of knownot - but ahoukd embrace that majority of venture captial 
+is spent internally not externally.  traditional VC only gets the truly disruotive companies - thatvwill destroy intentql homeostatis of 
+companies - and most companies dont face existential threats which is why silicon valley is mostly unique - its more schumpter than the test rather than the wearher
+
+- shared treasiry leada to funding multiple other bets
+
+- programme mgmt isnmostly about intenal VC mgmt - and worse using politics ans not metrics like teaction 
 
 

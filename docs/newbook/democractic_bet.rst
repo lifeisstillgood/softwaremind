@@ -10,3 +10,5 @@ still huge stirdes neede but what we need now is consolidation of the wins not t
 
 democracy, equality and openness - to srave off r> i
 (pikketty) 
+
+https://news.ycombinator.com/item?id=38718224

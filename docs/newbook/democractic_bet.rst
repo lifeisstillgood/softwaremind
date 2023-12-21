@@ -12,3 +12,6 @@ democracy, equality and openness - to srave off r> i
 (pikketty) 
 
 https://news.ycombinator.com/item?id=38718224
+
+
+beware of viewing geopolicis as a civilisationalmclash - most civilisations want the beat for citizens (and elite)

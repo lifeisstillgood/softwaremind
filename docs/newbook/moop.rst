@@ -7,3 +7,20 @@ Been banging on about this for a decade. Massive Open Online Psychology. How we 
 Transition layer - management does not have information systems capable of two way piercing of transmission layer - so there is a layer of people looking for and using low code solutions (incl excel) to pass data and analysis 
 
 see that tweet ? from guy talking about using stuff in monzo 
+
+
+Fiture AI
+future AI is like future robot - it wont look like a butler and an AI agent persona wont have to be super intelligent
+
+So I see MOOP as aignificant part of this - it does not take AGI to 
+
+ot take topless computing (see European banking regulations) and it takes robust privacy laws (HIPAA equivalent)
+then its a case of conversations like
+
+- welcome Debbie ans Ian to our monthly review.
+Ian there is a high soend on games - its over busget.
+bit we can sdjust the fruit budgwt - yes? I can order more 
+oranges this week toncompensate
+Also thwre are three new jobs advertised that seem roght for you - one of which is in same company as a linkedin 2 toer contact 
+
+Have you finiahed hanging up the last load of washing?

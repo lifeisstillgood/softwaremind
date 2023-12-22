@@ -24,3 +24,8 @@ oranges this week toncompensate
 Also thwre are three new jobs advertised that seem roght for you - one of which is in same company as a linkedin 2 toer contact 
 
 Have you finiahed hanging up the last load of washing?
+
+
+moop - digital archaeology 
+history of a wedding ring 
+

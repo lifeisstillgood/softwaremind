@@ -4,7 +4,7 @@ architecture and town olanning work - more checksums, more ledgers and more cent
 
 less darkness by design - because risk of politibsl control we dont agrre with - eu vs usa disagreements will allow for eu market approach 
 
-
+henry farrell professor
 
 Democractic Bet
 ---------------

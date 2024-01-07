@@ -1,5 +1,17 @@
+
+
 Totalitarian Bet
 ----------------
+
+Also:
+https://news.ycombinator.com/item?id=38897614
+
+We have 150 years apart two scandals of adukterated milk
+One killing 8000, one killing 4.  the difference? Ability if people 
+to koin together to monitor to agitate - something like communication 
+
+without something? 
+
 
 From guy in guardian. Essence is that China is betting that it can control its citizens using monitoring and social pressure.  Now worth talking about racist assumptions - china has a hugely strong culture of familial devotion and respect built in, so this is not like trying to monitor norweigans or Montana. 
        But it is also a totalitarian regieme using reeducaton camps against racial minority. SO its not nice.

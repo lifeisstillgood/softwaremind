@@ -6,6 +6,10 @@ less darkness by design - because risk of politibsl control we dont agrre with -
 
 henry farrell professor
 
+
+https://news.ycombinator.com/item?id=38928346
+role of journalism and osint 
+
 Democractic Bet
 ---------------
 

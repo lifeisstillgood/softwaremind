@@ -1,3 +1,15 @@
+scale ha sdefeated us 1500s to ww1
+we have too big to fail but even so people at top dont know what it does or how
+
+deep state
+
+but LLm causal reasoning
+MOOP
+SOp / deep
+state surfacing 
+
+
+
 Organisations and Scale
 =======================
 

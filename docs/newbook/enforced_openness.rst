@@ -10,6 +10,19 @@ and the complexity of deciding what to do next is the complexity
 casual reasiming, moop and other directions 
 will allow insight i to deep state 
 
+
+causal reaaoning inferences
+MOOP / recorded mgmt activity
+moniroing model machine mentor
+Sop ans ledgers, 
+standard ERP / fits in one gead
+literacy across org
+democracy 
+coders as managers
+who decodes on the mext chnage - and how we measire ot has sicceed / predict outcomes and data driven 
+
+
+
 Enforced Openness
 -----------------
 

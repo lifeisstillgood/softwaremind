@@ -8,7 +8,11 @@ MOOP
 SOp / deep
 state surfacing 
 
+better panopticon internally (journalism)
+will
+mean less waste which massively reduces labout force and ryirns to capital 
 
+democracy 
 
 Organisations and Scale
 =======================

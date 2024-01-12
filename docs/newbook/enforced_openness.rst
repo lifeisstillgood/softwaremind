@@ -3,6 +3,13 @@ Project Oberon and an organisation ERP
 it should be possible to have onne ERP ans one set of languge
 APIs and that it can. all fit in one head 
 
+NOt that complex conjecture
+most organisations are not that complex - but the faikire of openness 
+and the complexity of deciding what to do next is the complexity
+
+casual reasiming, moop and other directions 
+will allow insight i to deep state 
+
 Enforced Openness
 -----------------
 

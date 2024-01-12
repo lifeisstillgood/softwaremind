@@ -1,3 +1,8 @@
+fits in one head
+Project Oberon and an organisation ERP
+it should be possible to have onne ERP ans one set of languge
+APIs and that it can. all fit in one head 
+
 Enforced Openness
 -----------------
 

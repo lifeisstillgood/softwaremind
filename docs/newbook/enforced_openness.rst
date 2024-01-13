@@ -1,6 +1,8 @@
 oss4gov.org
 Why shoukd proprietary software be used by a single payer?
+the idea of outsourcing is to turn to someone with more expeirence of running a sevice - but if you are a government there is no one more expeirenced
 
+hence the avility of many garbage collection services 
 
 markets docide into two structures - those with low transaction costs (see below)
 that naturally tend towards compeition and so stable

@@ -1,3 +1,15 @@
+oss4gov.org
+Why shoukd proprietary software be used by a single payer?
+
+
+markets docide into two structures - those with low transaction costs (see below)
+that naturally tend towards compeition and so stable
+and thise that can be exploited 
+https://www.youtube.com/live/GGRvpppzA8E?si=wB5MdtVDTnHd5Dtl
+
+Openness ruins all of this exploitatio. 
+
+
 fits in one head
 Project Oberon and an organisation ERP
 it should be possible to have onne ERP ans one set of languge

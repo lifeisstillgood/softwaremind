@@ -8,6 +8,11 @@ and more able to *prevent* - old saw of government having engine of lawnmower an
 
 leadership - saying its ok (sniper and injured enemy)
 
+impact of remote workinng
+MOOP 
+sunlight
+with rmeote working either everyone is told about everything
+or there is total loss of cohesion - either write it all down and lose political power or 
 
 
 

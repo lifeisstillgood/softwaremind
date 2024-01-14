@@ -1,3 +1,16 @@
+
+Tranisation from managers to coders 
+reduces ability for non technical management 
+to know what is possible and how to implement next step on phase soace
+
+management is becoming less abke to *dirext* 
+and more able to *prevent* - old saw of government having engine of lawnmower and brakes of rolls royce
+
+leadership - saying its ok (sniper and injured enemy)
+
+
+
+
 coders are the new managers
 ---------------------------
 

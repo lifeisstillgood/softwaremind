@@ -1,5 +1,15 @@
-scale ha sdefeated us 1500s to ww1
-we have too big to fail but even so people at top dont know what it does or how
+Scale is a Blessing and A problem
+---------------------------------
+
+Humans seemed to evolve to live in smallish tribes - dunbar number of 150.
+But economics seems to be a feature of human interaction. 
+and that scales. iPencil Like
+
+We live like fish in water that is hard to see - since 1500s it has taken power of state to make and field armies and arms, and by WW1 this was impossible.
+
+But WW2 saw 2 innovations.  One airplanes, oil, tanks movement.
+The other Bletchly park - gatehr all the data and sift through it.
+
 
 deep state
 

@@ -1,3 +1,9 @@
+we are moving from physicla. to cirtual
+we are writing out how our workd works - to make it explicit and manipulate 
+expand this 
+
+
+
 Software Literacy
 -----------------
 

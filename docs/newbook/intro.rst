@@ -20,5 +20,13 @@ But not everyone
 But toll is mental health issues that manifest in a urban buttoned down world.
 But we have been given less freedom
 
+Journalism is the training data for society - see weights and lawsuit from New York Times
 
+Also see LLms are search across our societies knowledge (and cultural norms)
+
+How has google search been replaced - by LLM
+
+But what is was trained on matters - we need to see the “canon” and try to avoid the SEO poisoning of the well - that LLM training data and weights likely to be determined by government as it is likely to be the teaching assistant for future 
+
+And we want to define that in same way we define the textbooks 
 

@@ -30,3 +30,9 @@ But what is was trained on matters - we need to see the “canon” and try to a
 
 And we want to define that in same way we define the textbooks 
 
+autism and rukes
+- fristrationnof bureaucracy and lack of what rukes and where to look
+it empowers thise innpower, but rikes take away power and priviledge 
+
+software is operationalmrules - the advantages outweigh cost of openness
+esp when closed approach goves priviledge

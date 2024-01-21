@@ -36,3 +36,7 @@ it empowers thise innpower, but rikes take away power and priviledge
 
 software is operationalmrules - the advantages outweigh cost of openness
 esp when closed approach goves priviledge
+
+
+organisation - just gove cash to local communities
+isnt that similar argument to just employ people and let them 

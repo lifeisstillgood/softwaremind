@@ -40,3 +40,9 @@ esp when closed approach goves priviledge
 
 organisation - just gove cash to local communities
 isnt that similar argument to just employ people and let them 
+
+
+mgmt - model monotor mentor but mostly ensure continuation of org
+when mission conflixts with org survival have pathologies
+
+devmanual - tech lead as director of movie - setting stnadrds and color charts 

@@ -46,3 +46,19 @@ mgmt - model monotor mentor but mostly ensure continuation of org
 when mission conflixts with org survival have pathologies
 
 devmanual - tech lead as director of movie - setting stnadrds and color charts 
+
+
+management - you do the work or you cause it to be done ... in your taste
+workers do the work like canermen or set builders
+the director ensures it is done to his or her taste. their colour oallette their speed and clarity
+their ability to ensure others understand their taste ensures the outcome will be coherent
+
+anything above this, anything that does not affect taste is finance
+
+the banker might talk loudly about how he made the film possibke and the notes he gave - but thats crap
+its just money
+
+what we need is to understand where the lines are deawn 
+
+executive producer in most organisations is timorous 
+

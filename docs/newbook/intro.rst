@@ -1,8 +1,48 @@
 Introduction
 ============
 
+Sanity Summary
+--------------
+
+* Software is a form of literacy
+* Arranging the world to be iterated over.
+  (joke about google destroying what it cannot index)
+  BUt this is also true - we did lose pre-industrial society.
+  Lessons about how to live togetehr were lost (beware rose coloured glasses and abuse)
+  Historical sweep important, industrial world only 250 years old, (1776 story).
+  We have lost freedoms and gained a new world - but it is unstoppable. We live in unsustainable
+  world and our only hope is onwards.  Software helps organise at scale - but *trust* matters.
+  Organise at scale, but organise openly to encourage trust, esp when it gets difficult.
+  Yes the system is rigged (Trump debate, darkness by design, but mortgage redlines and martgage credit ratings, the need to type in "do crime" in VW code).  Software is the system, so you can read the rules.  If the rules are "chinese communist party is in charge" then its harder, but humans value fairness beyond almost all (monkey experiment)
+  Journalism as training data for society
+  LLM as representation of "our" culture (see where western culture came from - 1776)
+  Journlism as training data for LLMS - but by extension training data for our culture.#
+  Google search is being repalced by LLMs. WHo controls the LLM access, which training corpus is used, which fine tuning. this matters. But only as a snapshot into "normcore".
+  But it is the representation of our culture - and it fits on a laptop.
+  Texas textbooks - what we teach our young, what is our culture, these matter 
+  See mickey mouse and solar system.  POV is worth 80 IQ points.  By not giving kids the right PoVfrom the start we dont prevent them discovering for them selves - we just make it harder.
+
+* Autism and rules
+  software can represent, enfource, encourage, discover, speed up rules.
+  But rules that are written dwn threaten priviledge
+  This antognism will be paramount for future.  Piketty - can we beat him down?
+  Can we over come priviledge? SEC approach - legistlate priviledge into being good. But leave them enough to make it worth thier while? THreat of digital currency. The example of cryptocurrency as why we have regulatioon and crime (see Sherlock holmes stories about bank failures)
+
+* improving organistions
+  COders are new managers
+  Management - model, monitor, mentor, maintain. Mgmt is being disaggregated.
+  Maintainence of org is in two parts - cultural (our values) - Post office scandal for pathology.
+  Also maintenacne of large orgs as theory of firm - both contracting cost and treasury. Shared treasury is oncredibly valuable - see smoothed cashflows in corporate world.
+  Two orders - do the work or cause it to be done or provide funding - where do they shade into each other.  They do this within orgs - how projects are really done, constanct hustle for new things.
+  
+
+
+
+
 What is Software Literacy.
+
 We are reshaping the world by making it explict, introspectable, open.
+
 There are enormous implications.  Similarly in history we have chosen to become urban dwellers, agricutrlists,and now knowledge workers and organisers at scale
 
 organising at scale

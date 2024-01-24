@@ -5,9 +5,16 @@ Sanity Summary
 --------------
 
 * Software is a form of literacy
+
+We are reshaping the world by making it explict, introspectable, open.
+
+There are enormous implications.  Similarly in history we have chosen to become
+urban dwellers, agricutrlists,and now knowledge workers and organisers at scale
+
 * Arranging the world to be iterated over.
-  (joke about google destroying what it cannot index)
-  BUt this is also true - we did lose pre-industrial society.
+  
+  (joke about google destroying what it cannot index) BUt this is also true -
+  we did lose pre-industrial society.
   Lessons about how to live togetehr were lost (beware rose coloured glasses and abuse)
   Historical sweep important, industrial world only 250 years old, (1776 story).
   We have lost freedoms and gained a new world - but it is unstoppable. We live in unsustainable
@@ -34,7 +41,8 @@ Sanity Summary
   Maintainence of org is in two parts - cultural (our values) - Post office scandal for pathology.
   Also maintenacne of large orgs as theory of firm - both contracting cost and treasury. Shared treasury is oncredibly valuable - see smoothed cashflows in corporate world.
   Two orders - do the work or cause it to be done or provide funding - where do they shade into each other.  They do this within orgs - how projects are really done, constanct hustle for new things.
-  
+  Mgmt as economist articles. But if software encoding is more detailed? THis si where LLMs replace mgmt - by being able to simulae and predict more effectively than manabement.
+
 
 
 

@@ -100,5 +100,13 @@ its just money
 
 what we need is to understand where the lines are deawn 
 
+Most managemers esp at fonance level have "economist pundit" levelnof understanding
+not wrong but not testabke either
+
+a software model however is testsble - and a virtual model of the business is onenofnthe most valuabke items we willmoriduce 
+
+
+
+
 executive producer in most organisations is timorous 
 

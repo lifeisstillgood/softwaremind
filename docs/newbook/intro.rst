@@ -89,6 +89,12 @@ esp when closed approach goves priviledge
 organisation - just gove cash to local communities
 isnt that similar argument to just employ people and let them 
 
+Software is disaggrgating management 
+-----------------
+
+so what does mgmt do and what is software edisrupting
+
+
 
 mgmt - model monotor mentor but mostly ensure continuation of org
 when mission conflixts with org survival have pathologies

@@ -8,6 +8,12 @@ Software is a form of literacy
 -------------------------------
 [expand]
 
+its not science or even engineering 
+its literate expression of human organisation
+or a written executable process (lets call it 90%)
+
+
+
 We are reshaping the world by making it explict, introspectable, open.
 [expand on explicit (written down), introspectable (not low-code), open(totalitarian bet)]
 

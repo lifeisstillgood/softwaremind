@@ -4,15 +4,19 @@ Introduction
 Sanity Summary
 --------------
 
-* Software is a form of literacy
+Software is a form of literacy
+-------------------------------
+[expand]
 
 We are reshaping the world by making it explict, introspectable, open.
+[expand on explicit (written down), introspectable (not low-code), open(totalitarian bet)]
 
 There are enormous implications.  Similarly in history we have chosen to become
 urban dwellers, agricutrlists,and now knowledge workers and organisers at scale
 
-* Arranging the world to be iterated over.
-  
+Arranging the world to be iterated over.
+----------------------------------------
+
   (joke about google destroying what it cannot index) BUt this is also true -
   we did lose pre-industrial society.
   Lessons about how to live togetehr were lost (beware rose coloured glasses and abuse)
@@ -35,6 +39,13 @@ urban dwellers, agricutrlists,and now knowledge workers and organisers at scale
   This antognism will be paramount for future.  Piketty - can we beat him down?
   Can we over come priviledge? SEC approach - legistlate priviledge into being good. But leave them enough to make it worth thier while? THreat of digital currency. The example of cryptocurrency as why we have regulatioon and crime (see Sherlock holmes stories about bank failures)
 
+autism and rukes
+- fristrationnof bureaucracy and lack of what rukes and where to look
+it empowers thise innpower, but rikes take away power and priviledge 
+
+software is operationalmrules - the advantages outweigh cost of openness
+esp when closed approach goves priviledge
+
 * improving organistions
   COders are new managers
   Management - model, monitor, mentor, maintain. Mgmt is being disaggregated.
@@ -43,24 +54,16 @@ urban dwellers, agricutrlists,and now knowledge workers and organisers at scale
   Two orders - do the work or cause it to be done or provide funding - where do they shade into each other.  They do this within orgs - how projects are really done, constanct hustle for new things.
   Mgmt as economist articles. But if software encoding is more detailed? THis si where LLMs replace mgmt - by being able to simulae and predict more effectively than manabement.
 
+* Organising at scale
+  
+  But we do need to identify the problem, identify a solution, do the solution.
+  Nudges wont work.  Its too short a time scale to do it thorugh education
 
+organisation - just gove cash to local communities
+isnt that similar argument to just employ people and let them 
 
-
-
-What is Software Literacy.
-
-We are reshaping the world by making it explict, introspectable, open.
-
-There are enormous implications.  Similarly in history we have chosen to become urban dwellers, agricutrlists,and now knowledge workers and organisers at scale
-
-organising at scale
-Teaching people how to become human, education - has had enormous benefits.
-
-We have been reacting against being told  what to do - Trump to Brexit.
-But we do need to identify the problem, identify a solution, do the solution. Nudges wont work.
-Its too short a time scale to do it thorugh education
-
-But openly modelling, providing literate solutions so people can read what and why they are guided.
+But openly modelling, providing literate solutions so people can read what and
+why they are guided.
 
 This will help.
 But not everyone
@@ -68,39 +71,31 @@ But not everyone
 But toll is mental health issues that manifest in a urban buttoned down world.
 But we have been given less freedom
 
-Journalism is the training data for society - see weights and lawsuit from New York Times
+* JOurnalism
 
-Also see LLms are search across our societies knowledge (and cultural norms)
+  Journalism is the training data for society - see weights and lawsuit from New York Times
+  Also see LLms are search across our societies knowledge (and cultural norms)
 
-How has google search been replaced - by LLM
+  How has google search been replaced - by LLM
 
-But what is was trained on matters - we need to see the “canon” and try to avoid the SEO poisoning of the well - that LLM training data and weights likely to be determined by government as it is likely to be the teaching assistant for future 
+  But what is was trained on matters - we need to see the “canon” and try to
+  avoid the SEO poisoning of the well - that LLM training data and weights
+  likely to be determined by government as it is likely to be the teaching
+  assistant for future 
 
-And we want to define that in same way we define the textbooks 
-
-autism and rukes
-- fristrationnof bureaucracy and lack of what rukes and where to look
-it empowers thise innpower, but rikes take away power and priviledge 
-
-software is operationalmrules - the advantages outweigh cost of openness
-esp when closed approach goves priviledge
+  And we want to define that in same way we define the textbooks 
 
 
-organisation - just gove cash to local communities
-isnt that similar argument to just employ people and let them 
 
-Software is disaggrgating management 
------------------
+Software is disaggregating management 
+--------------------------------------
 
 so what does mgmt do and what is software edisrupting
-
-
 
 mgmt - model monotor mentor but mostly ensure continuation of org
 when mission conflixts with org survival have pathologies
 
 devmanual - tech lead as director of movie - setting stnadrds and color charts 
-
 
 management - you do the work or you cause it to be done ... in your taste
 workers do the work like canermen or set builders
@@ -119,8 +114,4 @@ not wrong but not testabke either
 
 a software model however is testsble - and a virtual model of the business is onenofnthe most valuabke items we willmoriduce 
 
-
-
-
-executive producer in most organisations is timorous 
 

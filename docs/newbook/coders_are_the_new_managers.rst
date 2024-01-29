@@ -1,4 +1,11 @@
 
+
+    "When Adam Delved and Eve span, who then was a Gentleman?"
+    
+    -- John Ball, (Peasants' Revolt) 1381
+
+
+
 Tranisation from managers to coders 
 reduces ability for non technical management 
 to know what is possible and how to implement next step on phase soace

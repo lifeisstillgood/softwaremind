@@ -4,6 +4,20 @@ Introduction
 Sanity Summary
 --------------
 
+10 points - rest goes in next book
+
+* Software is form of literacy
+* THoery of firm / how organisations will change
+* software is disaggeegating management 
+* LLMs, AI, journalism, 
+* totalitarian bet
+* democracy in companyes as orgnsityiona change
+* rules, autism, nerds, 
+* politics will not end, but democracy will change politics of elite in and out of orgs
+* 2 orders magnitude, who understands, and why economist undersanding will be replaced with model
+* 
+
+
 Software is a form of literacy
 -------------------------------
 [expand]
@@ -31,8 +45,11 @@ Arranging the world to be iterated over.
   world and our only hope is onwards.  Software helps organise at scale - but *trust* matters.
   Organise at scale, but organise openly to encourage trust, esp when it gets difficult.
   Yes the system is rigged (Trump debate, darkness by design, but mortgage redlines and martgage credit ratings, the need to type in "do crime" in VW code).  Software is the system, so you can read the rules.  If the rules are "chinese communist party is in charge" then its harder, but humans value fairness beyond almost all (monkey experiment)
-  Journalism as training data for society
-  LLM as representation of "our" culture (see where western culture came from - 1776)
+
+Journalism as training data for society
+--------------------------------------- 
+
+LLM as representation of "our" culture (see where western culture came from - 1776)
   Journlism as training data for LLMS - but by extension training data for our culture.#
   Google search is being repalced by LLMs. WHo controls the LLM access, which training corpus is used, which fine tuning. this matters. But only as a snapshot into "normcore".
   But it is the representation of our culture - and it fits on a laptop.
@@ -52,7 +69,9 @@ it empowers thise innpower, but rikes take away power and priviledge
 software is operationalmrules - the advantages outweigh cost of openness
 esp when closed approach goves priviledge
 
-* improving organistions
+improving organistions
+----------------------
+
   COders are new managers
   Management - model, monitor, mentor, maintain. Mgmt is being disaggregated.
   Maintainence of org is in two parts - cultural (our values) - Post office scandal for pathology.
@@ -60,8 +79,9 @@ esp when closed approach goves priviledge
   Two orders - do the work or cause it to be done or provide funding - where do they shade into each other.  They do this within orgs - how projects are really done, constanct hustle for new things.
   Mgmt as economist articles. But if software encoding is more detailed? THis si where LLMs replace mgmt - by being able to simulae and predict more effectively than manabement.
 
-* Organising at scale
-  
+Organising at scale
+-------------------
+
   But we do need to identify the problem, identify a solution, do the solution.
   Nudges wont work.  Its too short a time scale to do it thorugh education
 
@@ -77,7 +97,8 @@ But not everyone
 But toll is mental health issues that manifest in a urban buttoned down world.
 But we have been given less freedom
 
-* JOurnalism
+JOurnalism
+-----------
 
   Journalism is the training data for society - see weights and lawsuit from New York Times
   Also see LLms are search across our societies knowledge (and cultural norms)

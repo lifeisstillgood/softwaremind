@@ -1,6 +1,18 @@
 Introduction
 ============
 
+Software as form of loteracy
+Also a encodingnof the policies and
+processes of the organisation that created it
+Software guides, does crimes, but most importantlyit is explicit
+
+this means all organisational polcoes are explict and doscvoerable and 
+this opens orgnaiations in ways inimaginable before
+
+this is a doscsussio. 
+
+
+
 Software as a form of literacy, a way of taising 
 the political into the explicit
 

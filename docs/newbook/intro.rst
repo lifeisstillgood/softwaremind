@@ -1,6 +1,11 @@
 Introduction
 ============
 
+software therapy / mentorship 
+outside org structure 
+
+
+
 Software as form of loteracy
 Also a encodingnof the policies and
 processes of the organisation that created it

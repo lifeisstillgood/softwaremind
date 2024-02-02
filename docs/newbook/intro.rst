@@ -9,6 +9,13 @@ Software guides, does crimes, but most importantlyit is explicit
 this means all organisational polcoes are explict and doscvoerable and 
 this opens orgnaiations in ways inimaginable before
 
+having all policies directly connected to realmworld enabkes 
+faster feedback, modelling etc
+
+but it comes at cost of openness
+
+we kight win 
+
 this is a doscsussio. 
 
 

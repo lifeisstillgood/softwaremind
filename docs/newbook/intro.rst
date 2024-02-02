@@ -1,6 +1,37 @@
 Introduction
 ============
 
+Software as a form of literacy, a way of taising 
+the political into the explicit
+
+testable organisation - External to team is owned automateabke testing milestones -> probably fitness style or cucumber style but the point is some form of policy that is enforced by engine 
+
+In fact that’s everything Inthink - software is literacy expressing policy implementation- that is this is how this org thinks
+
+
+Agile fails because the ret of the org is not buying intonit 
+- obvious answer is no deadlines till its all deadlines
+
+but how do we change the rest if the org - we subsume it into software
+so that becomes gove us the milestones
+and we build a new org that is software depenandt (thisnis software wating the world
+
+and this new org is repacing the old (its inecitable£
+mbut demands defining the policy of the org in software terms (see do crime for VW)
+
+thats how to buikd teating regience
+
+but once do that you have a model and can speed up chnage
+
+testable organisation
+wxplicit policies
+programmable policies 
+modellable and predicatable company
+iteration speed 
+
+
+
+
 Sanity Summary
 --------------
 

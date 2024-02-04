@@ -1,10 +1,49 @@
 Introduction
 ============
 
-software therapy / mentorship 
-outside org structure 
+
+Sanity Summary
+--------------
+
+10 points - rest goes in next book
+
+* Software is form of literacy
+
+Literacy is fundamentally Explicit, Introspectable and tends towards Open
+
+* policy, process, control
+
+  implements process
+  enforces policy
 
 
+* THoery of firm / how organisations will change
+* software is disaggeegating management 
+
+model monitor mentor, internal homestasis of org, whilst meeting external 
+needs - politics of status quo and guesstimate changes.
+
+
+* LLMs, AI, journalism, 
+* totalitarian bet
+* democracy in companyes as orgnsityiona change
+
+* politics will not end, but democracy will change politics of elite in and out of orgs
+
+* 2 orders magnitude, who understands, and why economist undersanding will be replaced with model
+ 
+conclusion
+
+democracy
+lo-code is rubbish but learnign curve huge
+developer tools are really litersacy tools
+software will not only control the companies we work in (policy enforcement snd impenetaiotn) but will shape how we cahnge said policies - through democracy and
+through modelling - policits exists but will shift to more open and more model driven.
+We hope - thsts the totalitarian bet
+
+
+Software is a form of literacy
+-------------------------------
 
 Software as form of loteracy
 Also a encodingnof the policies and
@@ -53,29 +92,6 @@ programmable policies
 modellable and predicatable company
 iteration speed 
 
-
-
-
-Sanity Summary
---------------
-
-10 points - rest goes in next book
-
-* Software is form of literacy
-* THoery of firm / how organisations will change
-* software is disaggeegating management 
-* LLMs, AI, journalism, 
-* totalitarian bet
-* democracy in companyes as orgnsityiona change
-* rules, autism, nerds, 
-* politics will not end, but democracy will change politics of elite in and out of orgs
-* 2 orders magnitude, who understands, and why economist undersanding will be replaced with model
-* 
-
-
-Software is a form of literacy
--------------------------------
-[expand]
 
 its not science or even engineering 
 its literate expression of human organisation

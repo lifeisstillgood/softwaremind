@@ -1,6 +1,11 @@
 Introduction
 ============
 
+timeline is the problem - sympathy for facebook because 
+how dontounorgnaise timeline ? cannot show eveything - cannot shownjust friends because broing
+so whats the algorithm
+? ask a go ernment they dont say just say "dont destroy democeacy"
+but perhaps problem is "timeline" - dont do timeline do education or agent with best interet s of the user 
 
 Sanity Summary
 --------------

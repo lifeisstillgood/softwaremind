@@ -5,32 +5,80 @@ Introduction
 Sanity Summary
 --------------
 
-10 points - rest goes in next book
 
 * Software is form of literacy
 
 Literacy is fundamentally Explicit, Introspectable and tends towards Open
+It is also individually empowering and a transition layer.
+Imagine the difference between a fully litersate company and a company where
+everyone is not only illiterate, but lives and rasied in illiterate culture.
+
+CAn you imagine how the washington post would work if management could not read or write, or said "I used to read and write but now I am in management..."
+
+Until org change to be fully software literate, productivity is locked in.
+See Agile.
 
 * policy, process, control
 
-  implements process
-  enforces policy
+  software is more *advanced* than pure literacy.
+  Pure literacy might encode process and policy but it needs to be
+  interpreted through human brains.
+  
+  However software can *directly* implement process, and enforce policy
+  Well designed tools can add new at the cost of the margin.
+
+  This has two sides. Well designed and implemented software can then
+  determine how a organisation operates, implementing and enforcing policy.
+
+  This leads us to the *Totalitarian Bet* where org 
+  We assume, bet, think, hope that individual freedom and rights will
+  have better long term results.
+  If we think that of our society, it is disingenuous to reject it for our
+  companies.
+  So we expect a trend towards democracy in organisations, esp as they 
+  move towards fully softtare literate organistions.
+
+  You can be a literate democract or a literate tyrant.
 
 
-* THoery of firm / how organisations will change
 * software is disaggeegating management 
 
-model monitor mentor, internal homestasis of org, whilst meeting external 
-needs - politics of status quo and guesstimate changes.
+  THoery of firm / how organisations will change
+
+  model monitor mentor, internal homestasis of org, whilst meeting external
+  needs - politics of status quo and guesstimate changes.
+
+  Agile - what it means, how it is 'slightly democratic' and how it is blocked
+  because of the implications. That it is oppostie of top down, it rejects
+  deadlines because those are upfront planning without knowledge of actual
+  difficulties and
 
 
 * LLMs, AI, journalism, 
-* totalitarian bet
-* democracy in companyes as orgnsityiona change
 
-* politics will not end, but democracy will change politics of elite in and out of orgs
+  Well we had to tak AI didnt we.
+  And yes I am totlly ecnommist on this.
+  but basics are 'there is soething there, but its not AGI, and it will affect us.'  Its somewehre between SQL and industrial revolution.
 
-* 2 orders magnitude, who understands, and why economist undersanding will be replaced with model
+  Main takeaways for me are
+
+  * journlism has been undersung as a force for correct labelling of societies trainign data.
+
+  * Totaliratian bet is going to *lie* about its training data.  Everyone knows 
+    this (every adult) but will an LLM?  How useful is an LLM that is lied to about how the world works?
+
+  * Our side on the totalitarian bet is then determined by how well we suppport journailsm, how well we 
+
+  * smaller journlaism = like isnt this an important function inside a orgnaisiton - especially larger ones? 
+
+  * if we record every managers interactions (MOOP) how do we then label those fairly for training?
+
+
+  * democracy in companyes as orgnsityiona change
+
+  * politics will not end, but democracy will change politics of elite in and out of orgs
+
+  * 2 orders magnitude, who understands, and why economist undersanding will be replaced with model
  
 conclusion
 

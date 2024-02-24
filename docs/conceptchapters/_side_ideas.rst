@@ -3,6 +3,12 @@ Side Ideas
 
 Everythijgnis a product to someone - treat it with anprosi t lifecycle and resiurce not just creation but maintenance. and build the infrastructure into the oroginal design so maintence costs are lower - this is much rarer and why BaU budgets out of ctontol 
 
+major tech companies are acclerating growth 
+but also normal stick s are growing
+two reasons
+- covid spending is driving inequality so rich invest in stocks and real eatate
+- but also - tech are becoming programmable introspectable companies hence more manageable 
+
 
 Why ooen source is alwys under funded 
 -------------------------

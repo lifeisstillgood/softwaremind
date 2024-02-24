@@ -9,7 +9,12 @@ two reasons
 - covid spending is driving inequality so rich invest in stocks and real eatate
 - but also - tech are becoming programmable introspectable companies hence more manageable 
 
+macro economics
+ove rpast decade or two we have seen enournous amounts of money chasing investments 
+under MMt that imploes eother the money cannot reach / buy good investments or that there is too much money for fiture oroductive capacity
+so its imllicationnis too much money .... 
 
+or we need better ways to reach new investments (ie we are not funding poor people of workd, and they cannot teade their skills) 
 Why ooen source is alwys under funded 
 -------------------------
 https://news.ycombinator.com/item?id=36531443

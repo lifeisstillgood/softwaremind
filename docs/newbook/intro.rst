@@ -1,6 +1,26 @@
 Introduction
 ============
 
+AI - some uninformed thoughts.
+------------------------------
+
+World building matters (ability to plan is basically
+ability to predict future. THis is a hall mark of intelligence - also why
+people with bad internal models make poor decisions, and why its so hard to
+get people with vastly differing models to understand each otehr - used to be
+limited to crime. now... politics?  Its why its vital to edicate people to have
+same model at first, its also why edication laevels make biggest
+differentiator in politics, and also why choosing the first model makes your
+'side' more relevant. See north korean education camps. But also see how
+many people did nto believe societ model but kept stum'
+
+Any how - world building - effective model - how 
+
+LLM - conceptually similar to knearest neighbour
+and word2vec 
+
+
+
 timeline is the problem - sympathy for facebook because 
 how dontounorgnaise timeline ? cannot show eveything - cannot shownjust friends because broing
 so whats the algorithm

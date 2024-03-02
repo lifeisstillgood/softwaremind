@@ -189,6 +189,11 @@ improving organistions
   Two orders - do the work or cause it to be done or provide funding - where do they shade into each other.  They do this within orgs - how projects are really done, constanct hustle for new things.
   Mgmt as economist articles. But if software encoding is more detailed? THis si where LLMs replace mgmt - by being able to simulae and predict more effectively than manabement.
 
+management by shouting at underlings is 
+a search for systems to deal with problems
+that just occured. maybe effocectoce but there clearlywill
+be better ways - but not in a tourney 
+
 Organising at scale
 -------------------
 

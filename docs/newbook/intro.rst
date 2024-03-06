@@ -102,6 +102,14 @@ see Brooks law.
 that management is disaggregated and the communication 
 value is much much lower 
 
+
+also primary skill set is learning 
+that is the provle we have is one we have never seen before
+in this configuretion
+so gonaway learn prqxtise and then come back and fix
+its not a 9-5 job - its a consuktancy 
+so the idea of agile or management or bums on seats is ... off 
+
 * THoery of firm / how organisations will change
 * software is disaggeegating management 
 

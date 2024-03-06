@@ -88,7 +88,19 @@ Literacy is fundamentally Explicit, Introspectable and tends towards Open
   implements process
   enforces policy
 
+Disaggreagtio of management 
+---------------------------
+But software is dofferent because the 
+Coders are managers now or rather CPUs are weoners
 
+the things management existed for (communicatio 
+between grouos of workers) nonlonger matters once the 
+code is working 
+
+see Brooks law.
+
+that management is disaggregated and the communication 
+value is much much lower 
 
 * THoery of firm / how organisations will change
 * software is disaggeegating management 

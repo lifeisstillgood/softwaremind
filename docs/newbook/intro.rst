@@ -73,6 +73,24 @@ But it does imply something about our companies - that once the whole company ca
 
 It also explicitly makes the issue of who decides what chnages and how come to the fore
 
+training data matters
+---------------------
+Google and pagerank soon became google and returned tonhomepage data as feedback onnquality
+Tesla owns data on when the car braked or jerked or gas applied and 
+can record that and upload it nightly and use for modelling
+journlism is societies way of marking training data
+textbooks are way of marking trianong data 
+science is way to doscover correct weights for feedback
+
+now why is it that google keeps
+my clicks or my steering as ots own proprietary data
+
+health data - it shoukd be public data 
+by default
+
+licensing or otherwise but not unavailable
+
+
 
 Sanity Summary
 --------------

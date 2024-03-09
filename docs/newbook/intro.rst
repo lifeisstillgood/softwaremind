@@ -281,6 +281,18 @@ improving organistions
   Two orders - do the work or cause it to be done or provide funding - where do they shade into each other.  They do this within orgs - how projects are really done, constanct hustle for new things.
   Mgmt as economist articles. But if software encoding is more detailed? THis si where LLMs replace mgmt - by being able to simulae and predict more effectively than manabement.
 
+modern feudalism -> giving bonuses 
+and budgets to those who support the CEO is clearest 
+example of (Iron law bureaucrats)
+democracy tends to defeat that asbribimg everyone temfs often 
+to mean taking the cou
+tse benfit everyone (see theory of EU inestment 
+and voting spain not bote for knights of hungary)
+
+
+
+
+
 management by shouting at underlings is 
 a search for systems to deal with problems
 that just occured. maybe effocectoce but there clearlywill

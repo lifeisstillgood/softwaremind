@@ -1,8 +1,104 @@
 Introduction
 ============
 
-AI - some uninformed thoughts.
-------------------------------
+Sanity Summary
+—————————————-
+
+* Software is a form of literacy
+
+Literacy is fundamentally Explicit, Introspectable and tends towards Open
+
+The next few decades or more will belong to software literate the way the past few belonged to those who could read and write.  
+
+* policy, process, control
+
+  implements process
+  enforces policy
+  Is instantly introspectable
+  Careful issues around deep state
+  
+
+
+
+* software is disaggeegating management 
+
+  - THoery of firm / how organisations will change
+  - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
+  
+* LLMs, AI, journalism
+  Training data matters 
+
+* totalitarian bet
+  
+* democracy in companyes as orgnsityiona change
+  Why should those employees control those - but they already do, it’s just internal politics, bribery 
+
+politics will not end, but democracy will change politics of elite in and out of orgs
+
+* 2 orders magnitude conjecture - that forms will divide up like this ??  
+ - The Economist presents a simplified model of every issue.  But it is possible that every prod-parallel env can supply a model (ie the model that SEC holds fed every minute about traders) 
+ 
+* conclusion
+
+
+
+Disaggreagtio of management 
+—————————
+But software is dofferent because the 
+Coders are managers now or rather CPUs are weoners
+
+the things management existed for (communicatio 
+between grouos of workers) nonlonger matters once the 
+code is working 
+
+A better test rig is orders magnitude more effective than “better communication”
+Once a complete prod-parallel environment exists, any management question is answerable directly through exploratory code chnage.
+
+Major chnages (1.x 2.x) can presumably use the same real life feed, see Tesla data advantage.
+
+see Brooks law.
+
+that management is disaggregated and the communication 
+value is much much lower 
+
+
+also primary skill set is learning 
+that is the provle we have is one we have never seen before
+in this configuretion
+so gonaway learn prqxtise and then come back and fix
+its not a 9-5 job - its a consuktancy 
+so the idea of agile or management or bums on seats is ... off - end of industrialisation (see my favourite door in London, and the need for knowledge workers, like lawyers)
+
+
+Other management issues
+model monitor mentor, internal homestasis of org, whilst meeting external 
+needs - politics of status quo and guesstimate changes.
+
+If the communication is gone, if model monitor are better done by software, of process is better done by software, then what we have left is internal homeostasis
+Or politics (which will be disrupted by democracy as feudal politics was disrupted - and its the middle class that rebel always)
+
+Mentoring becomes a profession - a profession that is impossible to hold back to a few
+It’s a fiat chance that we will find lawyer like prosfessions where they will have a commit bit for the big software - laws, the software for gov depts
+
+What will it look like?
+Newsroom of WaPo- managers become editors as it becomes possible to manage a company through code 
+
+
+
+
+Totalitarian Bet
+————————
+lo-code is rubbish but learnign curve huge
+developer tools are really litersacy tools
+software will not only control the companies we work in (policy enforcement snd impenetaiotn) but will shape how we cahnge said policies - through democracy and
+through modelling - policits exists but will shift to more open and more model driven.
+We hope - thsts the totalitarian bet
+
+
+
+
+AI and journalism 
+-------------------
 
 Challenges of training data and bias
 We started with 'easy' problems - facial recgnition and black african
@@ -54,12 +150,17 @@ LLM - conceptually similar to knearest neighbour
 and word2vec 
 
 
+Journalism and the training data 
+————
 
 timeline is the problem - sympathy for facebook because 
 how dontounorgnaise timeline ? cannot show eveything - cannot shownjust friends because broing
 so whats the algorithm
 ? ask a go ernment they dont say just say "dont destroy democeacy"
 but perhaps problem is "timeline" - dont do timeline do education or agent with best interet s of the user 
+
+Org chnage
+—————————-
 
 Institutions sustain *themselves* or rather the jobs of the controlling minds of the institution.  Today’s Catholic Church would be viewed by its founders as some kind of uber-hippy bunch of democratic maniacs out to destroy civilisation.
 
@@ -92,66 +193,6 @@ licensing or otherwise but not unavailable
 
 
 
-Sanity Summary
---------------
-
-10 points - rest goes in next book
-
-* Software is form of literacy
-
-Literacy is fundamentally Explicit, Introspectable and tends towards Open
-
-* policy, process, control
-
-  implements process
-  enforces policy
-
-Disaggreagtio of management 
----------------------------
-But software is dofferent because the 
-Coders are managers now or rather CPUs are weoners
-
-the things management existed for (communicatio 
-between grouos of workers) nonlonger matters once the 
-code is working 
-
-see Brooks law.
-
-that management is disaggregated and the communication 
-value is much much lower 
-
-
-also primary skill set is learning 
-that is the provle we have is one we have never seen before
-in this configuretion
-so gonaway learn prqxtise and then come back and fix
-its not a 9-5 job - its a consuktancy 
-so the idea of agile or management or bums on seats is ... off 
-
-* THoery of firm / how organisations will change
-* software is disaggeegating management 
-
-model monitor mentor, internal homestasis of org, whilst meeting external 
-needs - politics of status quo and guesstimate changes.
-
-
-* LLMs, AI, journalism, 
-* totalitarian bet
-* democracy in companyes as orgnsityiona change
-
-* politics will not end, but democracy will change politics of elite in and out of orgs
-
-* 2 orders magnitude, who understands, and why economist undersanding will be replaced with model
- 
-conclusion
-
-democracy
-lo-code is rubbish but learnign curve huge
-developer tools are really litersacy tools
-software will not only control the companies we work in (policy enforcement snd impenetaiotn) but will shape how we cahnge said policies - through democracy and
-through modelling - policits exists but will shift to more open and more model driven.
-We hope - thsts the totalitarian bet
-
 
 security
 --------
@@ -174,7 +215,7 @@ and look at ransomare - that has social implicatiosn and the answer is basically
 
 
 Software is a form of literacy
--------------------------------
+-------------------------
 
 Software as form of loteracy
 Also a encodingnof the policies and

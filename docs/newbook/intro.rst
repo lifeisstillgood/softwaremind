@@ -35,6 +35,8 @@ The next few decades or more will belong to software literate the way the past f
 
 politics will not end, but democracy will change politics of elite in and out of orgs
 
+Jp Morgan was a democratising force just like FDR using the mass of people to push aside old feudal elites (and make new ones natch)
+
 * 2 orders magnitude conjecture - that forms will divide up like this ??  
  - The Economist presents a simplified model of every issue.  But it is possible that every prod-parallel env can supply a model (ie the model that SEC holds fed every minute about traders) 
  

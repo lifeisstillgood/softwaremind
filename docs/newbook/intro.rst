@@ -45,6 +45,13 @@ The next few decades or more will belong to software literate the way the past f
   mission control - this is the next big challenge of organsoations - at cerain point
   the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
 
+  AI is not magic. if you think some or all of job can be repaced by AI
+  then the question is, why cant it be repaced today woth traditional software
+  its not volume of data - no human can compete
+  its access to tools and ots decision politics
+  if AI can replace a manager tomorrow then software can do it today 
+
+
 * software is disaggeegating management 
 
   - THoery of firm / how organisations will change

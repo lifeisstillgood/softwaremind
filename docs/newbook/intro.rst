@@ -32,6 +32,18 @@ The next few decades or more will belong to software literate the way the past f
   enough point solutions exist that whole org can be 
   good enough repaced and will be quality dofference 
 
+  each org needs a black box called "perception" - what is going on
+  internally and externally, from that they can extract and cia policy 
+  workmout their decisions - this is a robotics concern
+  and we can reasonakly assume organisations are business rbotos
+    
+  so treat an org like a robot - it is seen as a person but bow it needs to 
+  be a robot - "perceptiom and funding" https://news.ycombinator.com/item?id=39707943
+
+  linking all subsystems together, treating internal data as single data bus
+  reporting not building "enterprise systems" but sxalable smaller 
+  mission control - this is the next big challenge of organsoations - at cerain point
+  the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
 
 * software is disaggeegating management 
 

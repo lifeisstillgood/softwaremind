@@ -17,7 +17,20 @@ The next few decades or more will belong to software literate the way the past f
   Is instantly introspectable
   Careful issues around deep state
   
-
+* arrnaging the workd to be iterated ocer
+  https://generalrobots.substack.com/p/the-mythical-non-roboticist
+  robotics struggles because realmworld is hard
+  humans have a model of the world developed ocer years
+  AI tries
+  education and science improces thatbmodel
+  organisations live in legally mediated workd
+  so models and assumptions about world can be 
+  extracted made explicit - and shareable 
+  SOPpy - see featiee files and regex descriotions
+  if this then that - will not work all time but when it does value is immense
+  we now seem to be at tippingnpoont where 
+  enough point solutions exist that whole org can be 
+  good enough repaced and will be quality dofference 
 
 
 * software is disaggeegating management 

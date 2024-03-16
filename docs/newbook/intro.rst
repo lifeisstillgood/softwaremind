@@ -52,7 +52,36 @@ The next few decades or more will belong to software literate the way the past f
   if AI can replace a manager tomorrow then software can do it today 
 
 
+
+
 * software is disaggeegating management 
+
+  - how do companies decide? 
+    robotics useful 
+    simple terms - OODA loop 
+    observe is perception - collection of data
+    orient is collating data into a model that 
+    is an effective representation of reality 
+    decide is choices based on model, model predictions plus politics
+    Act is chnage the code and release 
+
+    how does this help us - it goves model for how
+    programmable company can work - we are seeing software eat
+    the world at the observe stage - but rarely do we see a whole org
+    model that is ontegrated into thise 
+
+    AI is sorta hoped / worried it will do this second stage (and DAnd A)
+    but explicitly calling itnout its clear one can easily domit
+    but it challenges the existence of feudal
+mgmt elite that "understands" the company
+
+    cf VAR - "get me one single number to judge company bu"
+    ok but once we do, anyone can judge it - that model is built
+    it is available
+
+    counterpojt - there are too mmay variables we have to do this by feel
+    yeah bollocks
+
 
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)

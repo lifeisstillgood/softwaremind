@@ -51,7 +51,9 @@ The next few decades or more will belong to software literate the way the past f
   its access to tools and ots decision politics
   if AI can replace a manager tomorrow then software can do it today 
 
-
+new orfanisations approach
+- how will new org look?
+- why 9-5 indistrial? why not 3 minths on three off? 
 
 
 * software is disaggeegating management 

@@ -2,22 +2,46 @@ Introduction
 ============
 
 Sanity Summary
-—————————————-
+--------------
 
-* Software is a form of literacy
+Software is a form of literacy
+------------------------------
 
 Literacy is fundamentally Explicit, Introspectable and tends towards Open
 
 The next few decades or more will belong to software literate the way the past few belonged to those who could read and write.  
 
-* policy, process, control
+The programmable company
+------------------------
+
+* I used to write English but now I am a manager I don't anymore
+* Feudal management (the link to Totalitarian Bet)
+* OODA loop and the decision making process, and how software eats that
+
+policy, process, control
+-------------------------
+ 
+  Software can / does make policy explicit.
+  4 quadrant area about DODGY / COMPLEX - INTEGRITY / SIMPLICITY
+  SIMPLE / DODGY = Crime (ie LIBOR)
+  SIMPLE / INTEGRITY = high performance, high profit, 
+  COMPLEX / INTEGRITY = healthcare, space travel,military weapons
+  COMPLEX / DODGY = FInancial engineering, 
 
   implements process
   enforces policy
   Is instantly introspectable
   Careful issues around deep state
+  THe quadrant shows the reluctance toallow software and regulation in
+  Introspection allows people to ask questions, which in DODGY areas is 
+  a problem.  And it allows outsiders to see how sausage is made.
+
+Robotics and a robotic company
+--------------------------------
+  OODA loop (the biggest problem in Robotics is perception - of both the
+  world and your self)  Which makes a fairly good quote bout human kind
   
-* arrnaging the workd to be iterated ocer
+  arrnaging the workd to be iterated ocer
   https://generalrobots.substack.com/p/the-mythical-non-roboticist
   robotics struggles because realmworld is hard
   humans have a model of the world developed ocer years
@@ -45,18 +69,82 @@ The next few decades or more will belong to software literate the way the past f
   mission control - this is the next big challenge of organsoations - at cerain point
   the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
 
+If AI can replace your job tomorrow, Plain old software can today
+-----------------------------------------------------------------
+
+  AI is not magic, it simply tries to solve the robotics issues
+  - what is the perception of the real world
+  - what is the model of the real world
+  - what is the perception of my situaiton in the world
+  - what is the next action 
+
+  (OODA)
+
+  But AI is able to *build* a model in a amazing new way,
+  but a model of the world is not useful without perception of 
+  world and own ability.
+
+  So if AI can build some model of a "perfect manager brain", 
+  it will still need to be fed perceptions of the operations daily 
+  ANd are those already being fed upwards - honestly turns out mostly no.
+  THey are stuck in siloes, they are filter through powerpoint presrntations
+  and massaged by project managers, 
+
+  AI can learn to balance a ball on a stick.  But if we have unclear
+  information about where the ball is, how the stick is moving etc,
+  it will perform at least as badly as 
+
+  The perception feedback must be good for any model to be transferrable.
+  If it is bad then how do we behave - the same way most managers behave - 
+  find a few trusted lieutenants who can find *just enough* information 
+  to be representative and keep churning and find that playing politics in
+  feudal environment is almost always more profitable than fixing the
+  perceptiin and action problems.
+
   AI is not magic. if you think some or all of job can be repaced by AI
   then the question is, why cant it be repaced today woth traditional software
   its not volume of data - no human can compete
   its access to tools and ots decision politics
   if AI can replace a manager tomorrow then software can do it today 
 
-new orfanisations approach
-- how will new org look?
-- why 9-5 indistrial? why not 3 minths on three off? 
+What does the organisation of tomorrow look like
+------------------------------------------------
+
+  LIES / TRUTH / UNFILTERED/FILTERED PERCEPTION
+
+  Totalitarina bet, Wealth inequality, feudal society, 
+  property owning middle class, 
+
+  We are approcahing the slow down of the s-curve of the industrial
+  revolution.  Energy was the *whole ball game* and it allowed a unique
+  period of time where equality changed (see Pikkety)
+  Now the wealth / power elites want to reassert themselves. 
+  Its a issue of deomraccy - equal say implies equal share.
+  but democracy also has a societal benefit - the Totalitarian Bet.
+
+  The property owning Middle class (unable to live on its own assets but have
+  sufficeint assest to cushion lifetimes of blows, hence social insurance
+  increases the middle class by minimising knick out blows)
+
+  (this is the problem with UBI - Rome had UBI where the people with the 
+  wealth handed out daily stipends in return for loyalty.)
 
 
-* software is disaggeegating management 
+Coders are the new managers, CPUs are the new workers
+-----------------------------------------------------
+
+  - THoery of firm / how organisations will change
+  - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
+  
+Editors as managers
+-------------------
+
+Why have a 9-5 culture? Why sprint? Is that the right way to run reporting
+What about the long term approach - stringers and ... 
+
+
+software is disaggeegating management 
+--------------------------------------
 
   - how do companies decide? 
     robotics useful 

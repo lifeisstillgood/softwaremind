@@ -9,7 +9,8 @@ Software is a form of literacy
 
 Literacy is fundamentally Explicit, Introspectable and tends towards Open
 
-The next few decades or more will belong to software literate the way the past few belonged to those who could read and write.  
+The next few decades or more will belong to software literate the way the past
+few belonged to those who could read and write.  
 
 The programmable company
 ------------------------
@@ -17,6 +18,8 @@ The programmable company
 * I used to write English but now I am a manager I don't anymore
 * Feudal management (the link to Totalitarian Bet)
 * OODA loop and the decision making process, and how software eats that
+* RObotics and robotic company
+
 
 policy, process, control
 -------------------------
@@ -35,39 +38,6 @@ policy, process, control
   THe quadrant shows the reluctance toallow software and regulation in
   Introspection allows people to ask questions, which in DODGY areas is 
   a problem.  And it allows outsiders to see how sausage is made.
-
-Robotics and a robotic company
---------------------------------
-  OODA loop (the biggest problem in Robotics is perception - of both the
-  world and your self)  Which makes a fairly good quote bout human kind
-  
-  arrnaging the workd to be iterated ocer
-  https://generalrobots.substack.com/p/the-mythical-non-roboticist
-  robotics struggles because realmworld is hard
-  humans have a model of the world developed ocer years
-  AI tries
-  education and science improces thatbmodel
-  organisations live in legally mediated workd
-  so models and assumptions about world can be 
-  extracted made explicit - and shareable 
-  SOPpy - see featiee files and regex descriotions
-  if this then that - will not work all time but when it does value is immense
-  we now seem to be at tippingnpoont where 
-  enough point solutions exist that whole org can be 
-  good enough repaced and will be quality dofference 
-
-  each org needs a black box called "perception" - what is going on
-  internally and externally, from that they can extract and cia policy 
-  workmout their decisions - this is a robotics concern
-  and we can reasonakly assume organisations are business rbotos
-    
-  so treat an org like a robot - it is seen as a person but bow it needs to 
-  be a robot - "perceptiom and funding" https://news.ycombinator.com/item?id=39707943
-
-  linking all subsystems together, treating internal data as single data bus
-  reporting not building "enterprise systems" but sxalable smaller 
-  mission control - this is the next big challenge of organsoations - at cerain point
-  the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
 
 If AI can replace your job tomorrow, Plain old software can today
 -----------------------------------------------------------------
@@ -176,11 +146,18 @@ mgmt elite that "understands" the company
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
-* LLMs, AI, journalism
+Journalism is labelling the training data for the world
+-------------------------------------------------------
+  * LLMs, AI, journalism
   Training data matters 
 
+The Totalitarian Bet, The democratic bet and wealth taxes
+---------------------------------------------------------
 * totalitarian bet
   
+Feudalism, Democracy, Wealth Tax
+--------------------------------
+
 * democracy in companyes as orgnsityiona change
   Why should those employees control those - but they already do, it’s just internal politics, bribery 
 
@@ -188,11 +165,61 @@ politics will not end, but democracy will change politics of elite in and out of
 
 Jp Morgan was a democratising force just like FDR using the mass of people to push aside old feudal elites (and make new ones natch)
 
+The DevManual - SaaS is dead, because IFTT is rubbish
+-----------------------------------------------------
+
+We want to own our own data
+Dont put state into the queue system
+Dont have the configuration spread over dozens of apps. Or rather microservices
+should not look different from the config lens... or rather having all the
+config look different so diff dependancies are runnign same is ... really
+awkward.
+
+
 * 2 orders magnitude conjecture - that forms will divide up like this ??  
  - The Economist presents a simplified model of every issue.  But it is possible that every prod-parallel env can supply a model (ie the model that SEC holds fed every minute about traders) 
  
 * conclusion
 
+
+
+
+
+Expansion area
+
+
+Robotics and a robotic company
+--------------------------------
+  OODA loop (the biggest problem in Robotics is perception - of both the
+  world and your self)  Which makes a fairly good quote bout human kind
+  
+  arrnaging the workd to be iterated ocer
+  https://generalrobots.substack.com/p/the-mythical-non-roboticist
+  robotics struggles because realmworld is hard
+  humans have a model of the world developed ocer years
+  AI tries
+  education and science improces thatbmodel
+  organisations live in legally mediated workd
+  so models and assumptions about world can be 
+  extracted made explicit - and shareable 
+  SOPpy - see featiee files and regex descriotions
+  if this then that - will not work all time but when it does value is immense
+  we now seem to be at tippingnpoont where 
+  enough point solutions exist that whole org can be 
+  good enough repaced and will be quality dofference 
+
+  each org needs a black box called "perception" - what is going on
+  internally and externally, from that they can extract and cia policy 
+  workmout their decisions - this is a robotics concern
+  and we can reasonakly assume organisations are business rbotos
+    
+  so treat an org like a robot - it is seen as a person but bow it needs to 
+  be a robot - "perceptiom and funding" https://news.ycombinator.com/item?id=39707943
+
+  linking all subsystems together, treating internal data as single data bus
+  reporting not building "enterprise systems" but sxalable smaller 
+  mission control - this is the next big challenge of organsoations - at cerain point
+  the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
 
 
 Disaggreagtio of management 

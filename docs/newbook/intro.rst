@@ -17,9 +17,30 @@ The programmable company
 
 * I used to write English but now I am a manager I don't anymore
 * Feudal management (the link to Totalitarian Bet)
+* competion dont work - the too big to fail is like wealthy individuals -
+  fincical gravity pulls the playing field in their favour.
+  Large companies empoyee more fair share people, are notoriously inefficient,
+  and focus on Iron Laws beureacrtacy, 
+* The feudal management ceiling - too much infomration for any human to take on
+  leads to "The Economist" decision making disease.
+* Trusted advisors from below become subsumed in internal politics of
+  organisation
+* but the Feudal maangement ceiling can be raised, by software enabled
+  transmission, models and OODA decision making.
 * OODA loop and the decision making process, and how software eats that
-* RObotics and robotic company
+* RObotics and robotic company, or more informed decision makers
 
+
+Literary Best practise
+----------------------
+
+Software demands different best practises
+We are finding them - and what it will look like makes WaPo different to a
+medieval scriptoreum.
+Prod-Parallel and back testing, 
+Tool use
+COmmon solutions (octavio, editing)
+THis is The DevManual
 
 policy, process, control
 -------------------------

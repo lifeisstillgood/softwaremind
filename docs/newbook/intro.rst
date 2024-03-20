@@ -1,8 +1,6 @@
 Introduction
 ============
 
-Sanity Summary
---------------
 
 Software is a form of literacy
 ------------------------------
@@ -41,6 +39,77 @@ Prod-Parallel and back testing,
 Tool use
 COmmon solutions (octavio, editing)
 THis is The DevManual
+
+To "manage" you need to have an OODA loop.
+To "release with confidence" you need to have a prod-parallel env / test rig.
+To "plan" you need to have failing tests in the prod-parallel env, that are like
+bug bounties for employees.  DO not fall for capitalism here, use socialism
+inside the org.
+
+OODA loop and production ready, tech debt.
+------------------------------------------
+
+Observe, Orientate, Decide, Act.
+
+This is operating *on* an existing system. We are managing the system.
+If we cannot get metrics from the system, we cannot observe
+If we do not have a (software) model of the system we cannot orientate,
+(use of Statitical process control)
+Deciding is politics - persuasion, allocation of resources, collection of
+resources.  
+Act is development 
+
+The main issue is we have *assumed* the model is in the managers head, or 
+in their holy spreadsheet.  Possibly because the numbers in the sheet are
+'dangerous' to pass around.
+
+But with software metrics, thats a choice not a requirement. A model can be 
+"soft real time" updated, and the VAR number calculated each day.
+
+Deciding is affected to, as differnet costly options can be appplied to model
+and prod-parallel for analysis.  
+
+And Act is the art of filling in the red failing tests in the prod-parallel.
+
+
+
+
+
+
+
+#### expand below
+A better test rig is orders magnitude more effective than “better communication”
+Once a complete prod-parallel environment exists, any management question is answerable directly through exploratory code chnage.
+
+Major chnages (1.x 2.x) can presumably use the same real life feed, see Tesla data advantage.
+
+see Brooks law.
+
+that management is disaggregated and the communication 
+value is much much lower 
+
+
+also primary skill set is learning 
+that is the provle we have is one we have never seen before
+in this configuretion
+so gonaway learn prqxtise and then come back and fix
+its not a 9-5 job - its a consuktancy 
+so the idea of agile or management or bums on seats is ... off - end of industrialisation (see my favourite door in London, and the need for knowledge workers, like lawyers)
+
+
+Other management issues
+model monitor mentor, internal homestasis of org, whilst meeting external 
+needs - politics of status quo and guesstimate changes.
+
+If the communication is gone, if model monitor are better done by software, of process is better done by software, then what we have left is internal homeostasis
+Or politics (which will be disrupted by democracy as feudal politics was disrupted - and its the middle class that rebel always)
+
+Mentoring becomes a profession - a profession that is impossible to hold back to a few
+It’s a fiat chance that we will find lawyer like prosfessions where they will have a commit bit for the big software - laws, the software for gov depts
+
+What will it look like?
+Newsroom of WaPo- managers become editors as it becomes possible to manage a company through code 
+
 
 policy, process, control
 -------------------------
@@ -132,6 +201,7 @@ Editors as managers
 
 Why have a 9-5 culture? Why sprint? Is that the right way to run reporting
 What about the long term approach - stringers and ... 
+# 2_orders_of_magnitude
 
 
 software is disaggeegating management 
@@ -241,48 +311,6 @@ Robotics and a robotic company
   reporting not building "enterprise systems" but sxalable smaller 
   mission control - this is the next big challenge of organsoations - at cerain point
   the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
-
-
-Disaggreagtio of management 
-—————————
-But software is dofferent because the 
-Coders are managers now or rather CPUs are weoners
-
-the things management existed for (communicatio 
-between grouos of workers) nonlonger matters once the 
-code is working 
-
-A better test rig is orders magnitude more effective than “better communication”
-Once a complete prod-parallel environment exists, any management question is answerable directly through exploratory code chnage.
-
-Major chnages (1.x 2.x) can presumably use the same real life feed, see Tesla data advantage.
-
-see Brooks law.
-
-that management is disaggregated and the communication 
-value is much much lower 
-
-
-also primary skill set is learning 
-that is the provle we have is one we have never seen before
-in this configuretion
-so gonaway learn prqxtise and then come back and fix
-its not a 9-5 job - its a consuktancy 
-so the idea of agile or management or bums on seats is ... off - end of industrialisation (see my favourite door in London, and the need for knowledge workers, like lawyers)
-
-
-Other management issues
-model monitor mentor, internal homestasis of org, whilst meeting external 
-needs - politics of status quo and guesstimate changes.
-
-If the communication is gone, if model monitor are better done by software, of process is better done by software, then what we have left is internal homeostasis
-Or politics (which will be disrupted by democracy as feudal politics was disrupted - and its the middle class that rebel always)
-
-Mentoring becomes a profession - a profession that is impossible to hold back to a few
-It’s a fiat chance that we will find lawyer like prosfessions where they will have a commit bit for the big software - laws, the software for gov depts
-
-What will it look like?
-Newsroom of WaPo- managers become editors as it becomes possible to manage a company through code 
 
 
 

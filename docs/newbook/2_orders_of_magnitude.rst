@@ -1,3 +1,37 @@
+"You did not just cross the line, you are so far beyond the line, the line is a
+*dot*"
+
+- Joey, Friends
+
+Abstraction helps.  We cannot carry around all the details all the time.
+But The Economist curse is real.
+
+As a rule of thumb I think 2 orders of magnitude is when you stop being able to
+manage directly and need to rely on financing as a tool.
+
+100 servers? 100 developers, maybe 1000 servers?
+But you need warning lights on the dashboard, actual actions when reaching
+thresholds, an ability to introspect, and real owners / gatekeepers.
+
+But also how many layers of abstraction. CEO example, Cabinet Minister wexamples
+
+2 orders of magnitude, 3 layers of abstraction
+
+Proof Of Concept (No or Lo-code solutions. Excel.)
+Rules Driven (configuration, libraries orchestrated)
+Language driven (compilers, DSLs)
+- which outputs machine code?
+
+  concept of recursion is important???
+
+No
+
+Directed coding (proof concept, lo-code solution)
+Indirect Coding (rules, config, reuse)
+Tooling to understand Indirect coding
+
+
+
 Scale is a Blessing and A problem
 ---------------------------------
 

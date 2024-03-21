@@ -1,7 +1,6 @@
 Introduction
 ============
 
-
 Software is a form of literacy
 ------------------------------
 
@@ -27,6 +26,8 @@ The programmable company
   transmission, models and OODA decision making.
 * OODA loop and the decision making process, and how software eats that
 * RObotics and robotic company, or more informed decision makers
+
+<<<2_orders_of_magnitude.rst>>>
 
 
 Literary Best practise

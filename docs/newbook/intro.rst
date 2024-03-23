@@ -73,7 +73,13 @@ and prod-parallel for analysis.
 And Act is the art of filling in the red failing tests in the prod-parallel.
 
 
-
+engineering is experimental more than theoretical
+-------------
+bridge buiktnin 1846 rail bridgr twisted
+not until extra load added and twosted
+point is nowadays we have mich more modelling of behaviour
+but we dont model the software emgeering - thisnis something we shoukd od and will have to do - tomincreas reliability as well as improve reactions 
+esp if we get to poijt where others can does that change kiability issues 
 
 
 

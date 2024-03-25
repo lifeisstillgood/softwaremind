@@ -1,4 +1,7 @@
-"You did not just cross the line, you are so far beyond the line, the line is a
+Do we need Managers or Financiers?
+----------------------------------
+
+"You did not just cross the line, you are so far past the line, the line is a
 *dot*"
 
 - Joey, Friends

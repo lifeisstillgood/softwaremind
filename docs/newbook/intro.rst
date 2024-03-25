@@ -1,13 +1,41 @@
 Introduction
 ============
 
+
+Chapter 1 - a tour through the ideas presented.
+Chapters 2-9 - more meat on each of the ideas
+Chapter 10 - a rousing conclusion
+
+
 Software is a form of literacy
 ------------------------------
 
 Literacy is fundamentally Explicit, Introspectable and tends towards Open
 
 The next few decades or more will belong to software literate the way the past
-few belonged to those who could read and write.  
+few centuries belonged to those who could read and write.  
+
+* the software literate company (what WaPo looks to a
+medieivle scrptorem) (literate best practise / the dev manual)
+
+* The programmable company - splitting up working in the company and on the
+company. Change control etc etc.
+We dont need managers, we need editors.
+OODA loop and testing and modelling and preproduction
+
+* Policy, process, control - Deep state, introspection, software governance
+  Heading towards democracys
+  TOtalitarian bet on programmable company, and the democratic bet
+
+* coders are new managers
+
+* AI tomorrow, software todays
+
+* disaggregating mgmt
+
+* journalism and training data
+
+
 
 The programmable company
 ------------------------
@@ -74,7 +102,7 @@ And Act is the art of filling in the red failing tests in the prod-parallel.
 
 
 engineering is experimental more than theoretical
--------------
+--------------------------------------------------
 bridge buiktnin 1846 rail bridgr twisted
 not until extra load added and twosted
 point is nowadays we have mich more modelling of behaviour

@@ -9,6 +9,7 @@ And I could do it and just show me the likely outcomes. seems a nice compromise
 import os
 import shutil
 from pprint import pprint as pp
+import docutils.core
 
 ROOTPATH='/home/pbrian/projects/devmanual/docs'
 BACKUPLOCATION="/tmp/chaptertools/"
@@ -16,7 +17,16 @@ BACKUPLOCATION="/tmp/chaptertools/"
 def find_all_chapters():
     rootdir = '/home/pbrian/projects/softwaremind/docs/newbook'
 
-    filesd = {f: open(os.path.join(rootdir,f)).read() for f in os.listdir(rootdir)}
+    filesd = {}
+    for f in os.listdir(rootdir):
+        if f.startswith('.'): continue
+        try:
+            txt = open(os.path.join(rootdir,f), encoding='utf-8').read() 
+            filesd[f] = txt
+        except Exception as e:
+            print(e, f)
+            raise
+
     return filesd
 
 def build_one_pager():
@@ -35,8 +45,9 @@ def build_one_pager():
         if line.startswith("<<<"):
             filetoken = line.strip().replace("<<<","").replace(">>>","")
             replacetext = all_chaptersd.get(filetoken, f"NOTFOUND-{filetoken}")
+            outputtext += '.. ' + line + "\n"  
             outputtext += replacetext + "\n"
-            import pdb;pdb.set_trace()
+            outputtext += '.. ' + line + "\n"
         else:
             outputtext += line + "\n"
 
@@ -45,93 +56,30 @@ def build_one_pager():
     fo.write(outputtext)
     fo.close()
     import webbrowser;webbrowser.open(tgtfilepath)
+    convert_onepager_to_html_publish(tgtfilepath)
 
-def mk_review_html():
-    """pront the rst as HTML for mass print out and review
-    """
-    tgtfilepath = '/home/pbrian/projects/devmanual/all.txt'
-    html = ''
-    toc = ''
-    rootpath = '/home/pbrian/projects/devmanual/docs/chapters'
-    for root, dirs, files in os.walk(rootpath):
-        for filename in files:
-            if filename.find(".rst") == -1:
-                continue
-            html += "\n                 ##### %s ####\n" % filename
-            txt = open(os.path.join(root, filename)).read()
-            #txt = txt.replace("\n","<br/>")
-            html += txt
-            toc += "- %s\n" % filename
-    htmlout = "%s\n#######\n %s" % (toc, html)
-    fo = open(tgtfilepath, 'w')
-    fo.write(htmlout)
-    fo.close()
-    import webbrowser;webbrowser.open(tgtfilepath)
-def mk_review_html():
-    """pront the rst as HTML for mass print out and review
-    """
-    tgtfilepath = '/home/pbrian/projects/devmanual/all.txt'
-    html = ''
-    toc = ''
-    rootpath = '/home/pbrian/projects/devmanual/docs/chapters'
-    for root, dirs, files in os.walk(rootpath):
-        for filename in files:
-            if filename.find(".rst") == -1:
-                continue
-            html += "\n                 ##### %s ####\n" % filename
-            txt = open(os.path.join(root, filename)).read()
-            #txt = txt.replace("\n","<br/>")
-            html += txt
-            toc += "- %s\n" % filename
-    htmlout = "%s\n#######\n %s" % (toc, html)
-    fo = open(tgtfilepath, 'w')
-    fo.write(htmlout)
-    fo.close()
-    import webbrowser;webbrowser.open(tgtfilepath)
-def mk_review_html():
-    """pront the rst as HTML for mass print out and review
-    """
-    tgtfilepath = '/home/pbrian/projects/devmanual/all.txt'
-    html = ''
-    toc = ''
-    rootpath = '/home/pbrian/projects/devmanual/docs/chapters'
-    for root, dirs, files in os.walk(rootpath):
-        for filename in files:
-            if filename.find(".rst") == -1:
-                continue
-            html += "\n                 ##### %s ####\n" % filename
-            txt = open(os.path.join(root, filename)).read()
-            #txt = txt.replace("\n","<br/>")
-            html += txt
-            toc += "- %s\n" % filename
-    htmlout = "%s\n#######\n %s" % (toc, html)
-    fo = open(tgtfilepath, 'w')
-    fo.write(htmlout)
-    fo.close()
-    import webbrowser;webbrowser.open(tgtfilepath)
+def convert_onepager_to_html_publish(rst_filepath):
+    rsttext = open(rst_filepath, encoding="utf-8").read()
+    htmlfrag = build_html_body_from_rst(rsttext)
+    f = '/home/pbrian/foo.html'
+    with open(f, 'w') as fo:
+        fo.write(htmlfrag)
+        import pdb;pdb.set_trace()
+    import webbrowser; webbrowser.open(f)
 
 
-def mk_review_html():
-    """pront the rst as HTML for mass print out and review
-    """
-    tgtfilepath = '/home/pbrian/projects/devmanual/all.txt'
-    html = ''
-    toc = ''
-    rootpath = '/home/pbrian/projects/devmanual/docs/chapters'
-    for root, dirs, files in os.walk(rootpath):
-        for filename in files:
-            if filename.find(".rst") == -1:
-                continue
-            html += "\n                 ##### %s ####\n" % filename
-            txt = open(os.path.join(root, filename)).read()
-            #txt = txt.replace("\n","<br/>")
-            html += txt
-            toc += "- %s\n" % filename
-    htmlout = "%s\n#######\n %s" % (toc, html)
-    fo = open(tgtfilepath, 'w')
-    fo.write(htmlout)
-    fo.close()
-    import webbrowser;webbrowser.open(tgtfilepath)
+def build_html_body_from_rst(rst_fragment):
+    '''
+    '''
+    try:
+        htmlfrag = docutils.core.publish_parts(rst_fragment, 
+                                           writer_name='html')['html_body']
+    except Exception as e:
+        htmlfrag = str(e)
+    return htmlfrag
+
+
+
 
 def mkdir_backup():
     try:
@@ -218,29 +166,6 @@ def mktitle(txt):
         newtxt += '='*len(firstline) + '\n'
         newtxt += txt[len(firstline):]
     return newtxt
-
-
-def mk_review_html():
-    """pront the rst as HTML for mass print out and review
-    """
-    tgtfilepath = '/home/pbrian/projects/devmanual/all.txt'
-    html = ''
-    toc = ''
-    rootpath = '/home/pbrian/projects/devmanual/docs/chapters'
-    for root, dirs, files in os.walk(rootpath):
-        for filename in files:
-            if filename.find(".rst") == -1:
-                continue
-            html += "\n                 ##### %s ####\n" % filename
-            txt = open(os.path.join(root, filename)).read()
-            #txt = txt.replace("\n","<br/>")
-            html += txt
-            toc += "- %s\n" % filename
-    htmlout = "%s\n#######\n %s" % (toc, html)
-    fo = open(tgtfilepath, 'w')
-    fo.write(htmlout)
-    fo.close()
-    import webbrowser;webbrowser.open(tgtfilepath)
 
 
 ############################ end

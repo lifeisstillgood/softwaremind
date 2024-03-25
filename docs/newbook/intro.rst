@@ -637,4 +637,11 @@ not wrong but not testabke either
 
 a software model however is testsble - and a virtual model of the business is onenofnthe most valuabke items we willmoriduce 
 
+the meaning of culture
+----------------------
+"nurtured bias" 
+"what my grandmother taught me"
+"what the village thatbraised me taught me"
+the uncritical thinking that majority of people will show
+- see the seaweed icecream issue
 

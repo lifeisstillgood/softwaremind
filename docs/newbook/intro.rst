@@ -1,6 +1,9 @@
 Introduction
 ============
 
+new project manager - to write tests that say if milestone has been hit (planning but not dirrctive) outcomes orientated oroject management 
+
+
 
 Chapter 1 - a tour through the ideas presented.
 Chapters 2-9 - more meat on each of the ideas

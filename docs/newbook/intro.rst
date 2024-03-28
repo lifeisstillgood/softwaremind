@@ -3,6 +3,7 @@ Introduction
 
 new project manager - to write tests that say if milestone has been hit (planning but not dirrctive) outcomes orientated oroject management 
 
+class war: https://billmitchell.org/blog/?p=61635
 
 
 Chapter 1 - a tour through the ideas presented.

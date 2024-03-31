@@ -5,14 +5,21 @@ new project manager - to write tests that say if milestone has been hit (plannin
 
 class war: https://billmitchell.org/blog/?p=61635
 
-also - FOSS - the funding problem, 
-also hardware chios security 
-also AI
+chaoter FOSS - the funding problem, 
 
-the things we dont know
+chapter AI aye aye 
+
+chaoter (cyber security or the things we dont know)
 https://news.ycombinator.com/item?id=39881962
 its not oaranoia if they really are out to get yiu 
 https://www.malwarebytes.com/blog/news/2024/03/facebook-spied-on-snapchat-users-to-get-analytics-about-the-competition
+
+
+
+chaoter: neurodivegence and coding, ADHD racing thoughts, constant interrupting people and conversations
+
+
+
 
 Chapter 1 - a tour through the ideas presented.
 Chapters 2-9 - more meat on each of the ideas

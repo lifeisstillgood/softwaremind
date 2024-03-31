@@ -9,6 +9,10 @@ also - FOSS - the funding problem,
 also hardware chios security 
 also AI
 
+the things we dont know
+https://news.ycombinator.com/item?id=39881962
+its not oaranoia if they really are out to get yiu 
+
 
 Chapter 1 - a tour through the ideas presented.
 Chapters 2-9 - more meat on each of the ideas

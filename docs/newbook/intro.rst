@@ -5,6 +5,10 @@ new project manager - to write tests that say if milestone has been hit (plannin
 
 class war: https://billmitchell.org/blog/?p=61635
 
+also - FOSS - the funding problem, 
+also hardware chios security 
+also AI
+
 
 Chapter 1 - a tour through the ideas presented.
 Chapters 2-9 - more meat on each of the ideas

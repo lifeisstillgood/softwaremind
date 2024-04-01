@@ -27,7 +27,9 @@ real reaiurces
 
 so what will? whomwill dorect more nurses 
 
-
+- equality and infrastructure  is the issue. if we were all equal, all capital holders, all labour and all consumers 
+then infrasturcutre would drive agglomeration - or rather itnwould be easier to move cities due to 
+climate chnage - or would it - the built environment? 
 
 chaoter FOSS - the funding problem, 
 

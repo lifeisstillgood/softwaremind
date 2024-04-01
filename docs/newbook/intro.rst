@@ -4,6 +4,30 @@ Introduction
 new project manager - to write tests that say if milestone has been hit (planning but not dirrctive) outcomes orientated oroject management 
 
 class war: https://billmitchell.org/blog/?p=61635
+chapter - MMT, class war, wealth tax, crypto
+my take is MMt is right about basics
+that itnis about abolity tonput reaources if a nation / society to bear 
+Notth korea has one approach
+the state droven is another (soviet)
+Capitalism is another - elite driven
+but democracy is another 
+democracy and capitalism are not synonymous 
+
+dutch in 1700s used financial methods to align 
+resources - as did banknof england
+
+its leas clear where and how thise resources can be directed 
+financially - esp when much finance is derivative
+or betting on other outcomes instead of focused on 
+using resources
+
+how do we use resources - fiat crypto will likely end 
+banks ability to create money sonwill affect ability for koneybcrwation to reflect 
+real reaiurces
+
+so what will? whomwill dorect more nurses 
+
+
 
 chaoter FOSS - the funding problem, 
 

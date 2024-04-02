@@ -1,39 +1,22 @@
+============
 Introduction
 ============
 
-new project manager - to write tests that say if milestone has been hit (planning but not dirrctive) outcomes orientated oroject management 
 
-class war: https://billmitchell.org/blog/?p=61635
-chapter - MMT, class war, wealth tax, crypto
-my take is MMt is right about basics
-that itnis about abolity tonput reaources if a nation / society to bear 
-Notth korea has one approach
-the state droven is another (soviet)
-Capitalism is another - elite driven
-but democracy is another 
-democracy and capitalism are not synonymous 
+TOC
+===
 
-dutch in 1700s used financial methods to align 
-resources - as did banknof england
 
-its leas clear where and how thise resources can be directed 
-financially - esp when much finance is derivative
-or betting on other outcomes instead of focused on 
-using resources
 
-how do we use resources - fiat crypto will likely end 
-banks ability to create money sonwill affect ability for koneybcrwation to reflect 
-real reaiurces
 
-so what will? whomwill dorect more nurses 
 
-- equality and infrastructure  is the issue. if we were all equal, all capital holders, all labour and all consumers 
-then infrasturcutre would drive agglomeration - or rather itnwould be easier to move cities due to 
-climate chnage - or would it - the built environment? 
+Chapter AI
+==========
+To be done - but What it means
 
-chaoter FOSS - the funding problem, 
 
-chapter AI aye aye 
+Chapter: Cyber Security
+========================
 
 chaoter (cyber security or the things we dont know)
 https://news.ycombinator.com/item?id=39881962
@@ -41,21 +24,14 @@ its not oaranoia if they really are out to get yiu
 https://www.malwarebytes.com/blog/news/2024/03/facebook-spied-on-snapchat-users-to-get-analytics-about-the-competition
 
 
-
+Chapter: Neurodivergence
+========================
 chaoter: neurodivegence and coding, ADHD racing thoughts, constant interrupting people and conversations
 
-chapter - knowledge work - why donitninnan9-5 factory?
 
 
-
-Chapter 1 - a tour through the ideas presented.
-Chapters 2-9 - more meat on each of the ideas
-Chapter 10 - a rousing conclusion
-
-
-Software is a form of literacy
-------------------------------
-
+Chapter: Software Literacy
+===============================
 Literacy is fundamentally Explicit, Introspectable and tends towards Open
 
 The next few decades or more will belong to software literate the way the past
@@ -83,8 +59,8 @@ OODA loop and testing and modelling and preproduction
 
 
 
-The programmable company
-------------------------
+Chapter: The programmable company
+=================================
 
 * I used to write English but now I am a manager I don't anymore
 * Feudal management (the link to Totalitarian Bet)
@@ -104,9 +80,8 @@ The programmable company
 <<<2_orders_of_magnitude.rst>>>
 
 
-Literary Best practise
-----------------------
-
+Chapter: Literary Best practise
+===============================
 Software demands different best practises
 We are finding them - and what it will look like makes WaPo different to a
 medieval scriptoreum.
@@ -121,8 +96,8 @@ To "plan" you need to have failing tests in the prod-parallel env, that are like
 bug bounties for employees.  DO not fall for capitalism here, use socialism
 inside the org.
 
-OODA loop and production ready, tech debt.
-------------------------------------------
+Chapter OODA loop and production ready, tech debt.
+==================================================
 
 Observe, Orientate, Decide, Act.
 
@@ -147,8 +122,12 @@ and prod-parallel for analysis.
 And Act is the art of filling in the red failing tests in the prod-parallel.
 
 
-engineering is experimental more than theoretical
---------------------------------------------------
+Chapter: FOSS and capitalism. Its really a fight.
+=================================================
+todo
+
+Chapter: engineering is experimental more than theoretical
+===========================================================
 bridge buiktnin 1846 rail bridgr twisted
 not until extra load added and twosted
 point is nowadays we have mich more modelling of behaviour
@@ -191,9 +170,15 @@ It’s a fiat chance that we will find lawyer like prosfessions where they will 
 What will it look like?
 Newsroom of WaPo- managers become editors as it becomes possible to manage a company through code 
 
+Chapter: 21C knowledge workers, 19C practises
+=============================================
+Chapter: new work organisation - not your 9-5, digital footprints, not planning
+forward but auditing backwards, test not trust (ie automated testing not "trust
+delegated people will fit it in somehow"
 
-policy, process, control
--------------------------
+
+Chapter: policy, process, control
+==================================
  
   Software can / does make policy explicit.
   4 quadrant area about DODGY / COMPLEX - INTEGRITY / SIMPLICITY
@@ -210,8 +195,8 @@ policy, process, control
   Introspection allows people to ask questions, which in DODGY areas is 
   a problem.  And it allows outsiders to see how sausage is made.
 
-If AI can replace your job tomorrow, Plain old software can today
------------------------------------------------------------------
+Chapter: If AI can replace your job tomorrow, Plain old software can today
+==========================================================================
 
   AI is not magic, it simply tries to solve the robotics issues
   - what is the perception of the real world
@@ -248,8 +233,8 @@ If AI can replace your job tomorrow, Plain old software can today
   its access to tools and ots decision politics
   if AI can replace a manager tomorrow then software can do it today 
 
-What does the organisation of tomorrow look like
-------------------------------------------------
+Chapter: What does the organisation of tomorrow look like
+===========================================================
 
   LIES / TRUTH / UNFILTERED/FILTERED PERCEPTION
 
@@ -271,22 +256,23 @@ What does the organisation of tomorrow look like
   wealth handed out daily stipends in return for loyalty.)
 
 
-Coders are the new managers, CPUs are the new workers
------------------------------------------------------
+Chapter: Coders are the new managers, CPUs are the new workers
+================================================================
 
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
-Editors as managers
--------------------
+Chapter: Editors as managers, Test harnesses as ... 
+======================================================
+
 
 Why have a 9-5 culture? Why sprint? Is that the right way to run reporting
 What about the long term approach - stringers and ... 
 # 2_orders_of_magnitude
 
 
-software is disaggeegating management 
---------------------------------------
+Chapter: software is disaggeegating management 
+===============================================
 
   - how do companies decide? 
     robotics useful 
@@ -318,16 +304,16 @@ mgmt elite that "understands" the company
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
-Journalism is labelling the training data for the world
--------------------------------------------------------
+Chapter: Journalism is labelling the training data for the world
+=================================================================
   * LLMs, AI, journalism
   Training data matters 
 
-The Totalitarian Bet, The democratic bet and wealth taxes
+chapter:The Totalitarian Bet, The democratic bet and wealth taxes
 ---------------------------------------------------------
 * totalitarian bet
   
-Feudalism, Democracy, Wealth Tax
+chapter:Feudalism, Democracy, Wealth Tax
 --------------------------------
 
 * democracy in companyes as orgnsityiona change
@@ -336,6 +322,40 @@ Feudalism, Democracy, Wealth Tax
 politics will not end, but democracy will change politics of elite in and out of orgs
 
 Jp Morgan was a democratising force just like FDR using the mass of people to push aside old feudal elites (and make new ones natch)
+
+
+
+Chapter: MMT, Crypto, Equality, Democracy
+=========================================
+
+class war: https://billmitchell.org/blog/?p=61635
+chapter - MMT, class war, wealth tax, crypto
+my take is MMt is right about basics
+that itnis about abolity tonput reaources if a nation / society to bear 
+Notth korea has one approach
+the state droven is another (soviet)
+Capitalism is another - elite driven
+but democracy is another 
+democracy and capitalism are not synonymous 
+
+dutch in 1700s used financial methods to align 
+resources - as did banknof england
+
+its leas clear where and how thise resources can be directed 
+financially - esp when much finance is derivative
+or betting on other outcomes instead of focused on 
+using resources
+
+how do we use resources - fiat crypto will likely end 
+banks ability to create money sonwill affect ability for koneybcrwation to reflect 
+real reaiurces
+
+so what will? whomwill dorect more nurses 
+
+- equality and infrastructure  is the issue. if we were all equal, all capital holders, all labour and all consumers 
+then infrasturcutre would drive agglomeration - or rather itnwould be easier to move cities due to 
+climate chnage - or would it - the built environment? 
+
 
 The DevManual - SaaS is dead, because IFTT is rubbish
 -----------------------------------------------------

@@ -44,6 +44,7 @@ https://www.malwarebytes.com/blog/news/2024/03/facebook-spied-on-snapchat-users-
 
 chaoter: neurodivegence and coding, ADHD racing thoughts, constant interrupting people and conversations
 
+chapter - knowledge work - why donitninnan9-5 factory?
 
 
 

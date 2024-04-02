@@ -1,11 +1,18 @@
+#!/usr/bin/env python
 """
-THis is a grep / find / awk replacement.
-I just want to be more careful than a few lines of awk when changing
-all the files, and maybe all I need to do is awk.
+chaptertools
 
-I could use subprocess and awk.
-And I could do it and just show me the likely outcomes. seems a nice compromise
+
+Usage:
+  chaptertools.py build_book
+  chaptertools.py (-h | --help)
+  chaptertools.py --version
+
+Options:
+  -h --help     Show this screen.
+  --version     Show version.
 """
+from docopt import docopt
 import os
 import shutil
 from pprint import pprint as pp
@@ -64,16 +71,19 @@ def convert_onepager_to_html_publish(rst_filepath):
     f = '/home/pbrian/foo.html'
     with open(f, 'w') as fo:
         fo.write(htmlfrag)
-        import pdb;pdb.set_trace()
     import webbrowser; webbrowser.open(f)
 
 
 def build_html_body_from_rst(rst_fragment):
     '''
-    '''
+'''
+    app_defaults = {'keep_warnings': True, 'halt_level': 5}
+    #output = publish_string(..., settings_overrides=app_defaults)
     try:
         htmlfrag = docutils.core.publish_parts(rst_fragment, 
-                                           writer_name='html')['html_body']
+                                            writer_name='html',
+                                            settings_overrides=app_defaults
+                                            )['html_body']
     except Exception as e:
         htmlfrag = str(e)
     return htmlfrag
@@ -172,4 +182,6 @@ def mktitle(txt):
 
 
 if __name__ == '__main__':
-    build_one_pager()
+    args = docopt(__doc__)
+    if args['build_book']:
+        build_one_pager()

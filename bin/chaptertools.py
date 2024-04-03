@@ -5,6 +5,7 @@ chaptertools
 
 Usage:
   chaptertools.py build_book
+  chaptertools.py show_chapters
   chaptertools.py (-h | --help)
   chaptertools.py --version
 
@@ -20,6 +21,9 @@ import docutils.core
 
 ROOTPATH='/home/pbrian/projects/devmanual/docs'
 BACKUPLOCATION="/tmp/chaptertools/"
+
+def show_chapters():
+    pp(find_all_chapters())
 
 def find_all_chapters():
     rootdir = '/home/pbrian/projects/softwaremind/docs/newbook'
@@ -185,3 +189,5 @@ if __name__ == '__main__':
     args = docopt(__doc__)
     if args['build_book']:
         build_one_pager()
+    elif args['show_chapters']:
+        show_chapters()

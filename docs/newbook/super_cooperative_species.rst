@@ -1,5 +1,6 @@
+============================
 Super Co-operative Species
---------------------------
+============================
 
 The idea humanity is so successful because we are super- co-opearive,
                                          beyond simply working with family or local tribe, we have discovered 

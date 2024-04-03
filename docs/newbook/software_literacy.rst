@@ -1,3 +1,33 @@
+===============================
+Software Literacy
+===============================
+Literacy is fundamentally Explicit, Introspectable and tends towards Open
+
+The next few decades or more will belong to software literate the way the past
+few centuries belonged to those who could read and write.  
+
+* the software literate company (what WaPo looks to a
+medieivle scrptorem) (literate best practise / the dev manual)
+
+* The programmable company - splitting up working in the company and on the
+company. Change control etc etc.
+We dont need managers, we need editors.
+OODA loop and testing and modelling and preproduction
+
+* Policy, process, control - Deep state, introspection, software governance
+  Heading towards democracys
+  TOtalitarian bet on programmable company, and the democratic bet
+
+* coders are new managers
+
+* AI tomorrow, software todays
+
+* disaggregating mgmt
+
+* journalism and training data
+
+
+
 we are moving from physicla. to cirtual
 we are writing out how our workd works - to make it explicit and manipulate 
 expand this 

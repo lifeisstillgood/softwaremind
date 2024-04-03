@@ -22,8 +22,16 @@ import docutils.core
 ROOTPATH='/home/pbrian/projects/devmanual/docs'
 BACKUPLOCATION="/tmp/chaptertools/"
 
+def first_para(txt):
+    paras = txt.split("\n\n")
+    return paras[0] + "\n\n" + paras[1]
+
 def show_chapters():
-    pp(find_all_chapters())
+    filesd = find_all_chapters()
+    for file, paras in filesd.items():
+        print("<<<" + file + ">>>\n")
+        #print(first_para(paras))
+        #print("###############\n\n")
 
 def find_all_chapters():
     rootdir = '/home/pbrian/projects/softwaremind/docs/newbook'

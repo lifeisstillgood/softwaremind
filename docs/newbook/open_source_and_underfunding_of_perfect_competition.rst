@@ -1,3 +1,8 @@
+=================================================
+FOSS and capitalism. Its really a fight.
+=================================================
+todo
+
 open source and underfunding of perfect competition
 ---------------------------------------------------
 

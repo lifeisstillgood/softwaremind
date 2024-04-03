@@ -1,5 +1,6 @@
+====
 MOOP
-----
+====
 
 Been banging on about this for a decade. Massive Open Online Psychology. How we behave is visible to all - recordable, analyseable. Is the manager of the team following the 8 leadership principles of google? We expect the maangement to moniotr that. What if the police style body cam strapped to his tiepin just helps that? What happens when the collated experience of 100 million people are condensed into daily advice for a person living their life.
         Not merely sensible index fund investing, but best ways to act with your other half, the advice for working with kids or your manager.  What if instead of taking a pill the best life advice comes from HIPPA level app on your phone.  What if people using this for a decade are measureably fitter, healthier, happier, wealthier than the control group?

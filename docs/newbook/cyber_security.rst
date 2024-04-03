@@ -1,3 +1,11 @@
+========================
+Cyber Security
+========================
+
+chaoter (cyber security or the things we dont know)
+https://news.ycombinator.com/item?id=39881962
+its not oaranoia if they really are out to get yiu 
+https://www.malwarebytes.com/blog/news/2024/03/facebook-spied-on-snapchat-users-to-get-analytics-about-the-competition
 
 security
 --------

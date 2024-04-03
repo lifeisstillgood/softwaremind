@@ -1,6 +1,6 @@
-
+===============================
 Robotics and a robotic company
---------------------------------
+===============================
   OODA loop (the biggest problem in Robotics is perception - of both the
   world and your self)  Which makes a fairly good quote bout human kind
   

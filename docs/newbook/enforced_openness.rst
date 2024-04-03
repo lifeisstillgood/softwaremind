@@ -1,3 +1,13 @@
+==========================
+You cannot escape openness
+==========================
+
+
+Implicit is now Explicit
+========================
+
+PArt of architects paradox - enforced openness is the desitnation
+
 oss4gov.org
 Why shoukd proprietary software be used by a single payer?
 the idea of outsourcing is to turn to someone with more expeirence of running a sevice - but if you are a government there is no one more expeirenced

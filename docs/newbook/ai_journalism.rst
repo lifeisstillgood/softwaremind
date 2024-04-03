@@ -1,3 +1,46 @@
+==========================================================================
+If AI can replace your job tomorrow, Plain old software can today
+==========================================================================
+
+  AI is not magic, it simply tries to solve the robotics issues
+  - what is the perception of the real world
+  - what is the model of the real world
+  - what is the perception of my situaiton in the world
+  - what is the next action 
+
+  (OODA)
+
+  But AI is able to *build* a model in a amazing new way,
+  but a model of the world is not useful without perception of 
+  world and own ability.
+
+  So if AI can build some model of a "perfect manager brain", 
+  it will still need to be fed perceptions of the operations daily 
+  ANd are those already being fed upwards - honestly turns out mostly no.
+  THey are stuck in siloes, they are filter through powerpoint presrntations
+  and massaged by project managers, 
+
+  AI can learn to balance a ball on a stick.  But if we have unclear
+  information about where the ball is, how the stick is moving etc,
+  it will perform at least as badly as 
+
+  The perception feedback must be good for any model to be transferrable.
+  If it is bad then how do we behave - the same way most managers behave - 
+  find a few trusted lieutenants who can find *just enough* information 
+  to be representative and keep churning and find that playing politics in
+  feudal environment is almost always more profitable than fixing the
+  perceptiin and action problems.
+
+  AI is not magic. if you think some or all of job can be repaced by AI
+  then the question is, why cant it be repaced today woth traditional software
+  its not volume of data - no human can compete
+  its access to tools and ots decision politics
+  if AI can replace a manager tomorrow then software can do it today 
+
+Chapter: Journalism is labelling the training data for the world
+=================================================================
+  * LLMs, AI, journalism
+  Training data matters 
 
 AI and journalism 
 -------------------

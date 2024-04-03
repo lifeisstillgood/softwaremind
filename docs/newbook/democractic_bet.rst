@@ -1,3 +1,8 @@
+====================
+The Totalitarian Bet
+====================
+
+
 also - as infrastructre becomes balkanised
 we see increased spend on maintenance but also changes jow 
 architecture and town olanning work - more checksums, more ledgers and more centrakised / democtatic / legal control iver ledgers and lefger changes

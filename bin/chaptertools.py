@@ -4,7 +4,7 @@ chaptertools
 
 
 Usage:
-  chaptertools.py build_book
+  chaptertools.py build_book [--firstpara]
   chaptertools.py show_chapters
   chaptertools.py (-h | --help)
   chaptertools.py --version
@@ -22,9 +22,23 @@ import docutils.core
 ROOTPATH='/home/pbrian/projects/devmanual/docs'
 BACKUPLOCATION="/tmp/chaptertools/"
 
+def parse_doc(doc_txt, filename):
+    from docutils import frontend, utils
+    from docutils.parsers.rst import Parser
+    settings = frontend.get_default_settings(Parser)
+    document = utils.new_document(filename, settings)
+    Parser().parse(doc_txt, document)
+    nodestrings = document.pformat() 
+    st = nodestrings.find("<paragraph>")
+    ed = nodestrings.find("<paragraph>", st+1)
+    firstpara = nodestrings[:ed].replace("<paragraph>","")
+
+    return firstpara
+
 def first_para(txt):
+    
     paras = txt.split("\n\n")
-    return paras[0] + "\n\n" + paras[1]
+    return paras[0] + "\n\n" + paras[1] + "\n\n" + paras[2]
 
 def show_chapters():
     filesd = find_all_chapters()
@@ -33,24 +47,28 @@ def show_chapters():
         #print(first_para(paras))
         #print("###############\n\n")
 
-def find_all_chapters():
+def find_all_chapters(firstpara=False):
     rootdir = '/home/pbrian/projects/softwaremind/docs/newbook'
 
     filesd = {}
-    for f in os.listdir(rootdir):
+    for f in sorted(os.listdir(rootdir)):
         if f.startswith('.'): continue
         try:
-            txt = open(os.path.join(rootdir,f), encoding='utf-8').read() 
+            txt = open(os.path.join(rootdir,f), encoding='utf-8').read()
+            if firstpara:
+                txt = first_para(txt)
+                #txt = parse_doc(txt,f)
             filesd[f] = txt
+
         except Exception as e:
             print(e, f)
             raise
 
     return filesd
 
-def build_one_pager():
+def build_one_pager(firstpara=False):
     """Build a single page by combining lots of files """
-    all_chaptersd = find_all_chapters()
+    all_chaptersd = find_all_chapters(firstpara=firstpara)
     with open('/home/pbrian/projects/softwaremind/docs/newbook/intro.rst') as fo:
         introtext = fo.read()
     outputtext = ''
@@ -64,9 +82,9 @@ def build_one_pager():
         if line.startswith("<<<"):
             filetoken = line.strip().replace("<<<","").replace(">>>","")
             replacetext = all_chaptersd.get(filetoken, f"NOTFOUND-{filetoken}")
-            outputtext += '.. ' + line + "\n"  
+            #outputtext += '\n.. ' + line + "\n"  
             outputtext += replacetext + "\n"
-            outputtext += '.. ' + line + "\n"
+            #outputtext += '\n.. ' + line + "\n"
         else:
             outputtext += line + "\n"
 
@@ -195,7 +213,8 @@ def mktitle(txt):
 
 if __name__ == '__main__':
     args = docopt(__doc__)
+    firstpara = args['--firstpara']
     if args['build_book']:
-        build_one_pager()
+        build_one_pager(firstpara=firstpara)
     elif args['show_chapters']:
         show_chapters()

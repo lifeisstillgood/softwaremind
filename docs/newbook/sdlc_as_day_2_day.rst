@@ -4,7 +4,9 @@ The SDLC - Literate Best Practise / The DevManual
 
 Many pieces combine to make modern SDLC - see Joels 12 rules. Policy as code. Software givernance matters - see trolley problems, voting on PRs and VW scandal. End of commerical confidentiality. 
 
-
+simplest possible complete software ecosystem - devmanual
+"Simplicity is the ultimate sophistication"
+leonardo Da Vinci 
 
 Chapter: Literary Best practise
 ===============================

@@ -4,16 +4,39 @@ If AI can replace your job tomorrow, Plain old software can today
 
 
 What is AI?
-
 What is intelligence?
-
 What does the philosophical disucssion of intelligence matter - not much
+
+AI as a replacement for maangers and rotework.
+Well we alrady know how to replce rotework. Automation has been doing that for
+ages.  If it is not done already then there are political or business model
+concerns. POlitical means having AI will not easily solve the problem. Business
+model usually means bribery or other thigns you dont want to involve AI in.
+
+The other reason AI will struggle is lack of feedback. In major compaies this is
+startlingly bad. ball balancing trick. THose feedback mechanisms do not work ...
+outside of a programmable company. In fact this is a good *defintion of a
+programmable company* - the feedback loop is fast enough to be useful.
+
+
 
 Will AI affect the future of work - yes, but not as much as "sky is falling",
 and not as much as "robotic replacement" because companies nned to be software
 literte - arranged so that one can iterate over them.  They need to programmable
 - and if so then you dont need AI.  You just need to write code.  But then you
   get "free interns".
+
+Role of training data, and journalism.  How dow e find ground truth in polarised
+world. Well world is always beenpolarised - see, Luther. We find it
+in evidence, in OSINT, in reliable journlism - World Service being simplest
+example of a massive foot gun for British people. I would put Wikipedia as the
+next battle ground - and how do we deal with that?
+See also text books, and education syllabuses. 
+
+
+
+
+
 
 Future Expansion
 ================
@@ -44,7 +67,7 @@ Word2vec, basic word encoding, a Queen is a female King.
 
   AI can learn to balance a ball on a stick.  But if we have unclear
   information about where the ball is, how the stick is moving etc,
-  it will perform at least as badly as 
+  it will perform at least as badly as an actual human manager.
 
   The perception feedback must be good for any model to be transferrable.
   If it is bad then how do we behave - the same way most managers behave - 

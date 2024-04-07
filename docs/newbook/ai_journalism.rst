@@ -2,6 +2,28 @@
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
 
+
+What is AI?
+
+What is intelligence?
+
+What does the philosophical disucssion of intelligence matter - not much
+
+Will AI affect the future of work - yes, but not as much as "sky is falling",
+and not as much as "robotic replacement" because companies nned to be software
+literte - arranged so that one can iterate over them.  They need to programmable
+- and if so then you dont need AI.  You just need to write code.  But then you
+  get "free interns".
+
+Future Expansion
+================
+
+Build a python LLM from scratch
+https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
+
+Word2vec, basic word encoding, a Queen is a female King.        
+
+
   AI is not magic, it simply tries to solve the robotics issues
   - what is the perception of the real world
   - what is the model of the real world

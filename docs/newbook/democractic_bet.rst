@@ -3,6 +3,20 @@ The Totalitarian Bet
 ====================
 
 
+Totalitarian bet is also a bet 
+on democracy (or western modern democracy)
+
+but what are the trends that made 1921>1945 special?
+
+* biggest by far is energy (oil) - ie biggesy reaource pump
+* pikkety blip - far and away most sognficiat reaource allocation issue
+* impact of mass education 
+* impact of mass communication (broadcast and peer to peer)
+
+so i am going to do some Turchin style predictions here 
+these three we had 
+
+
 also - as infrastructre becomes balkanised
 we see increased spend on maintenance but also changes jow 
 architecture and town olanning work - more checksums, more ledgers and more centrakised / democtatic / legal control iver ledgers and lefger changes

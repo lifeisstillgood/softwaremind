@@ -6,7 +6,15 @@ The Totalitarian Bet
 Totalitarian bet is also a bet 
 on democracy (or western modern democracy)
 
-but what are the biggest trends that made 1921>1945 special?
+Future Trends
+=============
+Guessing future trends is a much discredited literay trend,
+and I am not going to fix that. but one of the ways to avoid foolishness is
+to identify not some new trend but the biggest longest trends and
+assume they are jmoortant
+
+ao what are the biggest longest trnds of the last centiry,
+and how dis they impact western democracy (amd so the software world we lice in)
 
 * biggest by far is energy (oil) - ie biggesy reaource pump
 * pikkety blip - far and away most sognficiat reaource allocation issue
@@ -27,6 +35,9 @@ so what is going to chnage western democracues ?
 reaource allocation - the reversion to kean of uber wealthy holding all wealth
 but wealthy will face the thrash back of 
 
+So holding the line on one thing, reduced wealth inequality 
+seems the best long term bet. and investing in improving energy 
+usage (but it seems we are throwing a lot at that one anywya.)
 
 also - as infrastructre becomes balkanised
 we see increased spend on maintenance but also changes jow 

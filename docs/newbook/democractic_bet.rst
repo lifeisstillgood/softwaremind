@@ -6,7 +6,7 @@ The Totalitarian Bet
 Totalitarian bet is also a bet 
 on democracy (or western modern democracy)
 
-but what are the trends that made 1921>1945 special?
+but what are the biggest trends that made 1921>1945 special?
 
 * biggest by far is energy (oil) - ie biggesy reaource pump
 * pikkety blip - far and away most sognficiat reaource allocation issue
@@ -14,7 +14,18 @@ but what are the trends that made 1921>1945 special?
 * impact of mass communication (broadcast and peer to peer)
 
 so i am going to do some Turchin style predictions here 
-these three we had 
+
+Energy is over. we have to handle the climate change
+ (its not going to be reversed, its going to be mitigation, mass movement)
+
+Mass education is here to stay, we are even getting to school
+leaving age 21
+
+mass communication here to stay
+
+so what is going to chnage western democracues ?
+reaource allocation - the reversion to kean of uber wealthy holding all wealth
+but wealthy will face the thrash back of 
 
 
 also - as infrastructre becomes balkanised

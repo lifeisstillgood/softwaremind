@@ -7,7 +7,15 @@ My friend, Jefferson's an American saint because he wrote the words, "All men ar
 """
 Brad Pitt (Killing Them Softly)
 
+There are many people gocing thier work for benefit of others
+(vaxxers), and foss is amoung this. 
 
+business is the froth on top, the dostribution 
+once we enter the regukated zone, the utilities, the criminal activity, wven the onsoder trading laws,
+then we stoo being red in tooth and claw and we see proft not 
+
+"business" can be either a parasite onnsociwty or a driver to greater heights.
+its not terribly clear which so we need to be clver and see balance in public and provate work 
 https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
 
 

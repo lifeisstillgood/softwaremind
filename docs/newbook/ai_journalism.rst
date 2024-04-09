@@ -34,6 +34,11 @@ next battle ground - and how do we deal with that?
 See also text books, and education syllabuses. 
 
 
+HunterBrook - future if jountlaism
+-----------
+yes I think
+https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
+because we want to know what is "truth"
 
 
 

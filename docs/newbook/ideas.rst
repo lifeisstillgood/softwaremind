@@ -1,3 +1,13 @@
+wrotignis natires way of ahowing howmlazy out rhingming is
+
+software is gods way of ahowing how imprecise our writing is
+
+software sharpens communication - removes all greyness
+and somforces is to agree or dosagree not fudge
+
+will make politiclamproblems worse or will rise this e 
+
+
 products and protocols can be global 
 (smartphones, teslas) but council by-laws
 construction permits and solar panel land use

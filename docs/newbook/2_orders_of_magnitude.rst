@@ -7,7 +7,9 @@ Do we need Managers or Financiers?
 
 - Joey, Friends
 
-Abstraction helps.  We cannot carry around all the details all the time.
+Abstraction helps manage the size problem.
+Markets are one abstractiin management orovlem
+simulation shoukd be another
 But The Economist curse is real.
 
 As a rule of thumb I think 2 orders of magnitude is when you stop being able to
@@ -43,7 +45,17 @@ Humans seemed to evolve to live in smallish tribes - dunbar number of 150.
 But economics seems to be a feature of human interaction. 
 and that scales. iPencil Like
 
-We live like fish in water that is hard to see - since 1500s it has taken power of state to make and field armies and arms, and by WW1 this was impossible.
+We live like fish in water that is hard to see - 
+since 1500s it has taken power of state to make and field armies 
+and arms, but by WWI the power and scale of industrialisation
+had created armies that were immense (millions of men under arms on 
+both sides), with destructive power of industrialisation (high explosive).
+But co-ordination failed. the western fromt stalemente (see ACOUP) 
+was mostly a structural problem - they coukd not fire shells far enough 
+but also a communication probme - panzer divisions worked be ause radios 
+kept them in contact with each other and air cover.
+
+
 
 But WW2 saw 2 innovations.  One airplanes, oil, tanks movement.
 The other Bletchly park - gatehr all the data and sift through it.

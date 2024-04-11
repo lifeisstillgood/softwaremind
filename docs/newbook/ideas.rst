@@ -70,3 +70,10 @@ being abke to rescind chnage alter mistakes and dosagreements
 banks should be human scale so the problems resolved more easily
 but also algorithmic to aboid biases
 
+beat the market
+---------------
+
+if market is eceryone, you cant beat the market without taking from everyone
+onky valye is better resource allocatuon in prodyctive assets 
+
+

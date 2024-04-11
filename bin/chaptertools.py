@@ -57,7 +57,6 @@ def find_all_chapters(firstpara=False):
             txt = open(os.path.join(rootdir,f), encoding='utf-8').read()
             if firstpara:
                 txt = first_para(txt)
-                #txt = parse_doc(txt,f)
             filesd[f] = txt
 
         except Exception as e:
@@ -69,7 +68,7 @@ def find_all_chapters(firstpara=False):
 def build_one_pager(firstpara=False):
     """Build a single page by combining lots of files """
     all_chaptersd = find_all_chapters(firstpara=firstpara)
-    with open('/home/pbrian/projects/softwaremind/docs/newbook/intro.rst') as fo:
+    with open('/home/pbrian/projects/softwaremind/docs/index.pre') as fo:
         introtext = fo.read()
     outputtext = ''
 
@@ -82,9 +81,9 @@ def build_one_pager(firstpara=False):
         if line.startswith("<<<"):
             filetoken = line.strip().replace("<<<","").replace(">>>","")
             replacetext = all_chaptersd.get(filetoken, f"NOTFOUND-{filetoken}")
-            #outputtext += '\n.. ' + line + "\n"  
+            outputtext += '\n.. ' + line + "\n\n"  
             outputtext += replacetext + "\n"
-            #outputtext += '\n.. ' + line + "\n"
+            outputtext += '\n.. ' + line + "\n\n"
         else:
             outputtext += line + "\n"
 

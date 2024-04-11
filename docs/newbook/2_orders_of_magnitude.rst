@@ -1,5 +1,15 @@
-What is management? When is it needed and not needed? And why does everyone say
-"hire good people" WHat does that mean?
+Managing, financing, coaching, micro-managing, time, quality etc.
+
+The through road is: managment is being disrupted. (see MOOP). The supervisory
+aspect is a relic of industrial revoilution, knowledge working is small science
+like contorbutions, coders as new managers, finance as guardrails, resource
+allocation is leave people alone, deep state can be controlled, but Post office
+shows how an organisation can become toxic. And we have only two solutions
+openness, and good people at all levels contributing.  And Toxicity of the
+prospect of wealth fights that hence wealth tax and equality.  Democratic bet is
+equal say, equal shares, and positive missions beats feudal torunamentts working
+to enrich the wealthy.  Its not much of a bet. But i want to make it.
+
 
 Partly its mission orientated, partly its spotting what is wrong, and partly
 itsfighting entropy. Beware of entropy winning you might be missing core idea.

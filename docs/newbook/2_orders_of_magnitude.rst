@@ -1,3 +1,43 @@
+What is management? When is it needed and not needed? And why does everyone say
+"hire good people" WHat does that mean?
+
+Partly its mission orientated, partly its spotting what is wrong, and partly
+itsfighting entropy. Beware of entropy winning you might be missing core idea.
+Richard Osman tells a story about as a producer of a game show "The Wheel",
+which involved a floor sized wheel that turns to allow different celebrities to 
+answer questions, the composer and the engineer got together to create the  interlude music, so that the music would rise and fall at the speed of the spinning floor starting and stopping.  He describes that as "I f that was me I
+would not realise it was a problem, but two people are across town making my show better, simply by being excellent at thier jobs".
+But why are those people excellent at their jobs? There is not a mission that
+says "music to match visuals" is there? The producer (manager) did not set it
+out in the requirements. They were not directed.  They spotted what was wrong
+and took appropriate action to remove. However if they had been micro-managed on
+a time scale not allowing that then it would not happen and the end result would
+be poorer.  So finance (reousrce alloaction) allowed it to be better. The issue
+is when to spend the money and when not? That is "knowing what is wrong".
+Perhaps watching the pilot it is painful to have th music at worng pace and
+everyone sees it? I dont know but there is a test - a failing test in swe
+terms.We could set some simple (even autoamted) tests - "is there any interlude
+music when wheel spins? No fine ggrab a library file.". Does the music cause
+1/10 test viewers to wince? Yes. FIne ask ChatGPT to compose something. Does the
+wince test still occur? FIne get real composers in for real money.
+Or perhaps leap to the end one. But either way we are working a finance
+question - a budget.  But then, what is the difference between financeir and
+manager? I say 2 orders of magnitude is what huiman brain can cope with. Maybe
+three.  Then you rely on rules of thumb and abstrations.  But...automated
+software tests cut through that. ou can see all the tests.  So our programmabmle
+company our cmpany of future can be managed beyond the 2 orders magnitue. and
+that has impications for managing at scale and managing deep state, and the
+theory of the firm. then what is the antognist for the theory of the firm - if
+software testing, sop and modelling can allow deep control - what is the hope
+for our side of the Totalitarian bet?  Openness, smart regulation, society
+first, but mostly openness, and journalism and a fair playing field (smaller
+firms allocating sensibly).  We need a wealth tax to levelplaying field, we need
+regulatiojns to open com-pany fianances (anti-commercial confidentiality laws)
+and data ownership laws (not privacy).  Its really tough.  
+
+
+
+
 ==================================
 Do we need Managers or Financiers?
 ==================================

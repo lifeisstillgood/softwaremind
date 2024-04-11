@@ -57,3 +57,16 @@ See peruvian real eatate laws
 sensors make common areas introspectable 
 
 "arrnage the world so it can be iterated over"
+
+
+crypto solving wrong problem:
+banks solving scale problem - 
+but crypto can solve that by tracking movement of
+money more efdectively in ledger
+
+but crypto sovokg wrong problem - its not moving money but 
+being abke to rescind chnage alter mistakes and dosagreements 
+
+banks should be human scale so the problems resolved more easily
+but also algorithmic to aboid biases
+

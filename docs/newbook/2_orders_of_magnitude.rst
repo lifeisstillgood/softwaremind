@@ -34,8 +34,9 @@ first, but mostly openness, and journalism and a fair playing field (smaller
 firms allocating sensibly).  We need a wealth tax to levelplaying field, we need
 regulatiojns to open com-pany fianances (anti-commercial confidentiality laws)
 and data ownership laws (not privacy).  Its really tough.  
-
-
+Democracy relies on decent people at all levels doing decent job - post office
+and nazism and so on - the system is there but democracy needs
+not whistleblowers but dailynwhistleblowers - iron law of bureaucracy 
 
 
 ==================================

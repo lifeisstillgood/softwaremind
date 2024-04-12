@@ -76,4 +76,7 @@ beat the market
 if market is eceryone, you cant beat the market without taking from everyone
 onky valye is better resource allocatuon in prodyctive assets 
 
-
+The corproate form is not social
+--------
+servility is asking for permission onnhow to associate
+many cororpates exepct us to ask permasion 

@@ -41,3 +41,9 @@ Buying a specific new software for a new need - thats work for hire. Liability c
 
 Using software “just left lying around”. Well yeah. It can have vulnerabilities. But boy, compare that to the shitshownif Fox News tried to write its own web server to publish its own stuff.
 
+
+Open Source Development - writing the code
+Open source roadmap Priorities 
+Open source packaging 
+Non packaging support
+

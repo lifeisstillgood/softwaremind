@@ -6,6 +6,33 @@ The Totalitarian Bet
 Totalitarian bet is also a bet 
 on democracy (or western modern democracy)
 
+How organisations decide
+------------------------
+It is a constant political ebb and glow of 
+taking other peoples other "tribes" birepoints,
+needs, weaknesses and gains and losses to 
+evaluate what is or is not acceptablr
+
+this is visibkeninnthing slike coujtires and shuttle diplomacy
+
+but is part parcel of ebrry company decidingnonnits annual budget
+reacting to a crisis ot opportunity
+
+its why founder led companies react faster mutate wuickrr 
+and also why pricate companies (dictatorships) react faster than governments
+
+but sclerosis sets in
+
+Can democracy help. only of eberone has equal share as well as equal say
+then post office is avoided as thise with power are not 
+
+model of trades unions likely to be model for mangenet as it disaggregates 
+elwcted off ials and move towards worker "juries" to recommedn hard choices
+
+see executives as working at the 2(O)) boujdaries 
+
+
+
 Future Trends
 =============
 Guessing future trends is a much discredited literay trend,

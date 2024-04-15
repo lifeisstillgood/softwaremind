@@ -35,10 +35,12 @@ def parse_doc(doc_txt, filename):
 
     return firstpara
 
-def first_para(txt):
+def first_para(txt, numparas=3):
     
     paras = txt.split("\n\n")
-    return paras[0] + "\n\n" + paras[1] + "\n\n" + paras[2]
+    returnable_paras = paras[:numparas-1]
+    returnstr = '\n\n'.join(returnable_paras)
+    return returnstr
 
 def show_chapters():
     filesd = find_all_chapters()

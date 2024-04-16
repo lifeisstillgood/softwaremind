@@ -4,6 +4,15 @@ The programmable company
 
 Two things make a robot work. Perception and funding.
 
+management as puppeteer vs management as operating system designers
+too much executive hero actuons is puppeteering 
+and its not aboutnhiring great people for fucks sake
+everyone works they cant all be great
+the industrial revolutionnwas about replacing a process of making great craftspeople through apprenticeships 
+and making a fucking great loom that always got it right
+
+
+
 
 
 Companies are known as "corporatations".  THis is they are supposed to be

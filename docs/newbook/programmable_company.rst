@@ -2,18 +2,57 @@
 The programmable company
 =================================
 
+Two things make a robot work. Perception and funding.
 
-Every harried exec *knows* you can never knowwhats going to leap up next.
-fore fighting is a part of lexicon
 
-but ... thats because lack of sensors,
-lack of reporting, lack of model, lack of priority about model
 
-used to have dinosaur book where possibkento eat dinoasaur tail before they reacted
-thats dumb.
+Companies are known as "corporatations".  THis is they are supposed to be
+like a *human body*. Humans have near-continuous feedback from sensors
+through out the body, providing the brain with uptodate ... oh you know
+what a body is. 
 
-but it is manual company - not programmabke
-company.  and this is the AI magicaly thinking will solce it where it is alreadybsolvable 
+And pretty much every harried executive knows that companies are nothing 
+like that. None of them know where the next fire they have to fight is 
+going to come from. Trying to get consistent infomration *that has not been
+manually massaged and adjusted* is impossible.
+
+We lack sensors to observe what is happening, lack pipes to transmit 
+that information, lack a model of the operations to populate with the data, and
+compare to an expected operation, and as for turning round and giving
+instructions that will be carried out ... forget it.
+
+Ok maybe there is a little bit of the Office in there, but all companies
+large and medium suffer from most of these problems.  THe small ones are
+easier to manage but tend to go bust.
+
+
+If we were to treat the corporation as a robot.
+But it is a self-repairing robot. A robot where the self reapiring mechanism 
+is also trying to figure out how to make the robot more *its* way.  
+
+So we want to split out our model
+
+* a versioned company, running one version of the 'Company OS', using SOP, 
+* a self-repair mechanims (change) that is fighting to acquire more of robot for
+  itself
+* many versions of data sensors, data pipes, operating model, SOP updates.
+* a running version of the above version, in test rig, showing what will happen
+  with certain changes.
+
+THe self repair mechasnism can therefore be pointed at the test rig first,
+and by having new versions play against recorded production, its possible to
+backtest changes.
+
+Oh and most companies are really lots of robots living togeher sharing a single
+treasury.
+
+This might get complicated.
+
+
+
+AI is sweeping in now. It is being gifted almost magical powers to solve this
+problem - but if AI can perhaps solve your issues, then you can solve them
+anyway, today, with normal software. 
 
 
 We have covered some ground so its worth a recap
@@ -93,7 +132,7 @@ roy schniwdrr / or company is not yet progrmamble - which means your competitrs 
   transmission, models and OODA decision making.
 * OODA loop and the decision making process, and how software eats that
 * RObotics and robotic company, or more informed decision makers
-
+* Whole org test rig
 
 
 Programmable company

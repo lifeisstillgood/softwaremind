@@ -2,6 +2,20 @@
 The programmable company
 =================================
 
+
+Every harried exec *knows* you can never knowwhats going to leap up next.
+fore fighting is a part of lexicon
+
+but ... thats because lack of sensors,
+lack of reporting, lack of model, lack of priority about model
+
+used to have dinosaur book where possibkento eat dinoasaur tail before they reacted
+thats dumb.
+
+but it is manual company - not programmabke
+company.  and this is the AI magicaly thinking will solce it where it is alreadybsolvable 
+
+
 We have covered some ground so its worth a recap
 
 There is a great movie moment in

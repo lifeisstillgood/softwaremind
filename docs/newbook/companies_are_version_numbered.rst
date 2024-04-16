@@ -3,6 +3,46 @@ COmpanies are version numbered
 ==============================
 
 
+Tickets and accounting
+----------------------
+
+Tickets have three functions
+
+- to post-hoc justify expenditure 
+- to forward plan change / effort
+- to group different effort together
+
+These can conflict in unusual ways
+
+1. why are only coders expected to link 
+work to activity? Partly beciase we *can* 
+but it is a good question. everyone working on
+a forward chnage project can allocate their time
+(lawyers do). and the more 
+
+2. forward planning is ... not great. 
+we look at the 2(O) problem - no-one outside if 
+the 2 orders will be able to / likely to dive into and stay in details
+so .... you are financing outcomes. Best to set automateable gateways
+
+3. effort grouping is post-hoc. 
+
+suggestions:
+sub-ticketing (ie JIRA-1234-a)
+
+the problem of "is this ticket done?"
+as opposed to "is the code good to release".
+
+whole org test rigs. 
+
+Ticketing is a milestone on the way to progrmmable
+company - if X% of people link their work to 
+tickets, there is a tippijg ooint. 
+the simplest isea is put [JIRA-1234] in subject lines.
+But its hard ! yes but we can enforce it with pre-commit hook
+
+
+
 Yeah.  
 
 https://news.ycombinator.com/item?id=38625907

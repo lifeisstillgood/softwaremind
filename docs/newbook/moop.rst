@@ -30,3 +30,9 @@ Have you finiahed hanging up the last load of washing?
 moop - digital archaeology 
 history of a wedding ring 
 
+surveillance - good bad or indifferbet?
+----------------------------------------
+Everything we do is will be monitored with sensors - that can be good 
+https://maphappenings.com/2022/09/19/location-arholes/
+
+

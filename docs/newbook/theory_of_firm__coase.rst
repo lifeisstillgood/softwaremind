@@ -2,6 +2,31 @@
 Theory of firm - Coase
 =======================
 
+why are some companies big - because they can aborb capital
+in defined way
+
+banks
+real estate (mcdinalds starbucks)
+commodity producers of high capital goods - steel, coal, not coffee or bananas
+
+with some variation on regulatory politxsl capture
+
+pirchase servivrs in market
+
+but knowledge work will never have
+such high capital cost (AI?)
+
+foss drives down like literacy
+
+only the writing we rely on - and only one law
+
+so its opennrss about product and location (ledgers)
+that will drive next eave of cheapness 
+
+that and robotic production, distribution
+
+aggregation not innovation??? 
+
 
 SOme concepts:
 

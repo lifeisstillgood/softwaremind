@@ -1,6 +1,8 @@
 ===============================
 Robotics and a robotic company
 ===============================
+
+  
   OODA loop (the biggest problem in Robotics is perception - of both the
   world and your self)  Which makes a fairly good quote bout human kind
   
@@ -32,6 +34,3 @@ Robotics and a robotic company
   mission control - this is the next big challenge of organsoations - at cerain point
   the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
 
-
-
-------------------------------

@@ -4,6 +4,41 @@ The programmable company
 
 Two things make a robot work. Perception and funding.
 
+What is difference between a literate company, and a programmable company?
+
+
+* There is a code / English tipping point.
+  Spend anytime in large companies, especially heavily regulated, and you will 
+  find there is a *enormous* amount of effort put into *explaining* code changes
+  in English (or Japanese or German etc).  
+  
+  At a certain point it is simpler, quicker and easier to read the darn code 
+  to find out what it does and is meant to do.
+
+  "but surely, you need to have a design, to have a set of requirements. THese
+  need to be written down in English.".
+
+  Yeah kind of.  Its more like "Artistis improession" drawings for buildings.
+  Its a guide sure. but even blueprints are not on the ground reality.
+  Plus I mean have you read some laws - they are horribly drafted.  Which is why
+  we end up with judges trying to interpret the law to make some sense.
+
+  Anyhow.  Trying to change a codebase using ENglish is wrong. Trying to 
+  change a code base using forward plans is also .. wrong.  Planning is
+  not how one builds a novel.  Writing is.  Wriitng is differnt.
+
+
+* There is a direct data flow penetrating the 2(O) layers, top to bottom.
+
+* Openness.  This is a *assumption* of mine - see Democratic Bet.  But, 
+  look I have worked in companies large and small, and seen codebases treated
+  many different ways.  The places where it is *trivial* to grep a codebase
+  find something interesting and reach out to the developer and just ask 
+  always seems to have ... more fluidity and movement. And thats a really simple
+  problem.
+
+
+
 management as puppeteer vs management as operating system designers
 too much executive hero actuons is puppeteering 
 and its not aboutnhiring great people for fucks sake

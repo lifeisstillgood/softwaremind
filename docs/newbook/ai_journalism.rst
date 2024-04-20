@@ -40,7 +40,14 @@ yes I think
 https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
 because we want to know what is "truth"
 
+somehiw we need to pay for it - the paper based distribution mattered 
+its disaggregated now but we still need scoiety level training day
 
+some is science, NIH ans NICE
+some is hunterbrook looking at OSINT
+or just see hunterbrook as OsINT
+
+aee the globe thing for snowcrash 
 
 
 Future Expansion

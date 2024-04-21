@@ -2,6 +2,19 @@
 The programmable company
 =================================
 
+Programming is theory buikding
+https://news.ycombinator.com/item?id=40103407
+Startups are theiry building
+Essentially knowledge work is expressions of theorues 
+software and sop are expressions of theory of MVP
+or product market fit
+software is a net - manufacturing is the bits of holes 
+software cannot fill. 
+
+the point is AI cannot know what comes next - thats a theory 
+
+
+
 Two things make a robot work. Perception and funding.
 
 What is difference between a literate company, and a programmable company?

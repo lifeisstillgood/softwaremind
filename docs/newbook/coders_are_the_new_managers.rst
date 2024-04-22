@@ -4,6 +4,21 @@ Coders are the New Managers
 
 chaoter: neurodivegence and coding, ADHD racing thoughts, constant interrupting people and conversations
 
+Why have managers?
+-------------------
+
+https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/
+But self organising sucks (structureless stuff like chiat day)
+How to reward people? 
+
+but anyway ... software 
+
+Why need good managers ? to shield younfrom the politics and in foghting?
+
+then the missing part is
+democracy. you cannot get rid of politics - but you can 
+remove the buts where individiulas are toompowerful 
+
 Chapter: software is disaggeegating management 
 ===============================================
 

@@ -6,7 +6,7 @@ chaoter: neurodivegence and coding, ADHD racing thoughts, constant interrupting 
 
 Why have managers?
 -------------------
-
+https://news.ycombinator.com/item?id=40111676
 https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/
 But self organising sucks (structureless stuff like chiat day)
 How to reward people? 

@@ -1,6 +1,81 @@
 ===============================
 Software Literacy
 ===============================
+
+* intro
+* The Warfare of Genghis Khan, and literacy in society.
+
+
+The warfare of Genghis Khan
+===========================
+
+At the height of the European Crusades, thousands of miles to the East a
+new power arose.  A generation or two of warmer weather across the Eurasian
+continent [#01]_ meant the nomadic Mongolian people had grown in population
+and wealth, and were bumping up against the settled people of China and the Silk
+Road.  Temushin, later known as Gengis Khan, went from priviledged chieftans son, to outcast, to tribal leader and finally founder of a nation.
+
+
+Tribal internecine warfare had alwasy bedevilled
+Mongolian unity, and Gengis Khan modelled his army in a new way - the smallest
+unit of the army was a mounted cavalry unit of ten men, an `aravt` with layers
+of 10 increasing till a modern day "division" of 10,000 horse borne warriors 
+
+The smallest unit was always made up of men from many different tribes, so that
+the army cohesion was based around loyalty to the Great Khan, not to family.
+But the most important lesson is they were all mounted on horses.
+
+A quick sidenote on horses, and marching speed [#02]_. A medieval army (and
+indeed ancient and classical) basically moved at human walking pace. And as the
+head of a column had to make camp till the rear caught up, generally 10 miles a
+day was a *good* pace for much of human history.
+
+Mongols would (as would all cavalary in history) have multiple mounts, and could
+change to keep them fresh. And this horse based steppe culture, lived entirely
+in the saddle and so they moved at horse pace.  
+
+Everything in an `aravt` was on horseback - tents, weapons, food and utensils.
+SO the whole army could travel - usually 50-60 miles perday.  During SUbotai's
+raids on Eastern Europe, the `Rus`, the Hungarians, the Bulgarians and others
+were devastated as they tried to catch an army of 90,000 that could travel in a
+day what they could manage in a week.
+
+Of course European armies had horses, indeed European cavalry out-matched
+Mongolian light cavalry - but the *rest of the army* was on foot or cart, and
+could not keep up.
+
+A similar effect is found in modern (post WW1 and WWII) army developments.
+The tank arrived too late in WWI to have much strategic impact, but the German
+Blitzkrieg perfected in Spain, showed that fast *cavalry raids* would enable
+strategic wins in Europe.  But even so the Panzer divisions were notoriously
+delayed as they often exceeded their own supply lines.  In WWI planning was
+based around the railway. 
+
+
+every army found it not only a good idea to have tanks, but now to *keep up*
+with the tanks, everything else (food, logistics, hospitals) also had to be on 
+motorised vehicles, and those vehices need to have some degree of protection.
+
+(This got notably worse with airpower, with Vietnam being perhaps the height of
+"put everything into a helicopter", but the logistics for that became too
+unwieldy)
+
+Just like Gengis Khan the WWII and post WWII planners saw advantages in speed,
+and the need to make everything *mobile*.
+
+And we will of course see this otehr technologies.  The biccyle of the mind
+that is softwqare.  Some organisations, some companies, some socieites, will be
+able to move faster because everyone is mounted on bicycle of the mind. Everyone
+is able to communicate via softwre, to read the code and understand what is
+going on. Not have to be slowed down by translations into and out of policy
+documents. And be shackled by lack of testing and modelling.
+
+Some people think AI will magivally do this for us. One of my conjectures is "If
+you think AI can magically solve your business problems tomorrow, you can solve
+them today with software and determination."
+
+
+
 Literacy is fundamentally Explicit, Introspectable and tends towards Open
 
 The next few decades or more will belong to software literate the way the past
@@ -236,3 +311,8 @@ the meaning of culture
 the uncritical thinking that majority of people will show
 - see the seaweed icecream issue
 
+
+... [#01] We had a medieval warm period 1000-1200 and a little ice age
+1400-1800s https://en.wikipedia.org/wiki/Little_Ice_Age
+
+... [#02] Please go read www.acoup.blog.  

@@ -3,6 +3,11 @@ You cannot escape openness
 ==========================
 
 
+Bitcoin, ledgers, banking
+
+Ledgers will be GPS of financial servixes - letting everyone know exactly what is where
+this will devastate traditional banking ! 
+
 Implicit is now Explicit
 ========================
 

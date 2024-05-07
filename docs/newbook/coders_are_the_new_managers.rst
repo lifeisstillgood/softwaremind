@@ -19,6 +19,15 @@ then the missing part is
 democracy. you cannot get rid of politics - but you can 
 remove the buts where individiulas are toompowerful 
 
+Reward systems 
+Video games teach us that regular frequent rewards are waay better than 
+on off rewards. so why have annual appraisals - because having a manager there daily enabked daily approasals and reqard ( at least bu the good managers) 
+So remotw work not somgood
+having demos very good
+
+
+
+
 Chapter: software is disaggeegating management 
 ===============================================
 

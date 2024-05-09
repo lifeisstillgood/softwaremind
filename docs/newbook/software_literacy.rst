@@ -9,18 +9,24 @@ Software Literacy
 The warfare of Genghis Khan
 ===========================
 
-From the turn of the first millenium AD, Eurasia had a generation or two of 
-warmer weather across the continent [#01]_.  In Western Europe we saw Crusades and religious turmoil,
-but thousandas of miles to the east, the nomadic Mongolian people had grown in population
-and wealth, and were bumping up against the settled peoples of China and the Silk
-Road.  Temushin, later known as Gengis Khan, underwent an epic-biopic-worthy lifetime, from priviledged chieftans son, to outcast, to tribal leader and finally founder of a nation. And brutal mass killer.
+From the turn of the first millenium AD, Eurasia had a generation or two of
+warmer weather across the continent [#01]_.  In Western Europe we saw Crusades
+and religious turmoil,
+but thousandas of miles to the east, the nomadic Mongolian people had grown in
+population and wealth, and were bumping up against the settled peoples of China
+and the Silk
+Road.  Temushin, later known as Gengis Khan, underwent an epic-biopic-worthy
+lifetime, from priviledged chieftans son, to outcast, to tribal leader and
+finally founder of a nation. Oh, and brutal mass killer, lets not forget that
+bit.
 
-Tribal internecine warfare had alwasy bedevilled
-Mongolian unity, and Gengis Khan modelled his army in a new way - the smallest
-unit of the army was a mounted cavalry unit of ten men, an `aravt` with layers
-of `aravt` strung together in a military hierarchy reaching up to something like a modern day "division" of 10,000 horse borne warriors.  Important to maintaining *Mongolian* loyalty as oppsed to *tribal* loyalty, 
-each aravt was always made up of men from many different tribes, so that
-the army cohesion was based around loyalty to the Great Khan, not to family.
+Tribal internecine warfare had always bedevilled Mongolian unity, and Gengis
+Khan solved this by absorbing defeated tribes into a new model of army.
+the smallest unit of the army was a mounted cavalry unit of ten men, 
+an `aravt` with layers of `aravt` strung together in a military hierarchy reaching up to something like a modern day "division" of 10,000 horse borne warriors. 
+Important to maintaining *Mongolian* loyalty as oppsed to *tribal* loyalty,  each aravt was always made up of men from many different tribes, so that the army cohesion was based around loyalty
+to the Great Khan, not to family.  He turned the tribal loyalty to a loyalty to
+the `aravt`, and hence the Khan.
 
 But for us the most important lesson is they were all mounted on horses. Not
 "just" the cavalry, but the whole army, and its tail of civilians.  Mongolia was
@@ -30,24 +36,25 @@ of horses. Horses that moved faster than people.
 A medieval army (and indeed ancient and classical) basically moved at human
 walking pace. And as the
 head of a column had to make camp till the rear caught up, generally 10 miles a
-day was a *good* pace for much of human history.
+day was a *good* pace for much of human history.  Cavalry could move quickly,
+but the whole army was limited to the speed of its slowest walker.
 
 Mongols would (as would all cavalary in history) have multiple mounts, and could
 change to keep them fresh. And this horse based steppe culture, lived entirely
-in the saddle and so they moved at horse pace.  
+in the saddle they basically *all had a horse*, and so they moved at horse pace.
 
 Everything in an `aravt` was on horseback - tents, weapons, food and utensils.
-SO the whole army could travel - usually 50-60 miles perday.  During SUbotai's
+SO the whole army could travel - usually 50-60 miles per day.  During Subotai's
 raids on Eastern Europe, the `Rus`, the Hungarians, the Bulgarians and others
 were devastated as they tried to catch an army of 90,000 that could travel in a
 day what they could only manage in a week.
 
 Of course European armies had horses, indeed European cavalry out-matched
-Mongolian light cavalry, weight for weight, armour for amour - but the *rest of
+Mongolian light cavalry, weight for weight, armour for armour - but the *rest of
 the European army* was on foot or in a cart, and so the army
 could only move at the pace of the walking foot soldier.  But the Mongols, their
 whole army could move at the medieval equivalent of supersonic travel (See
-www.acoup.blog [#02]_). As medieivel communication was almost totally based on foot, 
+www.acoup.blog [#02]_). As medieval communication was almost totally based on messages passed on foot, 
 the Mongol Army moved faster than the news of their passing.
 
 A similar effect is found in modern (post WW1 and WWII) army developments.
@@ -58,12 +65,17 @@ Todays "top tier" armies are hugely expensive to maintain, because once you have
 a tank, you need to put the fuel, ammunition, food, cooks, mechanics, and
 everything else in vehicles that can move along lines close to tanks, and
 importantly are not easy to kill (there is a sort of tiering of armour, from
-vehicles on the battlefiled to close to and far from. But they all need to
-move.)  And honestly I am not hearing much about "electricifing" tanks.
+vehicles on the battlefield to vehicles carrying the ovens. But they all need to
+move, and all need to at least provide some protection) 
 
 (This got notably worse with airpower, with Vietnam being perhaps the height of
 "put everything into a helicopter", but the logistics for that became too
-unwieldy)
+unwieldy, or perhaps too costly.  And its an open question if that same failure
+for helicopters is a indicatgor for electric vehicles.  There just are not any
+viable commerical 16-wheeler lorries, because the electirc battery equivalent of
+the rocket equation hurts quite quickly.  And its not clear if the electric tank
+can be a real thing.  If not, then sustaining a petrol driven army when the
+industrial base is moving to electric looks tricky.)
 
 Just like Gengis Khan the WWII and post WWII planners saw advantages in speed,
 and the need to make everything *mobile*.
@@ -71,12 +83,12 @@ and the need to make everything *mobile*.
 Steve Jobs dexcribed computers as bicycles of mind.  I desribe software as
 literacy. I conjecture there are huge adavtages in speed and agility in running
 software.
+
 We are at the "oh look tanks work well" stage.  How we transition companies and
 organistions to the "oh everything needs to be mobile now" is one of the
 fundamental themese of this book.
 
-Everyone
-is able to communicate via softwre, to read the code and understand what is
+Everyone is able to communicate via softwre, to read the code and understand what is
 going on. Not have to be slowed down by translations into and out of policy
 documents. And be shackled by lack of testing and modelling.
 
@@ -118,6 +130,9 @@ we are writing out how our workd works - to make it explicit and manipulate
 expand this 
 
 
+software as Eunachs - eunachs goven powrr in rime or byzantium 
+so that emperors did not need to worry that bureaucracy woukd be captured by "barons"
+But european industrial state has dofferent needs - movement towards wealth gathering 
 
 Software Literacy
 -----------------

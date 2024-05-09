@@ -94,6 +94,11 @@ Word2vec, basic word encoding, a Queen is a female King.
   its access to tools and ots decision politics
   if AI can replace a manager tomorrow then software can do it today 
 
+
+
+AI as an embedded knowledge tool - spanner wmbeds other peoples knowledge - thisnis that to larger extent
+
+
 Chapter: Journalism is labelling the training data for the world
 =================================================================
   * LLMs, AI, journalism

@@ -7,6 +7,14 @@ What is AI?
 What is intelligence?
 What does the philosophical disucssion of intelligence matter - not much
 
+The large language models 
+- embed much of humannwritten knowledge
+- are vast scales - Llama 3 25,000 GPUs - billions of dollars and whole data centres
+at some point a single power plant feeding into a 1GW data center 
+focused on tokenisation etc - its incredible use of energy to build something that is then free to use for antechnically able human
+
+
+
 AI as a replacement for maangers and rotework.
 Well we alrady know how to replce rotework. Automation has been doing that for
 ages.  If it is not done already then there are political or business model

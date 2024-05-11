@@ -11,6 +11,8 @@ fundamental paradigm - the written down bit is the bash scrip
 comments, face to face contact, expeirence
 these inform *context* which matters when parsing 
 
+
+
 Overview
 --------
 
@@ -80,6 +82,7 @@ road changes in future. THere is not a choice.
   foss - everythign is a buskness operating system
 
 * legacy cost in softwaee.
+--------------------------
 brett devereau - legacy cost of factories - the same factory (in the same location)
 
 wouldnnot be usabke by henry ford and robert stevenson
@@ -92,6 +95,26 @@ of course it is not - but we need to be at the whole org test rig poit there
 
 why hapan and germany could rebuild cos revuilt fro
 scratch 
+
+Software models and dice rolls
+------------------------------
+Listen to https://podcasts.apple.com/gb/podcast/three-moves-ahead/id307176617?i=1000605795748
+
+one take away is there is andoscussion about "+25 on constructionncosts wothbthis hardware"
+when playing covilisationngames.  they are referring to a shared playable model 
+that they have all used and its impact / relvance to rela world 
+history (and the doctor of military history helps) but the point is they understand the aoftware models
+and the flaws in those models - now imagine companies CEOs doscussing the same
+models
+
+i rmeeber being anciallry to board discussions on takeovers where 
+my boss woukd come outnof the days long meeting severu couple hours and adjust the big spewadsheet we had curated
+thats the inefficient method - and you cannot plug realmworld metrics into spreadsheet 
+because the CEO probably sesigned it wrong (the exonomist folly)
+but when we have a whole org test rig, we can sit modelling and simulation o top of it and it informs our discussio  or it just helps everyone agree
+
+and simply put when we want to see chnage we add new test or comstraint to whole org test rig and we peg that to a telease date - that becomes the project 
+no need for status reports ! 
 
 * FOSS - 
   if marginal cost of software writing is essentically Ramen, then the choice

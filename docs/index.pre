@@ -70,7 +70,16 @@ road changes in future. THere is not a choice.
   Foss chnages the coaseing equilibrium- thats wjat we miss about 
   foss - everythign is a buskness operating system
 
+* legacy cost in softwaee.
+brett devereau - legacy cost of factories - the same factory (in the same location)
 
+wouldnnot be usabke by henry ford and robert stevenson
+
+but abikity to wipe out and rebuild infrastructure (on a daily basis- immutabke servers)
+is enormous - hence nix. if you want to transfer to new infrastructure it is theoretically 
+a config file.
+
+of course it is not - but we need to be at the whole org test rig poit there
 
 * FOSS - 
   if marginal cost of software writing is essentically Ramen, then the choice

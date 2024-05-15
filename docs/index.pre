@@ -2,273 +2,141 @@
 Introduction
 ============
 
-if you have written docs on how to oerform a task
-(ie wiki not a bash script) you are not only idoot 
-(bash is much "better") but you have missed the 
-fundamental paradigm - the written down bit is the bash scrip
-(plus some nice comments !)
-
-comments, face to face contact, expeirence
-these inform *context* which matters when parsing 
-
-the flattening cs curation vs truth vs model
-https://stratechery.com/2024/the-great-flattening/?
-
-Fire all the project managers
---------------
-MOOp / surveillance
-everything we do each day leaves a digital 
-footprint. software can tracknthat and use it
-as oart if whole org test rig to determine 
-the project management parts - if innany circumstance. a 
-person who does the work has to also 
-uodate some system, then its a joke.
-
-follow the dogitla footprints
-
-and so most of project mamagenrnt is useless
-
-planning the work is about designing the work 
-and building the tests - neother of whichnsoftware illterate pronect managers can fo
-and if they coukd thats not porkjct management 
-
-MMT
----
-direct measire of productivity 
-
-historically - tax via army
-roman - 
-
-financial - using loans to grow koney aupply 
-and centralised banking / dutch 
-
-now - ledgers, software literacy 
-rfid 
-
-
-
-Overview
---------
-
 
 
 * software is a new form of literacy
-  literacy is a technology, as indeed is speech and perhaps thought?
-  story of olphulla goth germainic invents alphanet and writes it down - literacy matters as a technology 
-  the blub paradox and software literacy - you cannot have large software literate company without 
-  having all literate employees - its like mechanised warfare or gengis khan 
-  you can only move the whole army when everyone is on horseback - speed of sound 
 
+  literacy is a technology, as indeed is speech and perhaps thought? story of olphulla
+goth germainic invents alphanet and writes it down - literacy matters as a technology the
+blub paradox and software literacy - you cannot have large software literate company
+without having all literate employees - its like mechanised warfare or gengis khan you can
+only move the whole army when everyone is on horseback - speed of sound Implications
+across board
 
-i dont like M&A - its mostly about wealtyh peoples egos (see paramount) 
-"i wish i had served my god as well as i served my king"
+* Companies will become programmable companies, cyborgs. - partly "Slow AI", partly
+"institution" and partly "programmable machine". - We can see the differences more now -
+institution has means to adjust itself - but can they do so in meaningful and deliberate
+manner. To have policy and then to have policy implemented. To effect agreed change is a
+*democratic effort*.#
 
-* Companies will become programmable companies 
-  - the actions of the company
-  speed up / improved but also *limited* to what the software will allow, 
-  even if we can alter version numbers.
+  - the actions of the company speed up / improved but also *limited* to what the software
+will allow, even if we can alter version numbers.
+
   - robotics as a model for companies - perception and funding
-  - software guard rails - to leaser and greater extents software guides what individual enployees can or cannot do
-    the policy is encoded - sales discount limits, rlease appovals etc
-    But these are axattered and hard to extract. but they donexist 
-    reading the code, writing the tests, putting the org in test rig allows you to 
-    doscover ans teat thise limits, 
-    younkight be abek to do some with ai - but you can do it all now with effort and software
-    seeing the gilded cage? all in one enterprise language?
-   - companies are *machines*. Entreprenuers build companies like
-     inventors build machines. They do one thing well.  COmpanies that 
-do many things are a financial cheat - using treasury to reduce cost of
-capital, see banks are a mirage.
-    The point is if we see them as 'autonomous functioning machines that
-have role in benefiting human society' then their position becomes
-clearer.  And it challenges some of assumptions of capitalism.  See
+
+  - software guard rails - to leaser and greater extents software guides what individual
+enployees can or cannot do the policy is encoded - sales discount limits, rlease appovals
+etc But these are axattered and hard to extract. but they donexist reading the code,
+writing the tests, putting the org in test rig allows you to doscover ans teat thise
+limits, younkight be abek to do some with ai - but you can do it all now with effort and
+software seeing the gilded cage? all in one enterprise language?
+
+  - companies are *machines*. Entreprenuers build companies like inventors build machines.
+They do one thing well.  COmpanies that do many things are a financial cheat - using
+treasury to reduce cost of capital, see banks are a mirage.  The point is if we see them
+as 'autonomous functioning machines that have role in benefiting human society' then their
+position becomes clearer.  And it challenges some of assumptions of capitalism.  See
 "public transport is the answer to how can uber manage"?
     
-* coders new managers - which leads to "software is disaggregating management"
 
-* disaggregation of management - implications 
-  - co-ordination of company is way more effective in software, test rigs etc.
-  - co-ordination of change is mostly politics, which can be eitehr democratic
-    and open or totalitarian and feudal.  I prefer one. THe bet is one works
-    better.
-  - management role in deciding what to do where to go (strategy) is limited.
-    Thats basically eitehr built in (oil production) or its top down executive
-choice or shareholder choice.
-  - management role in operations can be large - but again this is built and
-    modelled.  hilarious thing on indiced demand and modelled software showing
-road changes in future. THere is not a choice.
-  - managemtn role in tactics and doctrine.  Yes - but those are also bottom up,
-    industry practise - see DevManual
-  - coase and chandler views on mgmt
-  - simplified large company single treasury cost of capital
-  - finance as 2(O) function or 4(O) 
+* coders are the new managers, the code is the design
+  - which leads to "software is disaggregating management"
 
-* serverless company
-  the intenral franework might not be needed
-  coase and chandler
-  unix operating system
-  company operating system is not "core competancy"
-  people try to outsource but can work for very snall
-  companies, medium companies isually try to customise (demon)
-  but at some point each compnay is many companies (do one thing well)
-  with shared treasury (multi prodict sales)
-  Foss chnages the coaseing equilibrium- thats wjat we miss about 
-  foss - everythign is a buskness operating system
-
-* legacy cost in softwaee.
---------------------------
-brett devereau - legacy cost of factories - the same factory (in the same location)
-
-wouldnnot be usabke by henry ford and robert stevenson
-
-but abikity to wipe out and rebuild infrastructure (on a daily basis- immutabke servers)
-is enormous - hence nix. if you want to transfer to new infrastructure it is theoretically 
-a config file.
-
-of course it is not - but we need to be at the whole org test rig poit there
-
-why hapan and germany could rebuild cos revuilt fro
-scratch 
+* disaggregation of management - implications - co-ordination of company is way more
+effective in software, test rigs etc. - co-ordination of change is mostly politics, which
+can be eitehr democratic and open or totalitarian and feudal.  I prefer one. THe bet is
+one works better. - management role in deciding what to do where to go (strategy) is
+limited. Thats basically eitehr built in (oil production) or its top down executive choice
+or shareholder choice. - management role in operations can be large - but again this is
+built and modelled.  hilarious thing on indiced demand and modelled software showing road
+changes in future. THere is not a choice. - managemtn role in tactics and doctrine.  Yes -
+but those are also bottom up, industry practise - see DevManual - coase and chandler views
+on mgmt - simplified large company single treasury cost of capital - finance as 2(O)
+function or 4(O) company operating system is not "core competancy" people try to outsource
+but can work for very snall companies, medium companies isually try to customise (demon)
+but at some point each compnay is many companies (do one thing well) with shared treasury
+(multi prodict sales) Foss chnages the coaseing equilibrium- thats wjat we miss about foss
+- everythign is a buskness operating system
 
 
-Legacy is an indistrial problem or rather a paradigm problem
-if you were the legacy owner in 1100 of all the land of France
-it was not a problem, it was kind of yhe point.
-if in 1938 younwere the lefacy owner of 6000 Renault ft18 tanks
-that were "the best tanks in the last war" then yeahbit was aproblem
-they were designed before henry ford, they were built in factories 
-built 20 years ago - but "what are wesupposed to do - throw then all awayband start again?"
-the dreadnaught problem 
+Software models and dice rolls - playable democracy, communicationg via games.
 
+Listen to
+https://podcasts.apple.com/gb/podcast/three-moves-ahead/id307176617?i=1000605795748
 
+one take away is there is andoscussion about "+25 on constructionncosts wothbthis
+hardware" when playing covilisationngames.  they are referring to a shared playable model
+that they have all used and its impact / relvance to rela world history (and the doctor of
+military history helps) but the point is they understand the aoftware models and the flaws
+in those models - now imagine companies CEOs doscussing the same models
 
+i rmeeber being anciallry to board discussions on takeovers where my boss woukd come
+outnof the days long meeting severu couple hours and adjust the big spewadsheet we had
+curated thats the inefficient method - and you cannot plug realmworld metrics into
+spreadsheet because the CEO probably sesigned it wrong (the exonomist folly) but when we
+have a whole org test rig, we can sit modelling and simulation o top of it and it informs
+our discussio  or it just helps everyone agree
 
-Software models and dice rolls
-------------------------------
-Listen to https://podcasts.apple.com/gb/podcast/three-moves-ahead/id307176617?i=1000605795748
+and simply put when we want to see chnage we add new test or comstraint to whole org test
+rig and we peg that to a telease date - that becomes the project no need for status
+reports !
 
-one take away is there is andoscussion about "+25 on constructionncosts wothbthis hardware"
-when playing covilisationngames.  they are referring to a shared playable model 
-that they have all used and its impact / relvance to rela world 
-history (and the doctor of military history helps) but the point is they understand the aoftware models
-and the flaws in those models - now imagine companies CEOs doscussing the same
-models
+* democractic bet. We bet that at scale of society, and presumably at scale of large
+companies that democracy long term works better. See the elites view on Sparta.
 
-i rmeeber being anciallry to board discussions on takeovers where 
-my boss woukd come outnof the days long meeting severu couple hours and adjust the big spewadsheet we had curated
-thats the inefficient method - and you cannot plug realmworld metrics into spreadsheet 
-because the CEO probably sesigned it wrong (the exonomist folly)
-but when we have a whole org test rig, we can sit modelling and simulation o top of it and it informs our discussio  or it just helps everyone agree
+* FOSS - if marginal cost of software writing is essentically Ramen, then the choice for
+who works on your software is mission.  If your mission is inspiring, you get free work
+that needs co-ordinating (which can be software dirven).
 
-and simply put when we want to see chnage we add new test or comstraint to whole org test rig and we peg that to a telease date - that becomes the project 
-no need for status reports ! 
+* use of democracy in companies - allocation of resources in abscence of "commanders
+intent" - we are supplying a new product (company) to a financier. hard to ignore use of
+democracy when feudalism of management is breaking.
 
-* FOSS - 
-  if marginal cost of software writing is essentically Ramen, then the choice
-for who works on your software is mission.  If your mission is inspiring, you
-get free work that needs co-ordinating (which can be software dirven)
-    
-
-* use of democracy in companies - allocation of resources in abscence of
-  "commanders intent" - we are supplying a new product (company) to a financier.
-  hard to ignore use of democracy when feudalism of management is breaking.
-
-* AI / journalism
-  open infomraiton flow
-  You dont need AI tomorrow, you can software today. 
+* AI / journalism open infomraiton flow You dont need AI tomorrow, you can software
+today.
 
 * MOOP - epidemiology at scale
   
   https://news.ycombinator.com/item?id=40130477
-* conclusion - software is literacy, for all. But it will explicitly define what
 
-* orgs can and cannot do, regulate and prepsent challenges as whistle blowing 
-  but only criminal orgs can benefot from secrecy more than gain from speed and 
-  perception.
-  Democracy, openness, and realisation of benefits and losses. modelling?
+  * conclusion - software is literacy, for all. But it will explicitly define what orgs
+can and cannot do, regulate and prepsent challenges as whistle blowing but only criminal
+orgs can benefot from secrecy more than gain from speed and perception. Democracy,
+openness, and realisation of benefits and losses. modelling?
 
-(doctrine, (wardley - purpose, landscape, climate, leadership, doctrine)
-2(O) - majors have tactical control, generals have operational control ans politicians have strategic control
-and everyoneninterferes one level below 
+(doctrine, (wardley - purpose, landscape, climate, leadership, doctrine) 2(O) - majors
+have tactical control, generals have operational control ans politicians have strategic
+control and everyoneninterferes one level below
 
 
- conclusion: write code. Its fun. It is a new form of literacy and it 
- will like the previous form, bend human organisation around its gravity.
- AI is useful, but almost everything people think AI can solve tomorrow 
- can be solved today (thats people putting too much ito AI not AI being bad)
+* conclusion: write code. Its fun. It is a new form of literacy and it will like the
+previous form, bend human organisation around its gravity. AI is useful, but almost
+everything people think AI can solve tomorrow can be solved today (thats people putting
+too much ito AI not AI being bad)
 
- We have a democratic bet to make - our society builds on individual rights
-and the next forms of society are being built now.  We need to win the
-democracti bet.
+* We have a democratic bet to make - our society builds on individual rights and the next
+forms of society are being built now.  We need to win the democracti bet.
  
 <<<software_literacy.rst>>>
 
-<<<2_orders_of_magnitude.rst>>>
-
-<<<enforced_openness.rst>>>
-
-<<<the_code_is_the_design.rst>>>
-
 <<<coders_are_the_new_managers.rst>>>
 
-<<<programmable_company.rst>>>
-
-
-<<<the_architext_paradox.rst>>>
-
-<<<companies_are_version_numbered.rst>>>
-
-<<<zipper_project_planning.rst>>>
-
-<<<software_solves_management.rst>>>
-
-<<<whole_org_test_rig.rst>>>
-
-<<<robotics_company.rst>>>
-
-<<<sdlc_as_day_2_day.rst>>>
-
-<<<open_source_and_underfunding_of_perfect_competition.rst>>>
-
-<<<moop.rst>>>
-
-<<<software_mind.rst>>>
-
-<<<socialist_utopia.rst>>>
-
-<<<totalitarian_bet.rst>>>
+<<<mgmt_disaggregated.rst>>>
 
 <<<democractic_bet.rst>>>
 
+<<<cyber_company.rst>>>
 
-<<<equal_say_equal_share.rst>>>
+<<<cyber_society.rst>>>
 
+<<<meditations.rst>>>
 
-
-<<<tomorrows_workplace.rst>>>
-
-<<<cyber_security.rst>>>
+<<<moop.rst>>>
 
 <<<ai_journalism.rst>>>
 
-<<<non_jobs.rst>>>
+<<<software_mind.rst>>>
 
 
-<<<rules_vs_regulations.rst>>>
-
-
-... more politics below here than above.
-
-<<<super_cooperative_species.rst>>>
-
-<<<built_organisations_deep_state.rst>>>
-
-<<<implicit_is_now_explicit.rst>>>
-
-<<<rentierism.rst>>>
-
-<<<theory_of_firm__coase.rst>>>
-
-<<<organisational_mental_health.rst>>>
 
 

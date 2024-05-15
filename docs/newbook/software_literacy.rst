@@ -162,6 +162,16 @@ we kight win
 this is a doscsussio. 
 
 
+Challenging statements
+if you have written docs on how to oerform a task
+(ie wiki not a bash script) you are not only idoot
+(bash is much "better") but you have missed the
+fundamental paradigm - the written down bit is the bash scrip
+(plus some nice comments !)
+comments, face to face contact, expeirence
+these inform *context* which matters when parsing
+
+
 
 Software as a form of literacy, a way of taising 
 the political into the explicit

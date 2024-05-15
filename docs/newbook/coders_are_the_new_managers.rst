@@ -25,6 +25,30 @@ on off rewards. so why have annual appraisals - because having a manager there d
 So remotw work not somgood
 having demos very good
 
+=======================
+The Architect's Paradox
+=======================
+
+An architect today can <design> a building, but leave many of the detaisl to be worked out
+at construction time (they of course need to ensure load bearing floors etc etc. But often
+this not work out - see NEw York famous.) But imagine we create a robot that injects
+concrete exactly where its told. At this point te architect can churn out hundreds of
+buildings at a time, but they need to specify *everytrhing*.  This is the problem,
+opportunity and promise of software as it eats the world - vast savings, vast control, but
+now everything must be much more explicit.
+
+
+
+=========================
+The code is the design
+=========================
+
+Articles and discussion - when build is deterministic, the code is the design. SO from now
+on we see a world of programmable companies which are franchises, with a franchise of one.
+ Real working policy documents. The goal of SOPpy is to partly allow one to write code
+that runs a company, but also to write policy documents that read as policy but execute as
+code. Cucumber
+
 
 
 
@@ -136,3 +160,70 @@ foncnciar - consensus funding
 colonel
 serfent 
 pricate 
+
+
+=========
+Non Jobs
+=========
+
+Non Jobs 80% of 80% -> 96% from 36%. How project manaement will be removed from companies
+as
+      co-ordination is driven through test rigs and APIs and 'measure of progress is
+workig software' A screed against project maangement-ism.  Also why are companies not
+using metrics and data to drive outcomes - AB testing your way  to success? Or to be out
+of a job?
+
+=================================================
+The SDLC - Literate Best Practise / The DevManual
+=================================================
+
+Many pieces combine to make modern SDLC - see Joels 12 rules. Policy as code. Software
+givernance matters - see trolley problems, voting on PRs and VW scandal. End of commerical
+confidentiality.
+
+simplest possible complete software ecosystem - devmanual
+"Simplicity is the ultimate sophistication"
+leonardo Da Vinci
+
+Chapter: Literary Best practise
+===============================
+Software demands different best practises
+We are finding them - and what it will look like makes WaPo different to a
+medieval scriptoreum.
+Prod-Parallel and back testing,
+Tool use
+COmmon solutions (octavio, editing)
+THis is The DevManual
+
+To "manage" you need to have an OODA loop.
+To "release with confidence" you need to have a prod-parallel env / test rig.
+To "plan" you need to have failing tests in the prod-parallel env, that are like
+bug bounties for employees.  DO not fall for capitalism here, use socialism
+inside the org.
+
+Chapter OODA loop and production ready, tech debt.
+==================================================
+
+Observe, Orientate, Decide, Act.
+
+This is operating *on* an existing system. We are managing the system.
+If we cannot get metrics from the system, we cannot observe
+If we do not have a (software) model of the system we cannot orientate,
+(use of Statitical process control)
+Deciding is politics - persuasion, allocation of resources, collection of
+resources.
+Act is development
+
+The main issue is we have *assumed* the model is in the managers head, or
+in their holy spreadsheet.  Possibly because the numbers in the sheet are
+'dangerous' to pass around.
+
+But with software metrics, thats a choice not a requirement. A model can be
+"soft real time" updated, and the VAR number calculated each day.
+
+Deciding is affected to, as differnet costly options can be appplied to model
+and prod-parallel for analysis.
+
+And Act is the art of filling in the red failing tests in the prod-parallel.
+
+

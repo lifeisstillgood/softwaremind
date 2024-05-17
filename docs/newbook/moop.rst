@@ -2,6 +2,16 @@
 MOOP
 ====
 
+
+Lefgers will
+transform trade because supply chain becomes visibke globally 
+- its like my movements published - i cannot sneak off to hotel
+it enforces honesty
+
+its gonna be weird 
+
+
+
 - the professionalisation of taxation and governance 
 at start of american revolution meant friction and problems
 

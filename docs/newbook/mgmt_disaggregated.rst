@@ -53,6 +53,23 @@ and nazism and so on - the system is there but democracy needs
 not whistleblowers but dailynwhistleblowers - iron law of bureaucracy 
 
 
+real agile - fire managers
+--------------------------
+https://www.greptile.com/blog/100-devs
+
+the real agile manifesto focused on code 
+and working code
+
+how fo we know what is working (testing - in real life and in tests)
+
+comprehensive whole org test rigs enable 
+orgs to change faster and move faster - the whole point of agile
+there will be a lot to it but smaller
+is good
+being honest about why size matters (shared treasury hence lower internal intersst rates)
+
+
+
 ================================
 Built Organisations, Deep State
 ================================

@@ -255,3 +255,49 @@ be enforced as a competitive need. Owning up banking like PSD2
 Making personal data geneuninely owned by the person and making the computing
 substrate accessible and open - thinknautomatic cars
 
+The idiot test
+--------------
+Elon Musk.
+Challenging statements if you have written docs on how to oerform a task (ie
+wiki not a bash script) you are not only idoot (bash is much "better") but you
+have missed the fundamental paradigm - the written down bit is the bash scrip
+(plus some nice comments !) comments, face to face contact, expeirence these
+inform *context* which matters when parsing
+
+
+
+* testable organisation - External to team is owned automateabke testing
+milestones -> probably fitness style or cucumber style but the point is some
+form of policy that is enforced by engine
+
+
+
+Arranging the world to be iterated over.
+----------------------------------------
+
+  (joke about google destroying what it cannot index) BUt this is also true - we
+did lose pre-industrial society. Lessons about how to live togetehr were lost
+(beware rose coloured glasses and abuse) Historical sweep important, industrial
+world only 250 years old, (1776 story). We have lost freedoms and gained a new
+world - but it is unstoppable. We live in unsustainable world and our only hope
+is onwards.  Software helps organise at scale - but *trust* matters. Organise at
+scale, but organise openly to encourage trust, esp when it gets difficult. Yes
+the system is rigged (Trump debate, darkness by design, but mortgage redlines
+and martgage credit ratings, the need to type in "do crime" in VW code).
+Software is the system, so you can read the rules.  If the rules are "chinese
+communist party is in charge" then its harder, but humans value fairness beyond
+almost all (monkey experiment)
+
+
+
+
+the meaning of culture
+----------------------
+
+"nurtured bias" "what my
+grandmother taught me" "what the village thatbraised me taught me" the
+uncritical thinking that majority of people will show - see the seaweed icecream
+issue
+
+
+

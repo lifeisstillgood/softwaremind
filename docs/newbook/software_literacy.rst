@@ -137,6 +137,22 @@ mass-communicate with many). Books on mathematics and navigation enabled the
 training of middle-class merchantmen who would then dare, only 40
 years later, to cross the Atlantic.
 
+A better suit
+=============
+
+Now I used to feel smug about my nice little Printing Press literacy theory (it
+was a while ago).  But I remember attending `Sprint 16` the UK's Government's
+tech fest, and the Cabinet Office Minister standing up and spouting pretty much
+the same concept.  Nothing stops smugness like a national politician using your
+lines.  It makes you wonder what you have misunderstood.
+
+The answer is of course plenty.  The above is too pat. Too simple.
+It leaves out the geo-politics of Europe, how the specific cultural
+geological and economic circumstances of different countries allowed and
+encouraged the spread of literacy and enlightenment.  But it is a good enough
+argument. The core is directionally correct (in my view) and moving in the
+right direction is always a win.
+
 
 Before people wandered off to the bar I decided to let them know why
 they were getting my best Simon Scharma impression.
@@ -149,13 +165,14 @@ Even in the 15th century, nations, companies and guilds and churches
 competed, and ran international concerns. But somewhere between
 Gutenberg's Bible and Luther's 95 Theses these companies changed. Not
 with business process re-engineering, or total quality circles - but
-changed like leaving the water and walking on land changed. I have no
-idea how to quantify the advantages a company whose staff can all read
-and write will have over a company whose staff are illiterate. It's
-not one of lower labour cost, or better marketing, it's something
-else...Deep in our bones we *know* that literacy changes everything.
-Its so built into us and into everyone we know that we cannot imagine
-a world where we cannot read or write.
+changed like leaving the water and walking on land changed.
+
+I have no idea how to quantify the advantages a company whose staff can all read
+and write will have over a company whose staff are all or mostly illiterate.
+It's not one of lower labour cost, or better marketing, it's something
+else...Deep in our bones we *know* that literacy changes everything. Its so
+built into us and into everyone we know that we cannot imagine a world where we
+cannot read or write.
 
 Anyway, you, like the poor people wanting to get to the bar, can see
 where I am taking this. The ability to marshal knowledge, to code and
@@ -170,31 +187,19 @@ illiterate editors will look and work nothing like the Washington
 Post. But we can be sure they are coming. And we can make sensible
 predictions about what they will and won't be.
 
-Now I used to feel smug about my nice little Printing Press literacy
-theory (it was a while ago).  But I remember attending `Sprint 16` the
-UK's Government's tech fest, and the Cabinet Office Minister standing
-up and spouting pretty much the same concept.  Nothing stops smugness
-like a national politician using your lines.  It makes you wonder what you have
-misunderstood.
 
-The answer is of course plenty.  The above is too pat. Too simple.
-It leaves out the geo-politics of Europe, how the specific cultural
-geological and economic circumstances of different countries allowed and
-encouraged the spread of literacy and enlightenment.  But it is a good enough
-argument. The core is directionally correct (in my view) and moving in the
-right direction is always a win.
+Everyone can read, everyone is on a horse
+=========================================
 
-Computers have been turning up everywhere, except in the productivity
-statistics. And I think I know why.  We are living in an age of
-computing enabled *communication* but not in a *software literate* age
-- and the benefits we expect only come from literacy, not
-communication.
+So, yeah. I am postulating, conjecturing and all those other things that
+justify "gut feel after 30 years of working in software".
 
-To stretch my analogy too far, *having* books at all enables communication,
-but *having* a literate populace enables companies to redesign themselves
-internally, to alter the machine instead of themselves.  For if a company is a
-machine that is run by people interpreting a policy manaual almsot no one has
-read, then a machine that is run by software is where we are heading.
+Create a company, a society, where everyone has not just a computer, but the
+coding skills needed to use it (not just clicky button), create an environment
+where that code is readable (I mean, we can read our own laws (even if we never
+bother)) and then ask - what does a company like that look like? WHat is the
+difference between working inside that company, and working on the softwre that
+runs the company?
 
 Only when a critical mass of people in a company are software literate
 can that company hope to become *programmable*.
@@ -204,17 +209,10 @@ Or it can be seen as the controlling mind of an organisation, of a society.
 
 
 
-
-The conclusion first
---------------------
-
-
-This is a conclusion of Quotes
-
 ::
 
-	Software Reliability Engineering (SRE) is what happens when
-	you ask a developer to design an operations team.
+  Software Reliability Engineering (SRE) is what happens when
+  you ask a developer to design an operations team.
 
 Google is justifiably proud of its' SRE teams - developing their own
 software to run the computers, data centres, networks and release
@@ -228,7 +226,6 @@ But another quote might help::
     except in the productivity statistics.
     -- Robert Solow
     (https://eml.berkeley.edu/~bhhall/e124/David90_dynamo.pdf)
-
 
 I have a simple argument - he is correct, not because software and
 computers cannot help but because they are not well used.  It would be
@@ -258,60 +255,40 @@ Its simple.  But very hard to change.
 Double down on what works
 --------------------------
 
-Western liberal
+If asked to describe my politic, I would be boringly middle of the road,
+except in discussions of child protection
+where my position would be something like right of Genghis.
 
-* Productivity Gains unrealised
-* Benefits not embraced
-* SME is what you get when you ask a develooer to design a Operations department
-* Programmable company is what you get when you ask a developer to design
-an entire company
-* What do we get when we ask developers to design a whole society
+But that is becasue I am a product of a very weird time - a time where democracy
+become the dominant culture, and out of that culture sprang one, two or three
+industrial revolutions.  And those industrial revolutions allowed scientific
+discoveries and their global implementations to make it possible for 8 billion
+people to live on a planet that could barely support 1 billion a 150 years
+before.
+
+Which is a long winded way of saying we have a long way to fall.
+
+Unless we invent fusion reactors, or discover how to pull energy from Dark
+Matter, or make a *lot* more solar panels, humans are going to have to get
+a lot lot better at doing more with less.
+
+The productivity gains of the computer remain unrealised, the shared
+understanding of common mental models remain politically devisive,
+
+The Democratic Bet
+------------------
+
+We have two ways to go - use software and ledgers, and communication and
+tracking to *control* people as in TOtalitatianism, or to empower
+and free people as in democracy.  (and no we are not there yet, its laong road)
+
 
 - transparency, democracy, openness, empiricism, competition these are the
 things to double down on.
 
 
 
-The idiot test
---------------
-Elon Musk.
-Challenging statements if you have written docs on how to oerform a task (ie
-wiki not a bash script) you are not only idoot (bash is much "better") but you
-have missed the fundamental paradigm - the written down bit is the bash scrip
-(plus some nice comments !) comments, face to face contact, expeirence these
-inform *context* which matters when parsing
 
-
-
-* testable organisation - External to team is owned automateabke testing
-milestones -> probably fitness style or cucumber style but the point is some
-form of policy that is enforced by engine
-
-
-
-Arranging the world to be iterated over.
-----------------------------------------
-
-  (joke about google destroying what it cannot index) BUt this is also true - we
-did lose pre-industrial society. Lessons about how to live togetehr were lost
-(beware rose coloured glasses and abuse) Historical sweep important, industrial
-world only 250 years old, (1776 story). We have lost freedoms and gained a new
-world - but it is unstoppable. We live in unsustainable world and our only hope
-is onwards.  Software helps organise at scale - but *trust* matters. Organise at
-scale, but organise openly to encourage trust, esp when it gets difficult. Yes
-the system is rigged (Trump debate, darkness by design, but mortgage redlines
-and martgage credit ratings, the need to type in "do crime" in VW code).
-Software is the system, so you can read the rules.  If the rules are "chinese
-communist party is in charge" then its harder, but humans value fairness beyond
-almost all (monkey experiment)
-
-
-
-
-the meaning of culture ---------------------- "nurtured bias" "what my
-grandmother taught me" "what the village thatbraised me taught me" the
-uncritical thinking that majority of people will show - see the seaweed icecream
-issue
 
 
 ... [#01] We had a medieval warm period 1000-1200 and a little ice age

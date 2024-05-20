@@ -191,4 +191,31 @@ by default
 
 licensing or otherwise but not unavailable
 
+Journalism as training data for society
+---------------------------------------
+
+LLM as representation of "our" culture (see where western culture came from -
+1776) Journlism as training data for LLMS - but by extension training data for
+our culture.# Google search is being repalced by LLMs. WHo controls the LLM
+access, which training corpus is used, which fine tuning. this matters. But only
+as a snapshot into "normcore". But it is the representation of our culture - and
+it fits on a laptop. Texas textbooks - what we teach our young, what is our
+culture, these matter See mickey mouse and solar system.  POV is worth 80 IQ
+points.  By not giving kids the right PoVfrom the start we dont prevent them
+discovering for them selves - we just make it harder.
+
+* Autism and rules software can represent, enfource, encourage, discover, speed
+up rules. But rules that are written dwn threaten priviledge This antognism will
+be paramount for future.  Piketty - can we beat him down? Can we over come
+priviledge? SEC approach - legistlate priviledge into being good. But leave them
+enough to make it worth thier while? THreat of digital currency. The example of
+cryptocurrency as why we have regulatioon and crime (see Sherlock holmes stories
+about bank failures)
+
+autism and rukes - fristrationnof bureaucracy and lack of what rukes and where
+to look it empowers thise innpower, but rikes take away power and priviledge
+
+software is operationalmrules - the advantages outweigh cost of openness esp
+when closed approach goves priviledge
+
 

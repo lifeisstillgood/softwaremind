@@ -299,5 +299,7 @@ grandmother taught me" "what the village thatbraised me taught me" the
 uncritical thinking that majority of people will show - see the seaweed icecream
 issue
 
-
+aircraft carroers in WWII 
+50 made in one shipyard in 16 months
+https://youtu.be/iaJ9QZp-DJo?si=RiAQR-Dpqf-8qDmn
 

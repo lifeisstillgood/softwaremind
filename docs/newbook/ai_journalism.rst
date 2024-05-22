@@ -1,3 +1,19 @@
+==============================================
+Journalism is the AI training data for society
+==============================================
+
+
+
+LLM as representation of "our" culture (see where western culture came from -
+1776) Journlism as training data for LLMS - but by extension training data for
+our culture.# Google search is being repalced by LLMs. WHo controls the LLM
+access, which training corpus is used, which fine tuning. this matters. But only
+as a snapshot into "normcore". But it is the representation of our culture - and
+it fits on a laptop. Texas textbooks - what we teach our young, what is our
+culture, these matter See mickey mouse and solar system.  POV is worth 80 IQ
+points.  By not giving kids the right PoVfrom the start we dont prevent them
+discovering for them selves - we just make it harder.
+
 ==========================================================================
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
@@ -191,18 +207,6 @@ by default
 
 licensing or otherwise but not unavailable
 
-Journalism as training data for society
----------------------------------------
-
-LLM as representation of "our" culture (see where western culture came from -
-1776) Journlism as training data for LLMS - but by extension training data for
-our culture.# Google search is being repalced by LLMs. WHo controls the LLM
-access, which training corpus is used, which fine tuning. this matters. But only
-as a snapshot into "normcore". But it is the representation of our culture - and
-it fits on a laptop. Texas textbooks - what we teach our young, what is our
-culture, these matter See mickey mouse and solar system.  POV is worth 80 IQ
-points.  By not giving kids the right PoVfrom the start we dont prevent them
-discovering for them selves - we just make it harder.
 
 * Autism and rules software can represent, enfource, encourage, discover, speed
 up rules. But rules that are written dwn threaten priviledge This antognism will

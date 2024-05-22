@@ -22,6 +22,17 @@ import docutils.core
 ROOTPATH='/home/pbrian/projects/devmanual/docs'
 BACKUPLOCATION="/tmp/chaptertools/"
 
+# work direct on text?
+def simple_header_spacer(txt):
+    """Given text, ensure a --- or === has blank line after it """
+    newtxt = ''
+    for line in txt.split("\n"):
+        if line.endswith("==="):
+            line += "\n"# this is not idempotent
+        newtxt += line + "\n"
+    return newtxt[:-1]
+
+
 def parse_doc(doc_txt, filename):
     from docutils import frontend, utils
     from docutils.parsers.rst import Parser

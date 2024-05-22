@@ -34,3 +34,12 @@ Mostly no
 
 Journalism is data labelling for society
 - what is the truth Is based a lot on what is your model, what is the evidence 
+
+shoukd twotter ban bad behaviour?
+well - ehats bad behaviour - its like pornography i know itnwhen i see it
+but all twotter did after musknwas lower the bar for abuse not eliminate it
+
+somits about degrees 
+
+(really expand this) 
+

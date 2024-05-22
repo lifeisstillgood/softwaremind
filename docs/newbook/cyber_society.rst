@@ -23,3 +23,14 @@ a 2-week notice does not engendar that.
 
 Mission orientated companies (see roman empire and tax and spend armies vs alliances
 and security guarantee.
+
+Identity politics matters - it’s trying to decide what is an is not acceptable in society
+
+What gets you arrested, what gets you eye rolled and “come on not here not now”
+
+That has shifted with internet - one person can contact whole world - publish with everyone - so just as coders are managers, everyone must be a newspaper editor and ask “does this deserve publishing”?
+
+Mostly no
+
+Journalism is data labelling for society
+- what is the truth Is based a lot on what is your model, what is the evidence 

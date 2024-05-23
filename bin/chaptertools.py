@@ -205,16 +205,43 @@ def simple_header_spacer(txt):
     alllines = [line for line in txt.split("\n")]
     newtxt = ''
     for idx, line in enumerate(alllines):
+        try:
+            nextline = alllines[idx+1]
+        except:
+            nextline = None
+        try:
+            nextplusone = alllines[idx+2]
+        except:
+            nextplusone = None
+
+        # am I on a heading line?
+        # if next line is blank, do nothing
+        # if next plus one is also heading, do nothing
+        # if next line is writing, add \n to this line
+
+        # if previousplusone is writing, too complex needs adjusting
+        # I am only rolling forwards
+        print("----", idx, line)
         if line.endswith("===") or line.endswith("---"):
-            if alllines[idx+1].strip() == '':
-                if idx >0 and alllines[idx-1].endswith("==="):
+            print("STARTING", idx)
+            if nextline and nextline.strip() == '':  # is blank
+                print("next line is blank")
+                pass
+            if nextline and nextline.strip() != '':  # is writing
+                print("next line is writing")
+                if nextplusone and nextplusone.endswith("==="):
+                    print("next plus one is header")
                     pass
                 else:
+                    print("not header, add newline")
                     line += "\n"
             else:
+                print("add new line")
                 line += "\n"
         newtxt += line + "\n"
     #finally
+    print("------------")
+    print(newtxt)
     return newtxt[:-1]
 
 ############################ end

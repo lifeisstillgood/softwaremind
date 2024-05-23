@@ -4,8 +4,10 @@
 
 
 
+
 The Totalitarian Bet
 ====================
+
 
 
 
@@ -15,6 +17,7 @@ Totalitarian bet is also a bet
 on democracy (or western modern democracy)
 How organisations decide
 ------------------------
+
 
 
 
@@ -38,6 +41,7 @@ elwcted off ials and move towards worker "juries" to recommedn hard choices
 see executives as working at the 2(O)) boujdaries 
 Future Trends
 =============
+
 
 
 
@@ -80,6 +84,7 @@ Democractic Bet
 
 
 
+
 That openness leads to better outcomes. Studies on agile in orgs. Military behaviour.
                            Democarcy is waaay newer than we think. And I think tied heavily to scientic method.
 All the big wind have gone 
@@ -102,8 +107,10 @@ leadership as form of terrorism or protection racket - I could blow up your whol
 
 
 
+
 Equal Say, Equal Share
 =======================
+
 
 
 
@@ -116,6 +123,7 @@ day, look at what explicit implicit and openness directionality means.  There is
 long people can put up with Dark Pools - isnt there?
 Productivity - the key?
 -----------------------
+
 
 
 
@@ -154,8 +162,10 @@ metrics like teaction
 
 
 
+
 You cannot escape openness
 ==========================
+
 
 
 
@@ -166,6 +176,7 @@ Ledgers will be GPS of financial servixes - letting everyone know exactly what i
 this will devastate traditional banking !
 Implicit is now Explicit
 ========================
+
 
 
 
@@ -208,6 +219,7 @@ Enforced Openness
 
 
 
+
 We are leading up to the Totalitarian Bet, but its worth noting how VW emissions
         is clear in the codebase.  Its not quite like LIBOR scandal where if there had not
 been texts explaining "we are going to do a crime" then there simply would have been no
@@ -220,8 +232,10 @@ org, how to behave. criminally.
 
 
 
+
 Socialist utopia
 =================
+
 
 
 
@@ -238,8 +252,10 @@ People will self harm without knowing a way back.  Northern Ireland is as good a
 
 
 
+
 Super Co-operative Species
 ============================
+
 
 
 
@@ -260,8 +276,10 @@ Whats the different between super co-operative and scoialism?
 
 
 
+
 The Totalitarian Bet, The democratic bet and wealth taxes
 =================================================================
+
 
 
 
@@ -282,6 +300,7 @@ chapter:Feudalism, Democracy, Wealth Tax
 
 
 
+
 * democracy in companyes as orgnsityiona change
   Why should those employees control those - but they already do, it’s just internal
 politics, bribery
@@ -290,6 +309,7 @@ Jp Morgan was a democratising force just like FDR using the mass of people to pu
 old feudal elites (and make new ones natch)
 Chapter: MMT, Crypto, Equality, Democracy
 =========================================
+
 
 
 
@@ -321,6 +341,7 @@ cities due to
 climate chnage - or would it - the built environment?
 Totalitarian Bet
 ----------------
+
 
 
 

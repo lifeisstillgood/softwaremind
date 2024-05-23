@@ -5,8 +5,10 @@
 
 
 
+
 Open Source, Open Roads, Open pockets
 ===========
+
 
 
 
@@ -73,8 +75,10 @@ Globalisation means harmonisation
 
 
 
+
 New sensors allow new data industries
 --------------------------------------
+
 
 
 
@@ -121,10 +125,12 @@ beat the market
 
 
 
+
 if market is eceryone, you cant beat the market without taking from everyone
 onky valye is better resource allocatuon in prodyctive assets 
 The corproate form is not social
 --------
+
 
 
 
@@ -140,8 +146,10 @@ many cororpates exepct us to ask permasion
 
 
 
+
 Cyber Security
 ========================
+
 
 
 
@@ -171,6 +179,7 @@ security
 
 
 
+
 We talk about mechanisation of military (cavalry -> oil based transport)
 also mechanisationnof society
 but we need to talk about cyber security of society
@@ -189,8 +198,10 @@ tech
 
 
 
+
 Topless computing
 =================
+
 
 
 
@@ -199,6 +210,7 @@ Topless computing
 (June 2007)
 Not nearly as much fun as it sounds
 ===================================
+
 
 
 
@@ -248,6 +260,7 @@ The idiot test
 
 
 
+
 Elon Musk.
 Challenging statements if you have written docs on how to oerform a task (ie
 wiki not a bash script) you are not only idoot (bash is much "better") but you
@@ -259,6 +272,7 @@ milestones -> probably fitness style or cucumber style but the point is some
 form of policy that is enforced by engine
 Arranging the world to be iterated over.
 ----------------------------------------
+
 
 
 
@@ -278,6 +292,7 @@ communist party is in charge" then its harder, but humans value fairness beyond
 almost all (monkey experiment)
 the meaning of culture
 ----------------------
+
 
 
 

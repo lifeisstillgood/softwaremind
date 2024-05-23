@@ -1,6 +1,8 @@
 ==============================================
+
 Journalism is the AI training data for society
 ==============================================
+
 
 LLM as representation of "our" culture (see where western culture came from -
 1776) Journlism as training data for LLMS - but by extension training data for
@@ -13,8 +15,10 @@ points.  By not giving kids the right PoVfrom the start we dont prevent them
 discovering for them selves - we just make it harder.
 
 ==========================================================================
+
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
+
 
 What is AI?
 What is intelligence?
@@ -48,6 +52,7 @@ See also text books, and education syllabuses.
 HunterBrook - future if jountlaism
 -----------
 
+
 yes I think
 https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
 because we want to know what is "truth"
@@ -60,6 +65,7 @@ aee the globe thing for snowcrash
 
 Future Expansion
 ================
+
 
 Build a python LLM from scratch
 https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
@@ -97,11 +103,13 @@ AI as an embedded knowledge tool - spanner wmbeds other peoples knowledge - this
 Chapter: Journalism is labelling the training data for the world
 =================================================================
 
+
   * LLMs, AI, journalism
   Training data matters 
 
 AI and journalism
 -------------------
+
 
 Challenges of training data and bias
 We started with 'easy' problems - facial recgnition and black african
@@ -153,6 +161,7 @@ but perhaps problem is "timeline" - dont do timeline do education or agent with 
 
 training data matters
 ---------------------
+
 
 
 Google and pagerank soon became google and returned tonhomepage data as feedback onnquality

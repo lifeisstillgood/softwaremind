@@ -1,8 +1,10 @@
 ==============
 
 
+
 Software Mind
 ==============
+
 
 We co-operate at enourmous levels, with teams, companies, governments,
                                 nations all forming networks. And these networks carry

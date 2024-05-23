@@ -1,11 +1,14 @@
 ===========================
 
+
 Coders are the New Managers
 ===========================
 
 
+
 Why have managers?
 -------------------
+
 
 
 https://news.ycombinator.com/item?id=40111676
@@ -25,8 +28,10 @@ having demos very good
 
 =======================
 
+
 The Architect's Paradox
 =======================
+
 
 
 An architect today can <design> a building, but leave many of the detaisl to be
@@ -42,6 +47,7 @@ The code is the design
 =========================
 
 
+
 Articles and discussion - when build is deterministic, the code is the design.
 SO from now
 on we see a world of programmable companies which are franchises, with a franchise of one.
@@ -51,6 +57,7 @@ code. Cucumber
 
 Chapter: software is disaggeegating management 
 ===============================================
+
 
 
   - how do companies decide?
@@ -80,6 +87,7 @@ mgmt elite that "understands" the company
 Chapter: Coders are the new managers, CPUs are the new workers
 ================================================================
 
+
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
@@ -99,6 +107,7 @@ with rmeote working either everyone is told about everything
 or there is total loss of cohesion - either write it all down and lose political power or 
 coders are the new managers
 ---------------------------
+
 
 THe new workers are the CPUs. The supervisors and instructions come from the coders - and code is the design.  Look at difference between maangers in Drucker - bestriding the world making decisions, and managers in Googles eight rules - coaches helping keep the employees happy.  And what if employees are not happy - look at OpenAI where an emploee revolt removed the board.  We shall come back to employee ower later. WHy did rome collapse? Collapse of trust and trade.
 management is dead - 
@@ -132,8 +141,10 @@ pricate
 =========
 
 
+
 Non Jobs
 =========
+
 
 Non Jobs 80% of 80% -> 96% from 36%. How project manaement will be removed from companies
 as
@@ -143,8 +154,10 @@ using metrics and data to drive outcomes - AB testing your way  to success? Or t
 of a job?
 =================================================
 
+
 The SDLC - Literate Best Practise / The DevManual
 =================================================
+
 
 Many pieces combine to make modern SDLC - see Joels 12 rules. Policy as code. Software
 givernance matters - see trolley problems, voting on PRs and VW scandal. End of commerical
@@ -154,6 +167,7 @@ simplest possible complete software ecosystem - devmanual
 leonardo Da Vinci
 Chapter: Literary Best practise
 ===============================
+
 
 
 Software demands different best practises
@@ -170,6 +184,7 @@ bug bounties for employees.  DO not fall for capitalism here, use socialism
 inside the org.
 Chapter OODA loop and production ready, tech debt.
 ==================================================
+
 
 Observe, Orientate, Decide, Act.
 This is operating *on* an existing system. We are managing the system.

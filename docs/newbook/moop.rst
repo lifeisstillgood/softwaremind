@@ -1,7 +1,9 @@
 ====
 
+
 MOOP
 ====
+
 
 Lefgers will
 transform trade because supply chain becomes visibke globally 
@@ -37,12 +39,15 @@ surveillance - good bad or indifferbet?
 ----------------------------------------
 
 
+
 Everything we do is will be monitored with sensors - that can be good 
 https://maphappenings.com/2022/09/19/location-arholes/
 ============================
 
+
 Organisational Mental Health
 ============================
+
 
 This is similar to, linked to SLow AI and MOOP - how do we create non-dysfunctional
 organisations? How do we change ourselves and our orgnaisations. How much change to serve

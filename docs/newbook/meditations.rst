@@ -1,8 +1,10 @@
 ======================================
 
 
+
 Open Source, Open Roads, Open pockets
 ===========
+
 
 """
 My friend, Jefferson's an American saint because he wrote the words, "All men are created
@@ -61,8 +63,10 @@ aligning that (ala EU) is our next societal challenge
 Globalisation means harmonisation
 ---------------------------------
 
+
 New sensors allow new data industries
 --------------------------------------
+
 
 The ad twrgetting industry is just one
 Most people are judging the value they get from smarphones,
@@ -101,10 +105,12 @@ but also algorithmic to aboid biases
 beat the market
 ---------------
 
+
 if market is eceryone, you cant beat the market without taking from everyone
 onky valye is better resource allocatuon in prodyctive assets 
 The corproate form is not social
 --------
+
 
 
 servility is asking for permission onnhow to associate
@@ -112,8 +118,10 @@ many cororpates exepct us to ask permasion
 ========================
 
 
+
 Cyber Security
 ========================
+
 
 chaoter (cyber security or the things we dont know)
 https://news.ycombinator.com/item?id=39881962
@@ -135,6 +143,7 @@ security
 --------
 
 
+
 We talk about mechanisation of military (cavalry -> oil based transport)
 also mechanisationnof society
 but we need to talk about cyber security of society
@@ -149,12 +158,15 @@ tech
 - and there will be w freerider benefot
 =================
 
+
 Topless computing
 =================
+
 
 (June 2007)
 Not nearly as much fun as it sounds
 ===================================
+
 
 The other day I was asked by a member of staff if it would be possible to tie
 the holiday spreadsheet into the master workplanner application.
@@ -196,6 +208,7 @@ The idiot test
 --------------
 
 
+
 Elon Musk.
 Challenging statements if you have written docs on how to oerform a task (ie
 wiki not a bash script) you are not only idoot (bash is much "better") but you
@@ -207,6 +220,7 @@ milestones -> probably fitness style or cucumber style but the point is some
 form of policy that is enforced by engine
 Arranging the world to be iterated over.
 ----------------------------------------
+
 
   (joke about google destroying what it cannot index) BUt this is also true - we
 did lose pre-industrial society. Lessons about how to live togetehr were lost
@@ -222,6 +236,7 @@ communist party is in charge" then its harder, but humans value fairness beyond
 almost all (monkey experiment)
 the meaning of culture
 ----------------------
+
 
 "nurtured bias" "what my
 grandmother taught me" "what the village thatbraised me taught me" the

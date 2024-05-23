@@ -2,8 +2,14 @@
 
 
 
+
+
+
 Software Mind
 ==============
+
+
+
 
 
 We co-operate at enourmous levels, with teams, companies, governments, 

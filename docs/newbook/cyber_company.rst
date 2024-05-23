@@ -2,8 +2,14 @@
 
 
 
+
+
+
 Robotics and a robotic company
 ===============================
+
+
+
 
 
   
@@ -40,6 +46,9 @@ Fire all the project managers
 
 
 
+
+
+
 MOOp / surveillance
 everything we do each day leaves a digital
 footprint. software can tracknthat and use it
@@ -56,8 +65,14 @@ and if they coukd thats not porkjct management
 
 
 
+
+
+
 Theory of firm - Coase
 =======================
+
+
+
 
 
 why are some companies big - because they can aborb capital
@@ -105,8 +120,14 @@ https://en.wikipedia.org/wiki/The_Visible_Hand
 
 
 
+
+
+
 The programmable company
 =================================
+
+
+
 
 
 Programming is theory buikding
@@ -248,6 +269,9 @@ Programmable company
 --------------------
 
 
+
+
+
 See also "blundering" - making a forms activities "anti-blunder"
 is effective (what about people cheating - see lack of enforcement)
 SOPPY What if a firms AI, a firms deep state, is encoded and accessible to be read and
@@ -257,12 +281,21 @@ is best expressed as config.
 ==============================
 
 
+
+
+
 COmpanies are version numbered
 ==============================
 
 
+
+
+
 Tickets and accounting
 ----------------------
+
+
+
 
 
 Tickets have three functions
@@ -349,8 +382,14 @@ extract and rebuild the rationale from commits (ie in house journalism?)
 
 
 
+
+
+
 What does the organisation of tomorrow look like
 ===========================================================
+
+
+
 
 
   LIES / TRUTH / UNFILTERED/FILTERED PERCEPTION
@@ -371,6 +410,9 @@ Chapter: Editors as managers, Test harnesses as ...
 ======================================================
 
 
+
+
+
 Why have a 9-5 culture? Why sprint? Is that the right way to run reporting
 What about the long term approach - stringers and ...
 # 2_orders_of_magnitude
@@ -378,8 +420,14 @@ What about the long term approach - stringers and ...
 
 
 
+
+
+
 Engineering is experimental more than theoretical
 ===========================================================
+
+
+
 
 
 
@@ -423,11 +471,17 @@ Chapter: 21C knowledge workers, 19C practises
 
 
 
+
+
+
 Chapter: new work organisation - not your 9-5, digital footprints, not planning
 forward but auditing backwards, test not trust (ie automated testing not "trust
 delegated people will fit it in somehow"
 Chapter: policy, process, control
 ==================================
+
+
+
 
 
   Software can / does make policy explicit.
@@ -452,6 +506,9 @@ fit in one head, that seems important in ways that otherwise make us throw up ou
 and say “it’s all rigged” or “they are all the same” or “who knows, let’s just keep going”
 Whole Org Test Rig
 ------------------
+
+
+
 
 
 The other important part of the Programmable company - how to find out what changes could

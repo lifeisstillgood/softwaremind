@@ -1,8 +1,14 @@
 ====
 
 
+
+
+
 MOOP
 ====
+
+
+
 
 
 Lefgers will
@@ -40,13 +46,22 @@ surveillance - good bad or indifferbet?
 
 
 
+
+
+
 Everything we do is will be monitored with sensors - that can be good 
 https://maphappenings.com/2022/09/19/location-arholes/
 ============================
 
 
+
+
+
 Organisational Mental Health
 ============================
+
+
+
 
 
 This is similar to, linked to SLow AI and MOOP - how do we create non-dysfunctional

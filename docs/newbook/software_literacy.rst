@@ -2,12 +2,21 @@
 
 
 
+
+
+
 Software Literacy
 ===============================
 
 
+
+
+
 The warfare of Genghis Khan
 ===========================
+
+
+
 
 
 From the turn of the first millenium AD, Eurasia had a generation or two of
@@ -92,6 +101,9 @@ The future belongs to the literate
 ----------------------------------
 
 
+
+
+
 Many many years ago, I found myself standing in a cavernous room underneath a
 bustling, noisy pub in London's Covent Garden.  It was a fine Summers day and
 the evening is sharply cooking.
@@ -121,6 +133,9 @@ training of middle-class merchantmen who would then dare, only 40
 years later, to cross the Atlantic.
 A better suit
 =============
+
+
+
 
 
 Now I used to feel smug about my nice little Printing Press literacy theory (it
@@ -163,6 +178,9 @@ Post. But we can be sure they are coming. And we can make sensible
 predictions about what they will and won't be.
 Everyone can read, everyone is on a horse
 =========================================
+
+
+
 
 
 So, yeah. I am postulating, conjecturing and all those other things that
@@ -211,6 +229,9 @@ Double down on what works
 --------------------------
 
 
+
+
+
 If asked to describe my politic, I would be boringly middle of the road,
 except in discussions of child protection
 where my position would be something like right of Genghis.
@@ -228,6 +249,9 @@ The productivity gains of the computer remain unrealised, the shared
 understanding of common mental models remain politically devisive,
 The Democratic Bet
 ------------------
+
+
+
 
 
 We have two ways to go - use software and ledgers, and communication and

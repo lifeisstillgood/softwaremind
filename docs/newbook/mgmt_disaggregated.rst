@@ -2,8 +2,14 @@
 
 
 
+
+
+
 Disaggregtion of maangement
 ============================
+
+
+
 
 
 The through road is: managment is being disrupted. (see MOOP). The supervisory
@@ -58,6 +64,9 @@ real agile - fire managers
 
 
 
+
+
+
 https://www.greptile.com/blog/100-devs
 the real agile manifesto focused on code 
 and working code
@@ -71,8 +80,14 @@ being honest about why size matters (shared treasury hence lower internal inters
 
 
 
+
+
+
 Built Organisations, Deep State
 ================================
+
+
+
 
 
 legacy costs of PRocess as well a physical legacy
@@ -95,8 +110,14 @@ As it wwiped out yahoo.
 ==================================
 
 
+
+
+
 Do we need Managers or Financiers?
 ==================================
+
+
+
 
 
 "You did not just cross the line, you are so far past the line, the line is a
@@ -126,6 +147,9 @@ Scale is a Blessing and A problem
 ---------------------------------
 
 
+
+
+
 Humans seemed to evolve to live in smallish tribes - dunbar number of 150.
 But economics seems to be a feature of human interaction. 
 and that scales. iPencil Like
@@ -153,6 +177,9 @@ Organisations and Scale
 =======================
 
 
+
+
+
 Humans have a challenge. Human brains are more or less optimised for handling a small tribe of people - a dozen or two, maybe up to the Dunbar Number of 150.  More than that and we forget or get confused or cannot work out who is family.  This is why celbritoes and politicians want to be your father or mother figure. so you remeber who the f**k they are.
 The problem is there are 8 billion people.
 Organising at scale is a problem.  We have tried to successively solve it. Religion, agricultire, education, kings, empires, military. Nation states. Science.
@@ -161,6 +188,9 @@ But its not merely building a single organisation that does a single thing.  Mil
 We really suck at that. Name a government department. You know one. The UK Post Office is a pertinatn exmaple right now.  How do you come in with a new broom on that one.
 Organisaing software in the small
 ----------------------------------
+
+
+
 
 
 Film making as a metaphor.
@@ -176,6 +206,9 @@ but CGI is lotsnif film scenes done bu different artists so making coherent whol
 ---------------------
 
 
+
+
+
 A way of thinking of responsibility outlines 
 How do we organise.
 Getting data structures right in software matters.
@@ -186,8 +219,14 @@ id, ego, Superego
 =======================
 
 
+
+
+
 Zipper Project Planning
 =======================
+
+
+
 
 
 My bugbear. Driving to new york, shouting 'progress reports' back to shore. But similarly

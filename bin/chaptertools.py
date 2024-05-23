@@ -202,10 +202,17 @@ def rmblankline(txt):
 # work direct on text?
 def simple_header_spacer(txt):
     """Given text, ensure a --- or === has blank line after it """
+    alllines = [line for line in txt.split("\n")]
     newtxt = ''
-    for line in txt.split("\n"):
+    for idx, line in enumerate(alllines):
         if line.endswith("===") or line.endswith("---"):
-            line += "\n"
+            if alllines[idx+1].strip() == '':
+                if idx >0 and alllines[idx-1].endswith("==="):
+                    pass
+                else:
+                    line += "\n"
+            else:
+                line += "\n"
         newtxt += line + "\n"
     #finally
     return newtxt[:-1]

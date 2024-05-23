@@ -1,5 +1,4 @@
 ==============================================
-
 Journalism is the AI training data for society
 ==============================================
 
@@ -15,9 +14,11 @@ points.  By not giving kids the right PoVfrom the start we dont prevent them
 discovering for them selves - we just make it harder.
 
 ==========================================================================
-
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
+
+
+
 
 
 What is AI?
@@ -53,6 +54,9 @@ HunterBrook - future if jountlaism
 -----------
 
 
+
+
+
 yes I think
 https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
 because we want to know what is "truth"
@@ -65,6 +69,9 @@ aee the globe thing for snowcrash
 
 Future Expansion
 ================
+
+
+
 
 
 Build a python LLM from scratch
@@ -104,11 +111,17 @@ Chapter: Journalism is labelling the training data for the world
 =================================================================
 
 
+
+
+
   * LLMs, AI, journalism
   Training data matters 
 
 AI and journalism
 -------------------
+
+
+
 
 
 Challenges of training data and bias
@@ -161,6 +174,9 @@ but perhaps problem is "timeline" - dont do timeline do education or agent with 
 
 training data matters
 ---------------------
+
+
+
 
 
 

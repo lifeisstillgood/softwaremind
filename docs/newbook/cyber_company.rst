@@ -1,7 +1,9 @@
 ===============================
 
+
 Robotics and a robotic company
 ===============================
+
   
   OODA loop (the biggest problem in Robotics is perception - of both the
   world and your self)  Which makes a fairly good quote bout human kind
@@ -34,6 +36,7 @@ Robotics and a robotic company
 Fire all the project managers
 --------------
 
+
 MOOp / surveillance
 everything we do each day leaves a digital
 footprint. software can tracknthat and use it
@@ -48,8 +51,10 @@ and building the tests - neother of whichnsoftware illterate pronect managers ca
 and if they coukd thats not porkjct management
 =======================
 
+
 Theory of firm - Coase
 =======================
+
 why are some companies big - because they can aborb capital
 in defined way
 banks
@@ -93,8 +98,10 @@ Who acts int ehc ompany and who acts on the company
 https://en.wikipedia.org/wiki/The_Visible_Hand
 =================================
 
+
 The programmable company
 =================================
+
 Programming is theory buikding
 https://news.ycombinator.com/item?id=40103407
 Startups are theiry building
@@ -232,6 +239,7 @@ roy schniwdrr / or company is not yet progrmamble - which means your competitrs 
 * Whole org test rig
 Programmable company
 --------------------
+
 See also "blundering" - making a forms activities "anti-blunder"
 is effective (what about people cheating - see lack of enforcement)
 SOPPY What if a firms AI, a firms deep state, is encoded and accessible to be read and
@@ -239,10 +247,13 @@ manipulated. Whether a bank grants a loan to a black family in missiippi can be 
 its code not meerely outcomes.  And what about when it schedules its meetings.  All policy
 is best expressed as config.
 ==============================
+
 COmpanies are version numbered
 ==============================
+
 Tickets and accounting
 ----------------------
+
 Tickets have three functions
 - to post-hoc justify expenditure
 - to forward plan change / effort
@@ -325,8 +336,10 @@ So the ideal I guess is some kind of open architecture discussion upfront and so
 extract and rebuild the rationale from commits (ie in house journalism?)
 ===========================================================
 
+
 What does the organisation of tomorrow look like
 ===========================================================
+
   LIES / TRUTH / UNFILTERED/FILTERED PERCEPTION
   Totalitarina bet, Wealth inequality, feudal society,
   property owning middle class,
@@ -343,13 +356,16 @@ What does the organisation of tomorrow look like
   wealth handed out daily stipends in return for loyalty.)
 Chapter: Editors as managers, Test harnesses as ...
 ======================================================
+
 Why have a 9-5 culture? Why sprint? Is that the right way to run reporting
 What about the long term approach - stringers and ...
 # 2_orders_of_magnitude
 ===========================================================
 
+
 Engineering is experimental more than theoretical
 ===========================================================
+
 
 bridge buiktnin 1846 rail bridgr twisted
 not until extra load added and twosted
@@ -389,11 +405,13 @@ through code
 Chapter: 21C knowledge workers, 19C practises
 =============================================
 
+
 Chapter: new work organisation - not your 9-5, digital footprints, not planning
 forward but auditing backwards, test not trust (ie automated testing not "trust
 delegated people will fit it in somehow"
 Chapter: policy, process, control
 ==================================
+
   Software can / does make policy explicit.
   4 quadrant area about DODGY / COMPLEX - INTEGRITY / SIMPLICITY
   SIMPLE / DODGY = Crime (ie LIBOR)
@@ -416,6 +434,7 @@ fit in one head, that seems important in ways that otherwise make us throw up ou
 and say “it’s all rigged” or “they are all the same” or “who knows, let’s just keep going”
 Whole Org Test Rig
 ------------------
+
 The other important part of the Programmable company - how to find out what changes could
 have improved your performance over past year.  Replay all the activity against a
 differetn set of policies / infrastrucutre.  Dont just test will the app survive, test

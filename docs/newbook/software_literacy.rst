@@ -1,9 +1,12 @@
 ===============================
 
+
 Software Literacy
 ===============================
+
 The warfare of Genghis Khan
 ===========================
+
 From the turn of the first millenium AD, Eurasia had a generation or two of
 warmer weather across the continent [#01]_.  In Western Europe we saw Crusades
 and the beginnings of the East West Schism, but thousands of miles to the east,
@@ -84,6 +87,7 @@ you think AI can magically solve your business problems tomorrow, you can solve
 them today with software and determination."
 The future belongs to the literate
 ----------------------------------
+
 Many many years ago, I found myself standing in a cavernous room underneath a
 bustling, noisy pub in London's Covent Garden.  It was a fine Summers day and
 the evening is sharply cooking.
@@ -113,6 +117,7 @@ training of middle-class merchantmen who would then dare, only 40
 years later, to cross the Atlantic.
 A better suit
 =============
+
 Now I used to feel smug about my nice little Printing Press literacy theory (it
 was a while ago).  But I remember attending `Sprint 16` the UK's Government's
 tech fest, and the Cabinet Office Minister standing up and spouting pretty much
@@ -153,6 +158,7 @@ Post. But we can be sure they are coming. And we can make sensible
 predictions about what they will and won't be.
 Everyone can read, everyone is on a horse
 =========================================
+
 So, yeah. I am postulating, conjecturing and all those other things that
 justify "gut feel after 30 years of working in software".
 Create a company, a society, where everyone has not just a computer, but the
@@ -197,6 +203,7 @@ as much sense as the Kafka-esque companies most of us work in.
 Its simple.  But very hard to change.
 Double down on what works
 --------------------------
+
 If asked to describe my politic, I would be boringly middle of the road,
 except in discussions of child protection
 where my position would be something like right of Genghis.
@@ -214,6 +221,7 @@ The productivity gains of the computer remain unrealised, the shared
 understanding of common mental models remain politically devisive,
 The Democratic Bet
 ------------------
+
 We have two ways to go - use software and ledgers, and communication and
 tracking to *control* people as in TOtalitatianism, or to empower
 and free people as in democracy.  (and no we are not there yet, its laong road)

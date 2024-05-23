@@ -1,6 +1,8 @@
 ====
+
 MOOP
 ====
+
 Lefgers will
 transform trade because supply chain becomes visibke globally 
 - its like my movements published - i cannot sneak off to hotel
@@ -34,11 +36,14 @@ history of a wedding ring
 surveillance - good bad or indifferbet?
 ----------------------------------------
 
+
 Everything we do is will be monitored with sensors - that can be good 
 https://maphappenings.com/2022/09/19/location-arholes/
 ============================
+
 Organisational Mental Health
 ============================
+
 This is similar to, linked to SLow AI and MOOP - how do we create non-dysfunctional
 organisations? How do we change ourselves and our orgnaisations. How much change to serve
 the needs of the org is too much? THis is also the essence of the Democratic / Totalitairn

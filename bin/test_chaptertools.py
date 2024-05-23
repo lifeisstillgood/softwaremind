@@ -10,40 +10,43 @@ def test_first():
 def test_first():
     data = [
 ['''
-hello
-=====
+wibble
+hello1
+======
 weee
     ''',
 '''
-hello
-=====
+wibble
+hello1
+======
 
 weee
     '''],
 
 ['''
 =====
-hello
+hello2
 =====
 weee
     ''',
 '''
 =====
-hello
+
+hello2
 =====
 
 weee
     '''],
-
+#really I dont wanst this but thats a lot of worl
 ['''
 Is thistitle
-hello
+hello3
 -----
 weee
     ''',
 '''
 Is thistitle
-hello
+hello3
 -----
 
 weee

@@ -1,10 +1,13 @@
 ====================
+
 The Totalitarian Bet
 ====================
+
 Totalitarian bet is also a bet 
 on democracy (or western modern democracy)
 How organisations decide
 ------------------------
+
 
 It is a constant political ebb and glow of 
 taking other peoples other "tribes" birepoints,
@@ -23,6 +26,7 @@ elwcted off ials and move towards worker "juries" to recommedn hard choices
 see executives as working at the 2(O)) boujdaries 
 Future Trends
 =============
+
 
 Guessing future trends is a much discredited literay trend,
 and I am not going to fix that. but one of the ways to avoid foolishness is
@@ -55,6 +59,7 @@ https://news.ycombinator.com/item?id=38928346
 role of journalism and osint 
 Democractic Bet
 ---------------
+
 That openness leads to better outcomes. Studies on agile in orgs. Military behaviour.
                            Democarcy is waaay newer than we think. And I think tied heavily to scientic method.
 All the big wind have gone 
@@ -72,8 +77,10 @@ the work is creative not operational
 leadership as form of terrorism or protection racket - I could blow up your whole company create toxic cultures - but I won't so please pay me 
 =======================
 
+
 Equal Say, Equal Share
 =======================
+
 The point is FDR was a traitor to his class.  And that he understood something that is
 rarely accepted in political circles.  An equal say means an equal share.  And if the
 answer is 'the plebs only get a say once every four years and the elite get a say every
@@ -81,6 +88,7 @@ day, look at what explicit implicit and openness directionality means.  There is
 long people can put up with Dark Pools - isnt there?
 Productivity - the key?
 -----------------------
+
 Many economists today bemoan lack of productivity growth
 as a major reason for economic failings.  As an example
 in UK wages have not risen since 2008 crash.  If we had enjoyed growthbrates similar to
@@ -109,13 +117,16 @@ is mostly unique - its more schumpter than the test rather than the wearher
 - programme mgmt isnmostly about intenal VC mgmt - and worse using politics ans not
 metrics like teaction
 ==========================
+
 You cannot escape openness
 ==========================
+
 Bitcoin, ledgers, banking
 Ledgers will be GPS of financial servixes - letting everyone know exactly what is where
 this will devastate traditional banking !
 Implicit is now Explicit
 ========================
+
 PArt of architects paradox - enforced openness is the desitnation
 oss4gov.org
 Why shoukd proprietary software be used by a single payer?
@@ -148,6 +159,7 @@ who decodes on the mext chnage - and how we measire ot has sicceed / predict out
 data driven
 Enforced Openness
 -----------------
+
 We are leading up to the Totalitarian Bet, but its worth noting how VW emissions
         is clear in the codebase.  Its not quite like LIBOR scandal where if there had not
 been texts explaining "we are going to do a crime" then there simply would have been no
@@ -155,16 +167,20 @@ proof.  This is where the code base told the Slow AI, the deep state of VW, told
 org, how to behave. criminally.
 =================
 
+
 Socialist utopia
 =================
+
 WE live in one. We are dependanet on people we simply dont know. Terry pratchett quote
 about big lies like truth justice. Other lie is that people will trade without trust.
 People will self harm without knowing a way back.  Northern Ireland is as good as it gets.
  HOw do we build trust in societies and in organisations?
 ============================
 
+
 Super Co-operative Species
 ============================
+
 The idea humanity is so successful because we are super- co-opearive,
                                          beyond simply working with family or local tribe,
 we have discovered
@@ -175,8 +191,10 @@ amazing, but where is the inter-colony trade?
 Whats the different between super co-operative and scoialism?
 =================================================================
 
+
 The Totalitarian Bet, The democratic bet and wealth taxes
 =================================================================
+
 
 * totalitarian bet
 lo-code is rubbish but learnign curve huge
@@ -187,6 +205,7 @@ through modelling - policits exists but will shift to more open and more model d
 We hope - thsts the totalitarian bet
 chapter:Feudalism, Democracy, Wealth Tax
 ========================================
+
 * democracy in companyes as orgnsityiona change
   Why should those employees control those - but they already do, it’s just internal
 politics, bribery
@@ -195,6 +214,7 @@ Jp Morgan was a democratising force just like FDR using the mass of people to pu
 old feudal elites (and make new ones natch)
 Chapter: MMT, Crypto, Equality, Democracy
 =========================================
+
 class war: https://billmitchell.org/blog/?p=61635
 chapter - MMT, class war, wealth tax, crypto
 my take is MMt is right about basics
@@ -221,6 +241,7 @@ cities due to
 climate chnage - or would it - the built environment?
 Totalitarian Bet
 ----------------
+
 Also:
 https://news.ycombinator.com/item?id=38897614
 We have 150 years apart two scandals of adukterated milk

@@ -1,7 +1,9 @@
 ============================
 
+
 Disaggregtion of maangement
 ============================
+
 The through road is: managment is being disrupted. (see MOOP). The supervisory
 aspect is a relic of industrial revoilution, knowledge working is small science
 like contorbutions, coders as new managers, finance as guardrails, resource
@@ -52,6 +54,7 @@ not whistleblowers but dailynwhistleblowers - iron law of bureaucracy
 real agile - fire managers
 --------------------------
 
+
 https://www.greptile.com/blog/100-devs
 the real agile manifesto focused on code 
 and working code
@@ -63,8 +66,10 @@ is good
 being honest about why size matters (shared treasury hence lower internal intersst rates)
 ================================
 
+
 Built Organisations, Deep State
 ================================
+
 legacy costs of PRocess as well a physical legacy
 * legacy cost in software. Reduce the impact of legacy cost will be a major factor in
 meeting changes. "Move fast and break things is needed for legacy removal"
@@ -83,8 +88,10 @@ in factories built 20 years ago - but "what are wesupposed to do - throw then al
 start again?" the dreadnaught problem Google for example is expeirencing a legacy problem
 As it wwiped out yahoo.
 ==================================
+
 Do we need Managers or Financiers?
 ==================================
+
 "You did not just cross the line, you are so far past the line, the line is a
 *dot*"
 - Joey, Friends
@@ -110,6 +117,7 @@ Indirect Coding (rules, config, reuse)
 Tooling to understand Indirect coding
 Scale is a Blessing and A problem
 ---------------------------------
+
 Humans seemed to evolve to live in smallish tribes - dunbar number of 150.
 But economics seems to be a feature of human interaction. 
 and that scales. iPencil Like
@@ -135,6 +143,7 @@ mean less waste which massively reduces labout force and ryirns to capital
 democracy 
 Organisations and Scale
 =======================
+
 Humans have a challenge. Human brains are more or less optimised for handling a small tribe of people - a dozen or two, maybe up to the Dunbar Number of 150.  More than that and we forget or get confused or cannot work out who is family.  This is why celbritoes and politicians want to be your father or mother figure. so you remeber who the f**k they are.
 The problem is there are 8 billion people.
 Organising at scale is a problem.  We have tried to successively solve it. Religion, agricultire, education, kings, empires, military. Nation states. Science.
@@ -143,6 +152,7 @@ But its not merely building a single organisation that does a single thing.  Mil
 We really suck at that. Name a government department. You know one. The UK Post Office is a pertinatn exmaple right now.  How do you come in with a new broom on that one.
 Organisaing software in the small
 ----------------------------------
+
 Film making as a metaphor.
 Tech lead - I dont maange people I manage code (Linus Torvalds)
 (?)       - Producer. Solving problems you did not know existed.
@@ -154,6 +164,7 @@ but still director has many people but can be there
 but CGI is lotsnif film scenes done bu different artists so making coherent whole kichbharder - use if pre viz etc 
 2 Orders of magnitude
 ---------------------
+
 A way of thinking of responsibility outlines 
 How do we organise.
 Getting data structures right in software matters.
@@ -162,8 +173,10 @@ When does my detail becaome your abstraction
 Abstraction cut off layers.
 id, ego, Superego
 =======================
+
 Zipper Project Planning
 =======================
+
 My bugbear. Driving to new york, shouting 'progress reports' back to shore. But similarly
 people thnking they are such masters of the world they can plan the arrival of new work
 like a zipper.

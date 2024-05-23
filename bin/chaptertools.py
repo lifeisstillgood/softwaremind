@@ -203,24 +203,12 @@ def rmblankline(txt):
 def simple_header_spacer(txt):
     """Given text, ensure a --- or === has blank line after it """
     newtxt = ''
-    previousline = None
-    thisline = None
-    import pdb;pdb.set_trace()
     for line in txt.split("\n"):
-        previousline = thisline
-        thisline = line
-        if not previousline: continue
-        if previousline.endswith("===") or previousline.endswith("---"):
-            if thisline.strip() == '': # ie  blank line, so thats good
-                thisline = thisline
-            elif len(thisline) == len(previousline):
-                thisline = thisline  #BEst guess as double header
-            else:
-                previousline += "\n"
-        newtxt += previousline + "\n"
+        if line.endswith("===") or line.endswith("---"):
+            line += "\n"
+        newtxt += line + "\n"
     #finally
-    newtxt += thisline
-    return newtxt
+    return newtxt[:-1]
 
 ############################ end
 

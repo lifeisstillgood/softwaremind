@@ -1,6 +1,7 @@
 ==============================================
 Journalism is the AI training data for society
 ==============================================
+
 LLM as representation of "our" culture (see where western culture came from -
 1776) Journlism as training data for LLMS - but by extension training data for
 our culture.# Google search is being repalced by LLMs. WHo controls the LLM
@@ -10,10 +11,11 @@ it fits on a laptop. Texas textbooks - what we teach our young, what is our
 culture, these matter See mickey mouse and solar system.  POV is worth 80 IQ
 points.  By not giving kids the right PoVfrom the start we dont prevent them
 discovering for them selves - we just make it harder.
-==========================================================================
 
+==========================================================================
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
+
 What is AI?
 What is intelligence?
 What does the philosophical disucssion of intelligence matter - not much
@@ -42,8 +44,10 @@ in evidence, in OSINT, in reliable journlism - World Service being simplest
 example of a massive foot gun for British people. I would put Wikipedia as the
 next battle ground - and how do we deal with that?
 See also text books, and education syllabuses. 
+
 HunterBrook - future if jountlaism
 -----------
+
 yes I think
 https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
 because we want to know what is "truth"
@@ -53,8 +57,10 @@ some is science, NIH ans NICE
 some is hunterbrook looking at OSINT
 or just see hunterbrook as OsINT
 aee the globe thing for snowcrash 
+
 Future Expansion
 ================
+
 Build a python LLM from scratch
 https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
 Word2vec, basic word encoding, a Queen is a female King.        
@@ -87,13 +93,16 @@ Word2vec, basic word encoding, a Queen is a female King.
   its access to tools and ots decision politics
   if AI can replace a manager tomorrow then software can do it today 
 AI as an embedded knowledge tool - spanner wmbeds other peoples knowledge - thisnis that to larger extent
+
 Chapter: Journalism is labelling the training data for the world
 =================================================================
 
   * LLMs, AI, journalism
   Training data matters 
-AI and journalism 
+
+AI and journalism
 -------------------
+
 Challenges of training data and bias
 We started with 'easy' problems - facial recgnition and black african
 descent. Oh look Stanford has white male phd students.
@@ -140,8 +149,11 @@ how dontounorgnaise timeline ? cannot show eveything - cannot shownjust friends 
 so whats the algorithm
 ? ask a go ernment they dont say just say "dont destroy democeacy"
 but perhaps problem is "timeline" - dont do timeline do education or agent with best interet s of the user 
+
+
 training data matters
 ---------------------
+
 
 Google and pagerank soon became google and returned tonhomepage data as feedback onnquality
 Tesla owns data on when the car braked or jerked or gas applied and 
@@ -154,6 +166,7 @@ my clicks or my steering as ots own proprietary data
 health data - it shoukd be public data 
 by default
 licensing or otherwise but not unavailable
+
 * Autism and rules software can represent, enfource, encourage, discover, speed
 up rules. But rules that are written dwn threaten priviledge This antognism will
 be paramount for future.  Piketty - can we beat him down? Can we over come

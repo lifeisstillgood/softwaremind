@@ -6,6 +6,7 @@ chaptertools
 Usage:
   chaptertools.py build_book [--firstpara]
   chaptertools.py show_chapters
+  chaptertools.py foo
   chaptertools.py (-h | --help)
   chaptertools.py --version
 
@@ -19,18 +20,10 @@ import shutil
 from pprint import pprint as pp
 import docutils.core
 
-ROOTPATH='/home/pbrian/projects/devmanual/docs'
+ROOTPATH='/home/pbrian/projects/softwaremind/docs/newbook'
 BACKUPLOCATION="/tmp/chaptertools/"
 
-# work direct on text?
-def simple_header_spacer(txt):
-    """Given text, ensure a --- or === has blank line after it """
-    newtxt = ''
-    for line in txt.split("\n"):
-        if line.endswith("==="):
-            line += "\n"# this is not idempotent
-        newtxt += line + "\n"
-    return newtxt[:-1]
+
 
 
 def parse_doc(doc_txt, filename):
@@ -147,13 +140,17 @@ def update_a_file(filepath, fn):
     if not os.path.isfile(filepath):
         raise Exception("File not found at {0}".format(filepath))
     #: backup file
-    shutil.copyfile(filepath, os.path.join(BACKUPLOCATION, os.path.basename(filepath)))
+
+#    shutil.copyfile(filepath,
+#                    os.path.join(BACKUPLOCATION,
+#                    os.path.basename(filepath)) )
     #: get text
     txt = open(filepath).read()
     try:
         newtxt = fn.__call__(txt)
     except Exception as e:
         print(e)
+        import pdb; pdb.set_trace()
 
     fo = open(filepath, 'w')
     fo.write(newtxt)
@@ -175,11 +172,6 @@ def walk_apply(fn):
     for filepath in files_to_use:
         update_a_file(filepath, fn)
 
-def run():
-    """We want to backup our files (incase) and apply a fn to each file
-    """
-    mkdir_backup()
-    walk_apply(mktitle)
 
 def test():
     import doctest
@@ -207,18 +199,28 @@ def rmblankline(txt):
         newtxt = txt
     return newtxt
 
-def mktitle(txt):
+# work direct on text?
+def simple_header_spacer(txt):
+    """Given text, ensure a --- or === has blank line after it """
     newtxt = ''
-    firstline = txt.split("\n")[0]
-    if firstline.find("===") == 0:
-        newtxt = txt
-    else:
-        newtxt = "="*len(firstline) + '\n'
-        newtxt += firstline + '\n'
-        newtxt += '='*len(firstline) + '\n'
-        newtxt += txt[len(firstline):]
+    previousline = None
+    thisline = None
+    import pdb;pdb.set_trace()
+    for line in txt.split("\n"):
+        previousline = thisline
+        thisline = line
+        if not previousline: continue
+        if previousline.endswith("===") or previousline.endswith("---"):
+            if thisline.strip() == '': # ie  blank line, so thats good
+                thisline = thisline
+            elif len(thisline) == len(previousline):
+                thisline = thisline  #BEst guess as double header
+            else:
+                previousline += "\n"
+        newtxt += previousline + "\n"
+    #finally
+    newtxt += thisline
     return newtxt
-
 
 ############################ end
 
@@ -230,3 +232,5 @@ if __name__ == '__main__':
         build_one_pager(firstpara=firstpara)
     elif args['show_chapters']:
         show_chapters()
+    elif args['foo']:
+        walk_apply(simple_header_spacer)

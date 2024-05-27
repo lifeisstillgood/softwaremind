@@ -18,6 +18,22 @@ Why have managers?
 -------------------
 
 
+https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/
+
+
+There are many silly things in the film Gettysburg (1993), but one moment I just love is Chamberlain’s exasperation on realizing on top of an already difficult morning that his regiment has been assigned to the front of the front brigade in the corps and so has to assign flankers; that rotation would have been regular in most armies. And what would have happened to create this scene, is that the commander of the V Corps (Major General George Sykes) opted to march with his first division in the front, which then its commander (Brigadier General James Barnes) opted to put the 3rd Brigade in front and its commander (Col. Strong Vincent) opted to put the 20th Maine in front and of course its commander (our Professor of Rhetoric, Joshua L. Chamberlain) would in turn have to pick where each of his companies would go. The main concerns for smaller units is that the front part of the unit regulates pace and the rear part of the unit will need to deal with stragglers (including heat and fatigue casualties) as well as keep up pace to avoid the unit ‘tailing out’ too badly as it marches.
+
+that is real management / leadership - making cog level decisions 
+that can if got wrong badly adfect everything but if right just keep going
+
+humming along is what (well designed) software can do 
+when it goes wrong we need to tke action (preplanned automatic action??)
+runbooks etc
+
+the less manual the more speed etc etc
+
+yes there is a risk (see automatic driving - hi this is an issue software cannot handle you have 2 seconds to avoid a crash)
+
 
 
 

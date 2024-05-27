@@ -1,6 +1,29 @@
 ===========================
 
+Theory of Great Smear
+- if there isnone king there is one court
+and everyone can get on woth politics of personal emotions
 
+- the more power is decolved the more people
+need to donpolitcs withbothers to achieve consensus
+so some political forms arr impossiblenwithout 
+faster communications, mass communication like newspapers
+and democracy isnone suchnthing (equal share equal vote)
+
+but rmeote work and so on leads to huge amounts of dorsctors flying around trying 
+to meet - can be based on vertical reporting etc
+but mostly there is a limit onnamount of distributed decision 
+making that can be done woth hoerarchy 
+
+so swiss cantons wont work so well in china
+
+or 
+
+we need more market like approaches (see dutch burse)
+to democracy - more open decisions where the decisions are made
+and implwmted 
+
+what if we do stupid dhait. yes its possible 
 
 
 

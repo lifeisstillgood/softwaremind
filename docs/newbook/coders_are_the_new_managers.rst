@@ -301,3 +301,18 @@ But with software metrics, thats a choice not a requirement. A model can be
 Deciding is affected to, as differnet costly options can be appplied to model
 and prod-parallel for analysis.
 And Act is the art of filling in the red failing tests in the prod-parallel.
+
+
+
+Post office
+hHS2
+Blood scandal
+
+“It was a bad call ripley a bad call”
+The thing is there are skeletons everywhere
+Director hazing is also there not just to weed out the bad ones but find the ones who fit, who won’t make waves who won’t “overturn the boat” - even if some boats need overturning
+
+It’s always a balancing act but at some point the skeletons just become self reinforcing - and you either never make any compromising mistakes (see why lawyers have professional ethics) or you find ways to air the dirty laundry often
+
+Amd the trump solution (nonshame just domwjateber) is not betrer
+

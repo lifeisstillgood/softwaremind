@@ -4,7 +4,25 @@
 behind the scenes footage of your life
 
 
+Rory Sutherland - bes thing for customer satissfactionnonntube 
+is dot mateix displays that reduce uncertainty's 
 
+measuring and being informed makes people willing to accept 
+being all in it together helps
+(see failure of strategic bombing and success of military conscription)
+
+software mind means something like this 
+toes in the democracy bet and moop and 
+constant widespread meansuremnt replacing accountancy as the means to run the business
+
+we can measure more, instantly
+
+we can model the corporate body and diagnose more wuickly
+
+we can see our own health and benefits 
+
+a society dedicated to the benefit of all ots members and able to measure it 
+- FDR traotor to class 
 
 
 MOOP

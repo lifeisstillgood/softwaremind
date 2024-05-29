@@ -8,6 +8,10 @@ conclusion: rory and younger guy
 Rory Sutherland - bes thing for customer satissfactionnonntube 
 is dot mateix displays that reduce uncertainty's 
 
+sutherland:
+checklists not schedules (test lead project mamabegemebt) 
+
+
 measuring and being informed makes people willing to accept 
 being all in it together helps
 (see failure of strategic bombing and success of military conscription)

@@ -3,7 +3,8 @@
 
 behind the scenes footage of your life
 
-
+intro: staniless steel rat - workingnout my personal philosohpy 
+conclusion: rory and younger guy 
 Rory Sutherland - bes thing for customer satissfactionnonntube 
 is dot mateix displays that reduce uncertainty's 
 

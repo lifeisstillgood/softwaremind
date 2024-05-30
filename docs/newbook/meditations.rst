@@ -8,6 +8,8 @@ monetary incl e / wealth
 
 Yes! I suggest starting with https://pragprog.com/titles/rjnsd/the-nature-of-software-dev...
 "The Nature of Software Development", by Ron Jeffries. Focus on incremental value, engage everyone, deliver and adjust.
+quality, speed, and reliability through automation and shifting left, is a lever that works. 
+
 
 
 

@@ -13,6 +13,14 @@ quality, speed, and reliability through automation and shifting left, is a lever
 
 
 engineering management :
+there are three metrics that matter 
+- speed
+- stabikity
+- cost
+
+and we use feedback and statistical process control, and openness
+and people skills to focus on changing the org so that the coders and improve those metrics
+
 
 cost managment ans monitoring
 process control

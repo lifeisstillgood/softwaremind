@@ -2,8 +2,9 @@
 
 
 
-
-
+human happiness - reduce uncertainty 
+tube signals
+monetary incl e / wealth 
 
 
 Open Source, Open Roads, Open pockets

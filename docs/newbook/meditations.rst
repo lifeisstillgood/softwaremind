@@ -305,3 +305,16 @@ issue
 aircraft carroers in WWII 
 50 made in one shipyard in 16 months
 https://youtu.be/iaJ9QZp-DJo?si=RiAQR-Dpqf-8qDmn
+
+
+Fire and manouvre
+-----------------
+
+"""
+don’t want to get too deep into maneuver-warfare doctrine (one of these days!) but in most of its modern forms (e.g. AirLand Battle, Deep Battle, etc) it aims to avoid the stalemate of static warfare by accelerating the tempo of the battle beyond the defender’s ability to cope with, eventually (it is hoped) leading the front to decompose as command and control breaks down.
+
+"""
+
+Software sop / software dorected activity - this immunises one against 
+collapse due to command and controo overwhelm
+

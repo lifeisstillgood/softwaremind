@@ -10,6 +10,15 @@ Yes! I suggest starting with https://pragprog.com/titles/rjnsd/the-nature-of-sof
 "The Nature of Software Development", by Ron Jeffries. Focus on incremental value, engage everyone, deliver and adjust.
 quality, speed, and reliability through automation and shifting left, is a lever that works. 
 
+
+
+engineering management :
+
+cost managment ans monitoring
+process control
+the art or craft - trust the process, but model and test continuously
+we can amazingly test everything all the time - do that
+
 https://news.ycombinator.com/item?id=40528852
 You're a cost center. Servers, staff, throw product and design in there. Do you know why the metrics are all bullshit.
 Because the metrics are the ones that marketing and sales use to show off. They dont fucking matter one bit to tech.

@@ -317,4 +317,4 @@ don’t want to get too deep into maneuver-warfare doctrine (one of these days!)
 
 Software sop / software dorected activity - this immunises one against 
 collapse due to command and controo overwhelm
-
+how does this make the ciewnof a programmable compmay? 

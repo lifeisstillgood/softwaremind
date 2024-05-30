@@ -10,6 +10,18 @@ Yes! I suggest starting with https://pragprog.com/titles/rjnsd/the-nature-of-sof
 "The Nature of Software Development", by Ron Jeffries. Focus on incremental value, engage everyone, deliver and adjust.
 quality, speed, and reliability through automation and shifting left, is a lever that works. 
 
+https://news.ycombinator.com/item?id=40528852
+You're a cost center. Servers, staff, throw product and design in there. Do you know why the metrics are all bullshit.
+Because the metrics are the ones that marketing and sales use to show off. They dont fucking matter one bit to tech.
+How much does each user of your system cost on a monthly basis? Is that an average? Do you have clients that are higher or lower cost (because they pay the same rate and consume more services?) ... If your sales team brings you growth in that group is it doing any one any good?
+Can you tell me per user how much of that cost is going to cloud or infra? How much of it is going to staff? Is what your staff working on going to move the needle on one of those numbers? No? Is your engineering effort going to lower the cloud bill? Is it going to shorten your testing and release cycle?
+"Value" is not some abstract concept, Its very concrete and very real. Put those numbers up, make them fucking real time numbers. Tell your engineering team that their bonus is tied to making those numbers better. Empower your team to tell sales and marketing NO, Or tell them that they need to raise the dam prices.
+You want to super charge your engineering team. Get them out socializing with the other nerds in the building, that's everyone who works for the CFO. Embed an accountant in every tech team to figure out how to account (literally) for the changes they are making.
+
+or
+There's designing a thing, there's building a thing, and there's operating a thing. These are very different things, and require very different ways of working. Software people have this bizarre misconception that somehow they're all the same thing, like some blob of random actions that they should intuitively know, and will execute flawlessly without any kind of enforced process or continuous improvment, and it should be easy, predictable, cheap, fast...... That's not how the world 
+(states state t al process control)
+
 
 
 

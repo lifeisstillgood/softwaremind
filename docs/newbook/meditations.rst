@@ -1,5 +1,28 @@
 ======================================
 
+
+dofferent forms of wealth
+- settled vs nomadic 
+its all about energy
+
+- nomadic energy comes fron herds and animals (either thise pastured 
+or thise that you can forage. this leads to form of warfare where you attaxknand destroy other villages 
+to prevent that village from foragingnon areas you want (forageing areas are vast like walves ranges)
+
+- settled energy comes from extracting stored energy in plants and cattle at agriculture intensoty
+
+it also means that nomadic peoples dont view terrotoy as something you hold and populate - but something you precent others from using
+so when gengis khan came and killed all the people he did not leave a garrison - he could not as the grass neess were so vast 
+so it looked like he left (settled people needed to conquer by war forst, then by garrison and then by achieve ong legitimacy )
+so when he left he always promosed tomcome back and thats when the real destruction occured - and it was less importat to kill the people 
+as long as he kept the cattle.
+
+industrial recolution is a new energy source (coal / oil).
+it is probably fair to say most wars since 1850 have been about coal and oil certainly two world wars
+
+so how does that chnage our needs? will energy independanxe end war?
+its not clear but inargue there is a second thing coming through - total surveillance - of that is bwneficial or not is down to our choices just as urban design matters so much 
+
 New Bureaucracy
 ---------------
 Development of a state - needs literate civilmservants (but no tax to pay tax collectors and no tax collectors cos no tax)

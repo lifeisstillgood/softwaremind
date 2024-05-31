@@ -1,5 +1,17 @@
 ======================================
 
+New Bureaucracy
+---------------
+Development of a state - needs literate civilmservants (but no tax to pay tax collectors and no tax collectors cos no tax)
+usually co-opting either covic elites or religious hieraxrhy
+
+but bureaucracy in a software MOOP
+world
+where every action is dogotal
+footprint is a matter of software - coding
+bureaucracy becomes trovoal? 
+
+what does this do for democratci bet? 
 
 
 human happiness - reduce uncertainty 

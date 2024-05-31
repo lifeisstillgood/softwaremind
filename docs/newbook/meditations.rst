@@ -12,7 +12,7 @@ footprint is a matter of software - coding
 bureaucracy becomes trovoal? 
 
 what does this do for democratci bet? 
-
+my FOSS gov plan
 
 human happiness - reduce uncertainty 
 tube signals

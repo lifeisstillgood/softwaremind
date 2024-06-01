@@ -23,6 +23,9 @@ it is probably fair to say most wars since 1850 have been about coal and oil cer
 so how does that chnage our needs? will energy independanxe end war?
 its not clear but inargue there is a second thing coming through - total surveillance - of that is bwneficial or not is down to our choices just as urban design matters so much 
 
+also mgmt - how to make a tribe gell - lost that in revokutions and all we have is management books - moop will be research 
+
+
 New Bureaucracy
 ---------------
 Development of a state - needs literate civilmservants (but no tax to pay tax collectors and no tax collectors cos no tax)

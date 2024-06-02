@@ -1,5 +1,13 @@
 ======================================
 
+Personal Pitch Deck
+--------------------
+FOSS community moderatoes Politxally exposed person social
+media handling - we prosecute or shame he death threata
+its like "i think youve had enough mate why not walk home in the fresh air"
+
+gov oss 
+
 
 dofferent forms of wealth
 - settled vs nomadic 

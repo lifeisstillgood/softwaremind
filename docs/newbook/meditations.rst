@@ -8,7 +8,18 @@ its like "i think youve had enough mate why not walk home in the fresh air"
 
 gov oss 
 
+Junk Food, Junk Information
+----------------------------
+> You're drowning in low-quality, pointless content designed to hijack your attention. It's making you distracted, confused, and unable to think straight.
+> Be mindful of what you consume. Spend more time creating, less mindlessly scrolling.
+> Your mind deserves better than the junk clogging your feed. Cut it out before it rots your brain.
 
+put dofferently look at your work emails - do we need to 
+be aware if sommucj - the syatem is flawed 
+
+
+energy
+------
 dofferent forms of wealth
 - settled vs nomadic 
 its all about energy

@@ -1,7 +1,9 @@
 ======================================
 
+
 Personal Pitch Deck
 --------------------
+
 FOSS community moderatoes Politxally exposed person social
 media handling - we prosecute or shame he death threata
 its like "i think youve had enough mate why not walk home in the fresh air"
@@ -10,6 +12,7 @@ gov oss
 
 Junk Food, Junk Information
 ----------------------------
+
 > You're drowning in low-quality, pointless content designed to hijack your attention. It's making you distracted, confused, and unable to think straight.
 > Be mindful of what you consume. Spend more time creating, less mindlessly scrolling.
 > Your mind deserves better than the junk clogging your feed. Cut it out before it rots your brain.
@@ -20,6 +23,7 @@ be aware if sommucj - the syatem is flawed
 
 energy
 ------
+
 dofferent forms of wealth
 - settled vs nomadic 
 its all about energy
@@ -47,6 +51,7 @@ also mgmt - how to make a tribe gell - lost that in revokutions and all we have 
 
 New Bureaucracy
 ---------------
+
 Development of a state - needs literate civilmservants (but no tax to pay tax collectors and no tax collectors cos no tax)
 usually co-opting either covic elites or religious hieraxrhy
 
@@ -101,6 +106,7 @@ There's designing a thing, there's building a thing, and there's operating a thi
 
 Open Source, Open Roads, Open pockets
 ===========
+
 
 
 
@@ -169,8 +175,10 @@ Globalisation means harmonisation
 
 
 
+
 New sensors allow new data industries
 --------------------------------------
+
 
 
 
@@ -219,10 +227,12 @@ beat the market
 
 
 
+
 if market is eceryone, you cant beat the market without taking from everyone
 onky valye is better resource allocatuon in prodyctive assets 
 The corproate form is not social
 --------
+
 
 
 
@@ -240,8 +250,10 @@ many cororpates exepct us to ask permasion
 
 
 
+
 Cyber Security
 ========================
+
 
 
 
@@ -273,6 +285,7 @@ security
 
 
 
+
 We talk about mechanisation of military (cavalry -> oil based transport)
 also mechanisationnof society
 but we need to talk about cyber security of society
@@ -292,8 +305,10 @@ tech
 
 
 
+
 Topless computing
 =================
+
 
 
 
@@ -303,6 +318,7 @@ Topless computing
 (June 2007)
 Not nearly as much fun as it sounds
 ===================================
+
 
 
 
@@ -354,6 +370,7 @@ The idiot test
 
 
 
+
 Elon Musk.
 Challenging statements if you have written docs on how to oerform a task (ie
 wiki not a bash script) you are not only idoot (bash is much "better") but you
@@ -365,6 +382,7 @@ milestones -> probably fitness style or cucumber style but the point is some
 form of policy that is enforced by engine
 Arranging the world to be iterated over.
 ----------------------------------------
+
 
 
 
@@ -391,6 +409,7 @@ the meaning of culture
 
 
 
+
 "nurtured bias" "what my
 grandmother taught me" "what the village thatbraised me taught me" the
 uncritical thinking that majority of people will show - see the seaweed icecream
@@ -402,6 +421,7 @@ https://youtu.be/iaJ9QZp-DJo?si=RiAQR-Dpqf-8qDmn
 
 Fire and manouvre
 -----------------
+
 
 """
 don’t want to get too deep into maneuver-warfare doctrine (one of these days!) but in most of its modern forms (e.g. AirLand Battle, Deep Battle, etc) it aims to avoid the stalemate of static warfare by accelerating the tempo of the battle beyond the defender’s ability to cope with, eventually (it is hoped) leading the front to decompose as command and control breaks down.

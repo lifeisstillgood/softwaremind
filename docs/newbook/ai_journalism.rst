@@ -4,6 +4,7 @@ Journalism is the AI training data for society
 
 
 
+
 LLM as representation of "our" culture (see where western culture came from -
 1776) Journlism as training data for LLMS - but by extension training data for
 our culture.# Google search is being repalced by LLMs. WHo controls the LLM
@@ -17,6 +18,7 @@ discovering for them selves - we just make it harder.
 ==========================================================================
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
+
 
 
 
@@ -60,6 +62,7 @@ HunterBrook - future if jountlaism
 
 
 
+
 yes I think
 https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
 because we want to know what is "truth"
@@ -72,6 +75,7 @@ aee the globe thing for snowcrash
 
 Future Expansion
 ================
+
 
 
 
@@ -119,11 +123,13 @@ Chapter: Journalism is labelling the training data for the world
 
 
 
+
   * LLMs, AI, journalism
   Training data matters 
 
 AI and journalism
 -------------------
+
 
 
 
@@ -180,6 +186,7 @@ but perhaps problem is "timeline" - dont do timeline do education or agent with 
 
 training data matters
 ---------------------
+
 
 
 

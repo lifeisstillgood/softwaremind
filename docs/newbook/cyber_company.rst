@@ -1,13 +1,7 @@
 ===============================
-
-
-
-
-
-
-
 Robotics and a robotic company
 ===============================
+
 
 
 
@@ -43,14 +37,9 @@ Robotics and a robotic company
   reporting not building "enterprise systems" but sxalable smaller 
   mission control - this is the next big challenge of organsoations - at cerain point
   the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
+
 Fire all the project managers
---------------
-
-
-
-
-
-
+==============================
 
 MOOp / surveillance
 everything we do each day leaves a digital
@@ -64,7 +53,6 @@ and so most of project mamagenrnt is useless
 planning the work is about designing the work
 and building the tests - neother of whichnsoftware illterate pronect managers can fo
 and if they coukd thats not porkjct management
-=======================
 
 
 
@@ -74,11 +62,6 @@ and if they coukd thats not porkjct management
 
 Theory of firm - Coase
 =======================
-
-
-
-
-
 
 why are some companies big - because they can aborb capital
 in defined way
@@ -121,16 +104,41 @@ What determines right size of a firm. What determines who gets to change the enc
 programmable company. How much deep state can be repalced by re-programming a company.
 Who acts int ehc ompany and who acts on the company
 https://en.wikipedia.org/wiki/The_Visible_Hand
-=================================
 
 
 
+Can there be a good bureaucracy?
+================================
+
+
+What is the point of bureaucracy? To *administer* not to *produce policy*.
+Software can be the perfect administrator.
+(preference for immediate feedback in large and super large companies)
+
+I descri be them as rules-based bureaurcacy and hierarchy based bureaucracy.
+Following the rules (that are clear explicit known up front and democractically
+adjustable) is *fine*. (startups follow the same rules, its just the rules are
+implicit in the minds of the founders.  Startups that fail have conflicting
+rules and waste a lot of time trying to surface the rules)
+
+Hiearachy based bureaucracies change the rules to suit the power structures.
+This is the unhealthy part.  It happens everywehre, and like Orwell's
+doublethink, the distance between expressed rulesa nd reality determines the
+amount of health.
+
+So why do they go wrong?
+
+The most disturbing case study at the moment is Post Office. Its not fully clear
+but the major reasoning seems to be an initial face-saving action lead to more
+and more till the amount of effort needed to say "hey this IT system is shit"
+just became easier to prostecute thousands of your own employees...
 
 
 
 
 The programmable company
 =================================
+
 
 
 
@@ -280,6 +288,7 @@ Programmable company
 
 
 
+
 See also "blundering" - making a forms activities "anti-blunder"
 is effective (what about people cheating - see lack of enforcement)
 SOPPY What if a firms AI, a firms deep state, is encoded and accessible to be read and
@@ -287,6 +296,7 @@ manipulated. Whether a bank grants a loan to a black family in missiippi can be 
 its code not meerely outcomes.  And what about when it schedules its meetings.  All policy
 is best expressed as config.
 ==============================
+
 
 
 
@@ -301,8 +311,10 @@ COmpanies are version numbered
 
 
 
+
 Tickets and accounting
 ----------------------
+
 
 
 
@@ -397,8 +409,10 @@ extract and rebuild the rationale from commits (ie in house journalism?)
 
 
 
+
 What does the organisation of tomorrow look like
 ===========================================================
+
 
 
 
@@ -427,6 +441,7 @@ Chapter: Editors as managers, Test harnesses as ...
 
 
 
+
 Why have a 9-5 culture? Why sprint? Is that the right way to run reporting
 What about the long term approach - stringers and ...
 # 2_orders_of_magnitude
@@ -438,8 +453,10 @@ What about the long term approach - stringers and ...
 
 
 
+
 Engineering is experimental more than theoretical
 ===========================================================
+
 
 
 
@@ -491,11 +508,13 @@ Chapter: 21C knowledge workers, 19C practises
 
 
 
+
 Chapter: new work organisation - not your 9-5, digital footprints, not planning
 forward but auditing backwards, test not trust (ie automated testing not "trust
 delegated people will fit it in somehow"
 Chapter: policy, process, control
 ==================================
+
 
 
 
@@ -530,7 +549,12 @@ Whole Org Test Rig
 
 
 
+
 The other important part of the Programmable company - how to find out what changes could
 have improved your performance over past year.  Replay all the activity against a
 differetn set of policies / infrastrucutre.  Dont just test will the app survive, test
 will the org. And will this work best or otehr configurations more effective?
+
+
+
+

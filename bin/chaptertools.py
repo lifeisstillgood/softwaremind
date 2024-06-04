@@ -199,6 +199,26 @@ def rmblankline(txt):
         newtxt = txt
     return newtxt
 
+def decider(line, nextline, nextplusone):
+    '''return false to do notghin '''
+    isheadingline = False
+    addline = False
+    if line.endswith("===") or line.endswith("---"):
+        isheadingline = True
+    if not isheadingline:
+        return False
+
+    if nextline and nextline.strip() == '':  # nextline is blank
+        return False
+    elif nextline and nextline.strip() != '':  # is writing
+        if nextplusone and nextplusone.endswith("==="):
+            #print("next plus one is header")
+            addline = False
+        else:
+            #print("not header, add newline")
+            addline = True
+    return addline
+
 # work direct on text?
 def simple_header_spacer(txt):
     """Given text, ensure a --- or === has blank line after it """
@@ -221,24 +241,11 @@ def simple_header_spacer(txt):
 
         # if previousplusone is writing, too complex needs adjusting
         # I am only rolling forwards
-        print("----", idx, line)
-        if line.endswith("===") or line.endswith("---"):
-            print("STARTING", idx)
-            if nextline and nextline.strip() == '':  # is blank
-                print("next line is blank")
-                pass
-            if nextline and nextline.strip() != '':  # is writing
-                print("next line is writing")
-                if nextplusone and nextplusone.endswith("==="):
-                    print("next plus one is header")
-                    pass
-                else:
-                    print("not header, add newline")
-                    line += "\n"
-            else:
-                print("add new line")
-                line += "\n"
-        newtxt += line + "\n"
+        if decider(line, nextline, nextplusone):
+            newtxt += line + "\n\n"
+        else:
+            newtxt += line + "\n"
+
     #finally
     print("------------")
     print(newtxt)

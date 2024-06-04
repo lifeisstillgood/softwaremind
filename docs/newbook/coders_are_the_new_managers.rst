@@ -1,5 +1,6 @@
 ===========================
 
+
 Theory of Great Smear
 - if there isnone king there is one court
 and everyone can get on woth politics of personal emotions
@@ -37,8 +38,10 @@ Coders are the New Managers
 
 
 
+
 Why have managers?
 -------------------
+
 
 
 https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/
@@ -84,8 +87,10 @@ having demos very good
 
 
 
+
 The Architect's Paradox
 =======================
+
 
 
 
@@ -111,6 +116,7 @@ The code is the design
 
 
 
+
 Articles and discussion - when build is deterministic, the code is the design.
 SO from now
 on we see a world of programmable companies which are franchises, with a franchise of one.
@@ -120,6 +126,7 @@ code. Cucumber
 
 Chapter: software is disaggeegating management 
 ===============================================
+
 
 
 
@@ -159,6 +166,7 @@ Chapter: Coders are the new managers, CPUs are the new workers
 
 
 
+
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
@@ -178,6 +186,7 @@ with rmeote working either everyone is told about everything
 or there is total loss of cohesion - either write it all down and lose political power or 
 coders are the new managers
 ---------------------------
+
 
 
 
@@ -221,8 +230,10 @@ pricate
 
 
 
+
 Non Jobs
 =========
+
 
 
 
@@ -242,8 +253,10 @@ of a job?
 
 
 
+
 The SDLC - Literate Best Practise / The DevManual
 =================================================
+
 
 
 
@@ -265,6 +278,7 @@ Chapter: Literary Best practise
 
 
 
+
 Software demands different best practises
 We are finding them - and what it will look like makes WaPo different to a
 medieval scriptoreum.
@@ -279,6 +293,7 @@ bug bounties for employees.  DO not fall for capitalism here, use socialism
 inside the org.
 Chapter OODA loop and production ready, tech debt.
 ==================================================
+
 
 
 

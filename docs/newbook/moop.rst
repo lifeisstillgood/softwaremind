@@ -1,6 +1,7 @@
 ====
 
 
+
 behind the scenes footage of your life
 
 intro: staniless steel rat - workingnout my personal philosohpy 
@@ -32,6 +33,7 @@ a society dedicated to the benefit of all ots members and able to measure it
 
 MOOP
 ====
+
 
 
 
@@ -77,6 +79,7 @@ surveillance - good bad or indifferbet?
 
 
 
+
 Everything we do is will be monitored with sensors - that can be good 
 https://maphappenings.com/2022/09/19/location-arholes/
 ============================
@@ -86,8 +89,10 @@ https://maphappenings.com/2022/09/19/location-arholes/
 
 
 
+
 Organisational Mental Health
 ============================
+
 
 
 

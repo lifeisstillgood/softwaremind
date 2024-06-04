@@ -2,13 +2,7 @@ import pytest
 
 import chaptertools
 
-def test_first():
-    txt = 'hello'
-    result = chaptertools.simple_header_spacer(txt)
-    assert result == txt
-
-def test_first():
-    data = [
+data = [
 ['''
 wibble
 hello1
@@ -67,7 +61,31 @@ The code is the design
 foo
     '''],
 
+['''
+now everything must be much more explicit.
+
+The code is the design
+=========================
+
+foo
+    ''',
+'''
+now everything must be much more explicit.
+
+The code is the design
+=========================
+
+foo
+    '''],
+
+
 ]
+
+
+
+
+def test_first():
+
     for txt, expected in data:
         result = chaptertools.simple_header_spacer(txt)
 

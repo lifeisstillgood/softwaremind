@@ -217,3 +217,29 @@ autism and rukes - fristrationnof bureaucracy and lack of what rukes and where
 to look it empowers thise innpower, but rikes take away power and priviledge
 software is operationalmrules - the advantages outweigh cost of openness esp
 when closed approach goves priviledge
+
+
+sabine
+------
+. It is not an optimal device for intelligence because it's not what it evolved to be. The human brain evolved to keep us alive. This means among other things it needs to be energy efficient, which indeed it is quite good at. 
+
+But artificial brains have no such limits so of course they will eventually outperform humans. 
+
+If you don't understand why superior intelligence is scary, you've read too many touchy sci-fi stories in which human irrationality saves the day. But humans didn't come to dominate this planet because they're somtimes irrational, they came to dominate despite of it. 
+
+What use is intelligence (at this level). It’s making better decisions- more informed (monitor) closer to reality (model) and more adhered to (mentor / manage)
+
+Companies are more intelligent at scale than the average and tail result for each individual in the org would be if left alone (primarily thats adherence !)
+
+So a more intelligent org has huge payoffs - that’s the software mind!!!
+
+But also AI - even so at the level of species competition the quail is technology is intelligence manifest in tools
+
+Being more intelligent than any human is *fine* - but that’s only useful if up against all other humans individually. If up against all humanity it’s a different problem
+
+No the real threat is use of AI by humans as a technology - surveillance, democratic bet, weapon design etc
+
+And yeah we can see a lot of that and the antidote is democracy and freedom 
+
+The rest - what we cannot imagine - perhaps it will be like trying to explain politics to a dog - at a certain point no question we ask or answer we get will be meaningful 
+

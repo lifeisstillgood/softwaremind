@@ -1,16 +1,18 @@
 ===============================
-
-
-
-
-
-
-
-
 Software Literacy
 ===============================
 
-
+..   literacy is a technology, as indeed is speech and perhaps thought? story of
+     olphulla goth germainic invents alphanet and writes it down - literacy
+     matters  as a technology the blub paradox and software literacy - you
+     cannot have large  software literate company without having all literate
+    employees - its like  mechanised warfare or gengis khan you can only move
+    the whole army when   everyone  is on horseback - speed of sound
+     Implications across board
+    democractic bet, state needs educated citizens - but that implies citizens
+    who choose - see why not teach slaves to read
+    http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her
+    humans teqch each other conciousness - we teeter on each orher
 
 
 
@@ -18,12 +20,6 @@ Software Literacy
 
 The warfare of Genghis Khan
 ===========================
-
-
-
-
-
-
 
 From the turn of the first millenium AD, Eurasia had a generation or two of
 warmer weather across the continent [#01]_.  In Western Europe we saw Crusades
@@ -34,11 +30,13 @@ leader's son, Temushin, later to be known as Gengis Khan, underwent an
 biopic-worthy lifetime, from priviledged warrior to outcast, to war leader and
 finally founder of a nation.  (Oh, and brutal mass killer, lets not forget that
 bit.)
+
 Ever since the dawn of agriculture (about 9000BCE) there has been a border
 tension between the nomadic cultures and the settled cultures (roughly described
 as we can raid you and get away faster than you can react, and we can build
 walls we can hide behind).  This time it was more than a raid - this time there
 were a *lot* of Mongols.
+
 Tribal internecine warfare had always bedevilled Mongolian unity, and Gengis
 Khan solved this by absorbing defeated tribes into a new model of army. the
 smallest unit of the army was a mounted cavalry unit of ten men, an `aravt` with
@@ -48,15 +46,18 @@ to maintaining *Mongolian* loyalty as opposed to *tribal* loyalty,  each aravt
 was always made up of men from many different tribes, so that the army cohesion
 was based around loyalty to the Great Khan, not to family.  He turned the tribal
 loyalty to a loyalty to the `aravt`, and hence the Khan.
+
 For us the most important lesson is they were all mounted on horses. Not "just"
 the cavalry, but *the whole army, and its tail of civilians*.  Mongolia was a
 horse culture, and everything from family to trade was conducted on the back of
 horses. Horses that moved faster than people.
+
 A medieval army (and indeed ancient and classical) basically moved at human
 walking pace. And as the head of a column had to make camp till the rear caught
 up, generally 10 miles a day was a *good* pace for much of human history.
 Cavalry could move quickly, but the whole army was limited to the speed of its
 slowest walker.
+
 Mongolia's horse based steppe culture, lived entirely in the saddle they
 basically *all had a horse*, and so they *all moved at horse pace*.
 Everything in an `aravt` was on horseback - tents, weapons, food and utensils.
@@ -71,6 +72,7 @@ the pace of the walking foot soldier.  But the Mongols, their whole army could
 move at the medieval equivalent of supersonic travel (See www.acoup.blog
 [#02]_). As medieval communication was almost totally based on messages passed
 on foot, the Mongol Army moved *faster than the news of their passing.*
+
 A similar effect is found in modern (post WW1 and WWII) army developments. The
 tank arrived too late in WWI to have much strategic impact, but the German
 Blitzkrieg perfected in Spain, showed that fast *cavalry raids* would enable
@@ -81,6 +83,7 @@ mechanics, and everything else in vehicles that can move and importantly are not
 easy to kill (there is a sort of tiering of armour, from vehicles on the
 battlefield to vehicles carrying the ovens. But they all need to move, and all
 need to at least provide some protection)
+
 (This got notably worse with airpower, with Vietnam being perhaps the height of
 "put everything into a helicopter", but the logistics for that became too
 unwieldy, or perhaps too costly.  And its an open question if that same failure
@@ -89,28 +92,26 @@ viable commerical 16-wheeler lorries, because the electirc battery equivalent of
 the rocket equation hurts quite quickly.  And its not clear if the electric tank
 can be a real thing.  If not, then sustaining a petrol driven army when the
 industrial base is moving to electric looks tricky.)
+
 Just like Gengis Khan the WWII and post WWII planners saw advantages in speed,
 and the need to make everything *mobile*.
 Steve Jobs dexcribed computers as bicycles of mind.  I desribe software as
 literacy. I conjecture there are huge adavtages in speed and agility in running
 software.
+
 We are at the "oh look tanks work well" stage.  How we transition companies and
 organistions to the "oh everything needs to be mobile now" is one of the
 fundamental themese of this book.
+
 Everyone is able to communicate via softwre, to read the code and understand
 what is going on. Not have to be slowed down by translations into and out of
 policy documents. And be shackled by lack of testing and modelling.
 Some people think AI will magivally do this for us. One of my conjectures is "If
 you think AI can magically solve your business problems tomorrow, you can solve
 them today with software and determination."
+
 The future belongs to the literate
 ----------------------------------
-
-
-
-
-
-
 
 Many many years ago, I found myself standing in a cavernous room underneath a
 bustling, noisy pub in London's Covent Garden.  It was a fine Summers day and

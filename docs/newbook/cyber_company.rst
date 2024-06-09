@@ -5,38 +5,84 @@ Robotics and a robotic company
 
 
 
+.. * Companies will become programmable companies, cyborgs. - partly "Slow AI",
+      partly "institution" and partly "programmable machine". - We can see the
+    differences   more now - institution has means to adjust itself - but can
+    they   do so in meaningful and deliberate manner. To have policy and then
+    to     have   policy implemented. To effect agreed   change is a
+    *democratic     effort*.#
+
+    - the actions of the company speed up / improved but also *limited* to what
+      the softwarewill allow, even if we can alter version numbers.
+
+    - robotics as a model for companies - perception and funding
+
+    - software guard rails - to leaser and greater extents software guides what
+    individual   enployees can or cannot do the policy is encoded - sales
+    discount limits, rlease   appovals   etc But these are axattered and hard
+    to   extract. but they donexist reading the   code,   writing the tests,
+    putting the   org in test rig allows you to doscover ans teat   thise
+    limits, younkight be   abek to do some with ai - but you can do it all now
+    with   effort and     software seeing the gilded cage? all in one
+    enterprise language?
+
+    - companies are *machines*. Entreprenuers build companies like inventors
+    build   machines.
+    They do one thing well.  COmpanies that do many things are a financial
+    cheat -   using
+     treasury to reduce cost of capital, see banks are a mirage.  The point is
+     if we   see them
+     as 'autonomous functioning machines that have role in benefiting human
+     society'   then their
+      position becomes clearer.  And it challenges some of assumptions of
+     capitalism.    See
+     "public transport is the answer to how can uber manage"?
 
 
+Large corporations are unnatural
+--------------------------------
+
+Companies are machines. And machines (and software) fucntion *best* when they
+do one thing well.  Large corporations act against that. They are usually many
+companies in one, using a shared treasury model to reduce their cost of
+capital. Berkshire hathaway is honest about it I guess.
+
+See Coase as well.  I think there will be a tendancy towards
+
+Why do some corporations absorb capital well and some not? M&A vs growth.
 
   
-  OODA loop (the biggest problem in Robotics is perception - of both the
-  world and your self)  Which makes a fairly good quote bout human kind
-  
-  arrnaging the workd to be iterated ocer
-  https://generalrobots.substack.com/p/the-mythical-non-roboticist
-  robotics struggles because realmworld is hard
-  humans have a model of the world developed ocer years
-  AI tries
-  education and science improces thatbmodel
-  organisations live in legally mediated workd
-  so models and assumptions about world can be 
-  extracted made explicit - and shareable 
-  SOPpy - see featiee files and regex descriotions
-  if this then that - will not work all time but when it does value is immense
-  we now seem to be at tippingnpoont where 
-  enough point solutions exist that whole org can be 
-  good enough repaced and will be quality dofference 
-  each org needs a black box called "perception" - what is going on
-  internally and externally, from that they can extract and cia policy 
-  workmout their decisions - this is a robotics concern
-  and we can reasonakly assume organisations are business rbotos
-    
-  so treat an org like a robot - it is seen as a person but bow it needs to 
-  be a robot - "perceptiom and funding" https://news.ycombinator.com/item?id=39707943
-  linking all subsystems together, treating internal data as single data bus
-  reporting not building "enterprise systems" but sxalable smaller 
-  mission control - this is the next big challenge of organsoations - at cerain point
-  the mission contol becomes humans and spreadsheets - stop that means stopping feudalism moat making 
+..  OODA loop (the biggest problem in Robotics is perception - of both the
+    world and your self)  Which makes a fairly good quote bout human kind
+
+    arrnaging the workd to be iterated ocer
+    https://generalrobots.substack.com/p/the-mythical-non-roboticist
+    robotics struggles because realmworld is hard
+    humans have a model of the world developed ocer years
+    AI tries
+    education and science improces thatbmodel
+    organisations live in legally mediated workd
+    so models and assumptions about world can be
+    extracted made explicit - and shareable
+    SOPpy - see featiee files and regex descriotions
+    if this then that - will not work all time but when it does value is immense
+    we now seem to be at tippingnpoont where
+    enough point solutions exist that whole org can be
+    good enough repaced and will be quality dofference
+    each org needs a black box called "perception" - what is going on
+    internally and externally, from that they can extract and cia policy
+    workmout their decisions - this is a robotics concern
+    and we can reasonakly assume organisations are business rbotos
+
+    so treat an org like a robot - it is seen as a person but bow it needs to
+    be a robot - "perceptiom and funding"
+https://news.ycombinator.com/item?id=39707943
+    linking all subsystems together, treating internal data as single data bus
+    reporting not building "enterprise systems" but sxalable smaller
+    mission control - this is the next big challenge of organsoations - at
+cerain point
+    the mission contol becomes humans and spreadsheets - stop that means
+stopping feudalism moat making
 
 Fire all the project managers
 ==============================

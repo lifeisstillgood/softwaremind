@@ -3,57 +3,23 @@ Introduction
 ============
 
 
-I believe Software is a new form of literacy.
+I believe that software is a new form of literacy.  And just as in the past,
+the individuals who are *software literate* will have greater advantages and
+earning potential, those companies that are *software literate* will enjoy
+advantages over their illiterate competitors, and our socitites will engage in
+what is a *democratic bet*, that softwate literacy will itself work hand in
+hand with democracy and individual rights.
 
-Over the oast few hundred years the wod has seen a literacy revolution,
-and with the industrial revolution each state has realised the value if an educated workforce, only withholding education in extreme cases if ideological prejudice (slavery, women)
-
-Just looking at this tbis one will reshape our organisations and our meta-organisations (society)
-There is a democratic bet we need to make that the best interests of the individual 
-will lead to the nest interests if the organisation and society.
-
-this book is an attemot to flesh out that argument and hopefully lead us to what to do next
+Which is quite a lot for an opening paragraph.  Lets dive in.
 
 
 
-* software is a new form of literacy
-
-  literacy is a technology, as indeed is speech and perhaps thought? story of olphulla
-goth germainic invents alphanet and writes it down - literacy matters as a technology the
-blub paradox and software literacy - you cannot have large software literate company
-without having all literate employees - its like mechanised warfare or gengis khan you can
-only move the whole army when everyone is on horseback - speed of sound Implications
-across board
-
-http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html?m=1
-humans teqch each other conciousness - we teeter on each orher 
+<<<software_literacy.rst>>>
 
 
-* Companies will become programmable companies, cyborgs. - partly "Slow AI", partly
-"institution" and partly "programmable machine". - We can see the differences more now -
-institution has means to adjust itself - but can they do so in meaningful and deliberate
-manner. To have policy and then to have policy implemented. To effect agreed change is a
-*democratic effort*.#
 
-  - the actions of the company speed up / improved but also *limited* to what the software
-will allow, even if we can alter version numbers.
+<<<cyber_company.rst>>>
 
-  - robotics as a model for companies - perception and funding
-
-  - software guard rails - to leaser and greater extents software guides what individual
-enployees can or cannot do the policy is encoded - sales discount limits, rlease appovals
-etc But these are axattered and hard to extract. but they donexist reading the code,
-writing the tests, putting the org in test rig allows you to doscover ans teat thise
-limits, younkight be abek to do some with ai - but you can do it all now with effort and
-software seeing the gilded cage? all in one enterprise language?
-
-  - companies are *machines*. Entreprenuers build companies like inventors build machines.
-They do one thing well.  COmpanies that do many things are a financial cheat - using
-treasury to reduce cost of capital, see banks are a mirage.  The point is if we see them
-as 'autonomous functioning machines that have role in benefiting human society' then their
-position becomes clearer.  And it challenges some of assumptions of capitalism.  See
-"public transport is the answer to how can uber manage"?
-    
 
 * coders are the new managers, the code is the design
   - which leads to "software is disaggregating management"
@@ -108,7 +74,7 @@ that needs co-ordinating (which can be software dirven).
 intent" - we are supplying a new product (company) to a financier. hard to ignore use of
 democracy when feudalism of management is breaking.
 
-Orwell and doubkethink - smaller the dissonance the freer the org aisatio 
+Orwell and doubkethink - smaller the dissonance the freer the org aisatio
 and tge less likely manor issues - how woukd post office CEO rate?
 
 * AI / journalism open infomraiton flow You dont need AI tomorrow, you can software
@@ -136,7 +102,6 @@ too much ito AI not AI being bad)
 * We have a democratic bet to make - our society builds on individual rights and the next
 forms of society are being built now.  We need to win the democracti bet.
  
-<<<software_literacy.rst>>>
 
 <<<coders_are_the_new_managers.rst>>>
 
@@ -144,7 +109,7 @@ forms of society are being built now.  We need to win the democracti bet.
 
 <<<democractic_bet.rst>>>
 
-<<<cyber_company.rst>>>
+
 
 <<<cyber_society.rst>>>
 

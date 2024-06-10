@@ -91,3 +91,38 @@ def test_first():
 
         assert result == expected
 
+wordwrap_data= [
+['======\n\nthisis line',
+ '======\n\nthisis line'],
+['''Hello \n this is a paragrapah\n with several lines\n that must be broken
+into 80 char lines correctly\n even with lots of breaks in it\n because thats
+\n\n
+the correct way of looking at things even if I keep typing till\n I hit a
+whole sentence that is liner than 8 chars I am going to have to break that as
+best I can ok make sense''',
+
+'''Hello  this is a paragrapah with several lines that must be broken into 80 char
+lines correctly even with lots of breaks in it because thats
+
+the correct way of looking at things even if I keep typing till I hit a whole
+sentence that is liner than 8 chars I am going to have to break that as best I
+can ok make sense''']
+    ]
+
+def test_wordwrap():
+    para = '''HELLO
+lkfjdljflksdjf
+fds sfd dhfsjdh
+sdjfhskj sdfjh
+sdjfhkdshfsjhsd
+sdfkhsdjkdsf
+hkdsfhkj dskfh '''
+
+    expected = 'HELLO lkfjdljflksdjf fds sfd dhfsjdh sdjfhskj sdfjh sdjfhkdshfsjhsd sdfkhsdjkdsf\nhkdsfhkj dskfh '
+    val = chaptertools.wrappara(para)
+
+    assert val == expected
+    for txt, expected in wordwrap_data:
+        result = chaptertools.wordwrapper(txt)
+        assert result == expected
+

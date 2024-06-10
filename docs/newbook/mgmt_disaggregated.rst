@@ -1,14 +1,80 @@
 ============================
-
-
-
-
-
-
-
-
 Disaggregtion of maangement
 ============================
+
+
+* disaggregation of management - implications - co-ordination of company is way
+more
+effective in software, test rigs etc. - co-ordination of change is mostly
+politics, which
+can be eitehr democratic and open or totalitarian and feudal.  I prefer one.
+THe
+bet is
+one works better. - management role in deciding what to do where to go
+(strategy) is
+limited. Thats basically eitehr built in (oil production) or its top down
+executive choice
+or shareholder choice. - management role in operations can be large - but again
+this is
+built and modelled.  hilarious thing on indiced demand and modelled software
+showing road
+changes in future. THere is not a choice. - managemtn role in tactics and
+doctrine.  Yes -
+but those are also bottom up, industry practise - see DevManual - coase and
+chandler views
+on mgmt - simplified large company single treasury cost of capital - finance as
+2(O)
+function or 4(O) company operating system is not "core competancy" people try
+to
+outsource
+but can work for very snall companies, medium companies isually try to
+customise
+(demon)
+but at some point each compnay is many companies (do one thing well) with
+shared
+treasury
+(multi prodict sales) Foss chnages the coaseing equilibrium- thats wjat we miss
+about foss
+- everythign is a buskness operating system
+
+
+Software models and dice rolls - playable democracy, communicationg via games.
+
+Listen to
+https://podcasts.apple.com/gb/podcast/three-moves-ahead/id307176617?i=
+1000605795748
+
+one take away is there is andoscussion about "+25 on constructionncosts
+wothbthis
+hardware" when playing covilisationngames.  they are referring to a shared
+playable model
+that they have all used and its impact / relvance to rela world history (and
+the
+doctor of
+military history helps) but the point is they understand the aoftware models
+and
+the flaws
+in those models - now imagine companies CEOs doscussing the same models
+
+i rmeeber being anciallry to board discussions on takeovers where my boss woukd
+come
+outnof the days long meeting severu couple hours and adjust the big spewadsheet
+we had
+curated thats the inefficient method - and you cannot plug realmworld metrics
+into
+spreadsheet because the CEO probably sesigned it wrong (the exonomist folly)
+but
+when we
+have a whole org test rig, we can sit modelling and simulation o top of it and
+it informs
+our discussio  or it just helps everyone agree
+
+and simply put when we want to see chnage we add new test or comstraint to
+whole
+org test
+rig and we peg that to a telease date - that becomes the project no need for
+status
+reports !
 
 
 

@@ -7,6 +7,7 @@ Usage:
   chaptertools.py build_book [--firstpara]
   chaptertools.py show_chapters
   chaptertools.py foo
+  chaptertools.py wordwrap
   chaptertools.py (-h | --help)
   chaptertools.py --version
 
@@ -133,7 +134,7 @@ def mkdir_backup():
         pass #ignore we want to recreate idempotent
 
 
-def update_a_file(filepath, fn):
+def update_a_file(filepath, fn, dryrun=False):
     """Grab the text in filepath, pass text to `fn` and write the result back to filepath
     """
     #: check exists
@@ -152,11 +153,14 @@ def update_a_file(filepath, fn):
         print(e)
         import pdb; pdb.set_trace()
 
-    fo = open(filepath, 'w')
-    fo.write(newtxt)
-    fo.close()
+    if dryrun:
+        print(newtxt)
+    else:
+        fo = open(filepath, 'w')
+        fo.write(newtxt)
+        fo.close()
 
-def walk_apply(fn):
+def walk_apply(fn, dryrun=False):
     files_to_use = []
     notin = ['.git', '_build']
     for dirpath, dirnames, filenames in os.walk(ROOTPATH):
@@ -169,6 +173,7 @@ def walk_apply(fn):
         for file in filenames:
             if file.endswith(".rst"):
                 files_to_use.append(os.path.join(dirpath, file))
+
     for filepath in files_to_use:
         update_a_file(filepath, fn)
 
@@ -219,6 +224,42 @@ def decider(line, nextline, nextplusone):
             addline = True
     return addline
 
+def wrappara(para):
+    newpara = ''
+    tmp = ''
+    #replace all \n with space, unless \n<sapce> when just repalce ''
+    for ix, char in enumerate(para):
+        if char == '\n':
+            if para[ix+1] == ' ':
+                pass
+            else:
+                tmp += ' '
+        else:
+            tmp += char
+    ##### tmp is now free of newlines but has sane spacing -
+    currentlinelen = 0
+    for word in tmp.split(" "):
+        if currentlinelen + len(word) > 80 and currentlinelen !=0:
+            if newpara[-1] == ' ':
+                newpara = newpara[:-1]
+            newpara += '\n'
+            currentlinelen = 0
+        elif currentlinelen + len(word) > 80 and currentlinelen == 0:
+            currentlinelen = 0
+        currentlinelen += len(word + " ")
+        newpara += word + " "
+    return newpara[:-1] #remove trailing space
+
+def wordwrapper(txt):
+    allparas = [line for line in txt.split("\n\n")]
+
+    newtxt = ''
+    for para in allparas:
+        if para:
+            newtxt += wrappara(para) + "\n\n"
+
+    return newtxt[:-2]
+
 # work direct on text?
 def simple_header_spacer(txt):
     """Given text, ensure a --- or === has blank line after it """
@@ -263,3 +304,5 @@ if __name__ == '__main__':
         show_chapters()
     elif args['foo']:
         walk_apply(simple_header_spacer)
+    elif args['wordwrap']:
+        walk_apply(wordwrapper, dryrun=True)

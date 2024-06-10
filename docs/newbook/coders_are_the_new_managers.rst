@@ -1,4 +1,7 @@
 ===========================
+Coders are the New Managers
+===========================
+
 
 
 Theory of Great Smear

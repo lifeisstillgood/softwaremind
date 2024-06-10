@@ -134,7 +134,7 @@ def mkdir_backup():
         pass #ignore we want to recreate idempotent
 
 
-def update_a_file(filepath, fn, dryrun=False):
+def update_a_file(filepath, fn):
     """Grab the text in filepath, pass text to `fn` and write the result back to filepath
     """
     #: check exists
@@ -151,16 +151,12 @@ def update_a_file(filepath, fn, dryrun=False):
         newtxt = fn.__call__(txt)
     except Exception as e:
         print(e)
-        import pdb; pdb.set_trace()
 
-    if dryrun:
-        print(newtxt)
-    else:
-        fo = open(filepath, 'w')
-        fo.write(newtxt)
-        fo.close()
+    fo = open(filepath, 'w')
+    fo.write(newtxt)
+    fo.close()
 
-def walk_apply(fn, dryrun=False):
+def walk_apply(fn, onlythisfile=''):
     files_to_use = []
     notin = ['.git', '_build']
     for dirpath, dirnames, filenames in os.walk(ROOTPATH):
@@ -175,8 +171,11 @@ def walk_apply(fn, dryrun=False):
                 files_to_use.append(os.path.join(dirpath, file))
 
     for filepath in files_to_use:
-        update_a_file(filepath, fn)
-
+        if onlythisfile:
+            if onlythisfile in filepath:
+                update_a_file(filepath, fn)
+        else:
+            update_a_file(filepath, fn)
 
 def test():
     import doctest
@@ -224,41 +223,6 @@ def decider(line, nextline, nextplusone):
             addline = True
     return addline
 
-def wrappara(para):
-    newpara = ''
-    tmp = ''
-    #replace all \n with space, unless \n<sapce> when just repalce ''
-    for ix, char in enumerate(para):
-        if char == '\n':
-            if para[ix+1] == ' ':
-                pass
-            else:
-                tmp += ' '
-        else:
-            tmp += char
-    ##### tmp is now free of newlines but has sane spacing -
-    currentlinelen = 0
-    for word in tmp.split(" "):
-        if currentlinelen + len(word) > 80 and currentlinelen !=0:
-            if newpara[-1] == ' ':
-                newpara = newpara[:-1]
-            newpara += '\n'
-            currentlinelen = 0
-        elif currentlinelen + len(word) > 80 and currentlinelen == 0:
-            currentlinelen = 0
-        currentlinelen += len(word + " ")
-        newpara += word + " "
-    return newpara[:-1] #remove trailing space
-
-def wordwrapper(txt):
-    allparas = [line for line in txt.split("\n\n")]
-
-    newtxt = ''
-    for para in allparas:
-        if para:
-            newtxt += wrappara(para) + "\n\n"
-
-    return newtxt[:-2]
 
 # work direct on text?
 def simple_header_spacer(txt):
@@ -305,4 +269,6 @@ if __name__ == '__main__':
     elif args['foo']:
         walk_apply(simple_header_spacer)
     elif args['wordwrap']:
-        walk_apply(wordwrapper, dryrun=True)
+        print("""Wordwrap is waay harder than a simple few lines will do.
+            I expect i will have to parse the text with ReSt and then only
+            wordwrap lines that are really paragraphs of text according to Rest""")

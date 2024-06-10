@@ -19,6 +19,14 @@ discovering for them selves - we just make it harder.
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
 
+I use the term "arrange the world so it can be iterated over".
+THis is an act of moving something from the physical to the virtual
+(picture: matrix)
+
+It places something physical within reach of software, thought, analysis,
+and optimiastion. It is the essence of MOOP.  And its why AI is not going to
+replace you, plain-old-software will.
+
 
 
 
@@ -47,6 +55,7 @@ and not as much as "robotic replacement" because companies nned to be software
 literte - arranged so that one can iterate over them.  They need to programmable
 - and if so then you dont need AI.  You just need to write code.  But then you
   get "free interns".
+
 Role of training data, and journalism.  How dow e find ground truth in polarised
 world. Well world is always beenpolarised - see, Luther. We find it
 in evidence, in OSINT, in reliable journlism - World Service being simplest
@@ -76,65 +85,44 @@ aee the globe thing for snowcrash
 Future Expansion
 ================
 
-
-
-
-
-
-
 Build a python LLM from scratch
 https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
+
 Word2vec, basic word encoding, a Queen is a female King.        
-  AI is not magic, it simply tries to solve the robotics issues
-  - what is the perception of the real world
-  - what is the model of the real world
-  - what is the perception of my situaiton in the world
-  - what is the next action 
-  (OODA)
-  But AI is able to *build* a model in a amazing new way,
-  but a model of the world is not useful without perception of 
-  world and own ability.
-  So if AI can build some model of a "perfect manager brain", 
-  it will still need to be fed perceptions of the operations daily 
-  ANd are those already being fed upwards - honestly turns out mostly no.
-  THey are stuck in siloes, they are filter through powerpoint presrntations
-  and massaged by project managers, 
-  AI can learn to balance a ball on a stick.  But if we have unclear
-  information about where the ball is, how the stick is moving etc,
-  it will perform at least as badly as an actual human manager.
-  The perception feedback must be good for any model to be transferrable.
-  If it is bad then how do we behave - the same way most managers behave - 
-  find a few trusted lieutenants who can find *just enough* information 
-  to be representative and keep churning and find that playing politics in
-  feudal environment is almost always more profitable than fixing the
-  perceptiin and action problems.
-  AI is not magic. if you think some or all of job can be repaced by AI
-  then the question is, why cant it be repaced today woth traditional software
-  its not volume of data - no human can compete
-  its access to tools and ots decision politics
-  if AI can replace a manager tomorrow then software can do it today 
+AI is not magic, it simply tries to solve the robotics issues
+
+- what is the perception of the real world
+- what is the model of the real world
+- what is the perception of my situaiton in the world
+- what is the next action
+
+(OODA)
+But AI is able to *build* a model in a amazing new way,
+but a model of the world is not useful without perception of
+world and own ability.
+So if AI can build some model of a "perfect manager brain",
+it will still need to be fed perceptions of the operations daily
+ANd are those already being fed upwards - honestly turns out mostly no.
+THey are stuck in siloes, they are filter through powerpoint presrntations
+and massaged by project managers,
+AI can learn to balance a ball on a stick.  But if we have unclear
+information about where the ball is, how the stick is moving etc,
+it will perform at least as badly as an actual human manager.
+The perception feedback must be good for any model to be transferrable.
+If it is bad then how do we behave - the same way most managers behave -
+find a few trusted lieutenants who can find *just enough* information
+to be representative and keep churning and find that playing politics in
+feudal environment is almost always more profitable than fixing the
+perceptiin and action problems.
+AI is not magic. if you think some or all of job can be repaced by AI
+then the question is, why cant it be repaced today woth traditional software
+its not volume of data - no human can compete
+its access to tools and ots decision politics
+if AI can replace a manager tomorrow then software can do it today
 AI as an embedded knowledge tool - spanner wmbeds other peoples knowledge - thisnis that to larger extent
 
 Chapter: Journalism is labelling the training data for the world
 =================================================================
-
-
-
-
-
-
-
-  * LLMs, AI, journalism
-  Training data matters 
-
-AI and journalism
--------------------
-
-
-
-
-
-
 
 Challenges of training data and bias
 We started with 'easy' problems - facial recgnition and black african
@@ -143,12 +131,14 @@ Bias in Generative AI: show me images of nazi stormtroopers.
 Hang on. Why are there chinese or black african stomrtroopers?? Huh
 Look at how skin cacner detection - is there a ruler in the image? Is the
 image taken under flouresent light ?
+
 - there is *almost certainly* child porn in training data. That bothers me
   enormously.
-- But what about 
-Fixing it. "publish your training data". Thats a *positive* move, but, "hey we
+
+  - But what about  Fixing it. "publish your training data". Thats a *positive* move, but, "hey we
 trained on these 5 billion images. What do you do with those? How do you even
 classifiy them?
+
 CV scanning. Anecodatally a large corporation decides to use AI to scan CVs,
 and identify young people most likely to succeed in the corporation. It is given
 the CVs of everyone in the company, and gets to work. It flatout rejects every
@@ -157,12 +147,15 @@ They dig in - why is this going to be rejected. Basically, women reach a certain
 point in the company, and rise no higher. Therefore women wont succeed at this
 company.  Now what? It is correctly analysing the problem. Its not the answer
 you want.
+
 But it is a part of the democractic bet - AI is not fooled by the double-think
 bias humans introduce to be able to survive.  Any totaltitarian regieme has that
 in it.  But only an egalitarian democracy has the ability to change to make
 itself truly equal.
+
 Do we want to do that? THose who will obviously gain say yes. THose who will
 lose, and what of those who will lose big? Shall we introduce a wealth tax?
+
 World building matters (ability to plan is basically
 ability to predict future. THis is a hall mark of intelligence - also why
 people with bad internal models make poor decisions, and why its so hard to
@@ -172,11 +165,14 @@ same model at first, its also why edication laevels make biggest
 differentiator in politics, and also why choosing the first model makes your
 'side' more relevant. See north korean education camps. But also see how
 many people did nto believe societ model but kept stum'
+
 Any how - world building - effective model - how 
 LLM - conceptually similar to knearest neighbour
 and word2vec 
+
 Journalism and the training data 
 ————
+
 timeline is the problem - sympathy for facebook because 
 how dontounorgnaise timeline ? cannot show eveything - cannot shownjust friends because broing
 so whats the algorithm
@@ -187,24 +183,13 @@ but perhaps problem is "timeline" - dont do timeline do education or agent with 
 training data matters
 ---------------------
 
-
-
-
-
-
-
-
-Google and pagerank soon became google and returned tonhomepage data as feedback onnquality
-Tesla owns data on when the car braked or jerked or gas applied and 
-can record that and upload it nightly and use for modelling
-journlism is societies way of marking training data
-textbooks are way of marking trianong data 
-science is way to doscover correct weights for feedback
-now why is it that google keeps
-my clicks or my steering as ots own proprietary data
-health data - it shoukd be public data 
-by default
-licensing or otherwise but not unavailable
+Google and pagerank soon became google and returned tonhomepage data as feedback
+onnquality Tesla owns data on when the car braked or jerked or gas applied and
+can record that and upload it nightly and use for modelling journlism is
+societies way of marking training data textbooks are way of marking trianong
+data science is way to doscover correct weights for feedback now why is it that
+google keeps my clicks or my steering as ots own proprietary data health data -
+it shoukd be public data by default licensing or otherwise but not unavailable
 
 * Autism and rules software can represent, enfource, encourage, discover, speed
 up rules. But rules that are written dwn threaten priviledge This antognism will
@@ -213,6 +198,7 @@ priviledge? SEC approach - legistlate priviledge into being good. But leave them
 enough to make it worth thier while? THreat of digital currency. The example of
 cryptocurrency as why we have regulatioon and crime (see Sherlock holmes stories
 about bank failures)
+
 autism and rukes - fristrationnof bureaucracy and lack of what rukes and where
 to look it empowers thise innpower, but rikes take away power and priviledge
 software is operationalmrules - the advantages outweigh cost of openness esp
@@ -221,25 +207,41 @@ when closed approach goves priviledge
 
 sabine
 ------
-. It is not an optimal device for intelligence because it's not what it evolved to be. The human brain evolved to keep us alive. This means among other things it needs to be energy efficient, which indeed it is quite good at. 
 
-But artificial brains have no such limits so of course they will eventually outperform humans. 
+. It is not an optimal device for intelligence because it's not what it evolved
+to be. The human brain evolved to keep us alive. This means among other things
+it needs to be energy efficient, which indeed it is quite good at.
 
-If you don't understand why superior intelligence is scary, you've read too many touchy sci-fi stories in which human irrationality saves the day. But humans didn't come to dominate this planet because they're somtimes irrational, they came to dominate despite of it. 
+But artificial brains have no such limits so of course they will eventually
+outperform humans.
 
-What use is intelligence (at this level). It’s making better decisions- more informed (monitor) closer to reality (model) and more adhered to (mentor / manage)
+If you don't understand why superior intelligence is scary, you've read too many
+touchy sci-fi stories in which human irrationality saves the day. But humans
+didn't come to dominate this planet because they're somtimes irrational, they
+came to dominate despite of it.
 
-Companies are more intelligent at scale than the average and tail result for each individual in the org would be if left alone (primarily thats adherence !)
+What use is intelligence (at this level). It’s making better decisions- more
+informed (monitor) closer to reality (model) and more adhered to (mentor /
+manage)
+
+Companies are more intelligent at scale than the average and tail result for
+each individual in the org would be if left alone (primarily thats adherence !)
 
 So a more intelligent org has huge payoffs - that’s the software mind!!!
 
-But also AI - even so at the level of species competition the quail is technology is intelligence manifest in tools
+But also AI - even so at the level of species competition the quail is
+technology is intelligence manifest in tools
 
-Being more intelligent than any human is *fine* - but that’s only useful if up against all other humans individually. If up against all humanity it’s a different problem
+Being more intelligent than any human is *fine* - but that’s only useful if up
+against all other humans individually. If up against all humanity it’s a
+different problem
 
-No the real threat is use of AI by humans as a technology - surveillance, democratic bet, weapon design etc
+No the real threat is use of AI by humans as a technology - surveillance,
+democratic bet, weapon design etc
 
 And yeah we can see a lot of that and the antidote is democracy and freedom 
 
-The rest - what we cannot imagine - perhaps it will be like trying to explain politics to a dog - at a certain point no question we ask or answer we get will be meaningful 
+The rest - what we cannot imagine - perhaps it will be like trying to explain
+politics to a dog - at a certain point no question we ask or answer we get will
+be meaningful
 

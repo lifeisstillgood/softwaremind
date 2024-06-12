@@ -3,67 +3,61 @@ Coders are the New Managers
 ===========================
 
 
+Evolving Understanding of maangement and organistions
+---------------------------------------------------------
 
-Theory of Great Smear
-- if there isnone king there is one court
-and everyone can get on woth politics of personal emotions
+1950s/60s. Drucker "The PRactise Of management" - mgmt is the main organ of an organisation - the brains.
+Mgmt should be an elite, trained for highest performance, to innovate, to
+analyse, to *decide* and *change*.  These are supermen, bestriding the world.
 
-- the more power is decolved the more people
-need to donpolitcs withbothers to achieve consensus
-so some political forms arr impossiblenwithout 
-faster communications, mass communication like newspapers
-and democracy isnone suchnthing (equal share equal vote)
+2010s Google - "Eight rules for google management". HEre the supermen learnt - they studied google and found the
+best performing managers. And they ... were sports coaches. "Support your people". etc
 
-but rmeote work and so on leads to huge amounts of dorsctors flying around trying 
-to meet - can be based on vertical reporting etc
-but mostly there is a limit onnamount of distributed decision 
-making that can be done woth hoerarchy 
+Wait what happened? Where is all the "bend the organisation to your will" stuff.
 
-so swiss cantons wont work so well in china
+Software happened. The actual work in Google is done by CPUs and GPUs. The people
+who marshall and supoervise and direct and organise the workers are the people committing
+the code.
 
-or 
+Disaggreation of management
+----------------------------
 
-we need more market like approaches (see dutch burse)
-to democracy - more open decisions where the decisions are made
-and implwmted 
+So what does management do?
 
-what if we do stupid dhait. yes its possible 
+Model
+Monitor
+Mentor
 
-
-
-
-Coders are the New Managers
-===========================
+Politic
 
 
+Drucker
+Shared understanding of the groups common goals (mission)
+(also shows where conglomerates exists as shared common goals are too vague)
 
+Use Sun Tzu - 5 areas to master
 
-
-
-
-
-Why have managers?
--------------------
+- Landscape
+- Weather
+- Doctrine
+- Mission
+- Leadership
 
 
 
-https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/
+Politics of the Organisation
+----------------------------
 
+THe most important part - politics of the organisation
 
-There are many silly things in the film Gettysburg (1993), but one moment I just love is Chamberlain’s exasperation on realizing on top of an already difficult morning that his regiment has been assigned to the front of the front brigade in the corps and so has to assign flankers; that rotation would have been regular in most armies. And what would have happened to create this scene, is that the commander of the V Corps (Major General George Sykes) opted to march with his first division in the front, which then its commander (Brigadier General James Barnes) opted to put the 3rd Brigade in front and its commander (Col. Strong Vincent) opted to put the 20th Maine in front and of course its commander (our Professor of Rhetoric, Joshua L. Chamberlain) would in turn have to pick where each of his companies would go. The main concerns for smaller units is that the front part of the unit regulates pace and the rear part of the unit will need to deal with stragglers (including heat and fatigue casualties) as well as keep up pace to avoid the unit ‘tailing out’ too badly as it marches.
+Talk about Paula Vennels, Post Office.
+That elites control ing a fiefdom is not usually the best way of getting performance
+Can we expect Elon Musk like performance from every manager? Of course we f*****g cannot.
+He is a once in a generation outlier for a f****g reason. And I dont know the names of the 100 people
+what have worked directly for him over 20 years and shaped the success as much.
 
-that is real management / leadership - making cog level decisions 
-that can if got wrong badly adfect everything but if right just keep going
-
-humming along is what (well designed) software can do 
-when it goes wrong we need to tke action (preplanned automatic action??)
-runbooks etc
-
-the less manual the more speed etc etc
-
-yes there is a risk (see automatic driving - hi this is an issue software cannot handle you have 2 seconds to avoid a crash)
-
-
+But we have found a new means of dealing with politics - we call it democracy.
+It comes in funny shapes and sizes, and its very new but we have great hoppes for it.
 
 
 
@@ -84,22 +78,8 @@ So remotw work not somgood
 having demos very good
 
 =======================
-
-
-
-
-
-
-
 The Architect's Paradox
 =======================
-
-
-
-
-
-
-
 
 An architect today can <design> a building, but leave many of the detaisl to be
 worked out
@@ -112,14 +92,6 @@ now everything must be much more explicit.
 
 The code is the design
 =========================
-
-
-
-
-
-
-
-
 Articles and discussion - when build is deterministic, the code is the design.
 SO from now
 on we see a world of programmable companies which are franchises, with a franchise of one.
@@ -130,10 +102,38 @@ code. Cucumber
 Chapter: software is disaggeegating management 
 ===============================================
 
+Disaggregating Management
+-------------------------
+
+https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/
 
 
+There are many silly things in the film Gettysburg (1993), but one moment I just
+love is Chamberlain’s exasperation on realizing on top of an already difficult
+morning that his regiment has been assigned to the front of the front brigade in
+the corps and so has to assign flankers; that rotation would have been regular
+in most armies. And what would have happened to create this scene, is that the
+commander of the V Corps (Major General George Sykes) opted to march with his
+first division in the front, which then its commander (Brigadier General James
+Barnes) opted to put the 3rd Brigade in front and its commander (Col. Strong
+Vincent) opted to put the 20th Maine in front and of course its commander (our
+Professor of Rhetoric, Joshua L. Chamberlain) would in turn have to pick where
+each of his companies would go. The main concerns for smaller units is that the
+front part of the unit regulates pace and the rear part of the unit will need to
+deal with stragglers (including heat and fatigue casualties) as well as keep up
+pace to avoid the unit ‘tailing out’ too badly as it marches.
 
+that is real management / leadership - making cog level decisions
+that can if got wrong badly adfect everything but if right just keep going
 
+humming along is what (well designed) software can do
+when it goes wrong we need to tke action (preplanned automatic action??)
+runbooks etc
+
+the less manual the more speed etc etc
+
+yes there is a risk (see automatic driving - hi this is an issue software cannot
+handle you have 2 seconds to avoid a crash)
 
 
 
@@ -164,19 +164,14 @@ mgmt elite that "understands" the company
 Chapter: Coders are the new managers, CPUs are the new workers
 ================================================================
 
-
-
-
-
-
-
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
     "When Adam Delved and Eve span, who then was a Gentleman?"
     
     -- John Ball, (Peasants' Revolt) 1381
-Tranisation from managers to coders 
+
+    Tranisation from managers to coders
 reduces ability for non technical management 
 to know what is possible and how to implement next step on phase soace
 management is becoming less abke to *dirext* 
@@ -187,44 +182,39 @@ MOOP
 sunlight
 with rmeote working either everyone is told about everything
 or there is total loss of cohesion - either write it all down and lose political power or 
+
 coders are the new managers
 ---------------------------
-
-
-
-
-
-
 
 THe new workers are the CPUs. The supervisors and instructions come from the coders - and code is the design.  Look at difference between maangers in Drucker - bestriding the world making decisions, and managers in Googles eight rules - coaches helping keep the employees happy.  And what if employees are not happy - look at OpenAI where an emploee revolt removed the board.  We shall come back to employee ower later. WHy did rome collapse? Collapse of trust and trade.
 management is dead - 
 coders are new managers 
 management is simple (peter principle) 
 management can be automated - to raise floor level
-modelling 
-mentoring 
+modelling
+mentoring
 monitoring
-politicking  (financier and project choosing) 
+politicking  (financier and project choosing)
 project / activity choice - resource allocation is mostly what *change* to apply - which is mostly a datwining process of project survival - so financing is process of finding successful projects not initiating successful projects
-or finding obvious failings and initiating blessed solutions 
-management training matters but 
-is that training in coaching (google 8 rules) or training in project initiation and selection or training in political alignment 
+or finding obvious failings and initiating blessed solutions
+management training matters but
+is that training in coaching (google 8 rules) or training in project initiation and selection or training in political alignment
 i hvave sympathy woth the control freaks because there is no standrdisatikn - no process (military word??)
 there is need for soijg things this way my
 way - commot formats and so on
-management is basically xonsrant on job training of others 
-- linting humans 
-we live lives of imperfection and pretend every is fine and the dodson are between the two is our stress level - but admitting the truth is a way to find calm and time to fix the imperfections 
-the great innovations of 1776 enlightenment 
+management is basically xonsrant on job training of others
+- linting humans
+we live lives of imperfection and pretend every is fine and the dodson are between the two is our stress level - but admitting the truth is a way to find calm and time to fix the imperfections
+the great innovations of 1776 enlightenment
 democracy
 openness / search for truth / scientific method
 industrial revolution - automation finance and more
 double down on what works
-politician - consensus forming / finding 
-foncnciar - consensus funding 
+politician - consensus forming / finding
+foncnciar - consensus funding
 colonel
-serfent 
-pricate 
+serfent
+pricate
 =========
 
 

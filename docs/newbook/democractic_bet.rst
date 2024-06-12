@@ -1,14 +1,20 @@
 ====================
-
-
-
-
-
-
-
-The Totalitarian Bet
+The Democratic Bet
 ====================
 
+
+Journalist John Naughton coined the phrase "Totalitarian Bet". The idea is that
+Totalitarian governments across the world are investing heavily in *surevillance
+technologies* (everything from Saudi building AI data centres and China setting up
+social score databases).  The idea is that these technologies will allow the governments
+to *control* their populations more effectively and efficiently, thus allowing the
+governments to remain in power.
+
+Its a bit depressing.  Because its not a totally silly bet.  Its quite a good one.
+
+I just want to bet on something else.  LEts call it the human spirit.
+LEts call it reluctant compliance
+Lets call it the Democratic Bet.
 
 
 
@@ -17,6 +23,7 @@ The Totalitarian Bet
 
 Totalitarian bet is also a bet 
 on democracy (or western modern democracy)
+
 How organisations decide
 ------------------------
 
@@ -388,3 +395,31 @@ not.
 the words to Katy Perrys; I kissed a girl (cherry chopsticks!)
        It will work in reducing open dissent. But will it work in actaually changing
 minds.
+
+
+
+Theory of Great Smear
+- if there is one king there is one court
+and everyone can get on woth politics of personal emotions
+
+- the more power is decolved the more people
+need to donpolitcs withbothers to achieve consensus
+so some political forms arr impossiblenwithout
+faster communications, mass communication like newspapers
+and democracy isnone suchnthing (equal share equal vote)
+
+but rmeote work and so on leads to huge amounts of dorsctors flying around trying
+to meet - can be based on vertical reporting etc
+but mostly there is a limit onnamount of distributed decision
+making that can be done woth hoerarchy
+
+so swiss cantons wont work so well in china
+
+or
+
+we need more market like approaches (see dutch burse)
+to democracy - more open decisions where the decisions are made
+and implwmted
+
+what if we do stupid dhait. yes its possible
+

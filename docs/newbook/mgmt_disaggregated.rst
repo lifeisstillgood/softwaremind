@@ -3,6 +3,8 @@ Disaggregtion of maangement
 ============================
 
 
+
+
 * disaggregation of management - implications - co-ordination of company is way
 more
 effective in software, test rigs etc. - co-ordination of change is mostly

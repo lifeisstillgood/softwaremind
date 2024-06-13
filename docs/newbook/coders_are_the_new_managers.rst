@@ -2,20 +2,31 @@
 Coders are the New Managers
 ===========================
 
+"management" is a fairly slippery term - it is often claimed to be the
+cause of low productivity in some countroes compared to otehrs.
 
-Evolving Understanding of maangement and organistions
+
+The Evolving Understanding of Management and organistions
 ---------------------------------------------------------
 
-1950s/60s. Drucker "The PRactise Of management" - mgmt is the main organ of an organisation - the brains.
-Mgmt should be an elite, trained for highest performance, to innovate, to
+"Management" as a term is fairly modern - probably Peter Drucker is most
+responsible for popularising it in the 50s and 60s.  His work is where most academic work
+has followed. In his work, Mgmt should be an elite, trained for highest performance, to innovate, to
 analyse, to *decide* and *change*.  These are supermen, bestriding the world.
 
-2010s Google - "Eight rules for google management". HEre the supermen learnt - they studied google and found the
+However things changed.  Management in 1960s were still thougth of as employees.
+The CEO growth, options pay packets and more made
+
+How is management viewed today? 2010s Google - "Eight rules for google management". HEre the supermen learnt - they studied google and found the
 best performing managers. And they ... were sports coaches. "Support your people". etc
 
 Wait what happened? Where is all the "bend the organisation to your will" stuff.
 
-Software happened. The actual work in Google is done by CPUs and GPUs. The people
+In my uneducated opinion, two things happened.
+Firstly the management split - middle management stayed employees, and upper management
+became capitalists, financiers.
+
+Adn Software happened. The actual work in Google is done by CPUs and GPUs. The people
 who marshall and supoervise and direct and organise the workers are the people committing
 the code.
 

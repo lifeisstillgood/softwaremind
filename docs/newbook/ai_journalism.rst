@@ -2,8 +2,29 @@
 Journalism is the AI training data for society
 ==============================================
 
+We are (one hopes) at the peak of an Artificial Intelligence hype-cycle at the moment.
+The unreasomnable effectiveness of two new techniques has lead to tools that
+can perfrom quite stunning work.  THe first is Convulutional Neural Networks
+[#1] - this enabled
+Learning from this the field of deep learning, hidden deep layers of intermediate models
+exploded and soon textual models that could make predictions about the next
+word and sentence became really effective.
+
+Then one team (OpenAI) just said "What if we dial it up to 11",
+and fed what can basically be thoguthof as "all the text on the internet" into a
+language model. This surprised everyone by actaully working. Having not millions of dimensions
+but billions actaully improved things - and suddenly we had large language models that
+to a certain degree held all human knowledge inside them.
+
+The next wave of models in 2024 are being prepared, and we should expect that
+there will be at least one 1GW data centre - that is a data centre drawing 1GW of
+power to build the next LLM.  Humanity is taking sufficent power to boil steel,
+build a skyscraper or an airport, and turning it into a few gigabytes of 1s and 0s.
 
 
+
+WHat do LLMs mean?
+-------------------
 
 LLM as representation of "our" culture (see where western culture came from -
 1776) Journlism as training data for LLMS - but by extension training data for
@@ -15,6 +36,23 @@ culture, these matter See mickey mouse and solar system.  POV is worth 80 IQ
 points.  By not giving kids the right PoVfrom the start we dont prevent them
 discovering for them selves - we just make it harder.
 
+
+But the problem is training data means we know what is being targetted.
+AlexNet benefitted massively from moores law of course, but it also benefitted from
+years of image digitisation - people scanning an image in and then labelling it.
+Some of that came from museams and academia, but a huge amount came from the commercial needs
+of journalism.  If we see an image of a cat and we labell it a cat then its much easier for
+the model to learn what a cat is.
+
+And OpenAI needs just as much - but for all the tokens. To learn what fascist means
+or learn what asshole means.  And journalism is the representation of what we think our world is
+not just the facts of science but the truth of humanity.
+
+
+
+
+
+[#1]  AlexNet won teh ImageNet competiton -
 ==========================================================================
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================

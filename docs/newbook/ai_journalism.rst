@@ -2,31 +2,107 @@
 Journalism is the AI training data for society
 ==============================================
 
-We are (one hopes) at the peak of an Artificial Intelligence hype-cycle at the moment.
-The unreasomnable effectiveness of two new techniques has lead to tools that
-can perfrom quite stunning work.  THe first is Convulutional Neural Networks
-[#1] - this enabled
-Learning from this the field of deep learning, hidden deep layers of intermediate models
-exploded and soon textual models that could make predictions about the next
-word and sentence became really effective.
+We are (one hopes) at the peak of an Artificial Intelligence hype-cycle at the
+moment. The unreasomnable effectiveness of two new techniques has lead to tools
+that can perfrom quite stunning work.  THe first is Convulutional Neural
+Networks [#1] - this enabled Learning from this the field of deep learning,
+hidden deep layers of intermediate models exploded and soon textual models that
+could make predictions about the next word and sentence became really effective.
 
-Then one team (OpenAI) just said "What if we dial it up to 11",
-and fed what can basically be thoguthof as "all the text on the internet" into a
-language model. This surprised everyone by actaully working. Having not millions of dimensions
-but billions actaully improved things - and suddenly we had large language models that
-to a certain degree held all human knowledge inside them.
+Then one team (OpenAI) just said "What if we dial it up to 11", and fed what can
+basically be thoguthof as "all the text on the internet" into a language model.
+This surprised everyone by actaully working. Having not millions of dimensions
+but billions actaully improved things - and suddenly we had large language
+models that to a certain degree held all human knowledge inside them.
 
 The next wave of models in 2024 are being prepared, and we should expect that
-there will be at least one 1GW data centre - that is a data centre drawing 1GW of
-power to build the next LLM.  Humanity is taking sufficent power to boil steel,
-build a skyscraper or an airport, and turning it into a few gigabytes of 1s and 0s.
+there will be at least one 1GW data centre - that is a data centre drawing 1GW
+of power to build the next LLM.  Humanity is taking sufficent power to boil
+steel, build a skyscraper or an airport, and turning it into a few gigabytes of
+1s and 0s.
 
 
 
 WHat do LLMs mean?
 -------------------
 
-LLM as representation of "our" culture (see where western culture came from -
+LLM as representation of "our" culture. Ok so here is where I start to break down
+some of those words. The first is "culture".  Many years ago I went with my father
+to his local church service.  The vicar stood up and she droned on for a bit, but then veered into
+a local controversy about new immigrants (workers coming to town).  SHe explained that the
+newcomers did not share our "culture".  I remember refusing to shake her hand as we
+filed out the church, my dad arguing that she meant skin colour when she said culture.
+
+Yes, sometimes, culture gets used as a dog whistle word.
+
+Thats not what I mean here.  I mean the totality of assumptions, implicit knowledge,
+unwritten rules and thats what we do around here.
+
+Let me tell you another story about my dad. So, sometime in my thirties, it was a hot summers
+day in London Park, and my friends and I came across an Ice Cream van and treated ourselves to
+a 99 flake.  And I came out with my "Piece of relevant amusing trivia".
+
+"Did you know Mr Whippy Ice Cream is made from seaweed."  I beamed around the
+group expecting a couple of oh wows for my conversational gambit.
+
+Everyone just looked at me.
+
+"No, what. Its milk. frozen milk and sugar and probably E-Numbers. DO you mean the E-Numbers?"
+
+"No", I say, dredging up ancient memories. "Seaweed, like great floating mats of it. Floating in the sea"
+
+"..." They stare at me.
+
+"Um, you know. Seaweed floats in mats on the sea. I remember seeing some at the beach."
+
+"What are you talking about".
+
+"look its true. My dad told me. Ice cream is made from Seaweed.  The churning
+gundgy mats of it floating off Southend Pier.  My Dad told me .... oh."
+
+"Is there something you need to get off your chest Paul?"
+
+"ok, so back when I was younger, like a kid, I was on a beach with my dad and I
+remeber him explaining how ice cream was made.  I have this
+very clear memory of a hot sunny day, and standing in the middle of a crowded,
+really hot and crowded beach, and looking out at a flowting mat of seaweed and
+churning scum, like a sort of alien presence in the water (It was 1970d Britain,
+where swimmming in the ocean meant playing Russian Rouleete with and exciting
+blend of gastric bacateria).
+
+I remeber that mat of seaweed because My Dad then exlained it was used to put in
+the ice cream. Which, as my adult self rather slowly realised, probably meant
+less that my dad was giving an insight into the factory processing of dairy
+goods, and more on the "how can I persuade my seven year old that he does not
+want to walk a mile over crowded beaches to queue for half an hour for a massively
+overpriced cone"
+
+Yeah.
+
+It took over twenty years for that fact, stored away in my deep neural nets,
+to surface and be examined for what it is.
+
+I think of that when I think of how many billions of documents have been sieved into
+a arge Languwage model. And how many of those sentences were constructed with care
+or ulterior motives, or anything less than the highest ideals of journalistic rgiour.
+
+(Rigour that by the way tended to be jusst made up for elites in journlaism to defence their own biases
+against commercial and other pressures.)
+
+
+Weights - is it shouting, repeating the truth. if science is facts overcome shouting, repitition and bias,
+then LLMs do not work as science - they work with weights, repitions and emphasis.
+Just as the AI models that rejected CVs from women because the company did not promite women
+we shall find LLMs reflecting us back.
+
+Not us as we want others to see us ("The message"), not us as we think of ourselves
+but the us that is reflected in what we say.
+
+I wonder if the LLM trained in German will be different from those in French
+and English and Mandarin? I wonder if diff'ing those models is possible.
+
+
+(see where western culture came from -
 1776) Journlism as training data for LLMS - but by extension training data for
 our culture.# Google search is being repalced by LLMs. WHo controls the LLM
 access, which training corpus is used, which fine tuning. this matters. But only
@@ -53,6 +129,8 @@ not just the facts of science but the truth of humanity.
 
 
 [#1]  AlexNet won teh ImageNet competiton -
+
+
 ==========================================================================
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
@@ -74,6 +152,7 @@ replace you, plain-old-software will.
 What is AI?
 What is intelligence?
 What does the philosophical disucssion of intelligence matter - not much
+
 The large language models 
 - embed much of humannwritten knowledge
 - are vast scales - Llama 3 25,000 GPUs - billions of dollars and whole data centres
@@ -84,10 +163,16 @@ Well we alrady know how to replce rotework. Automation has been doing that for
 ages.  If it is not done already then there are political or business model
 concerns. POlitical means having AI will not easily solve the problem. Business
 model usually means bribery or other thigns you dont want to involve AI in.
+
+
+IntraCOmpany feedback and the ball balancing trick
+---------------------------------------------------
+
 The other reason AI will struggle is lack of feedback. In major compaies this is
 startlingly bad. ball balancing trick. THose feedback mechanisms do not work ...
 outside of a programmable company. In fact this is a good *defintion of a
 programmable company* - the feedback loop is fast enough to be useful.
+
 Will AI affect the future of work - yes, but not as much as "sky is falling",
 and not as much as "robotic replacement" because companies nned to be software
 literte - arranged so that one can iterate over them.  They need to programmable
@@ -102,15 +187,9 @@ next battle ground - and how do we deal with that?
 See also text books, and education syllabuses. 
 
 HunterBrook - future if jountlaism
------------
+-----------------------------------
 
-
-
-
-
-
-
-yes I think
+yes I think, maybe
 https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
 because we want to know what is "truth"
 somehiw we need to pay for it - the paper based distribution mattered 

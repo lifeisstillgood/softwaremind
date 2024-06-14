@@ -3,7 +3,8 @@ Disaggregtion of maangement
 ============================
 
 
-
+software was replacing taxtics - coders are new managers
+but operationalmplanning is much simplified now 
 
 * disaggregation of management - implications - co-ordination of company is way
 more

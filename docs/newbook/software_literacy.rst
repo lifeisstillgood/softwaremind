@@ -14,6 +14,19 @@ rory sutherland and amazon
 - the thing is you can bake in super fast always onteaction woth preprogrammed non logical activity
 AI cant but programmers can 
 
+we like rory - cos software is not form of engineering 
+it is linking the robotic perceptors and sensors to the robotic actuators 
+but it is doing so for human startegic and tactica reasons 
+human loteracy encodes human 
+
+we want out sensors to be as close to reality as possible we want our models of the world to be close to reality
+but we wnat our decisions to be human - because most decision have another human at the other end 
+
+in short if we want there to be rules to decisoonnmaking we bee do create the market and laws for those riles to be "downhill"
+
+we cannot onjectively engineer most software because most software is about human to human interaction not measure photons from distant stars 
+
+
 ..   literacy is a technology, as indeed is speech and perhaps thought? story of
      olphulla goth germainic invents alphanet and writes it down - literacy
      matters  as a technology the blub paradox and software literacy - you

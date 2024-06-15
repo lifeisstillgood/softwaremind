@@ -2,6 +2,11 @@
 Software Literacy
 ===============================
 
+thoughts: changing company means software goves you do-overs 
+think how so much filmmproduction is in post VFX
+its less costy do-overs for production - not everyone can do zipper project mgmt
+
+
 ..   literacy is a technology, as indeed is speech and perhaps thought? story of
      olphulla goth germainic invents alphanet and writes it down - literacy
      matters  as a technology the blub paradox and software literacy - you

@@ -6,6 +6,13 @@ thoughts: changing company means software goves you do-overs
 think how so much filmmproduction is in post VFX
 its less costy do-overs for production - not everyone can do zipper project mgmt
 
+software advarages over accountancy (15th c control)
+- things arent communtative 1x7 not same as 7x1
+rory sutherland and amazon 
+- taxtics and strategy cannot be purely logical - because humans arent due to game theory / having an enemy
+- so literacy allows symbolic amnioulation of models of reality
+- the thing is you can bake in super fast always onteaction woth preprogrammed non logical activity
+AI cant but programmers can 
 
 ..   literacy is a technology, as indeed is speech and perhaps thought? story of
      olphulla goth germainic invents alphanet and writes it down - literacy

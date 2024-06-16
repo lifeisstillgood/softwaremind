@@ -2,6 +2,25 @@
 Software Literacy
 ===============================
 
+Software aint wngineering 
+-------------------------
+
+See rory sutherland - 
+see basics of value - value tonhumans
+
+"""because it actually winds up being less DevOps work, on average, to support open-source systems running on bare VMs, than to try to keep up with Google’s deprecation treadmill.
+Before I return to shitting on Google Cloud Platform, because boyo I am nowhere near finished yet, let’s go visit how software engineering works in some other domains. Google engineers pride themselves on their software engineering discipline, and that’s actually what gets them into trouble. Pride is a trap for the unwary, and it has ensnared many a Google team into thinking that their decisions are always right, and that correctness (by some vague fuzzy definition) is more important than customer focus.
+"""
+https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc
+
+thenimportant bit here is twofold - one relax views on clous
+second, customer focus. notnmerwly good business support (once we click buy everythingnbecomes cost centre or cost reduction)
+but focusing onnhumans is how we define value!!!
+
+there is no objective view of value - except
+maybe innaciences where value is does it work not does it sell
+
+
 thoughts: changing company means software goves you do-overs 
 think how so much filmmproduction is in post VFX
 its less costy do-overs for production - not everyone can do zipper project mgmt

@@ -2,6 +2,14 @@
 Software Literacy
 ===============================
 
+- software literaxy 
+- gangis
+- benefits of productivity 
+- accountancy but better
+- programmabke company
+- not engineering 
+
+
 Software aint wngineering 
 -------------------------
 

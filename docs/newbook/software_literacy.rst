@@ -9,6 +9,9 @@ Software Literacy
 - programmabke company
 - not engineering 
 
+freedom - where incompetant decisions by small number of actors 
+do not lead to your disaster - see bengal famine? 
+
 
 Software aint wngineering 
 -------------------------

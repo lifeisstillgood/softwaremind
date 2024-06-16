@@ -2,12 +2,28 @@
 Journalism is the AI training data for society
 ==============================================
 
+A little History
+---------------------
+
 We are (one hopes) at the peak of an Artificial Intelligence hype-cycle at the
 moment. The unreasomnable effectiveness of two new techniques has lead to tools
-that can perfrom quite stunning work.  THe first is Convulutional Neural
-Networks [#1] - this enabled Learning from this the field of deep learning,
-hidden deep layers of intermediate models exploded and soon textual models that
-could make predictions about the next word and sentence became really effective.
+that can perfrom quite stunning work.  The first is Convulutional Neural
+Networks. Back in prehistory of 2012, the ImageNet Computer vision competition
+was won by AlexNet, which used the first effective CNN to *classify* images -
+and every single winner of the competition since uses CNN.  Because they worked
+- we went from machines guessing the subject of a photo 10% of the time to
+95-99+% of the time.
+
+And that opened up incredible uses of computer vision. Not just classifying cats
+and dogs, but even simple things like more autoamted assembly - the computer can
+"see" the parts to be assembled.
+
+CNNs lead to "Deep Learning" - where the Deep is the number of layers of
+self-referential networks between input and output.  Having these layers meant
+the many different, seemingly inconsequential connections between parts of an
+input can be built up - in textual terms, how the word "queen" is used in these
+1000 works, and those 1000 works can provide a proxy for what queen means, and a
+proxy that is a arrary of numbers. THis is a Language Model.
 
 Then one team (OpenAI) just said "What if we dial it up to 11", and fed what can
 basically be thoguthof as "all the text on the internet" into a language model.
@@ -16,44 +32,56 @@ but billions actaully improved things - and suddenly we had large language
 models that to a certain degree held all human knowledge inside them.
 
 The next wave of models in 2024 are being prepared, and we should expect that
-there will be at least one 1GW data centre - that is a data centre drawing 1GW
-of power to build the next LLM.  Humanity is taking sufficent power to boil
-steel, build a skyscraper or an airport, and turning it into a few gigabytes of
-1s and 0s.
+there will be at least one 1GW data centre (Marc Zuckerburg started on the
+Dwarkuesh podcast that Llama 3 used 25,000 GPUs (and cost billions of dollars
+and the next generation someone (implying OpenAI) will use a single power plant
+feeding into a 1GW data center)
+
+That is a data centre drawing 1GW of power every second to build the next LLM.
+Humanity is taking sufficent power to boil steel, build a skyscraper or an
+airport, and turning it into a few gigabytes of 1s and 0s.
 
 
-
-WHat do LLMs mean?
+So whats an LLM?
 -------------------
 
-LLM as representation of "our" culture. Ok so here is where I start to break down
-some of those words. The first is "culture".  Many years ago I went with my father
-to his local church service.  The vicar stood up and she droned on for a bit, but then veered into
-a local controversy about new immigrants (workers coming to town).  SHe explained that the
-newcomers did not share our "culture".  I remember refusing to shake her hand as we
-filed out the church, my dad arguing that she meant skin colour when she said culture.
+So I conjecture that LLM's are a *representation* of "our" culture. Ok so here
+is where I start to break down some of those words. The first is "culture".
 
-Yes, sometimes, culture gets used as a dog whistle word.
+Many years ago I went with my father to his local church service.  The vicar
+stood up and she droned on for a bit, but then veered into a local controversy
+about new immigrants (workers coming to town).  SHe explained that the newcomers
+did not share our "culture".  I remember refusing to shake her hand as we filed
+out the church, my dad arguing that she meant skin colour when she said culture.
 
-Thats not what I mean here.  I mean the totality of assumptions, implicit knowledge,
-unwritten rules and thats what we do around here.
+Yes, sometimes, culture gets used as a dog whistle word. (The dog whistle being
+if President Nixon says "Law and Order" he really means supporting Governors who
+beat up the Black population so the southern whites will start to vote
+Republican.)
 
-Let me tell you another story about my dad. So, sometime in my thirties, it was a hot summers
-day in London Park, and my friends and I came across an Ice Cream van and treated ourselves to
-a 99 flake.  And I came out with my "Piece of relevant amusing trivia".
+Thats not what I mean here.  I mean the totality of assumptions, implicit
+knowledge, unwritten rules and thats what we do around here.
+
+Let me tell you another story about my dad. So, sometime in my thirties, it was
+a hot summers day in a London Park, and my friends and I came across an Ice
+Cream van and treated ourselves to a 99 flake.  And I came out with my "Piece of
+relevant amusing trivia useful for this moment in a conversation"
 
 "Did you know Mr Whippy Ice Cream is made from seaweed."  I beamed around the
 group expecting a couple of oh wows for my conversational gambit.
 
 Everyone just looked at me.
 
-"No, what. Its milk. frozen milk and sugar and probably E-Numbers. DO you mean the E-Numbers?"
+"No, what. Its milk. frozen milk and sugar and probably E-Numbers. DO you mean
+the E-Numbers?"
 
-"No", I say, dredging up ancient memories. "Seaweed, like great floating mats of it. Floating in the sea"
+"No", I say, dredging up ancient memories. "Seaweed, like great floating mats of
+it. Floating in the sea"
 
 "..." They stare at me.
 
-"Um, you know. Seaweed floats in mats on the sea. I remember seeing some at the beach."
+"Um, you know. Seaweed floats in mats on the sea. I remember seeing some at the
+beach."
 
 "What are you talking about".
 
@@ -63,75 +91,157 @@ gundgy mats of it floating off Southend Pier.  My Dad told me .... oh."
 "Is there something you need to get off your chest Paul?"
 
 "ok, so back when I was younger, like a kid, I was on a beach with my dad and I
-remeber him explaining how ice cream was made.  I have this
-very clear memory of a hot sunny day, and standing in the middle of a crowded,
-really hot and crowded beach, and looking out at a flowting mat of seaweed and
-churning scum, like a sort of alien presence in the water (It was 1970d Britain,
-where swimmming in the ocean meant playing Russian Rouleete with and exciting
-blend of gastric bacateria).
+remeber him explaining how ice cream was made.  I have this very clear memory of
+a hot sunny day, and standing in the middle of a crowded, really hot and crowded
+beach, and looking out at a flowting mat of seaweed and churning scum, like a
+sort of alien presence in the water (It was 1970d Britain, where swimmming in
+the ocean meant playing Russian Rouleete with and exciting blend of gastric
+bacateria).
 
 I remeber that mat of seaweed because My Dad then exlained it was used to put in
 the ice cream. Which, as my adult self rather slowly realised, probably meant
 less that my dad was giving an insight into the factory processing of dairy
 goods, and more on the "how can I persuade my seven year old that he does not
-want to walk a mile over crowded beaches to queue for half an hour for a massively
-overpriced cone"
+want to walk a mile over crowded beaches to queue for half an hour for a
+massively overpriced cone"
 
 Yeah.
 
 It took over twenty years for that fact, stored away in my deep neural nets,
 to surface and be examined for what it is.
 
-I think of that when I think of how many billions of documents have been sieved into
-a arge Languwage model. And how many of those sentences were constructed with care
-or ulterior motives, or anything less than the highest ideals of journalistic rgiour.
+I think of that when I think of how many billions of documents have been sieved
+into our current crop of LLMs. And how many of those sentences were constructed
+with care or ulterior motives, or anything less than the highest ideals of
+journalistic rigour.
 
-(Rigour that by the way tended to be jusst made up for elites in journlaism to defence their own biases
-against commercial and other pressures.)
+(Rigour that, yes, by the way, tended to be just made up for elites in
+journlaism to defence their own biases against commercial and other pressures.)
+
+But the idea that there is a *truth*, and that truth should be written down
+
+If science is the process of ensuring measurable physical facts overcome any
+human shouting, repitition and bias, then LLMs do not work as science - they
+work with weights, repitions and emphasis. And those facts are not "out there"
+to be examined. They are implicit in the weights, the stories, the *culture*.
+
+And so just as the early AI models that were used by HR departments, the models
+rejected CVs from women because the companies did not promote women past a
+certain point,  we shall find LLMs reflecting our culture back to us.
+
+But what culture will come back? The one we are as we want others to see us,
+the one that we actually behave, the one that is contended ?
+
+Dont get involved in culture wars
+---------------------------------
 
 
-Weights - is it shouting, repeating the truth. if science is facts overcome shouting, repitition and bias,
-then LLMs do not work as science - they work with weights, repitions and emphasis.
-Just as the AI models that rejected CVs from women because the company did not promite women
-we shall find LLMs reflecting us back.
+The religion of our fathers
+---------------------------
 
-Not us as we want others to see us ("The message"), not us as we think of ourselves
-but the us that is reflected in what we say.
+So as LLMs are an encoding of (almost) everything humans know, knowing where
+that encoding came from, what it was fed as inputs, that is almsot as important
+as trying to understand how a decision was made (which given the ridiculous volume
+of layers and the loss on compresion, might well be impossible).
+
+Look its like seaweed. Or like religion.
+
+Do you know what the largest predictor of one persons religious beliefs is?
+The religious beleifs of their parents.  Because what we are fed during our formative years
+well, forms us.
+
+COnclusion
+----------
+
+Do I think AI is going to wipe us all out, Terminator style?
+
+No.
+
+Well probably not.
+
+No, really it's silly ...
+
+Look, OK *maybe* but there is not much we can do about it if so.
+
+THe AI *tools* that we have now, even the society-level AI models we are
+building as LLMS (something that *costs as much to construct as it costs to
+build a small town*) and millions a day to run, these are still limited tools.
+Unless an AGI is sitting quietly biding its time, LLMs are predicting the next
+word based on a huge training corpus/ We know how it works, and while emergent
+properties are obviously real, its a leap from emergent properties to General
+Intelligence. Evolution should not be that easy.
+
+Ok. AI is a collection of tools. An LLM is an expression of AI,
+and an incredibly useful versatile tool that it is.  And it is *very* likely to
+be used, used widely, and used with far less oversight than it deserves.
+
+But the biggest risks are the same old ones - lack of openness, lack  of
+voersight.
+
+What corpuses are used to build these LLMs. What do they contain? How much porn
+is in midjourney, how much nazi propaganda is in ChatGPT.  Does it matter?  That
+answer depends on the answer to how much porn or  Nazi propaganda should our
+children read, and under what context?
+
+And how will these be used? Will LLMs and other IA tools be used to review CVs?
+To Review the statements made by CEOs? We know they are - and indeed there is a
+arms war going on in both those areas.
 
 I wonder if the LLM trained in German will be different from those in French
 and English and Mandarin? I wonder if diff'ing those models is possible.
 
+How different will different LLMs react? How much is focused on the corpus used?
+On the *order* of corpus fed in?
 
-(see where western culture came from -
-1776) Journlism as training data for LLMS - but by extension training data for
-our culture.# Google search is being repalced by LLMs. WHo controls the LLM
+
+
+Is an LLM *ours*?
+-----------
+
+Google search is being replaced by LLMs. Who controls the LLM
 access, which training corpus is used, which fine tuning. this matters. But only
 as a snapshot into "normcore". But it is the representation of our culture - and
 it fits on a laptop. Texas textbooks - what we teach our young, what is our
 culture, these matter See mickey mouse and solar system.  POV is worth 80 IQ
 points.  By not giving kids the right PoVfrom the start we dont prevent them
 discovering for them selves - we just make it harder.
+ Journlism as training data for LLMS - but by extension training data for
+our culture.#
 
+The "culture wars" are about what is and is not "right" otr acceptable.
 
-But the problem is training data means we know what is being targetted.
-AlexNet benefitted massively from moores law of course, but it also benefitted from
+But the problem is training data means we know what is being targetted. AlexNet
+benefitted massively from moores law of course, but it also benefitted from
 years of image digitisation - people scanning an image in and then labelling it.
-Some of that came from museams and academia, but a huge amount came from the commercial needs
-of journalism.  If we see an image of a cat and we labell it a cat then its much easier for
-the model to learn what a cat is.
+Some of that came from museams and academia, but a huge amount came from the
+commercial needs of journalism.  If we see an image of a cat and we labell it a
+cat then its much easier for the model to learn what a cat is.
 
-And OpenAI needs just as much - but for all the tokens. To learn what fascist means
-or learn what asshole means.  And journalism is the representation of what we think our world is
-not just the facts of science but the truth of humanity.
+And in general there is not a lot of *political gain* to be had from announcing
+a cat is actually a dog.  But for thousands of years there has been *a lot* of
+political gain from announcing that taking money from the poor is good for them,
+announcing that *those others, over there* are the cause of all your suffering,
+from saying black is white and the sky is green.
+
+So AI tools that rely on what humans *say* to each other, those tools are going
+to be hampered by human intentions. And they need to be weighted by ... what is
+true. (An impossibly hard definition).
+
+And now we are considerng putting LLMs into the search bars, as gatekeepers of
+the virtual world.  (Facebook is puttng LLMs into each of their products, as is
+Apple. Of course the costs are enormous - 10x cost per search, but they dont
+ahve to run expensive AI searchs each time, just often enough)
+
+And OpenAI needs just as much - but for all the tokens. To learn what fascist
+means or learn what asshole means.  And journalism is the representation of what
+we think our world is not just the facts of science but the truth of humanity.
+
+Yeah it will be easier to let the Terminators take over they can deal with this
+shit.
 
 
 
 
-
-[#1]  AlexNet won teh ImageNet competiton -
-
-
-==========================================================================
 If AI can replace your job tomorrow, Plain old software can today
 ==========================================================================
 
@@ -143,85 +253,124 @@ It places something physical within reach of software, thought, analysis,
 and optimiastion. It is the essence of MOOP.  And its why AI is not going to
 replace you, plain-old-software will.
 
+There are 3 main "ideas" for AI to be used in the workplace
 
+AI as a replacement for rote work.
+----------------------------------
 
-
-
-
-
-What is AI?
-What is intelligence?
-What does the philosophical disucssion of intelligence matter - not much
-
-The large language models 
-- embed much of humannwritten knowledge
-- are vast scales - Llama 3 25,000 GPUs - billions of dollars and whole data centres
-at some point a single power plant feeding into a 1GW data center 
-focused on tokenisation etc - its incredible use of energy to build something that is then free to use for antechnically able human
-AI as a replacement for maangers and rotework.
 Well we alrady know how to replce rotework. Automation has been doing that for
 ages.  If it is not done already then there are political or business model
-concerns. POlitical means having AI will not easily solve the problem. Business
-model usually means bribery or other thigns you dont want to involve AI in.
+concerns.
 
-
-IntraCOmpany feedback and the ball balancing trick
----------------------------------------------------
-
-The other reason AI will struggle is lack of feedback. In major compaies this is
-startlingly bad. ball balancing trick. THose feedback mechanisms do not work ...
-outside of a programmable company. In fact this is a good *defintion of a
-programmable company* - the feedback loop is fast enough to be useful.
-
-Will AI affect the future of work - yes, but not as much as "sky is falling",
-and not as much as "robotic replacement" because companies nned to be software
-literte - arranged so that one can iterate over them.  They need to programmable
-- and if so then you dont need AI.  You just need to write code.  But then you
-  get "free interns".
-
-Role of training data, and journalism.  How dow e find ground truth in polarised
-world. Well world is always beenpolarised - see, Luther. We find it
-in evidence, in OSINT, in reliable journlism - World Service being simplest
-example of a massive foot gun for British people. I would put Wikipedia as the
-next battle ground - and how do we deal with that?
-See also text books, and education syllabuses. 
-
-HunterBrook - future if jountlaism
+THe "Reject CVs from Women" problem
 -----------------------------------
 
-yes I think, maybe
-https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
-because we want to know what is "truth"
-somehiw we need to pay for it - the paper based distribution mattered 
-its disaggregated now but we still need scoiety level training day
-some is science, NIH ans NICE
-some is hunterbrook looking at OSINT
-or just see hunterbrook as OsINT
-aee the globe thing for snowcrash 
+There are many reasons why an organisation will not want to have a objective look
+at automating its
 
-Future Expansion
-================
 
-Build a python LLM from scratch
-https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
+1. you are lying about the real process  (bribery)
+2. you are lying about the real goal of the process (redlining mortgages)
+3. The process is so deeply buried you no longer understand it (deep state)
+4. The status quo is sub optimal but all the stakeholders have something so
+   there is not enough impetus to change (middle income trap)
+5. Changing it si sooo fucking expensive and the benefts not easy to
+   measure (urban design)
+6. oh god this is a long list.
 
-Word2vec, basic word encoding, a Queen is a female King.        
-AI is not magic, it simply tries to solve the robotics issues
+My assumption about people saying "AI can improve our internal processes" is not
+that they think it will magically solve some or all of the above issues, (most
+people arent stupid) but that spending a fortune on AI will delay any need to
+actively deal with the problems and continue as we are.
 
-- what is the perception of the real world
-- what is the model of the real world
-- what is the perception of my situaiton in the world
-- what is the next action
 
-(OODA)
+AI will find data we did not know we had
+-----------------------------------------
+
+Honestly thats like "We have a robot that can look down the back of the sofa for
+the missing millions" If you have enough data down the back of the sofa, that it
+will move the needle on your business, then its your fault.
+
+Anyway, this "expansion of the data realm" is what our generation is undergoing.
+From the existence of data we enter in directly, to data that can be collected
+automatically.  Our digital footprints are now enourmous, and we dont need
+(much) AI to collect or use it.
+
+But each decade of my professional life can be classified as more or less "we
+could not do that (cheaply ebough) in the previous decade")
+
+(THis is one of my axioms - no data should be entered into the digital realm
+that cannot be collected automatically - a flaw almost every Project Management
+system ever has. Its a bug bear of mine.)
+
+there are 2 kinds of "data we did not know we had" - unstructured data that AI
+can structure (reading a PDF or an image) and a subset of this, reading
+unstructured data that previously was impactrical to monitor.
+
+This first is a real issue, and it is a real issue that needs the AI tools of
+the previous generation
+
+Microsoft is releaseing (and taking back) a tool that snapshots the users
+screen, reads the image and works out what is being done by the user.  This kind
+of get around the problem of "tools not talking to each other" (see topless
+computing). It is a little dystopian, but its all part of the digital foot
+print.
+
+
+SOme of it is solved by beter inter-process communication.  Carefully analysing
+a massive companies processes, then writing it into a giat form for the SEC then
+having people read that form to understan the process (ie company annual reports
+- what Warren buffet says is his
+
+Ai will make better decisions than humans
+------------------------------------------
+
+"IntraCOmpany feedback and the ball balancing trick"
+
+There is a early "AI" demonstration - a means of training one of these CNN/ Tensors.
+A physic sim of a ball balancing on a stick. The training sim has ability to move left or right
+and its goal is to not let the ball drop.  For a human its crazy hard.
+but we can use linear equations (a very simple AI tool not cutting edge)
+to learn and control it.  And it works.
+
+The problem then is, can we get a company or an organisation to be controlled
+in a better way than it is by humans? Well, maybe.
+
+There are two problems.  Both solveable by the idea of a Programmable COmpany.
+
+1. That software can control the functioning of the company. That is can be *managed by code*
+2. That feedback can be sent from the real world to the "top" of the company, correctly and timely.
+
+Both of these are easy in a physics sim. Both are not so easy in a realcompany.
+But why not?
+
+
+[Activity: Balance Ball on Stick - leebeegame.itch.io]
+
+
+"I used to code before I became a manager"
+-------------------------------------------
+
+TBD - explanaiton on this - seen elsewhere too
+
+The programmable company
+-------------------------
+
+We can (and should) see a company as a simplified robot - running an OODA loop.
+Observe, Orient, Decide, Act
+(Monitor, Model, Mentor,
+
 But AI is able to *build* a model in a amazing new way,
 but a model of the world is not useful without perception of
 world and own ability.
+
 So if AI can build some model of a "perfect manager brain",
 it will still need to be fed perceptions of the operations daily
+
 ANd are those already being fed upwards - honestly turns out mostly no.
 THey are stuck in siloes, they are filter through powerpoint presrntations
 and massaged by project managers,
+
 AI can learn to balance a ball on a stick.  But if we have unclear
 information about where the ball is, how the stick is moving etc,
 it will perform at least as badly as an actual human manager.
@@ -231,12 +380,75 @@ find a few trusted lieutenants who can find *just enough* information
 to be representative and keep churning and find that playing politics in
 feudal environment is almost always more profitable than fixing the
 perceptiin and action problems.
+
+The better companies have a single powerful individual often founder,
+who forces through feedback and action.  To me this indicates that
+a successful company is built upwards from one winnign formulla, and then
+left to drift aas it become unmanageable.
+
+But if it were possible to make it programmable company, it may be possible to
+rebuild it, guide it. Manage it. THorugh code.
+
+
 AI is not magic. if you think some or all of job can be repaced by AI
 then the question is, why cant it be repaced today woth traditional software
+
 its not volume of data - no human can compete
 its access to tools and ots decision politics
-if AI can replace a manager tomorrow then software can do it today
-AI as an embedded knowledge tool - spanner wmbeds other peoples knowledge - thisnis that to larger extent
+
+
+
+AI and the future of work
+--------------------------
+
+THis title is actually legally require din any Techn book published after 2020.
+Sorry.
+
+
+Will AI affect the future of work - yes, but not as much as "sky is falling",
+and not as much as "robotic replacement" because companies nned to be software
+literte - arranged so that one can iterate over them.  They need to programmable
+- and if so then you dont need AI.  You just need to write code.  But then you
+  get "free interns".
+
+Role of training data, and journalism.  How dow e find ground truth in polarised
+world.
+
+Well world is always beenpolarised - see, Luther. We find it
+in evidence, in OSINT, in reliable journlism - World Service being simplest
+example of a massive foot gun for British people.
+
+I would put Wikipedia as the
+next battle ground - and how do we deal with that?
+See also text books, and education syllabuses. 
+
+
+
+
+
+HunterBrook - future if jountlaism
+-----------------------------------
+
+Journalism is not publishing. Publishing is now free
+Jounralism is finding, investigating and surfacing the truth.
+(that wont fix everything - see £ datys of condor and POst Office scandal)
+BUt that act allows us to know what is "true".  It sets a *positive* standard
+(as opposed to a negative standard such as Putin style make everything seem unbelievable)
+
+
+yes I think, maybe
+https://www.axios.com/2023/11/02/hunterbrook-hedge-fund-journalists
+because we want to know what is "truth"
+somehiw we need to pay for it - the paper based distribution mattered 
+its disaggregated now but we still need scoiety level training day
+
+some is science, NIH ans NICE
+some is hunterbrook looking at OSINT
+or just see hunterbrook as OsINT
+aee the globe thing for snowcrash 
+OSINT - the Ice Stati9on Zebra issue
+
+
 
 Chapter: Journalism is labelling the training data for the world
 =================================================================
@@ -244,6 +456,7 @@ Chapter: Journalism is labelling the training data for the world
 Challenges of training data and bias
 We started with 'easy' problems - facial recgnition and black african
 descent. Oh look Stanford has white male phd students.
+
 Bias in Generative AI: show me images of nazi stormtroopers.
 Hang on. Why are there chinese or black african stomrtroopers?? Huh
 Look at how skin cacner detection - is there a ruler in the image? Is the
@@ -283,18 +496,15 @@ differentiator in politics, and also why choosing the first model makes your
 'side' more relevant. See north korean education camps. But also see how
 many people did nto believe societ model but kept stum'
 
-Any how - world building - effective model - how 
-LLM - conceptually similar to knearest neighbour
-and word2vec 
 
-Journalism and the training data 
-————
+Sympathy for the Facebook
+--------------------------
 
-timeline is the problem - sympathy for facebook because 
-how dontounorgnaise timeline ? cannot show eveything - cannot shownjust friends because broing
-so whats the algorithm
-? ask a go ernment they dont say just say "dont destroy democeacy"
-but perhaps problem is "timeline" - dont do timeline do education or agent with best interet s of the user 
+timeline is the problem - sympathy for facebook because how dontounorgnaise
+timeline ? cannot show eveything - cannot shownjust friends because broing so
+whats the algorithm ? ask a go ernment they dont say just say "dont destroy
+democeacy" but perhaps problem is "timeline" - dont do timeline do education or
+agent with best interet s of the user
 
 
 training data matters

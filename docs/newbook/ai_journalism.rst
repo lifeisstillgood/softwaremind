@@ -5,9 +5,12 @@ Journalism is the AI training data for society
 A little History
 ---------------------
 
-We are (one hopes) at the peak of an Artificial Intelligence hype-cycle at the
-moment. The unreasomnable effectiveness of two new techniques has lead to tools
-that can perfrom quite stunning work.  The first is Convulutional Neural
+Each decade of my career seems to have ushered in capabilities that were either
+impossible in the previous decade, or far too expensive to consider viable.
+
+We are (one hopes!) at the peak of an Artificial Intelligence hype-cycle at the
+moment. The unreasonable effectiveness of two new techniques has lead to tools
+that can perform quite stunning work.  The first is Convulutional Neural
 Networks. Back in prehistory of 2012, the ImageNet Computer vision competition
 was won by AlexNet, which used the first effective CNN to *classify* images -
 and every single winner of the competition since uses CNN.  Because they worked
@@ -15,15 +18,20 @@ and every single winner of the competition since uses CNN.  Because they worked
 95-99+% of the time.
 
 And that opened up incredible uses of computer vision. Not just classifying cats
-and dogs, but even simple things like more autoamted assembly - the computer can
-"see" the parts to be assembled.
+and dogs, but even simple things like more automated assembly - the computer can
+"see" the parts to be assembled.  This has lead to transformative times int he
+manufacturing industries - but as usual they are hidden from most of the world
+(a common complaint of the manufactiruing world - but who listens to those guys
+right !)
 
 CNNs lead to "Deep Learning" - where the Deep is the number of layers of
 self-referential networks between input and output.  Having these layers meant
 the many different, seemingly inconsequential connections between parts of an
 input can be built up - in textual terms, how the word "queen" is used in these
 1000 works, and those 1000 works can provide a proxy for what queen means, and a
-proxy that is a arrary of numbers. THis is a Language Model.
+proxy that is a arrary of numbers. This became generative AI - AI that could
+predict the next word, or the next pixel.  Images that could be conjured out of
+thin air, or text that could seem almost human.
 
 Then one team (OpenAI) just said "What if we dial it up to 11", and fed what can
 basically be thoguthof as "all the text on the internet" into a language model.
@@ -38,8 +46,8 @@ and the next generation someone (implying OpenAI) will use a single power plant
 feeding into a 1GW data center)
 
 That is a data centre drawing 1GW of power every second to build the next LLM.
-Humanity is taking sufficent power to boil steel, build a skyscraper or an
-airport, and turning it into a few gigabytes of 1s and 0s.
+Humanity is taking sufficent power to boil steel, build a skyscraper or small
+town, an airport, and turning it into a few gigabytes of 1s and 0s.
 
 
 So whats an LLM?
@@ -60,19 +68,36 @@ beat up the Black population so the southern whites will start to vote
 Republican.)
 
 Thats not what I mean here.  I mean the totality of assumptions, implicit
-knowledge, unwritten rules and thats what we do around here.
+knowledge, unwritten rules and thats what we do around here.  Every human group
+has a culture - and its unlikely you can even ask what that culture is, but
+violate one of its unwritten laws and it will react.  And guess what - there are
+many different human groups.  And they can all find their tribe online.  And
+each group and culture has (slightly, or very) different rules, rules which
+would be really nice if they were protected or enfirced by the law of the land.
+And maybe other peoples land.
+
+The internet has linked up every single human group and tribe, tribes that never
+used to be aware of the existence of otehrs, and the legal and administratravie
+frameworks of the previous time are
+
+WHat has this to do qwith AI? Well we cleverly have not resolved the different
+cultures. We dont know how. But we did stick all the different cultures into the
+head of an AI tool called an LLM. And we kinda hoped it would sort out the mess
+we could not.
 
 Let me tell you another story about my dad. So, sometime in my thirties, it was
 a hot summers day in a London Park, and my friends and I came across an Ice
 Cream van and treated ourselves to a 99 flake.  And I came out with my "Piece of
-relevant amusing trivia useful for this moment in a conversation"
+Relevant and Amusing Trivia Useful For This Moment in A Conversation"
 
-"Did you know Mr Whippy Ice Cream is made from seaweed."  I beamed around the
-group expecting a couple of oh wows for my conversational gambit.
+"Did you know Mr Whippy Ice Cream is made from seaweed."
+
+I beamed around the group expecting a couple of oh wows for my conversational
+gambit.
 
 Everyone just looked at me.
 
-"No, what. Its milk. frozen milk and sugar and probably E-Numbers. DO you mean
+"No, what. Its milk. frozen milk and sugar and probably E-Numbers. Do you mean
 the E-Numbers?"
 
 "No", I say, dredging up ancient memories. "Seaweed, like great floating mats of
@@ -90,16 +115,17 @@ gundgy mats of it floating off Southend Pier.  My Dad told me .... oh."
 
 "Is there something you need to get off your chest Paul?"
 
-"ok, so back when I was younger, like a kid, I was on a beach with my dad and I
-remeber him explaining how ice cream was made.  I have this very clear memory of
-a hot sunny day, and standing in the middle of a crowded, really hot and crowded
-beach, and looking out at a flowting mat of seaweed and churning scum, like a
-sort of alien presence in the water (It was 1970d Britain, where swimmming in
-the ocean meant playing Russian Rouleete with and exciting blend of gastric
-bacateria).
+Oooookaaaay, so back when I was younger, like a kid, I was on a beach with my
+dad and I remember him explaining how ice cream was made.  I have this very
+clear memory of a hot sunny day, and standing in the middle of a crowded, really
+hot and crowded beach, and looking out at a floating mat of seaweed and churning
+scum, like a sort of alien presence in the water.
 
-I remeber that mat of seaweed because My Dad then exlained it was used to put in
-the ice cream. Which, as my adult self rather slowly realised, probably meant
+(This would have been 1970s Britain, a time where swimmming in the ocean meant
+playing Russian Rouleete with an exciting blend of gastric bacateria.)
+
+I remember that mat of seaweed because my Dad then explained it was used to put
+in the ice cream. Which, as my adult self rather slowly realised, probably meant
 less that my dad was giving an insight into the factory processing of dairy
 goods, and more on the "how can I persuade my seven year old that he does not
 want to walk a mile over crowded beaches to queue for half an hour for a
@@ -118,22 +144,37 @@ journalistic rigour.
 (Rigour that, yes, by the way, tended to be just made up for elites in
 journlaism to defence their own biases against commercial and other pressures.)
 
-But the idea that there is a *truth*, and that truth should be written down
+But the idea that there is a *truth*, and that truth should be written down as
+faithfully as possible.
 
 If science is the process of ensuring measurable physical facts overcome any
-human shouting, repitition and bias, then LLMs do not work as science - they
-work with weights, repitions and emphasis. And those facts are not "out there"
-to be examined. They are implicit in the weights, the stories, the *culture*.
+human shouting, repetition and bias, then geenrative AI and LLMs *do not work*
+as science - they work with weights, repitions and emphasis. And those facts are
+not "out there" to be examined. They are implicit in the weights, the stories,
+the *culture*.
+
+Do you know what the largest predictor of one persons religious beliefs is? The
+religious beleifs of their parents.  Because what we are fed during our
+formative years well, forms us.
 
 And so just as the early AI models that were used by HR departments, the models
 rejected CVs from women because the companies did not promote women past a
-certain point,  we shall find LLMs reflecting our culture back to us.
+certain point,  we shall find LLMs reflecting our culture back to us. Actually
+our *cultures*.
 
-But what culture will come back? The one we are as we want others to see us,
-the one that we actually behave, the one that is contended ?
+But what culture will come back?
 
 Dont get involved in culture wars
 ---------------------------------
+
+This is probably a good idea, but it is also scarily impossible. Most of culture
+is the deep unexamined training we underwent with our parents, our saturday
+morning TV, and our natural character.  Its laid unexamined for years, and then
+when triggered we find ourselves not recognising the world we thought we lived
+in.
+
+Had there been enough fathers like mine, Seaweed flavoured Ice cream could well
+be a political wedge issue.
 
 
 The religion of our fathers
@@ -144,13 +185,7 @@ that encoding came from, what it was fed as inputs, that is almsot as important
 as trying to understand how a decision was made (which given the ridiculous volume
 of layers and the loss on compresion, might well be impossible).
 
-Look its like seaweed. Or like religion.
-
-Do you know what the largest predictor of one persons religious beliefs is?
-The religious beleifs of their parents.  Because what we are fed during our formative years
-well, forms us.
-
-COnclusion
+Conclusion
 ----------
 
 Do I think AI is going to wipe us all out, Terminator style?
@@ -159,40 +194,46 @@ No.
 
 Well probably not.
 
-No, really it's silly ...
+No, really it's silly to think ...
 
 Look, OK *maybe* but there is not much we can do about it if so.
+
+
 
 THe AI *tools* that we have now, even the society-level AI models we are
 building as LLMS (something that *costs as much to construct as it costs to
 build a small town*) and millions a day to run, these are still limited tools.
-Unless an AGI is sitting quietly biding its time, LLMs are predicting the next
-word based on a huge training corpus/ We know how it works, and while emergent
-properties are obviously real, its a leap from emergent properties to General
-Intelligence. Evolution should not be that easy.
+
+Unless an AGI is sitting quietly inside ChatGPT biding its time, LLMs are
+predicting the next word based on a huge training corpus. We know how it works,
+and while emergent properties are obviously real, its a leap from emergent
+properties to General Intelligence. Evolution has not been that easy
+since the Cambrian Explosion.
 
 Ok. AI is a collection of tools. An LLM is an expression of AI,
 and an incredibly useful versatile tool that it is.  And it is *very* likely to
 be used, used widely, and used with far less oversight than it deserves.
 
-But the biggest risks are the same old ones - lack of openness, lack  of
-voersight.
+And as ever, the biggest risks are the same old ones - lack of openness, lack  of
+oversight.
 
 What corpuses are used to build these LLMs. What do they contain? How much porn
 is in midjourney, how much nazi propaganda is in ChatGPT.  Does it matter?  That
-answer depends on the answer to how much porn or  Nazi propaganda should our
-children read, and under what context?
+answer depends on the answer to how much porn or Nazi propaganda should our
+children read during their development?
 
 And how will these be used? Will LLMs and other IA tools be used to review CVs?
 To Review the statements made by CEOs? We know they are - and indeed there is a
-arms war going on in both those areas.
+arms war going on in both those areas.  AI will, if not is already, be used on
+the battlefield. A vision model that can count shoppers going into a mall is
+also capable of sitting behind a rifle in a bush.
 
 I wonder if the LLM trained in German will be different from those in French
 and English and Mandarin? I wonder if diff'ing those models is possible.
 
 How different will different LLMs react? How much is focused on the corpus used?
-On the *order* of corpus fed in?
-
+On the *order* of corpus fed in?  The academic questions around generative AI are enormous (and fun)
+but the real world questions are scary big.
 
 
 Is an LLM *ours*?
@@ -266,7 +307,8 @@ THe "Reject CVs from Women" problem
 -----------------------------------
 
 There are many reasons why an organisation will not want to have a objective look
-at automating its
+at automating its internal processes - why becoming a *programmable company*
+is a threat to the status quo.
 
 
 1. you are lying about the real process  (bribery)
@@ -281,7 +323,7 @@ at automating its
 My assumption about people saying "AI can improve our internal processes" is not
 that they think it will magically solve some or all of the above issues, (most
 people arent stupid) but that spending a fortune on AI will delay any need to
-actively deal with the problems and continue as we are.
+actively deal with the problems and we can continue as we are.
 
 
 AI will find data we did not know we had
@@ -289,7 +331,24 @@ AI will find data we did not know we had
 
 Honestly thats like "We have a robot that can look down the back of the sofa for
 the missing millions" If you have enough data down the back of the sofa, that it
-will move the needle on your business, then its your fault.
+will move the needle on your business, then its your fault you are not already using it.
+
+Every piece of teh real world that exists *potentially can be refelcted in the
+virtual*. THe only reason we are not looking down the back of the virtual sofa
+is if the sofa cannot be sensed by digital processes (which is less and less of
+the world, especially a nice safe commercial world), or its too expensive to
+process what is sensed (again a vanishingly small issie)
+
+I am happy to conjecture that with mobile phones, pretty much every huamn action in the urban western world
+is now digitised or digitisable, and that completely includes "business" activites.
+Look at Microsfot Recall. I mean its litersally reading over your shoulder every second at worl
+And this is not something dreamed up in Reddmond. THis is MS doing tis old traditional idea of seeing
+a competitor having a lovely market and using its Operating SYstem stranglehold
+to ROFL stomp the competitors into oblivion.
+
+This also seems to be a threat to financial world - finance is merely
+manipulatig the *accountant* virtual world. If the digigial virtual world can
+get there first, will th e accountatns world be less valuable?
 
 Anyway, this "expansion of the data realm" is what our generation is undergoing.
 From the existence of data we enter in directly, to data that can be collected

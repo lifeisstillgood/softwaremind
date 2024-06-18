@@ -5,6 +5,9 @@ Coders are the New Managers
 "management" is a fairly slippery term - it is often claimed to be the
 cause of low productivity in some countroes compared to otehrs.
 
+Administration shoukd be instantaneous, decisions shoukd be well informed
+the code is all
+
 
 The Evolving Understanding of Management and organistions
 ---------------------------------------------------------

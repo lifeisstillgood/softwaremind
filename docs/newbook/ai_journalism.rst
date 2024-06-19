@@ -24,14 +24,27 @@ manufacturing industries - but as usual they are hidden from most of the world
 (a common complaint of the manufactiruing world - but who listens to those guys
 right !)
 
+And then Google Reseachers released a paper in 2017 "Attention is all you need".
+This described a "Transformer" (no not that kind), a model that moves a textual
+representation through deep "layers" (see below for an attempt at explaining thsi)
+where weights in the layers allow different inputs to cause the model to "give attention"
+to different parts of the model.  THis is called self-attention.
+
+As a very overly simplified idea, ChatGPT3 has 17 billion parameters, arranged in 28,000
+seperate matrcies, and yet only 8 "stages".  TO get a flavour of the concepts, the first stage
+is Embedding, so, imagine taking every token in the English Lnaguage (words and word-parts) and
+making a column in a matrix for each token ("word"). Then feed in one sentence,
+(The Cat in the Hat), and change the numbers in the 50,000+ column matrix to show
+how 'Cat' links to 'Hat' (one can easily imagine how to draw a line between two points
+in 3d space, so one could give Cat a 3-vector location and Hat a 3 vector location
+and the
+
+
 CNNs lead to "Deep Learning" - where the Deep is the number of layers of
-self-referential networks between input and output.  Having these layers meant
-the many different, seemingly inconsequential connections between parts of an
-input can be built up - in textual terms, how the word "queen" is used in these
-1000 works, and those 1000 works can provide a proxy for what queen means, and a
-proxy that is a arrary of numbers. This became generative AI - AI that could
-predict the next word, or the next pixel.  Images that could be conjured out of
-thin air, or text that could seem almost human.
+self-referential networks between input and output. (and yes, this is massively
+over-simplified, and will be better explained / examined in The DevManual
+companion book).
+
 
 Then one team (OpenAI) just said "What if we dial it up to 11", and fed what can
 basically be thoguthof as "all the text on the internet" into a language model.

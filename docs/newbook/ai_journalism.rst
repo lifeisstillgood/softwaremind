@@ -26,25 +26,33 @@ right !)
 
 And then Google Reseachers released a paper in 2017 "Attention is all you need".
 This described a "Transformer" (no not that kind), a model that moves a textual
-representation through deep "layers" (see below for an attempt at explaining thsi)
-where weights in the layers allow different inputs to cause the model to "give attention"
-to different parts of the model.  THis is called self-attention.
+representation through deep "layers" (see below for an attempt at explaining
+thsi) where weights in the layers allow different inputs to cause the model to
+"give attention" to different parts of the model.  THis is called
+self-attention.  This is the way that a relatively small model (GBs in size) can
+*encode in itself* the answers to, well. everything.
 
-As a very overly simplified idea, ChatGPT3 has 17 billion parameters, arranged in 28,000
-seperate matrcies, and yet only 8 "stages".  TO get a flavour of the concepts, the first stage
-is Embedding, so, imagine taking every token in the English Lnaguage (words and word-parts) and
-making a column in a matrix for each token ("word"). Then feed in one sentence,
-(The Cat in the Hat), and change the numbers in the 50,000+ column matrix to show
-how 'Cat' links to 'Hat' (one can easily imagine how to draw a line between two points
-in 3d space, so one could give Cat a 3-vector location and Hat a 3 vector location
-and the
+As a very overly simplified idea, ChatGPT3 has 17 billion parameters, arranged
+in 28,000 seperate matrcies, and yet only 8 "stages".
+
+Embeddong
+https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+word2vec - CBOW
+YOu start with one sentence.
+Then you take the next sentence and try and guess the next word from your matrix
+It of course will be wrong, but how wrong tells you something about how the word you did not guess
+relates to the rest - you use the cosine similarity to change the weights of the words related
+(ie in the sentence) - repat a million times.
+Each guess gets you closer.
 
 
-CNNs lead to "Deep Learning" - where the Deep is the number of layers of
-self-referential networks between input and output. (and yes, this is massively
-over-simplified, and will be better explained / examined in The DevManual
-companion book).
-
+TO get a flavour of the
+concepts, the first stage is Embedding, so, imagine taking every token in the
+English Lnaguage (words and word-parts) and making a column in a matrix for each
+token ("word"). Then feed in one sentence, (The Cat in the Hat), and change the
+numbers in the 50,000+ column matrix to show how 'Cat' links to 'Hat' (one can
+easily imagine how to draw a line between two points in 3d space, so one could
+give Cat a 3-vector location and Hat a 3 vector location and the line between them is
 
 Then one team (OpenAI) just said "What if we dial it up to 11", and fed what can
 basically be thoguthof as "all the text on the internet" into a language model.
@@ -62,6 +70,14 @@ That is a data centre drawing 1GW of power every second to build the next LLM.
 Humanity is taking sufficent power to boil steel, build a skyscraper or small
 town, an airport, and turning it into a few gigabytes of 1s and 0s.
 
+
+[TODO: Simple end 2 end LLM - how the word embedding really works]
+
+Biblio
+https://medium.com/@faheemrustamy/vision-transformers-vs-convolutional-neural-networks-5fe8f9e18efc
+http://arxiv.org/pdf/2010.11929
+https://arxiv.org/abs/1706.03762
+https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
 
 So whats an LLM?
 -------------------

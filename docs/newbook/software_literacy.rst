@@ -12,6 +12,14 @@ Software Literacy
 freedom - where incompetant decisions by small number of actors 
 do not lead to your disaster - see bengal famine? 
 
+Invisible infrastructure made visible
+----------------------------------------
+
+think of laws, regulations, jurisprudence and even culture as types of invisible infrastructure. 
+
+
+
+
 
 Software aint wngineering 
 -------------------------

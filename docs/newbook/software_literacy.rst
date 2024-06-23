@@ -17,7 +17,7 @@ Invisible infrastructure made visible
 
 think of laws, regulations, jurisprudence and even culture as types of invisible infrastructure. 
 
-
+https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing
 
 
 

@@ -9,6 +9,11 @@ Administration shoukd be instantaneous, decisions shoukd be well informed
 the code is all
 
 
+what is mgmt - the grouo of people whose reaponaibke for and abke to chnage the 
+culture, incentives, rules and policies if an organisation 
+
+
+
 The Evolving Understanding of Management and organistions
 ---------------------------------------------------------
 

@@ -2,41 +2,160 @@
 Coders are the New Managers
 ===========================
 
-"management" is a fairly slippery term - it is often claimed to be the
-cause of low productivity in some countroes compared to otehrs.
-
-Administration shoukd be instantaneous, decisions shoukd be well informed
-the code is all
-
-
-what is mgmt - the grouo of people whose reaponaibke for and abke to chnage the 
-culture, incentives, rules and policies if an organisation 
-
-
 
 The Evolving Understanding of Management and organistions
----------------------------------------------------------
+===========================================================
 
 "Management" as a term is fairly modern - probably Peter Drucker is most
-responsible for popularising it in the 50s and 60s.  His work is where most academic work
-has followed. In his work, Mgmt should be an elite, trained for highest performance, to innovate, to
-analyse, to *decide* and *change*.  These are supermen, bestriding the world.
+responsible for popularising it in the 50s and 60s.  His work laid a path that most
+academic work has followed. In his work, Mgmt should be an elite, trained for
+highest performance, to innovate, to analyse, to *decide* and *change*.  These
+are supermen, bestriding the world.
 
-However things changed.  Management in 1960s were still thougth of as employees.
-The CEO growth, options pay packets and more made
+However things changed.  Management in 1960s were still thougth of as employees,
+working for a shareholder class.  And while they got *perks*, they rarely got
+*capital*.  And slowly that changed until the 1980s exploded and the majority of
+management income came not from salaries but from equity (options).  And slowly
+they stopped being "management".
 
-How is management viewed today? 2010s Google - "Eight rules for google management". HEre the supermen learnt - they studied google and found the
-best performing managers. And they ... were sports coaches. "Support your people". etc
+2010s Google - "Eight rules for google management".
+HEre the supermen learnt - they studied google and found the best
+performing managers. And they ... were sports coaches. "Support your people".
+etc
+
+    Be a good coach.
+    Empower your team and do not micromanage.
+    Express interest in team members’ success and personal well-being.
+    Be productive and results-orientated.
+    Be a good communicator and listed to your team.
+    Help your employees with career development.
+    Have a clear vision and a strategy for the team.
+    Have key technical skills so that you can help advise the team.
+
 
 Wait what happened? Where is all the "bend the organisation to your will" stuff.
+Where is the "corporate strategy". What happened?
 
-In my uneducated opinion, two things happened.
-Firstly the management split - middle management stayed employees, and upper management
-became capitalists, financiers.
+In my uneducated opinion, two things happened. Firstly the management split -
+middle management stayed employees, and upper management became capitalists,
+financiers.  Companies grew in size, complexity. Globalisation became not just
+how things were traded but how companies operated.
 
-Adn Software happened. The actual work in Google is done by CPUs and GPUs. The people
-who marshall and supoervise and direct and organise the workers are the people committing
-the code.
+(link: accountancy - the non softwaremethods of control, superseeded by direct measurement)
+
+Adn Software happened. The actual work in Google is done by CPUs and GPUs. The
+people who marshall and supoervise and direct and organise the workers are the
+people committing the code.
+
+The hierachy is broken. The people doing the actual design are not in the hierarchy
+so how is the strategy conducted / directed? This is about *mission*, and about
+the *whole org test rig* and eventually democracy - the middle class will demand a seat at the table.
+
+
+The code is the design
+======================
+
+See essays
+
+
+The Architects paradox
+=======================
+
+If you cannot control the work to each level, you need to leave thigns to chancve
+/ others - and then
+
+But with software and robots you can control it all, preplan it all.
+Factory and Field
+
+
+
+Coders are the new managers, CPUs are the new workers
+================================================================
+
+
+
+  - THoery of firm / how organisations will change
+
+
+  "When Adam Delved and Eve span, who then was a Gentleman?"
+
+    -- John Ball, (Peasants' Revolt) 1381
+
+Tranisation from managers to coders reduces ability for non technical management
+to know what is possible and how to implement next step on phase soace
+management is becoming less abke to *dirext* and more able to *prevent* - old
+saw of government having engine of lawnmower and brakes of rolls royce
+leadership - saying its ok (sniper and injured enemy) impact of remote workinng
+
+MOOP
+sunlight
+
+with rmeote working either everyone is told about everything
+
+or there is total loss of cohesion - either write it all down and lose political
+power or
+
+coders are the new managers
+---------------------------
+
+THe new workers are the CPUs. The supervisors and instructions come from the coders - and code is the design.  Look at difference between maangers in Drucker - bestriding the world making decisions, and managers in Googles eight rules - coaches helping keep the employees happy.  And what if employees are not happy - look at OpenAI where an emploee revolt removed the board.  We shall come back to employee ower later. WHy did rome collapse? Collapse of trust and trade.
+management is dead -
+coders are new managers
+management is simple (peter principle)
+management can be automated - to raise floor level
+modelling
+mentoring
+monitoring
+politicking  (financier and project choosing)
+project / activity choice - resource allocation is mostly what *change* to apply - which is mostly a datwining process of project survival - so financing is process of finding successful projects not initiating successful projects
+or finding obvious failings and initiating blessed solutions
+management training matters but
+is that training in coaching (google 8 rules) or training in project initiation and selection or training in political alignment
+i hvave sympathy woth the control freaks because there is no standrdisatikn - no process (military word??)
+there is need for soijg things this way my
+way - commot formats and so on
+management is basically xonsrant on job training of others
+- linting humans
+we live lives of imperfection and pretend every is fine and the dodson are between the two is our stress level - but admitting the truth is a way to find calm and time to fix the imperfections
+the great innovations of 1776 enlightenment
+democracy
+openness / search for truth / scientific method
+industrial revolution - automation finance and more
+double down on what works
+politician - consensus forming / finding
+foncnciar - consensus funding
+colonel
+serfent
+pricate
+
+
+What do we mean by management?
+------------------------------
+
+This one we can bang on about for ages.  Everyone from Drucker to the latest
+paperback in the airport lounge has some definition.  But I am going to stick to
+my Sun-Tzu.  There are 5 "components" of warfare -Landscape, Weather, Mission,
+Doctrine and Leadership.  Leadership is the "management" part we are discussing
+here, and Leadership can influence the Mission, and change the Doctrine.  But it
+cannot change the landscape or the weather.
+
+So I am conjecturing that management of an organisation is the group of people
+responsible for, no, *able to change or influence* the culture, incentives, rules
+and policies of an organisaitoon.
+
+This usually means people high up in a organisation hierachy, but we all too
+often know of upper managemetn unable to change anything.  But *someone* in that
+company can.
+
+In the UK we have what is sometimes termed "The British Disease" - where some defitnin of poor managemnt
+causes the low productivity seen in UK companies compared to their peers.
+
+Instantaneous Administration
+----------------------------
+Admin should be instant. SoppY
+
+
+
 
 Disaggreation of management
 ----------------------------
@@ -46,7 +165,6 @@ So what does management do?
 Model
 Monitor
 Mentor
-
 Politic
 
 
@@ -101,13 +219,13 @@ The Architect's Paradox
 =======================
 
 An architect today can <design> a building, but leave many of the detaisl to be
-worked out
-at construction time (they of course need to ensure load bearing floors etc etc. But often
-this not work out - see NEw York famous.) But imagine we create a robot that injects
-concrete exactly where its told. At this point te architect can churn out hundreds of
-buildings at a time, but they need to specify *everytrhing*.  This is the problem,
-opportunity and promise of software as it eats the world - vast savings, vast control, but
-now everything must be much more explicit.
+worked out at construction time (they of course need to ensure load bearing
+floors etc etc. But often this not work out - see NEw York famous.) But imagine
+we create a robot that injects concrete exactly where its told. At this point te
+architect can churn out hundreds of buildings at a time, but they need to
+specify *everytrhing*.  This is the problem, opportunity and promise of software
+as it eats the world - vast savings, vast control, but now everything must be
+much more explicit.
 
 The code is the design
 =========================
@@ -180,69 +298,7 @@ mgmt elite that "understands" the company
   - THoery of firm / how organisations will change
   - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
   
-Chapter: Coders are the new managers, CPUs are the new workers
-================================================================
-
-  - THoery of firm / how organisations will change
-  - Coders are the new managers, CPUs are the new workers (as almost every job has co-pilot or enabled by software / robot / machine)
-  
-    "When Adam Delved and Eve span, who then was a Gentleman?"
-    
-    -- John Ball, (Peasants' Revolt) 1381
-
-    Tranisation from managers to coders
-reduces ability for non technical management 
-to know what is possible and how to implement next step on phase soace
-management is becoming less abke to *dirext* 
-and more able to *prevent* - old saw of government having engine of lawnmower and brakes of rolls royce
-leadership - saying its ok (sniper and injured enemy)
-impact of remote workinng
-MOOP 
-sunlight
-with rmeote working either everyone is told about everything
-or there is total loss of cohesion - either write it all down and lose political power or 
-
-coders are the new managers
----------------------------
-
-THe new workers are the CPUs. The supervisors and instructions come from the coders - and code is the design.  Look at difference between maangers in Drucker - bestriding the world making decisions, and managers in Googles eight rules - coaches helping keep the employees happy.  And what if employees are not happy - look at OpenAI where an emploee revolt removed the board.  We shall come back to employee ower later. WHy did rome collapse? Collapse of trust and trade.
-management is dead - 
-coders are new managers 
-management is simple (peter principle) 
-management can be automated - to raise floor level
-modelling
-mentoring
-monitoring
-politicking  (financier and project choosing)
-project / activity choice - resource allocation is mostly what *change* to apply - which is mostly a datwining process of project survival - so financing is process of finding successful projects not initiating successful projects
-or finding obvious failings and initiating blessed solutions
-management training matters but
-is that training in coaching (google 8 rules) or training in project initiation and selection or training in political alignment
-i hvave sympathy woth the control freaks because there is no standrdisatikn - no process (military word??)
-there is need for soijg things this way my
-way - commot formats and so on
-management is basically xonsrant on job training of others
-- linting humans
-we live lives of imperfection and pretend every is fine and the dodson are between the two is our stress level - but admitting the truth is a way to find calm and time to fix the imperfections
-the great innovations of 1776 enlightenment
-democracy
-openness / search for truth / scientific method
-industrial revolution - automation finance and more
-double down on what works
-politician - consensus forming / finding
-foncnciar - consensus funding
-colonel
-serfent
-pricate
 =========
-
-
-
-
-
-
-
-
 Non Jobs
 =========
 
@@ -259,38 +315,17 @@ workig software' A screed against project maangement-ism.  Also why are companie
 using metrics and data to drive outcomes - AB testing your way  to success? Or to be out
 of a job?
 =================================================
-
-
-
-
-
-
-
 The SDLC - Literate Best Practise / The DevManual
 =================================================
-
-
-
-
-
-
-
 Many pieces combine to make modern SDLC - see Joels 12 rules. Policy as code. Software
 givernance matters - see trolley problems, voting on PRs and VW scandal. End of commerical
 confidentiality.
 simplest possible complete software ecosystem - devmanual
 "Simplicity is the ultimate sophistication"
 leonardo Da Vinci
+
 Chapter: Literary Best practise
 ===============================
-
-
-
-
-
-
-
-
 Software demands different best practises
 We are finding them - and what it will look like makes WaPo different to a
 medieval scriptoreum.
@@ -303,15 +338,9 @@ To "release with confidence" you need to have a prod-parallel env / test rig.
 To "plan" you need to have failing tests in the prod-parallel env, that are like
 bug bounties for employees.  DO not fall for capitalism here, use socialism
 inside the org.
+
 Chapter OODA loop and production ready, tech debt.
 ==================================================
-
-
-
-
-
-
-
 Observe, Orientate, Decide, Act.
 This is operating *on* an existing system. We are managing the system.
 If we cannot get metrics from the system, we cannot observe

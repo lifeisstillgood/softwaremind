@@ -17,7 +17,12 @@ LEts call it reluctant compliance
 Lets call it the Democratic Bet.
 
 
+software literacy goes hamd in glive with democracy 
+- allows fir woder corporate cultures than the never make a mistake overlat on 
+pllical feidslism
 
+and we can fix withiyt revolutiob by bring more human 
+nore open more drm ratic 
 
 
 

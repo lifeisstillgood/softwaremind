@@ -8,11 +8,20 @@ The Evolving Understanding of Management and organistions
 
 "Management" as a term is fairly modern - probably Peter Drucker is most
 responsible for popularising it in the 50s and 60s.  His work laid a path that most
-academic work has followed. In his work, Mgmt should be an elite, trained for
+academic work has followed. To very harshly paraphrase his work, In his work, Mgmt should be an elite, trained for
 highest performance, to innovate, to analyse, to *decide* and *change*.  These
 are supermen, bestriding the world.
 
-However things changed.  Management in 1960s were still thougth of as employees,
+1973 Management: Tasks, Responsibilities, Practices
+The fact is, that in modern
+society there is no other leadership group but managers. If the managers of our
+major institutions, and especially of business, do not take responsibility for
+the common good, no one else can or will.
+
+being fair to drucker -> he saw it as responsibility liberal arts, non profit, fairness to workers.
+But this is 'noblese oblige' not enforced.
+
+However things changed.  Management in 1960s were still thought of as employees,
 working for a shareholder class.  And while they got *perks*, they rarely got
 *capital*.  And slowly that changed until the 1980s exploded and the majority of
 management income came not from salaries but from equity (options).  And slowly
@@ -33,12 +42,13 @@ etc
     Have key technical skills so that you can help advise the team.
 
 
-Wait what happened? Where is all the "bend the organisation to your will" stuff.
+Wait what happened there? Where is all the "bend the organisation to your will" stuff.
 Where is the "corporate strategy". What happened?
 
 In my uneducated opinion, two things happened. Firstly the management split -
 middle management stayed employees, and upper management became capitalists,
-financiers.  Companies grew in size, complexity. Globalisation became not just
+financiers.  Not only did CEOs grab enough options to spell FU, but
+the worlds largest companies grew in size and reach. Globalisation became not just
 how things were traded but how companies operated.
 
 (link: accountancy - the non softwaremethods of control, superseeded by direct measurement)
@@ -47,9 +57,10 @@ Adn Software happened. The actual work in Google is done by CPUs and GPUs. The
 people who marshall and supoervise and direct and organise the workers are the
 people committing the code.
 
-The hierachy is broken. The people doing the actual design are not in the hierarchy
-so how is the strategy conducted / directed? This is about *mission*, and about
-the *whole org test rig* and eventually democracy - the middle class will demand a seat at the table.
+The hierachy is broken. The people doing the actual design are not in the
+hierarchy so how is the strategy conducted / directed? This is about *mission*,
+and about the *whole org test rig* and eventually democracy - the middle class
+will demand a seat at the table.
 
 
 The code is the design
@@ -86,14 +97,6 @@ to know what is possible and how to implement next step on phase soace
 management is becoming less abke to *dirext* and more able to *prevent* - old
 saw of government having engine of lawnmower and brakes of rolls royce
 leadership - saying its ok (sniper and injured enemy) impact of remote workinng
-
-MOOP
-sunlight
-
-with rmeote working either everyone is told about everything
-
-or there is total loss of cohesion - either write it all down and lose political
-power or
 
 coders are the new managers
 ---------------------------

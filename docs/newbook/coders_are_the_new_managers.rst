@@ -7,25 +7,33 @@ The Evolving Understanding of Management and organistions
 ===========================================================
 
 "Management" as a term is fairly modern - probably Peter Drucker is most
-responsible for popularising it in the 50s and 60s.  His work laid a path that most
-academic work has followed. To very harshly paraphrase his work, In his work, Mgmt should be an elite, trained for
-highest performance, to innovate, to analyse, to *decide* and *change*.  These
-are supermen, bestriding the world.
+responsible for popularising it in the 50s and 60s.  His work laid a path that
+most academic work has followed. To very harshly paraphrase his work, In his
+work, Mgmt should be an elite, trained for highest performance, to innovate, to
+analyse, to *decide* and *change*.  These are supermen, bestriding the world.
 
-1973 Management: Tasks, Responsibilities, Practices
-The fact is, that in modern
-society there is no other leadership group but managers. If the managers of our
-major institutions, and especially of business, do not take responsibility for
-the common good, no one else can or will.
+.. epigraph::
 
-being fair to drucker -> he saw it as responsibility liberal arts, non profit, fairness to workers.
-But this is 'noblese oblige' not enforced.
+   The fact is, that in modern society there is no other leadership group
+   but managers. If the managers of our major institutions, and especially of
+   business, do not take responsibility for the common good, no one else
+   can or will.
+
+   -- Drucker, 1973 Management: Tasks, Responsibilities, Practices
+
+
+Now we should be fair to Drucker, he saw this idea of management more as
+a responsibility,  liberal arts, non-profit, fairness to workers.
+But another phrase for this is 'noblese oblige'.  Management is still an elite
+in his books.
 
 However things changed.  Management in 1960s were still thought of as employees,
 working for a shareholder class.  And while they got *perks*, they rarely got
 *capital*.  And slowly that changed until the 1980s exploded and the majority of
-management income came not from salaries but from equity (options).  And slowly
-they stopped being "management".
+upper management income came not from salaries but from equity (options).
+And slowly they stopped being "management".
+
+
 
 2010s Google - "Eight rules for google management".
 HEre the supermen learnt - they studied google and found the best
@@ -42,8 +50,8 @@ etc
     Have key technical skills so that you can help advise the team.
 
 
-Wait what happened there? Where is all the "bend the organisation to your will" stuff.
-Where is the "corporate strategy". What happened?
+Wait what happened there? Where is all the "bend the organisation to your will"
+stuff. Where is the "corporate strategy". What happened?
 
 In my uneducated opinion, two things happened. Firstly the management split -
 middle management stayed employees, and upper management became capitalists,
@@ -54,7 +62,7 @@ how things were traded but how companies operated.
 (link: accountancy - the non softwaremethods of control, superseeded by direct measurement)
 
 Adn Software happened. The actual work in Google is done by CPUs and GPUs. The
-people who marshall and supoervise and direct and organise the workers are the
+people who marshall and supervise and direct and organise the workers are the
 people committing the code.
 
 The hierachy is broken. The people doing the actual design are not in the

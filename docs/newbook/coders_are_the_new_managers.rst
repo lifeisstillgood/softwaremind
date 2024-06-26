@@ -36,6 +36,7 @@ And slowly they stopped being "management".
 
 
 2010s Google - "Eight rules for google management".
+
 HEre the supermen learnt - they studied google and found the best
 performing managers. And they ... were sports coaches. "Support your people".
 etc
@@ -51,7 +52,8 @@ etc
 
 
 Wait what happened there? Where is all the "bend the organisation to your will"
-stuff. Where is the "corporate strategy". What happened?
+stuff. Where is the "corporate strategy". What happened to bestriding the world
+and abusing your employees?
 
 In my uneducated opinion, two things happened. Firstly the management split -
 middle management stayed employees, and upper management became capitalists,
@@ -65,10 +67,37 @@ Adn Software happened. The actual work in Google is done by CPUs and GPUs. The
 people who marshall and supervise and direct and organise the workers are the
 people committing the code.
 
+
+Disaggregation of management
+----------------------------
+
 The hierachy is broken. The people doing the actual design are not in the
 hierarchy so how is the strategy conducted / directed? This is about *mission*,
 and about the *whole org test rig* and eventually democracy - the middle class
 will demand a seat at the table.
+
+Go Higher Haier
+---------------
+OK, so there are not a lot of examples of companies doing things different.
+One such is a Chinese "white goods" manufacturer *Haier*.
+Back in 2009 the boss decided to do away with maangement (bit like google) but he did it slightly better
+
+
+But - examples?
+https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/a-business-of-its-times-haiers-self-evolving-organization
+
+The *jobs* of management still need to be done. But do they need to be done by
+a *class* of elite in an rigid hierarchy?
+
+Reduced risk - literal bank in a box, can be produced (devmanual), so dont have to reincvent wheel
+
+So its pretty silly to announce the internet, software, AI is going to change the
+whole world, break barriers, disrupt everything, ... apart from hierarchical management
+and corporate financing.
+
+- Administration should be instantaneous
+- Decisions get recorded (and possibly encoded, by tests)
+-
 
 
 The code is the design

@@ -33,27 +33,39 @@ working for a shareholder class.  And while they got *perks*, they rarely got
 upper management income came not from salaries but from equity (options).
 And slowly they stopped being "management".
 
+In 2010, Google publish the results of their
 
 
-2010s Google - "Eight rules for google management".
 
-HEre the supermen learnt - they studied google and found the best
-performing managers. And they ... were sports coaches. "Support your people".
-etc
 
-    Be a good coach.
-    Empower your team and do not micromanage.
-    Express interest in team members’ success and personal well-being.
-    Be productive and results-orientated.
-    Be a good communicator and listed to your team.
-    Help your employees with career development.
-    Have a clear vision and a strategy for the team.
-    Have key technical skills so that you can help advise the team.
+Google
+Project Aristotle and Project Oxygen,
+https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 
+oxygen 1/2
+https://www.linkedin.com/pulse/googles-project-oxygen-part-1-from-managers-great-key-andreas-holmer
+https://www.linkedin.com/pulse/googles-project-oxygen-part-2-command-expertise-other-andreas-holmer
+Haier
+
+Google's eight rules came out, as summarised by NYT as ::
+
+  But Mr. Bock’s group found that technical expertise the ability, say, to
+  write computer code in your sleep ranked dead last among Google’s big eight.
+  What employees valued most were even-keeled bosses who made time for
+  one-on-one meetings, who helped people puzzle through problems by asking
+  questions, not dictating answers, and who took an interest in employees’
+  lives and careers.
+
+Oh so, you know. A Sports Coach or a Life Coach. [#1]
 
 Wait what happened there? Where is all the "bend the organisation to your will"
 stuff. Where is the "corporate strategy". What happened to bestriding the world
-and abusing your employees?
+and exploiting your employees? What about decide and change? What about
+"If the managers of our major institutions, and especially of business,
+do not take responsibility for the common good ..."
+
+Where in the new softly softly rules for managers is the red meat of resource
+allocation?
 
 In my uneducated opinion, two things happened. Firstly the management split -
 middle management stayed employees, and upper management became capitalists,
@@ -61,11 +73,25 @@ financiers.  Not only did CEOs grab enough options to spell FU, but
 the worlds largest companies grew in size and reach. Globalisation became not just
 how things were traded but how companies operated.
 
-(link: accountancy - the non softwaremethods of control, superseeded by direct measurement)
-
 Adn Software happened. The actual work in Google is done by CPUs and GPUs. The
 people who marshall and supervise and direct and organise the workers are the
 people committing the code.
+
+
+What is left out of GOogles 8 rules is how is what the team is working on decided
+who decides what they get paid and what they produce?
+
+Resource Allocation matters.  Lets look at Haier
+
+(link: accountancy - the non softwaremethods of control, superseeded by direct measurement)
+
+To me Middle management is now the job of the coder, the CPUs job is working.
+Operations is the planning of data centre growth.  Straegic decisions about 1 GW
+data centres matter.
+
+But the finl decision, the sign off on the big spends, that is still "management"
+as meant by Drucker.  And it is sorely in need of democracy.  But it is being disaggegated.
+
 
 
 Disaggregation of management
@@ -412,3 +438,13 @@ It’s always a balancing act but at some point the skeletons just become self r
 
 Amd the trump solution (nonshame just domwjateber) is not betrer
 
+.. [#1] If you are interested this is the full 8 rules
+
+    Be a good coach.
+    Empower your team and do not micromanage.
+    Express interest in team members’ success and personal well-being.
+    Be productive and results-orientated.
+    Be a good communicator and listed to your team.
+    Help your employees with career development.
+    Have a clear vision and a strategy for the team.
+    Have key technical skills so that you can help advise the team.

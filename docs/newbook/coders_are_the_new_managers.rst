@@ -21,11 +21,18 @@ analyse, to *decide* and *change*.  These are supermen, bestriding the world.
 
    -- Drucker, 1973 Management: Tasks, Responsibilities, Practices
 
+Management had many functions in his books which boil down to
+increasing productivity, motivating employees, organising and managing
+societal impacts and biggest - setting objectives - objectives in productivity,
+market stadning, financial resources, profuitability, employee and managerial
+performane and training.
+
+https://www.torontosom.ca/blog/a-profile-of-peter-f-drucker-father-of-modern-management
 
 Now we should be fair to Drucker, he saw this idea of management more as
 a responsibility,  liberal arts, non-profit, fairness to workers.
 But another phrase for this is 'noblese oblige'.  Management is still an elite
-in his books.
+in his books.  And Management was for setting and directing via objectives.
 
 However things changed.  Management in 1960s were still thought of as employees,
 working for a shareholder class.  And while they got *perks*, they rarely got
@@ -33,21 +40,19 @@ working for a shareholder class.  And while they got *perks*, they rarely got
 upper management income came not from salaries but from equity (options).
 And slowly they stopped being "management".
 
-In 2010, Google publish the results of their
+In 2002, shortly after IPO, Google's founding engineers thought they would be clvere and
+get rid of managers entirely. They were staffed by clever engineers after all.
+It did not work well.  We can discuss why but the upshot was Project Oxygen - a study
+from around 2009 monitoring which teams did well and which managers managed them.
+
+They identified 8 rules that the best maangers followed.
+
+Google then followed that up with Project Aristotle, which identifed what qualities
+a high performing team in Google had.
 
 
 
-
-Google
-Project Aristotle and Project Oxygen,
-https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
-
-oxygen 1/2
-https://www.linkedin.com/pulse/googles-project-oxygen-part-1-from-managers-great-key-andreas-holmer
-https://www.linkedin.com/pulse/googles-project-oxygen-part-2-command-expertise-other-andreas-holmer
-Haier
-
-Google's eight rules came out, as summarised by NYT as ::
+And in 2012 Google's eight rules came out, as summarised by NYT as ::
 
   But Mr. Bock’s group found that technical expertise the ability, say, to
   write computer code in your sleep ranked dead last among Google’s big eight.
@@ -58,11 +63,17 @@ Google's eight rules came out, as summarised by NYT as ::
 
 Oh so, you know. A Sports Coach or a Life Coach. [#1]
 
+As for the best teams they needed - Psychological Safety. ::
+
+  Instead, it's about being able to speak your mind without fear of judgment or
+  retaliation. It's about feeling safe to take risks and make mistakes, knowing
+  that your colleagues have your back and support your growth.
+
 Wait what happened there? Where is all the "bend the organisation to your will"
 stuff. Where is the "corporate strategy". What happened to bestriding the world
-and exploiting your employees? What about decide and change? What about
-"If the managers of our major institutions, and especially of business,
-do not take responsibility for the common good ..."
+and exploiting your employees? What about decide and change? What about setting
+objectives that everyone else just follows. What about telling people what to
+damn well do and have them do it!
 
 Where in the new softly softly rules for managers is the red meat of resource
 allocation?
@@ -89,10 +100,15 @@ To me Middle management is now the job of the coder, the CPUs job is working.
 Operations is the planning of data centre growth.  Straegic decisions about 1 GW
 data centres matter.
 
-But the finl decision, the sign off on the big spends, that is still "management"
-as meant by Drucker.  And it is sorely in need of democracy.  But it is being disaggegated.
+But the finl decision, the sign off on the big spends, that is still
+"management" as meant by Drucker.  And it is sorely in need of democracy.  But
+it is being disaggegated.
 
+Management is being disaggregated. But will Capital (in the Pikeety sense?)
+Democracy is the biggest threat to capitalism.  And as the coders are the new managers, they will / are demandng a say at the top table
 
+Its not enough that maangers are nice.  Its that the real decisions are made without the workers
+And that is what feudalism to democracy has always been about.
 
 Disaggregation of management
 ----------------------------
@@ -448,3 +464,14 @@ Amd the trump solution (nonshame just domwjateber) is not betrer
     Help your employees with career development.
     Have a clear vision and a strategy for the team.
     Have key technical skills so that you can help advise the team.
+
+bibliography
+------------
+Google
+Project Aristotle and Project Oxygen,
+https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+
+oxygen 1/2
+https://www.linkedin.com/pulse/googles-project-oxygen-part-1-from-managers-great-key-andreas-holmer
+https://www.linkedin.com/pulse/googles-project-oxygen-part-2-command-expertise-other-andreas-holmer
+Haier

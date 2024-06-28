@@ -2,11 +2,10 @@
 Coders are the New Managers
 ===========================
 
-
-The Evolving Understanding of Management and organistions
+The Evolving Understanding of Management and organisations
 ===========================================================
 
-"Management" as a term is fairly modern - probably Peter Drucker is most
+"Management" is a fairly modern term - probably Peter Drucker is most
 responsible for popularising it in the 50s and 60s.  His work laid a path that
 most academic work has followed. To very harshly paraphrase his work, In his
 work, Mgmt should be an elite, trained for highest performance, to innovate, to
@@ -20,6 +19,8 @@ analyse, to *decide* and *change*.  These are supermen, bestriding the world.
    can or will.
 
    -- Drucker, 1973 Management: Tasks, Responsibilities, Practices
+
+Wow. These guys mean business.
 
 Management had many functions in his books which boil down to
 increasing productivity, motivating employees, organising and managing
@@ -63,7 +64,8 @@ And in 2012 Google's eight rules came out, as summarised by NYT as ::
 
 Oh so, you know. A Sports Coach or a Life Coach. [#1]
 
-As for the best teams they needed - Psychological Safety. ::
+As for the best teams, well Project Aristotle found they needed... Psychological
+Safety. ::
 
   Instead, it's about being able to speak your mind without fear of judgment or
   retaliation. It's about feeling safe to take risks and make mistakes, knowing
@@ -88,7 +90,6 @@ Adn Software happened. The actual work in Google is done by CPUs and GPUs. The
 people who marshall and supervise and direct and organise the workers are the
 people committing the code.
 
-
 What is left out of GOogles 8 rules is how is what the team is working on decided
 who decides what they get paid and what they produce?
 
@@ -109,6 +110,23 @@ Democracy is the biggest threat to capitalism.  And as the coders are the new ma
 
 Its not enough that maangers are nice.  Its that the real decisions are made without the workers
 And that is what feudalism to democracy has always been about.
+
+So if you have a group of people working for you the way to get the best out of them is to be a sport coach,
+and make the teams psychologically safe.  SOunds absolutely bang on to me. WOul dlike to try some of that persoanlly.
+But the point is it does not touch on resource allocation, etc.
+
+There is a split, a break. Management has split into financning and doing.
+
+But if the coder is really new manager - allocating,
+then the  middle manager is squeezed out and financing left.
+
+This might tend towards
+
+But coding seems to demand much much more people.
+
+OSS companies - companies using same common codebase with minor changes to
+core competance.
+
 
 Disaggregation of management
 ----------------------------
@@ -253,15 +271,6 @@ Politic
 Drucker
 Shared understanding of the groups common goals (mission)
 (also shows where conglomerates exists as shared common goals are too vague)
-
-Use Sun Tzu - 5 areas to master
-
-- Landscape
-- Weather
-- Doctrine
-- Mission
-- Leadership
-
 
 
 Politics of the Organisation
@@ -423,6 +432,7 @@ inside the org.
 
 Chapter OODA loop and production ready, tech debt.
 ==================================================
+
 Observe, Orientate, Decide, Act.
 This is operating *on* an existing system. We are managing the system.
 If we cannot get metrics from the system, we cannot observe
@@ -441,6 +451,8 @@ and prod-parallel for analysis.
 And Act is the art of filling in the red failing tests in the prod-parallel.
 
 
+Director Hazing
+----------------
 
 Post office
 hHS2

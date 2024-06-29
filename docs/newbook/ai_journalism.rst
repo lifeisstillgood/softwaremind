@@ -1,4 +1,4 @@
-==============================================
+hi==============================================
 Journalism is the AI training data for society
 ==============================================
 
@@ -660,3 +660,6 @@ The rest - what we cannot imagine - perhaps it will be like trying to explain
 politics to a dog - at a certain point no question we ask or answer we get will
 be meaningful
 
+
+https://news.ycombinator.com/item?id=40833618
+A lot of companies were betting billions on exponential growth, or at least hoping that 2024 wouldn't be when AI performance starts to converge. Language models are still glorified chatbot that can't be taken seriously, and are more of a liability than anything useful. Remember Air Canada being on the hook for the incorrect information its chatbot gave? They tried to contest it, lost, and removed the bot from their site.

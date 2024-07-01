@@ -2,18 +2,25 @@
 Coders are the New Managers
 ===========================
 
-also the political discussions before the agremeent to soend money as opposed to this piece of code here 
+..
+  Management is being neutered
+  Managemtn i being disaggregated
+  This is driven by the work of middle managemetn being done by coders
+  But the resource allocation is still held by the feudal elite
+  But that is being affected by architects apradox - you can no longer leafve it to
+  others to figure out, because the build times are so fast
+  ANd politics will change - who is in charge ? THe fights will change
+  the overton window will change, middle maangement will be repalced by coders
+  and who will do the work?
+  Productivity is way higher than we think, if you remove those who cannot code.
+  The number of resource allocators, the number of will drop as middle mgmt
+  rank is removed, but also the ability to direct action based on code not discussion
+
+Code not discussion
+--------------------
+Rant
 
 
-as we become more expclift (software, politics architexts)
-the benefit of software (cheaper) is hreater but the political clashes will
-increase as we dont have anywhere tonhide 
-
-overton window - finding largest number if people to cover 
-in policy terms - plus people and tech pishing what is the edges
-plus northernnisland agreements as compromise
-
-we need to learn political compromiae - therapy of society - moop and final ending part of i robit 
 
 The Evolving Understanding of Management and organisations
 ===========================================================
@@ -213,6 +220,28 @@ If you cannot control the work to each level, you need to leave thigns to chancv
 But with software and robots you can control it all, preplan it all.
 Factory and Field
 
+The new politics of organisations
+---------------------------------
+
+- Software will force changes as it makes implicit explicit
+- Architects paradox
+- coase theory
+- politics in organisations and governments
+- focus on the code - this is the great benefit - not some vague discussion
+  but this here right now do we do that.  Literacy will help this.
+  This will change - full 50% or more of knowledge workers wont be able to work ...
+
+
+
+as we become more expclift (software, politics architexts)
+the benefit of software (cheaper) is hreater but the political clashes will
+increase as we dont have anywhere tonhide
+
+overton window - finding largest number if people to cover
+in policy terms - plus people and tech pishing what is the edges
+plus northernnisland agreements as compromise
+
+we need to learn political compromiae - therapy of society - moop and final ending part of i robit
 
 
 Coders are the new managers, CPUs are the new workers

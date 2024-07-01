@@ -2,6 +2,9 @@
 The Democratic Bet
 ====================
 
+elon best understood as politival actor
+overton indoes matters - in politics society snd of software and org aisation (lokkthe tech dmeo koves overin windoes) 
+
 
 Journalist John Naughton coined the phrase "Totalitarian Bet". The idea is that
 Totalitarian governments across the world are investing heavily in *surevillance

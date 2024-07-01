@@ -2,6 +2,8 @@
 Coders are the New Managers
 ===========================
 
+also the political discussions before the agremeent to soend money as opposed to this piece of code here 
+
 The Evolving Understanding of Management and organisations
 ===========================================================
 

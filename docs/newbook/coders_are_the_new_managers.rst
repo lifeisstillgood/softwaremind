@@ -4,6 +4,17 @@ Coders are the New Managers
 
 also the political discussions before the agremeent to soend money as opposed to this piece of code here 
 
+
+as we become more expclift (software, politics architexts)
+the benefit of software (cheaper) is hreater but the political clashes will
+increase as we dont have anywhere tonhide 
+
+overton window - finding largest number if people to cover 
+in policy terms - plus people and tech pishing what is the edges
+plus northernnisland agreements as compromise
+
+we need to learn political compromiae - therapy of society - moop and final ending part of i robit 
+
 The Evolving Understanding of Management and organisations
 ===========================================================
 

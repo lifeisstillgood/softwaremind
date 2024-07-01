@@ -169,6 +169,31 @@ See essays
 The Architects paradox
 =======================
 
+Architecg holds hand that sogns the cheque
+
+todays architext relies on the people hited to make good craft decisions
+
+tomorrows atchitect will use robots that wont make decisions or alter plans but will
+treat the code as the design
+
+if there is not weiggle room betwen code and design then 
+you need robots not people 
+
+AI is partly robot partly person ?
+
+but just as architect will
+need to specify mucj more upfront but will gains repeatability
+
+the founder will need to specify more the capitalist will need apecify more
+but will have more repeatbility 
+
+will this chnage myire of organisations - smaller cellurlar atructire
+highr trust neded - chnages to politics
+
+chnage to roald coase - the problem is triat environment outside the org - that is the perview of government 
+
+
+
 If you cannot control the work to each level, you need to leave thigns to chancve
 / others - and then
 

@@ -16,6 +16,10 @@ Coders are the New Managers
   The number of resource allocators, the number of will drop as middle mgmt
   rank is removed, but also the ability to direct action based on code not discussion
 
+
+metrics
+the reals ans the feels
+
 Code not discussion
 --------------------
 Rant

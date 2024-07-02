@@ -2,6 +2,20 @@
 The Democratic Bet
 ====================
 
+
+what is cukture
+---------------
+
+it is what *other people* will recognise and share
+so its why chris hemsworth (thor) will get a "phooar"
+from a group of women on a night out but "valentino" wont - today
+and why Adele somgs will be recognised in Beijing and birmingham
+
+it is also why cukture wars matter - 
+
+politcs and the overton window, and drawing lines around grouos inside the widnow 
+
+
 elon best understood as politival actor
 overton indoes matters - in politics society snd of software and org aisation (lokkthe tech dmeo koves overin windoes) 
 
